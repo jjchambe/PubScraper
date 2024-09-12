@@ -1,0 +1,3259 @@
+references
+
+balakrishnan, zhao, sabuncu, guttag, dalca, 2019 g.
+balakrishnan, a. zhao, m.r. sabuncu, j. guttag, av. dalca
+voxelmorph: a learning framework for
+deformable medical image registration
+ieee trans. med. imaging (2019)
+
+google scholar 7
+
+detormable medical image registration
+ieee trans. med. imaging (2019)
+
+google scholar 7
+
+blei, kucukelbir, mcauliffe, 2017 d.m. blei, a. kucukelbir, j.d.
+mcauliffe
+variational inference: a review for statisticians
+j. am. stat. assoc., 112 (518) (2017), pp. 859-877
+
+crossref 7 viewin scopus 7 google scholar 2
+
+blendowski, heinrich, 2019 m. blendowski, m.p. heinrich
+combining mrf-based deformable registration
+and deep binary 3d-cnn descriptors for large
+lung motion estimation in copd patients
+int. j. comput. assisted radiol. surg., 14 (1) (2019), pp. 43-52
+
+crossref 7 viewin scopus 7 google scholar 2
+
+chan, chung, yu, norbash, wells, 2003 h.-m. chan, a.c. chung,
+s.c. yu, a. norbash, w. wells
+multi-modal image registration by minimizing
+kullback-leibler distance between expected and
+
+heariad inint clice hictamrvme
+chan, chung, yu, norbash, wells, 2003 h.-m. chan, a.c. chung,
+s.c. yu, a. norbash, w. wells
+multi-modal image registration by minimizing
+kullback-leibler distance between expected and
+observed joint class histograms
+2003 ieee computer society conference on computer vision
+and pattern recognition, 2003. proceedings., vol. 2, ieee
+(2003), pp. 11-570
+google scholar 7
+
+cheng, zhang, zheng, 2018 x. cheng, l. zhang, y. zheng
+deep similarity learning for multimodal medical
+images
+‘comput. methods biomech. biomed.eng.: imaging vis., 6 (3)
+(2018), pp. 248-252
+
+view in scopus 2 google scholar 7
+
+cole, chu, greenland, 2014 s.r. cole, h. chu, s. greenland
+maximum likelihood, profile likelihood, and
+penalized likelihood: a primer.
+
+am 1 enidaminl 70 1o\ bara\ nn 967.960,
+cole, chu, greenland, 2014 s.r. cole, h. chu, s. greenland
+maximum likelihood, profile likelihood, and
+penalized likelihood: a primer.
+am. j. epidemiol., 179 (2) (2014), pp. 252-260
+
+crossref 7 viewin scopus 7 google scholar 2
+
+collignon, vandermeulen, suetens, marchal, 1995 a. collignon, d.
+vandermeulen, p. suetens, g. marchal
+3d multi-modality medical image registration
+using feature space clustering
+computer vision, virtual reality and robotics in medicine,
+springer (1995), pp. 195-204
+
+crossref 7 viewin scopus 7 google scholar 2
+
+dalca, balakrishnan, guttag, sabuncu, 2018 av. dalca, g.
+balakrishnan, j. guttag, m.r. sabuncu
+unsupervised learning for fast probabilistic
+diffeomorphic registration
+international conference on medical image computing and
+computer-assisted intervention, springer (2018), pp. 729-738
+
+ 
+
+ener rink
+
+ 
+
+ennai cohal
+
+ 
+
+agen ~
+unsupervised learning for fast probabilistic
+diffeomorphic registration
+
+international conference on medical image computing and
+computer-assisted intervention, springer (2018), pp. 729-738
+
+crossref 7 viewin scopus 7 google scholar 2
+
+garyfallidis, ocegueda, wasserman, descoteaux, 2015 e.
+garyfallidis, 0. ocegueda, d. wassermann, m. descoteaux
+robust and efficient linear registration of white-
+matter fascicles in the space of streamlines
+neurolmage, 117 (2015), pp. 124-140
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+goodfellow, bengio, courville, 2016 i. goodfellow, y. bengio, a.
+courville
+deep learning
+mit press (2016)
+google scholar 7
+
+http://www.deeplearningbook.org,.
+
+mit press (2016)
+google scholar 7
+
+http://www.deeplearningbook.org,.
+
+haskins, kruecker, kruger, xu, pinto, wood, yan, 2019a_g. haskins,
+j. kruecker, u. kruger, s. xu, p.a. pinto, bj. wood, p. yan
+learning deep similarity metric for 3d mr-trus
+image registration
+int. j. comput. assisted radiol. surg., 14 (3) (2019), pp. 417-
+425
+
+crossref 7 viewin scopus 7 google scholar 2
+
+haskins, kruger, yan, g. haskins, u. kruger, p. yan
+deep learning in medical image registration: a
+survey
+arxiv preprint arxiv:1903.02026 7
+
+google scholar 2
+
+heinrich, jenkinson, brady, schnabel, 2012. m.p. heinrich, m.
+jenkinson, m. brady, j.a. schnabel
+
+tavtural mi
+
+google scholar 2
+
+al infarmatian haced an cluctar
+
+ 
+
+heinrich, jenkinson, brady, schnabel, 2012 m.p. heinrich, m.
+jenkinson, m. brady, j.a. schnabel
+textural mutual information based on cluster
+trees for multimodal deformable registration
+2012 9th ieee international symposium on biomedical
+imaging (isbi), ieee (2012), pp. 1471-1474
+
+crossref 7 viewin scopus 7 google scholar 2
+
+huang, liu, van der maaten, weinberger, 2017 g. huang, z. liu, l.
+van der maaten, k.q. weinberger
+densely connected convolutional networks
+proceedings of the ieee conference on computer vision and
+pattern recognition (2017), pp. 4700-4708
+
+view in scopus 2 google scholar 7
+
+huang, mattar, lee, learned-miller, 2012 g. huang, m. mattar, h.
+lee, eg. learned-miller
+learning to align from scratch
+advances in neural information processing systems (2012),
+
+a ong pdi64ti2.,
+
+lee, eg. learned-miller
+learning to align from scratch
+advances in neural information processing systems (2012),
+pp. 764-772
+
+         
+
+view in scopus 2 google scholar 7
+
+huang, jain, learned-miller, 2007 g.b. huang, v. jain, e. learned-
+miller
+unsupervised joint alignment of complex images
+2007 ieee lith international conference on computer
+vision, ieee (2007), pp. 1-8
+google scholar 7
+
+jaderberg, simonyan, zisserman, et al., 2015 m. jaderberg, k.
+simonyan, a. zisserman, et al.
+spatial transformer networks
+advances in neural information processing systems (2015),
+pp. 2017-2025
+
+view in scopus 2 google scholar 7
+jeurissen, descoteaux, mori, leemans, 2019 b. jeurissen, m.
+view in scopus 2 google scholar 7
+
+jeurissen, descoteaux, mori, lemans, 2019 b. jeurissen, m.
+descoteaux, s. mori, a. lemans
+diffusion mri fiber tractography of the brain
+nmr biomed., 22 (4) (2019), p. €3785
+
+view in scopus 2 google scholar 7
+
+klein, pluim, staring, viergever, 2009 s. klein, j.p. pluim, m.
+staring, m.a. viergever
+adaptive stochastic gradient descent
+optimisation for image registration
+int. j. comput. vis., 81 (3) (2009), p. 227
+
+crossref 7 viewin scopus 7 google scholar 2
+
+klein, staring, murphy, viergever, pluim, 2010 s. klein, m. staring,
+k. murphy, m.a. viergever, j.p. pluim
+elastix: a toolbox for intensity-based medical
+image registration
+ieee tmi, 29 (1) (2010), pp. 196-205
+
+view in scopus 2 google scholar 7
+k. murphy, m.a. viergever, j.p. pluim
+
+elastix: a toolbox for intensity-based medical
+image registration
+ieee tmi, 29 (1) (2010), pp. 196-205
+
+view in scopus 2 google scholar 7
+
+krebs, delingette, mailhé, ayache, mansi, 2019 j. krebs, h.
+delingette, b. mailhé, n. ayache, t. mansi
+learning a probabilistic model for diffeomorphic
+registration
+ieee trans. med. imaging, 38 (9) (2019), pp. 2165-2176
+
+crossref 7 viewin scopus 7 google scholar 2
+
+learned-miller, 2005 e.g. learned-miller
+data driven image models through continuous
+joint alignment
+ieee trans. pattern anal. mach.jntell., 28 (2) (2005), pp. 236-
+250
+
+google scholar 2
+
+learned-miller, matsakis, viola, 2000 e.g. learned-miller, n.e.
+matcakic da viola
+250
+
+google scholar 2
+
+learned-miller, matsakis, viola, 2000 e.g. learned-miller, n.e.
+matsakis, p.a. viola
+learning from one example through shared
+densities on transforms
+proceedings ieee conference on computer vision and
+pattern recognition. cvpr 2000 (cat. no. pr00662}, vol. 1,
+ieee (2000), pp. 464-471
+google scholar 7
+
+lecun, bengio, hinton, 2015 y. lecun, y. bengio, g. hinton
+deep learning
+nature, 521 (7553) (2015), p. 436
+
+crossref 7 viewin scopus 7 google scholar 2
+
+leemans, sijbers, de backer, vandervliet, parizel, 2006 a.
+leemans, j. sijbers, s. de backer, e. vandervliet, p. parizel
+multiscale white matter fiber tract
+coregistration: a new feature-based approach to
+
+_alion diffusinn tensor data, —
+
+   
+
+ 
+
+leemans, j. sijbers, s. de backer, e. vandervliet, p. parizel
+multiscale white matter fiber tract
+coregistration: a new feature-based approach to
+align diffusion tensor data
+
+magn. reson. med., 55 (6) (2006), pp. 1414-1423
+
+crossref 7 viewin scopus 7 google scholar 2
+
+leventon, grimson, 1998 m.e. leventon, w.e.l. grimson
+multi-modal volume registration using joint
+intensity distributions
+international conference on medical image computing and
+computer-assisted intervention, springer (1998), pp. 1057-
+1066
+
+view in scopus 2 google scholar 7
+
+litjens, kooi, bejnordi, setio, ciompi, ghafoorian, van der laak,
+
+van ginneken, sanchez, 2017
+g. litjens, t. kooi, b.e. bejnordi, a.a.a. setio, f. ciompi, m.
+ghafoorian, j.a. van der laak, b. van ginneken, ci. sanchez
+asurvey on deep learning in medical image
+
+_ analysis
+
+van ginneken, sanchez, 2017
+g. litjens, t. kooi, b.e. bejnordi, a.a.a. setio, f. ciompi, m.
+ghafoorian, j.a. van der laak, b. van ginneken, ci. sanchez
+asurvey on deep learning in medical image
+analysis
+medical.image anal. 42 (2017), pp. 60-88
+
+view pdf viewarticle viewin scopus 7
+google scholar 2
+
+lowe, 1999 d.g. lowe
+object recognition from local scale-invariant
+features
+proceedings of the seventh ieee international conference
+‘on computer vision, vol. 2, ieee (1999), pp. 1150-1157
+
+view in scopus 7 google scholar
+
+maes, collignon, vandermeulen, marchal, suetens, 1997 f. maes,
+a. collignon, d. vandermeulen, g. marchal, p. suetens
+multimodality image registration by
+maximization of mutual information
+ieee trans. med. imaging, 16 (2) (1997), pp. 187-198
+multimodality image registration by
+maximization of mutual information
+ieee trans. med. imaging, 16 (2) (1997), pp. 187-198
+
+view in scopus 7 google scholar
+
+mayer, zimmerman-moreno, shadmi, batikoff, greenspan, 2010 a.
+mayer, g. zimmerman-moreno, r. shadmi, a. batikoff, h.
+greenspan
+a supervised framework for the registration and
+segmentation of white matter fiber tracts
+ieee trans. med. imaging, 30 (1) (2010), pp. 131-145,
+
+google scholar a
+
+o'donnell, suter, rigolo, kahali, zhang, norton, albi, olubiyi,
+meola, essayed, unadkat, ciris, wells, rathi, westin, golby, 2017
+lj. o'donnell, ¥. suter, l. rigolo, p. kahali, f. zhang, i.
+norton, a. albi, o. olubiyi, a. meola, wi. essayed, p.
+unadkat, pa. ciris, w.i. wells, y. rathi, c.-f. westin, aj.
+golby
+automated white matter fiber tract
+identification in patients with brain tumors
+golby
+automated white matter fiber tract
+identification in patients with brain tumors
+neurolmage, 13 (2017), pp. 138-153
+h view pdf —viewarticle view in scopus
+google scholar 7
+
+o'donnell, wells, golby, westin, 2012 lj. o'donnell, w.m. wells,
+aj. golby, c.-f. westin
+unbiased groupwise registration of white matter
+tractography
+international conference on medical image computing and
+computer-assisted intervention, springer (2012), pp. 123-130
+
+crossref 7 viewin scopus 7 google scholar 2
+
+pawitan, 2001 y. pawitan
+in all likelihood: statistical modelling and
+inference using likelihood
+oxford university press (2001)
+google scholar 7
+
+inference using likelihood
+oxford university press (2001)
+google scholar 7
+
+pluim, maintz, viergever, 2003 j.p. pluim, j.a. maintz, m.
+viergever
+mutual-information-based registration of
+medical images: a survey
+ieee trans. med. imaging, 22 (8) (2003), pp. 986-1004
+
+ 
+
+view in scopus 2 google scholar 7
+
+roche, malandain, ayache, 2000 a. roche, g. malandain, n.
+‘ayache
+unifying maximum likelihood approaches in
+medical image registration
+int. j. imaging syst.technol., 11 (1) (2000), pp. 71-80
+
+view in scopus 2 google scholar 7
+
+sedghi, luo, mehrtash, pieper, tempany, kapur, mousavi, wells
+ui, 2019
+‘a. sedghi, j. luo, a. mehrtash, s. pieper, c.m. tempany, t.
+sedghi, luo, mehrtash, pieper, tempany, kapur, mousavi, wells
+ui, 2019
+‘a. sedghi, j. luo, a. mehrtash, s. pieper, c.m. tempany, t.
+kapur, p. mousavi, wells w.m. iii
+semi-supervised image registration using deep
+learning
+medical imaging 2019: image-guided procedures, robotic
+interventions, and modeling, vol. 10951, international
+society for optics and photonics (2019), p. 1095116
+
+view in scopus 2 google scholar 7
+
+shen, wu, suk, 2017 d. shen, g. wu, h.-i. suk
+deep learning in medical image analysis
+annu. rev. biomed. eng., 19 (2017), pp. 221-248
+
+crossref 7 viewin scopus 7 google scholar 2
+
+simonovsky, gutiérrez-becker, mateus, navab, komodakis, 2016
+m. simonovsky, b. gutiérrez-becker, d. mateus, n. navab, n.
+komodakis
+adeep metric for multimodal registration
+simonoveky;,stinerre?-wecker, mareas; ravbb; kombaakts;s016"~ 7
+m. simonovsky, b. gutiérrez-becker, d. mateus, n. navab, n.
+komodakis
+adeep metric for multimodal registration
+international conference on medical image computing and
+computer-assisted intervention, springer (2016), pp. 10-18
+
+crossref 7 viewin scopus 7 google scholar 2
+
+studholme, hill, hawkes, 1999 c. studholme, d.l. hill, dj. hawkes
+an overlap invariant entropy measure of 3d
+medical image alignment
+pattern recognit., 22 (1999), pp. 71-86
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+szegedy, ioffe, vanhoucke, alemi, 2017 c. szegedy, s. ioffe, v.
+vanhoucke, a.a. alemi
+inception-v4, inception-resnet and the impact
+of residual connections on learning
+thirty-first aaai conference on artificial intelligence (2017)
+google scholar a
+
+see pow vay
+
+of residual connections on learning
+thirty-first aaai conference on artificial intelligence (2017)
+
+ 
+
+rp ree ee ge ep
+
+google scholar 2
+
+timoner, 2003s. timoner
+compact representations for fast nonrigid
+registration of medical images
+technical report, mit computer science and artificial
+intelligence laboratory (2003)
+google scholar a
+
+tu, 2007 z.tu
+learning generative models via discriminative
+approaches
+2007 ieee conference on computer vision and pattern
+recognition, ieee (2007), pp. 1-8
+crossref 7 google scholar 7
+
+viola, wells, 1997 p. viola, w.m. wells iii
+alignment by maximization of mutual
+information
+
+viola, wells, 1997 p. viola, w.m. wells iii
+alignment by maximization of mutual
+information
+int. j. comput. vis., 24 (2) (1997), pp. 137-154
+
+view in scopus 7 google scholar
+
+viola, schraudolph, sejnowski, 1996 pa. viola, n.n. schraudolph,
+tj. sejnowski
+empirical entropy manipulation for real-world
+problems
+advances in neural information processing systems (1996),
+pp. 851-857
+google scholar a
+
+de vos, berendsen, viergever, sokooti, staring, i3gum, 2019 b.d. de
+vos, ff. berendsen, m.a. viergever, h. sokooti, m. staring, i.
+tégum
+a deep learning framework for unsupervised
+affine and deformable image registration
+med. image anal., 52 (2019), pp. 128-143
+tégum
+a deep learning framework for unsupervised
+affine and deformable image registration
+med. image anal., 52 (2019), pp. 128-143
+view pdf —viewarticle view in scopus
+google scholar 7
+
+wells, viola, atsumi, nakajima, kikinis, 1996 w.m. wells, p. viola,
+h. atsumi, s. nakajima, r. kikinis
+multi-modal volume registration by
+maximization of mutual information
+med. image anal., 1 (1) (1996), pp. 35-51
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+wolterink, dinkla, savenije, seevinck, van den berg, isgum, 2017
+j.m. wolterink, a.m. dinkla, m.h. savenije, pr. seevinck, c.a.
+van den berg, i. i§gum
+deep mr to ct synthesis using unpaired data
+international workshop on simulation and synthesis in
+medical imaging, springer (2017), pp. 14-23
+deep mr to ct synthesis using unpaired data
+international workshop on simulation and synthesis in
+medical imaging, springer (2017), pp. 14-23
+
+crossref 7 viewin scopus 7 google scholar 2
+
+wu, kim, wang, munsell, shen, 2015 g. wu, m. kim, q. wang, b.c.
+munsell, d. shen
+scalable high-performance image registration
+framework by unsupervised deep feature
+representations learning
+ieee trans. biomed. eng., 63 (7) (2015), pp. 1505-1516
+
+crossref 7 viewin scopus 7 google scholar 2
+
+yang, kwitt, styner, niethammer, 2017 x. yang, r. kwitt, m. styner,
+m. niethammer
+quicksilver: fast predictive image registration-a
+deep learning approach
+neurolmage, 158 (2017), pp. 378-396
+th view pdf viewarticle crossref 7
+view in scopus 2 google scholar 7
+
+deep learning approach
+
+neurolmage, 158 (2017), pp. 378-396
+
+th view pdf viewarticle crossref 7
+view in scopus 2 google scholar 7
+
+yi, soatto, 2011 z. yi, s. soatto
+multimodal registration via spatial-context
+mutual information
+biennial international conference on information
+processing in medical imaging, springer (201), pp. 424-435
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zagoruyko, komodakis, 2015s. zagoruyko, n. komodakis
+learning to compare image patches via
+convolutional neural networks
+2015 ieee conference on computer vision and pattern
+recognition (cvpr) (2015), pp. 4353-4361
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zhang, wu, norton, rigolo, rathi, makris, o'donnell, 2018 f.
+zhang, y. wu, i. norton, l. rigolo, y. rathi, n. makris, lj.
+
+view at publisher 7 crossref 2
+view in scopus 7 google scholar
+
+zhang, wu, norton, rigolo, rathi, makris, o'donnell, 2018 f.
+zhang, y. wu, i. norton, l. rigolo, y. rathi, n. makris, lj.
+o'donnell
+an anatomically curated fiber clustering white
+matter atlas for consistent white matter tract
+parcellation across the lifespan
+neurolmage, 179 (2018), pp. 429-447
+h view pdf —viewarticle view in scopus
+google scholar 7
+
+zhang, brady, smith, 2001 y. zhang, m. brady, s. smith
+segmentation of brain mr images through a
+hidden markov random field model and the
+expectation-maximization algorithm
+ieee tmi, 20 (1) (2001), pp. 45-57
+
+view in scopus 2 google scholar 7
+
+ziyan, sabuncu, o'donnell, westin, 2007. u. ziyan, m.r. sabuncu,
+
+view in scopus 2 google scholar 7
+
+ziyan, sabuncu, o'donnell, westin, 2007 u. ziyan, m.r. sabuncu,
+lj. o'donnell, c.-f. westin
+nonlinear registration of diffusion mr images
+based on fiber bundles
+international conference on medical image computing and
+computer-assisted intervention, springer (2007), pp. 351-358
+
+crossref 7 google scholar 7
+
+zéllei, fisher, wells, 2003 l. zéllei, j\w. fisher, w.m. wells
+a unified statistical and information theoretic
+framework for multi-modal image registration
+international conference on information processing in
+medical imaging (2003), pp. 366-377
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zéllei, jenkinson, timoner, wells, 2007 l. zéllei, m. jenkinson, s.
+timoner, w. wells
+a marginalized map approach and em
+optimization for pair-wise registration
+appendix a. rationale for registration by
+minimization of joint entropy
+
+it has been frequently observed that, empirically, the joint
+entropy of pixel intensities of a pair of multi-modality images
+has a sharp local minimum when the images are correctly
+registered (collignonetal., 1995). we aim here to explain the
+observation using basic principles.
+
+suppose the images contain a collection of m discrete tissue
+types {t1,..., ty}, and the intensities corresponding to the
+tissues in the two images are {u;,...,um} and
+
+syppuse menage nant a weunccuvi vr ie wisuices uosut
+types {t1,..., ty}, and the intensities corresponding to the
+tissues in the two images are {u;,...,um} and
+{viy.2-5vin
+
+ 
+
+if the images are correctly registered, then when intensities
+are sampled at corresponding locations, the observations will
+consist of pairs (u;, v;) for i € {1,...,m} - the intensity
+pairs corresponding to the same tissue.
+
+however, if the images are not correctly registered, then we
+will observe, in addition, intensity pairs (u;,v,) where i #4 j.
+this happens because, in some cases, we will collect
+corresponding intensities that originate from different
+tissues, due to the misregistration. if we consider the
+distribution which generates the data, then in case of correct
+registration, the probably of observing (u;, v;) where i 4 j
+is zero. however, for case of misregistration, the probability
+will be nonzero for some i, j : i # j (provided the tissues
+have distinguishing contrast in the images). the important
+point is that in comparison to the correctly registered case,
+the distribution for the misregistered cases will contain
+
+have distinguishing contrast in the images). the important
+point is that in comparison to the correctly registered case,
+the distribution for the misregistered cases will contain
+nonzero probabilities for some joint occurrences that have
+zero probability in the registered case. as we will see below,
+this corresponds to lower entropy at correct registration.
+
+   
+
+ince the intensities take on discrete values from finite
+collections, we use the jointly categorical model (also used
+above in section2.2.2): jcat (u = u,,v = vis 0) = ox,
+where 0; > 0 and sy, 03, = 1. the entropy of the jointly
+categorical distribution is: hl [jcat(8)] = — dy, x in op,
+and its partial derivative is
+
+2a (jcat(6)] = — (inj, + 1).
+
+ 
+
+ 
+
+  
+
+consider the case where the images are adjusted slightly
+away from correct registration. if the tissue structures are
+arranged in a piece-wise contiguous way (a reasonable
+assumption for many anatomical structures), then for a small
+perturbation away from correct registration, the probability
+of observing intensity pairs (u;, vi) where
+change appreciably. however, the probability of observing
+
+= kwill not
+
+ 
+
+perturbation away from correct registration, the probability
+of observing intensity pairs (u,, vz) where
+change appreciably. however, the probability of observing
+(uj, ve) where é 4 j will increase from zero. then, the
+corresponding 0, parameter of the histogrammed data will
+increase as well. because the partial derivative of entropy
+with respect to 4x diverges positive at 0; = 0, the entropy
+will initially strongly increase.
+
+= kwill not
+
+ 
+
+in summary, as the images are perturbed away from correct
+registration, observations that correspond to mixtures of
+tissues will appear, which causes an increase in entropy.
+acknowledgments
+
+we gratefully acknowledge the funding provided by the
+following: natural sciences and engineering research council
+ackliuwieuziiielils
+
+we gratefully acknowledge the funding provided by the
+following: natural sciences and engineering research council
+of canada (nserc), canadian institutes of health research
+(cihr), ontario trillium scholarship (ots), national institutes
+of health (nih) grants: uo1:ca199459, p41:eb015898, nih
+p41:ebo15898-14s3, p41:ebo15902, and ro1:mh119222. we
+also would like to thank nvidia for the gpu donation.
+declaration of competing interest
+
+the authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+credit authorship contribution statement
+
+alireza sedghi: conceptualization, methodology, software,
+validation, writing - original draft, writing - review &
+aditing tanron 1 ’npnnall: cancantualization writina —
+alireza sedghi: conceptualization, methodology, software,
+validation, writing - original draft, writing - review &
+editing. lauren j. o'donnell: conceptualization, writing -
+review & editing. tina kapur: conceptualization, writing -
+-w & editing. erik learned-miller: conceptualization,
+writing - review & editing. parvin mousavi:
+conceptualization, supervision, funding acquisition, writing
+- review & editing. william m. wells: conceptualization,
+methodology, supervision, funding acquisition, writing -
+original draft, writing - review & editing.
+
+ 
+
+ 
+
+re
+
+ 
+
+ 
+6. conclusion
+
+we presented an overview of information theoretic image
+registration, that began with a maximum likelihood
+formulation for generative models with known model
+parameters on joint image features. the case of unknown
+model parameters was treated by joint maximization, or
+maximum profile likelihood. we showed that, asymptotically,
+maximizing profile likelihood is equivalent to minimizing an
+upper bound on the entropy of the latent distribution that
+generates the data. for the case of discrete image intensities,
+maximum profile likelihood is equivalent to registration by
+minimization of joint entropy in the pairwise case and
+congealing in the groupwise case. in other cases, the profile
+likelihood criteria can be optimized by the coordinate ascent,
+minimization of joint entropy in the pairwise case and
+congealing in the groupwise case. in other cases, the profile
+likelihood criteria can be optimized by the coordinate ascent,
+or iterative model refinement, this approach has previously
+been effective for pairwise image registration and groupwise
+registration of tractographic streamlines.
+
+ 
+
+ 
+
+  
+
+subsequently, we extended the formalism to discriminative
+models and presented a novel formulation of weakly
+supervised image registration that is based on deep
+classifiers. in our experiments, the deep learning approach
+had comparable results to the standard mutual information
+methods for registration of t1 and t2 mri images. on a much
+harder registration problem with significant contrast
+difference, we outperformed standard mutual-information-
+based registration.
+discussion: we used a patch size of 17 x 17 x 17 voxels as
+input to our cnn classifier and for capturing the large initial
+errors, we employed a multi-resolution pyramid scheme. at
+the finest resolution, 1 mm, our patch size will cover a
+17 mm region in each direction. however, as can be seen in
+fig.6 our capture range can cover initial errors of up to
+
+  
+
+the finest resolution, 1 mm, our patch size will cover a
+17 mm region in each direction. however, as can be seen in
+fig.6 our capture range can cover initial errors of up to
+
+30 mm. in addition, our metric that was learned from
+roughly aligned training data has peaks closer to the correct
+solution, and is smoother for a wide range of displacements.
+may be that our deep metric is more
+amenable to optimization than ml.
+
+ 
+
+we previously have studied the effect of dithering of location
+of the patches for smoothing the response function of deep
+classifier based metrics (sedghietal., 2019). in this article, we
+showed that we can achieve a single peak response function
+by extensively augmenting patches in training. however, the
+width (standard deviation) of the response function can be
+effectively modified with dithering which might help to
+increase the accuracy of the registration.
+
+ 
+
+our deformable experiments were limited to thin-plate
+splines due to the adaptation of the stn module
+(jaderbergetal., 2015) and voxel spacing of 1.5 mm due to
+gr uemnaavlvetpeininadinwce dafren tienmpaales 2
+splines due to the adaptation of the stn module
+(jaderbergetal., 2015) and voxel spacing of 1.5 mm due to
+gpu memory limits. extending the deformation model to b-
+splines and training on finer resolutions could potentially
+enhance the results of registration. in addition, the
+unregistered class patches were randomly selected from the
+space of images. it might be possible that with more
+sampling from the neighborhood of the fixed patch, we can
+increase the performance of our registration algorithm.
+
+in table, we showed the convergence of alignment by using
+a sequence of pre-trained classifiers and performing iterative
+registration on the test data; however, using only the final
+model, we were able to achieve alignment too. based on our
+previous study (sedghietal., 2019), the initial stage models
+have a broader basin of attraction (response function) but are
+poorer models for alignment. as we move to later stages, the
+models get better for alignment; however, the width of the
+response function gets narrower. this observation has also
+been discussed in the congealing literature and is known as a
+‘funnel (huangetal., 2007). in cases where two images are far
+response function gets narrower. this observation has also
+been discussed in the congealing literature and is known as a
+‘funnel’ (huangetal., 2007), in cases where two images are far
+out of alignment, registering them through a sequence of
+models, as opposed to using the last model, may result ina
+better alignment.
+
+for registration, we have used 100 iterations for rigid and
+affine experiments, and 200 for the deformable registration
+in each imr step. an iteration refers to one step of sgd; this
+results in run times of in 66.60 + 8.38, 75.61 +: 4.04, and
+119.46 +: 37.02 seconds for each imr in rigid, affine, and
+deformable registration, respectively. in addition, the training
+time for our classifier model is on average 74.33 +: 0.61
+minutes for 15 epochs. all training and registration were
+performed using an nvidia titan rtx gpu.
+
+ 
+
+in all our experiments, we started from an approximately
+aligned dataset and we showed that a deep metric can be
+successfully learned and applied on unseen test data for
+registration. we envision these application-specific deep
+matnics canbe derived ance rer annlicatiqnine lal2jand
+successfully learned and applied on unseen test data for
+registration. we envision these application-specific deep
+metrics can be derived once per application (e.g., t1-t2) and
+be used for registration of future data from the same centre
+as well as other centers.
+the results of the deformable intra-subject registration are
+shown in table2. as seen for t1-12 deformable experiment,
+both ours and mutual-i
+to register the images successfully and improved dsc for all
+three areas in the brain. it should be noted that our deep
+metric was derived from a dataset that is only approximately
+registered (initial mean dsc of 0.41, 0.55 and 0.66 for cse, gm
+and wm) which demonstrates the effectiveness of imr. for
+the harder registration problem (t2-gradmag), we have
+registered (initial mean dsc of 0.41, 0.55 and 0.66 for cse, gm
+and wm) which demonstrates the effectiveness of imr. for
+the harder registration problem (t2-gradmag), we have
+outperformed the mutual-information-based registration
+ficantly. finally, fig.7 demonstrates the results of inter-
+subject registration. as seen, our method has comparable
+results to the mutual-information-based deformable
+registration while outperforming it for the harder t2-
+gradmag registration experiment.
+
+iformation-based methods were able
+
+ 
+
+ 
+
+  
+
+table 2. overlap scores (mean dice scores) for intra-subject
+registration experiments. our proposed iterative method
+performed comparable to mutual-
+registration by elastix and could outperform it in a harder
+registration problem on t2 and gradmag images.
+
+iformation-based
+
+ 
+
+   
+
+t1-12 deformable t2-gradmag deformable
+experiment experiment
+in our nmi nmi
+dice dice
+nmi nmi
+dice dice
+cf 0410.63 061 041 0.64 0.49
+£0.05 £0.03 +£0.04 £0.05 40.03 £0.11
+gry 0.55 0.73 o71 0.55 0.74 0.60
+
+matter £0.04 +0.03 +£0.05 +0.04 +0.04 +0.09
+
+white 0.66 0.84 0.83 0.66 0.85 0.69
+matter £09.03 +001 +0.03 +0.03 +0.01 +0.10
+
+   
+ 
+
+grey matter write mater
+
+poosis pp ofisf
+
+   
+
+grey mater
+ppp ffs
+
+ 
+
+download : download high-res image (266k8)
+
+download : download full-size image
+
+fig. 7. inter-subject registration experiment results for both
+t2-t1 and t2-gradmag images chosen from different
+patients. the initial dice similarity score (dsc) has been
+improved by applying an affine transformation between
+images; however, further improvements are achieved with
+deformable transformations. in the case of t2-t1, our method
+can achieve comparable results to nmi, while in t2-gradmag
+scenario we have outperformed nmi.
+
+ 
+4.09£037 1.2840
+1374048 4.734047 1.7340
+1374048 4.734047 1.7340
+5. results and discussion
+
+table 1 shows the quantitative results for the rigid and affine
+experiments; imr has successfully updated model and
+transformation parameters jointly. we can clearly see the
+effect of augmentation (via rotation and flipping) on the
+registration performance. although registration with binary
+classifiers that were trained on non-augmented patches
+could improve the initial results to some extent, the
+performance was limited due to non-smooth response
+functions adiscussed arewiousht fia gdemenstzates coe
+could improve the initial results to some extent, the
+performance was limited due to non-smooth response
+functions as discussed previously. fig.6 demonstrates the
+response function of different mutual-information-based
+metrics compared to our derived deep metric from a binary
+classifier trained on a roughly aligned dataset. as a result of
+different contrast in images (tissue and edge contrast),
+artifactual characteristics appear in the mi response
+functions. however, our derived deep metric shows a smooth
+and artifact-free characterization of agreement among
+images.
+
+table 1. quantitative results showing the fre for rigid and
+affine experiments on the unseen test data. we see that data
+
+augmentation by rotation and flipping plays a fundamental
+
+ 
+
+role in finding the appropriate deep metric for image
+registration when dealing with unregistered images. the
+error shown is the result of applying sequences of imrs. here,
+eg. imr; —> imr, indicates
+
+imr, ~» imr, ~» imr; —> imr,. performing registration
+with only the initial-stage classifiers leads to significant
+
+eg. imr; —> imr, indicates
+
+imr, ~» imr, ~» imr; —> imr,. performing registration
+with only the initial-stage classifiers leads to significant
+
+ 
+
+errors. however, as we move to later stages the registration
+error improves. imr fina shows the result for using the final
+pre-trained classifiers directly to perform maximum,
+likelihood registration with eq.(22), without iteratively
+applying each classifier.
+
+ 
+
+rigi
+
+ 
+
+without with with
+
+ 
+
+augmentation augmentation augmentation augmen
+
+initial §18.4943.79  18.4943.79 13394240 13.394
+error
+
+imr; = 10.77£1.32 5.314228 8.074100 2.8141
+
+imr; 8.794164 2.584082 6.504052 1.3840
+— imr»
+
+imr; 8.854255 1374048 4.734047 1.7340
+— imr3
+
+ty bye anoiner 199.0
+
+imr; 8.854255 1374048 4.734047 1.7340
+— imr3
+
+imr: 4.094037 1.2840
+— imry
+imr fina 0.75 £0.19 1.09 +0
+
+   
+
+ 
+
+download : download high-res image (398k8)
+
+download : download full-size image
+
+fig. 6. comparison of different metrics for registration of t2
+and gradmag images. as seen on the left, the substantially
+different tissue and edge contrast between fixed and moving
+images make a difficult problem for registration. our deep
+fiiages“as seéh oi tie talk; ne substahgally
+different tissue and edge contrast between fixed and moving
+images make a difficult problem for registration. our deep
+
+    
+
+metric was derived from data that is only approximately
+registered by following a 3 step imr. plotting of each metric
+as a function of translation in «, y, z directions (t,., ty, tz) is
+depicted. based on these plots, mutual-information-based
+metrics have a noisier response function, compared to our
+derived deep metric, which is smoother. the capture range of
+our deep metric is also comparable to mutual-information-
+based metrics.
+4.3.1. experiments
+
+we experiment with different levels of misregistration in the
+dataset and iterating through eqs.(23) and (24) to jointly
+learn the model and transformation parameters from the
+training data.
+
+we report fiducial registration error (fre) for rigid/affine
+registration exneriments calculated from 100 randam snarse
+training data.
+
+we report fiducial registration error (fre) for rigid/affine
+registration experiments calculated from 100 random sparse
+landmarks, and overlap scores (mean dice similarity
+coefficient (dsc)) as a measure of agreement between grey
+matter (gm), white matter (wm), and cerebrospinal fluid
+(csf) which were computed by esl fast algorithm
+(zhangetal., 2001). we use dsc because ground truth is not
+generally available for inter-subject registration. while dsc is
+not the most stringent test of registration algorithms, low
+scores do indicate that a method is not performing well. our
+baseline for deformable registration experiments is the well-
+known publicly available elastix registration package
+(kleinetal., 2010) with b-spline deformation model. in more
+detail, we used normalized mutual information (nmi) with
+70 histogram bins as our cost function, and we optimized it
+with adaptive stochastic gradient descent (kleinetal., 2009).
+in addition, in elastix, the distance between control points for
+the finest resolution of the b-spline model was set at 16 mm.
+we have chosen the number of control points in our
+fefermable nynesimentiashiave devilecdistincinpbatwaer
+the finest resolution of the b-spline model was set at 16 mm.
+we have chosen the number of control points in our
+deformable experiments to obtain similar distancing between
+them.
+
+ 
+
+rigid registration: first, we perform a rigid registration
+experiment where the moving images in the dataset are
+perturbed by applying a random rigid transformation with
+parameters sampled from a uniform distributions
+
+%, {1,25} mm and % {0.01, 0.20} radians for translation
+and rotation, respectively. this makes a dataset that is only
+approximately registered that we will use for imr
+registration. we choose a non-symmetric distribution to
+make sure all cases in our dataset are not registered. on the
+training data, we perform three iterations of imr as
+
+imr; (x2) — imr, (x2) —> imrg (x1). here, imr(x l)
+represents training a binary classifier on two classes of
+patches (eq.(23)) and performing maximum likelihood
+registration (eq.(24)) on the downsampled image of factor l.
+later, for registering unseen test images, we use eq.(22) with
+pre-trained classifiers to perform registration iteratively. we
+registration (eq.(24)) on the downsampled image of factor l.
+later, for registering unseen test images, we use eq.(22) with
+pre-trained classifiers to perform registration iteratively. we
+also perform an experiment in which we only utilize the last
+trained classifier (05) from imr; to evaluate this special case.
+
+we also generate the gradmag images for our rigidly
+misaligned dataset and follow the same 3 steps imr to
+perform registration. we plot the derived deep metric score
+(only the last stage) as a function of translation and compare
+it to mutual-information-based metrics.
+
+affine registration: we also experiment with affine
+registration to show the capability of our proposed
+framework for a more general registration problem. to create
+a dataset that is only approximately registered, we perturb
+the moving images by applying random transformation with
+parameters sampled from % {1,15}, % {0.01, 0.15},
+
+&, {0.95, 1.05} and %), {—0.01, 0.01} for translation,
+rotation, scale, and shear, respectively. we follow a four stage
+imras
+
+tm re .08 22.08 tmb al 2) oj mre [r21 aimruly 1) for
+rotation, scale, and shear, respectively. we follow a four stage
+imras
+
+imr; (x2) —+ imr» (x2) > imr (x2) — imr, (x1) for
+each refinement level. similar to our rigid experiment, the
+trained classifiers from iterations of imr are sequentially
+used for registering unseen test images. in addition, we
+perform an experiment by only utilizing the pre-trained
+classifier from the final iteration (4, from imr,) to directly
+register the images.
+
+deformable image registrations: our proposed framework is
+not limited by the choice of the deformation model. we also
+experiment with synthetic intra-subject and inter-subject
+deformable registrations. for our synthetic intra-subject
+deformable experiment, we start by artificially applying
+random thin-plate spline transformations with 4 x 4 x 4
+control points to misregister the moving images for each
+subject. we perturb the location of control points with a
+vector drawn from a uniform distribution of
+
+u, {—8 mm, 8 mm}. to register this dataset, we follow a 2-
+step imr as imr; (x2, (6, 6,6)) > imrz (1.5, (7,7,7))
+vector drawn from a uniform distribution of
+
+u, {—8 mm, 8 mm}. to register this dataset, we follow a 2-
+step imr as imr; (x2, (6, 6,6)) > imrz (1.5, (7,7,7))
+where imr(xl, (nz, ny, 7z)) represents performing imr on
+downsampled images of factor l with thin-plate splines of
+(nz,ny,nz) control points in «, y, z directions, respectively.
+we also experiment with gradmag version of the same
+deformed dataset to asses the performance in a harder
+situation for deformable registration.
+
+as our last experiment, we perform inter-subject t1-t2
+registration. we choose 80 cases from the original dataset
+and create a new dataset by choosing t2 mri from one
+subject and t1 mri from another subject. we perform this
+twice for each subject. this will increase our dataset to 160
+cases which are initially not registered (as they are from
+ifferent subjects). we make sure each case is matched
+within its own data division (training, validation, and test).
+an initial affine transformation is performed on pairs of fixed
+and moving images to roughly approximate the linear
+deformation between subjects. a 2-step imr is employed to
+an initial affine transtormation is performed on pairs of fixed
+and moving images to roughly approximate the linear
+deformation between subjects. a 2-step imr is employed to
+align the images. in more detail, we use
+
+imr; (x2, (5, 5,5)) > imrz (1.5, (7,7, 7)). we also
+experiment on inter-subject t2-gradmag images by
+registering t2 images from one subject to gradmag images of
+another subject. in all deformable experiments, we only
+utilize the final pre-trained classifier (from the last iteration
+of imr) to register the unseen test images.
+
+ 
+
+  
+we studied data augmentation with rotation and flipping as a
+technique to substantially reduce this bias at a cost of
+introducing additional variances and peaks (modes) in the
+response function. we performed classifier training on the
+
+ 
+
+technique to substantially reduce this bias at a cost of
+introducing additional variances and peaks (modes) in the
+response function, we performed classifier training on the
+augmented cropped patches from the shifted dataset. in more
+detail, the classifier is trained on a mixture of cropped 3d
+patches and randomly flipped or rotated (around z-axis)
+versions. as seen in fig.5(b), performing limited
+augmentation will eliminate the bias but adds another mode
+to the response function.
+
+ 
+
+a smooth, single peak response function is preferred for
+effective optimization of the transformation parameters.
+looking in more depth in the effect of augmentation for the
+response functions, we performed a heavy-augmentation
+(combination of rotation, and flipping in all axis) on the 3d
+patches for training the classifier. fig.5(c) depicts the result
+for this experiment. as can be seen, even with significant
+misalignment (8 mm) in the dataset, we can achieve a single-
+mode response function which is desirable for the
+optimization. in the experiments below, we demonstrate the
+effectiveness of the explained data augmentation technique
+
+ 
+
+mode response function which is desirable for the
+optimization. in the experiments below, we demonstrate the
+effectiveness of the explained data augmentation technique
+by comparing the performance to training without data
+augmentation.
+
+in the following section, we describe our image registration
+experiments and show the effectiveness of deep metrics,
+derived from training a deep binary classifier on a roughly
+aligned dataset. we use the described data augmentation
+technique on training patches for all experiments (rigid,
+affine and deformable) to ensure smooth and single peak
+response functions for optimization.
+
+  
+
+ 
+   
+
+ze
+z
+2
+
+  
+
+metric value
+
+  
+
+download : download high-res image (284k8)
+
+download : download full-size image
+
+fig. 5. effect of misregistered data on a deep metric derived
+from binary classification of patches. the training data was
+translated by 8 mm in the « direction. top left: aggregated
+score of the deep classifier (deep metric) as a function of
+translation for a registered test case. top right: aggregated
+deep metric from the classifier trained on patches with
+limited augmentation. bottom: aggregated deep metric from
+the classifier trained on patches with heavy-augmentation.
+deep metric derived from unregistered dataset. considering the
+case that the deep metric is learned from a registered dataset
+(eq.(22)), if we observe the deep metric as a function
+
+deep metric derived from unregistered dataset. considering the
+case that the deep metric is learned from a registered dataset
+(eq.(22)), if we observe the deep metric as a function
+(response function) of transformation parameters, it will
+have a maximum near the correct solution for registration. to
+illustrate, consider two registered images, the response
+(aggregated score from input of sampled patches) as a
+function of translation in z direction, will have the highest
+score around « = 0. however, training a deep metric on
+unregistered dataset can cause bias in the response function
+depending on the distribution of the misregistration in the
+data. to test this hypothesis, we generate a dataset in which
+moving images are all shifted in the x direction by 8 mm,
+and train a deep binary classifier on two classes of patches.
+fig.5(a) shows the deep metric values (the summation in
+eq.(22) with ¢ = 200) as a function of translation in the x
+direction for a single test case that is initially registered. as
+seen, it has a peak that is shifted accordingly. therefore, the
+derived deep metric (from unregistered dataset) will have the
+highest score near the wrong solution in the transformation
+parameters space.
+
+ 
+
+ 
+
+ 
+
+ 
+
+derived deep metric (from unregistered dataset) will have the
+highest score near the wrong solution in the transformation
+parameters space.
+network architecture and training: the architecture of our
+deep classifier is inspired by densely connected
+convolutional networks (densenet) (huangetal., 2017). in
+more detail, we use 4 dense blocks of depth 10 with 15 filters
+in the first dense block and a growth rate of 12. all layers use
+relu activation functions except for the a final sigmoid layer.
+therefore, the output of the network is a scalar representing
+the posterior probability of belonging to the registered class.
+for input, we concatenated patches from fixed and moving
+images in the channel dimension (zagoruykoand
+komodakis,2015). we train our model by maximizing the
+for input, we concatenated patches from fixed and moving
+images in the channel dimension (zagoruykoand
+komodakis,2015). we train our model by maximizing the
+likelihood of data under the model (tl
+entropy minimisation in deep learning literature
+(goodfellowetal., 2016)). during training, an initial jearning
+rate of 10-%, batch size of 256, and ¢)-regularization of 0.005
+are used to optimize the network.
+
+ 
+
+often called cross-
+
+ 
+
+registration: the detailed schematic of our proposed
+approach is depicted in fig.4. to register an unseen fixed and
+moving image pair, we sequentially use each of the binary
+classifiers previously trained in imr - their aggregated pre-
+sigmoid activations are used for optimizing transformation
+parameters. in our multi-resolution framework, the resulting
+transformation field at the coarser level is upsampled and
+used for warping the original moving image (finer resolution)
+before starting the next iteration. in more detail, we start
+with the pre-trained classifier from imr, (with parameters
+6,), and perform maximum likelihood registration with
+eq.(22) using a set of 3d cropped patches with significant
+ied c1assfer tromi wm; (with
+6,), and perform maximum likelihood registration with
+eq.(22) using a set of 3d cropped patches with significant
+overlaps. next, we use the imr, pre-trained classifier to
+perform registration on the result of the previous step; we
+repeat this process until registration with the last imr pre-
+trained classifier. to optimize the registration parameters, we
+fix and freeze the classifier network's weights, and we insert
+spatial transformation network (stn) before the patch
+selection module (as seen in fig.4). the transformation
+parameters are encoded inside the stn as learnable weights
+and the resulting transformation field is applied to the whole
+moving image. we optimize the registration network (stn)
+with stochastic gradient descent (sgd) and adam update
+rule using different learning rates for rigid (jr = 0.1), affine (
+ir = 0.075), and thin-plate spline (jr = 0.001 of image size).
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+dense biocks
+
+biecel ie
+
+dense socks
+
+becelifc—
+
+download : download high-res image (270kb)
+
+ 
+
+ 
+
+ 
+
+download : download full-size image
+
+fig. 4. schematic of our proposed maximum likelihood
+registration with deep binary classifiers. based on the initial
+misalignment in the dataset, we can perform multiple
+iterations to jointly learn model and transformation
+parameters. our framework includes a deep binary cnn
+classifier, a spatial transform module, and a 3d patch
+selector. our classifier architecture is inspired by densenet.
+the aggregated logits signal (over a set of sampled patches) is
+used for the optimization of the transformation parameters.
+   
+
+ 
+
+sd fed image (f) 30 moving image (m)
+
+download : download high-res image (287kb)
+
+download : download full-size image
+
+fig. 3. a sample of fixed (t2) and moving image (t1) in our
+training dataset used for deriving a deep metric for
+registration. the moving image is misregistered by a random
+affine transformation. two classes of patches are shown on
+the right (we crop 3d patches; the middle cross-section of
+each patch is shown in 2d). the registered class (z = 1)
+annie nunstohrruthat. aoa ge patbaesare lnowin dir
+the right (we crop 3d patches; the middle cross-section of
+each patch is shown in 2d). the registered class (z = 1)
+contains patches that are cropped from the same location in
+the space of images, and the unregistered class patches (
+
+z= 0)are randomly picked. fixed and moving image patches
+(for both classes) are concatenated in the channel dimension
+and used for training a deep binary classifier by minimizing
+the cross-entropy loss.
+vy: (24)
+antl
+
+8;
+= argmax )),,.,-1 logit (pe (2: =
+
+8;
+
+ 
+
+1ss20930")).
+
+eq.(24) amounts to estimating the transformation
+parameters (or, registering) of a collection of pairs of images
+using the deep metric with known model parameters, 6”.
+(note that the transform adjustment only need be applied to
+the patches in the ‘registered’ class.) eq.(23) corresponds to
+retraining the network using patches from images that are
+offset by the most recently estimated transformation
+parameters, b”.
+
+the iteration starts with eq.(23) on the original roughly
+registered training data. subsequently, the method alternates
+between re-aligning the data and re-estimating the deep
+
+the iteration starts with eg z37 on the original fougtiy
+registered training data. subsequently, the method alternates
+between re-aligning the data and re-estimating the deep
+network parameters. we envision that this iterative training
+needs to happen only once per application type. to perform
+registration on previously unseen images, the model
+parameters may be fixed and registration performed using
+eq.(22).
+
+ 
+
+ 
+
+ 
+
+4.3. evaluation - weakly supervised registration
+by binary classification
+
+in this section, we present several experiments to
+demonstrate the effectiveness of our formulation of iterative
+model refinement (imr) with deep probabilistic binary
+classifiers to perform maximum likelihood registration. we
+show that model parameters along with transformation
+parameters can be learned via imr from a roughly aligned
+dataset and, unlike the work in simonovskyetal.(2016), a
+completely registered dataset is not needed for training. we
+use the ixi brain development dataset! to demonstrate this
+concept with 60 subjects for training and validation and 60
+completely registered dataset is not needed for training. we
+use the ixi brain development dataset! to demonstrate this
+concept with 60 subjects for training and validation and 60
+subjects for testing (details follow in data). as explained in
+section4.2, for a collection of roughly registered images
+(fixed and moving images in the training set), we start with
+eq.(23) and train a deep binary classifier to distinguish two
+classes of patches: registered (z = 1) and unregistered (z = 0
+). later, we switch to eq.(24) and use the clas
+derive transformation parameters for each training image
+pair (8;). finally, the computed transformations are applied
+to the moving images. this process is iterated multiple times
+if needed until the training images are well registered.
+throughout this section, we use imr, notation to refer to
+performing imr step x. in more detail, the first imr, imri,
+uses eqs.(23) and (24) to register the training data. if needed,
+one can apply imr on the outcome of imr; to further
+optimize the model and the transformation parameters and
+the iteration can continue. in our rigid registration
+experiment, we use 3 steps of imr (imr; > imr; > imrs
+) while in our affine registration experiment, we use 4 steps (
+
+ 
+
+ 
+
+ 
+
+  
+
+the iteration can continue. in our rigid registration
+experiment, we use 3 steps of imr (imr; > imr; > imrs
+) while in our affine registration experiment we use 4 steps (
+imr, ~ imr: — imr; -> imry4) and in our deformable
+registration experiments we use 2 imr steps (imr; > imr
+). finally, for registration of an unseen test case, we use the
+estimated model parameters at each iteration with eq.(22) to
+optimize the transformation parameters. it should be noted
+that the test data is not used at all for training.
+
+ 
+
+in order to have an end-to-end framework for registration,
+we use a differentiable image transformation method that is
+based on the spatial transformer network (stn)
+(jaderbergetal., 2015) to estimate transformation parameters
+via gradient-descent — this significantly lowers the run-time
+of our approach compared to non-gradient based
+optimizations.
+
+data: for our experiments, we use the ixi brain development
+dataset which contains aligned t1-weighted (t1) and t2-
+weighted (t2) mri image pairs from healthy brain subjects.
+waa or our etprindeans, wease de apm alevag leat
+dataset which contains aligned t1-weighted (t1) and t2-
+weighted (t2) mri image pairs from healthy brain subjects.
+we also generate gradient magnitude (gradmag) images from
+3d t1 mri volumes to have a multi-modal problem
+mimicking mri and ultrasound registration. we choose t2
+mrlas the fixed image and we register the t1 mri (or
+gradmag image) to it. 60 subjects are selected for training
+and validation and another different 60 subjects are used for
+evaluation. all images are resampled to 1 x 1 x 1 mm, and
+their intensity is normalized to the range of [0, 1]. to create a
+roughly aligned dataset for learning a deep metric, we apply
+random transformations to the moving images before each
+experiment. the type and parameters of each transformation
+are discussed in more detail in the following. we perform the
+same pre-processing steps on the test data. moreover, the
+same distribution for transformation parameters is used to
+generate random misalignment on each test case in our
+synthetic experiments.
+
+patch generation: as explained in the previous section, our
+formulation of maximum profile likelihood based on deep
+synuneuic experiments.
+
+patch generation: as explained in the previous section, our
+formulation of maximum profile likelihood based on deep
+classification relies on training a classifier on two classes of
+patches cropped from fixed and moving images. to generate
+these, we crop 3d patches, (u;, v,), of size 17 x 17 x 17
+voxels from fixed and moving images. our patch size is fixed
+for each iteration of imr in all experiments. for the registered
+class (z; = 1), we crop the patches from the same physical
+location in the space, and for the unregistered class (z; = 0)
+we crop from random locations. fig.3 depicts a fixed and
+moving image in one of our experiments. as seen, for
+learning a deep metric, we are using images that are only
+approximately registered. a sample of 3 cropped patch pairs
+for each class is also depicted in fig.3. to capture large initial
+misregistrations, we employ a multi-resolution framework
+and perform initial iterations of imr on downsampled
+versions of images before switching to the finer resolutions.
+to avoid aliasing artifact, we apply gaussian smoothing
+before downsampling. overall, 1 million patches are
+generated for the classifier training in each level of,
+
+ 
+
+to avoid aliasing artifact, we apply gaussian smoothing
+before downsampling. overall, 1 million patches are
+generated for the classifier training in each level of
+refinement for each experiment.
+(24)
+(23)
+(23)
+vy:
+(22)
+(20)
+or
+6 = argmax y, inpo (zi|ui,vi 9) - (20)
+8
+
+(here, p(u;, v;) has been dropped, as it is not a function of 6.)
+
+if the classifier has enough capacity, then we expect it to well
+approximate the true conditional probability on z that is
+specified by the true joint,
+
+po (zu, 8) ~ p(zlu,y) «
+
+multiplying by p(w, v) shows that in this case, pre
+approximates the true latent joint,
+
+or (uso.n8) = pluo.2).
+in view of eq.(17), maximum likelihood registration is,
+pr (10,258) © p(w 042).
+
+in view of eq.(17), maximum likelihood registration is,
+
+b = argmax , inpr (wis? oi, 2836) . (21)
+b
+we split the sum on cases of z,
+
+b = argmax st npr (uis"¥i,2=
+
++o npr (ui,0i,2=05
+
+ko
+
+aspr (upo2 = 0:6) = p (u,v, z = 0) and, as discussed
+=p (u,pv|z=0) p(z=0),
+
+above, p(u, °v|z = 0) is not a function of 8, we drop the
+
+second term, leaving
+
+ 
+
+ 
+
+ 
+
+b = argmax y,
+b
+
+ 
+
+ix=1 mpr (ce 156) :
+by definition, pr (u, v, 2;4) = pe (z|u, v; 9) p (u,v); however,
+we do not have access to p(w, v) (it is latent), so we use the
+
+o .
+
+by definition, pr (u, v, 2;4) = pe (z|u, v; 9) p (u,v); however,
+we do not have access to p(w, v) (it is latent), so we use the
+following strategy to discharge that term. we subtract a
+second term, that, as before, is not a function of 8,
+
+b
+
+=argmax
+8
+
+ 
+
+soe [npr (uipvine = 1;6) —inpr (wis oi2 =0;6)|
+
+using the following identity, that may be easily obtained
+from eq,( 19) by subtracting the z = 0 case from the z = 1
+case (p(w, v) cancels),
+
+inpp (u,v, 2 = 1;0) — npr (u,v, 2 = 0;6)
+= inpe (z= 1|u,v;8) — inpe (z = olu, 054) ,
+
+(22)
+
+ 
+
+where logit(«) = in -*-. as the sigmoid function and the
+b = argmax dy, logit (p (2 = lu, 8055 )) , (22)
+b
+
+ 
+
+where logit (zz) = in 72>. as the sigmoid function and the
+logit transform are inverses, and r(z = aus, 045 2) is
+typically the output of a sigmoid unit in a deep neural net,
+the metric is seen to be a sum of pre-sigmoid activations.
+thus, their use in chengetal.(2018) is now justified by our
+theory. this is our interpretation of ‘deep metric registration’.
+
+ 
+
+ 
+
+ 
+
+asimilar approach to constructing a density estimate from a
+discriminative classifier was used in a precursor to
+generative adversarial networks (gans) bytu(2007); that
+work used a classifier trained to distinguish data from
+uniformly distributed samples.
+
+4.2. maximum profile likelihood registration by
+deep classifier
+
+the deep metric described above uses a classifier that was
+presumably trained on collections of registered images; one
+image pair will likely not suffice. in some applications, e.g.,
+the deep metric described above uses a classifier that was
+presumably trained on collections of registered images; one
+image pair will likely not suffice. in some applications, e.g.,
+abdominal ultrasound and ct, it is not practical to obtain
+registered images for training data. in this section, we use
+iterative model refinement to derive a deep metric that can be
+trained with images that are only approximately registered;
+the result can be characterized as weakly supervised
+registration by deep classifier.
+
+we formulate maximum profile likelihood over a collection
+of pairs of images; these will serve as the source of data for
+training a classifier. features (patches), are indexed by i, and
+image pairs are indexed by j. b = {81,..., 8m} are
+transformation parameters, one per image pair. following
+eq.(21),
+
+b= argmax max dj inpr (uj: v4, 2153) »
+b
+the corresponding asymptotic form is
+
+b = argmin/minkl [pp (u.0.2:b) ll pe (uv.20)l
+the corresponding asymptotic form is
+
+ 
+
+angi mn kop (u,v,2:b) || pr (wv, 2,8))
+b
++.h [pp (u,v, 2; b)]],
+
+where pp (u,v, %; b) is the latent distribution that generates
+the data (uj, vj, z;:). here, the optimization varies the
+transformations to minimize an upper bound on the entropy
+of pp.
+
+iterative model refinement (coordinate ascent) alternates the
+following optimizations,
+
+6" — argmax yo, npr (wins v7.38)
+6
+
+ 
+
+apntl 5 an
+3"! = argmax s, npr (uss. vps, 2556 ) .
+3,
+
+following eq.(20) for the @ optimization, and eq.(22) for the
+b optimization, we obtain
+
+6" = argmax dj inve (24
+
+ 
+
+ujis® vy,8) ; (23)
+b optimization, we obtain
+
+antl
+
+a" — argmax 5, inpe (2 fuss 5 05,8) (23)
+4.1. maximum likelihood registration by deep
+classifier
+
+we show here how to use image classifiers to construct an
+image agreement metric for solving maximum likelihood
+registration problems. following simonovskyetal.(2016), a
+binary classifier with inputs of patch pairs, (w, v), is trained
+to distinguish between two classes: registered pairs of
+patches, denoted by 2 = 1 and unregistered pairs of patches,
+denoted by z = 0.
+
+in more detail, registered patches are cropped from the same
+locations in images, and unregistered patches are randomly
+selected from their corresponding images (in essence, for the
+randomly selected patches, the relationship between pairs of
+locations in images, and unregistered patches are randomly
+selected from their corresponding images (in essence, for the
+randomly selected patches, the relationship between pairs of
+patches has been randomized out, in a fashion similar to
+permutation methods of constructing null hypothesis
+istributions). thus, the ‘original’ patch data has been
+augmented with a collection of unregistered patches, and the
+corresponding indicator variables.
+
+ 
+
+similarly to eq.(1) our joint model for the augmented data is
+p(u,v, 2; 8,0) = ti]; pr (ui, vi, 2138) (17)
+
+where u and v are collections of patches of image intensities
+sampled from the two images, z is a collection of indicators,
+and pp (u,v, 2:6) is a parametric distribution that is meant to
+approximate the latent joint distribution that characterizes
+the data (both registered and unregistered). we have
+assumed that corresponding pairs of patches are distributed
+independently and identically — this assumption is
+substantially less severe than assuming that pairs of pixels or
+voxel intensities are independently distributed. the
+independently and identically — this assumption is
+substantially less severe than assuming that pairs of pixels or
+voxel intensities are independently distributed. the
+transformation model on patches is specified as follows. let »
+bea collection of image intensities from locations
+
+alk], (1 < k < n), ima patch, then *v contains image
+intensities from locations t(«{k], 3)) where
+
+t(-,b): rb r.
+
+next we specify the joint model on u,v and z. let
+
+p(z=1) =p(z=0) = $. also let p(u, vz = 1) be the
+latent distribution on pairs of patches that are correctly
+registered, and let p(u, v|z = 0) be the latent distribution on
+patches that are randomly paired, i.e., unregistered. we
+assume that p(u, »|z = 0) is invariant to transformations on v
+-ina simpler scenario involving only translations, invariance
+to translation corresponds to an assumption of shift
+invariance (or stationarity), which is natural in modeling
+image phenomena. this motivates, for example, the use of
+convolutional structures in deep image processing. beyond
+translations, the invariance is a reasonable assumption if the
+iniagépnentémienar nas ivotivates; ror exd pres hte tise ge”
+convolutional structures in deep image processing. beyond
+translations, the invariance is a reasonable assumption if the
+transformations are approximately rigid, i.e., without major
+scale changes.
+
+ 
+
+ 
+
+the joint model is then
+p(u, v, 2) = p(w, v|2)p(2)- (18)
+
+we next construct a parametric model that is intended to
+approximate the true joint specified above,
+
+pr (u,v, 25)
+
+ 
+
+(z|u,v;8) p (u,v) , (19)
+
+where p(w, v) is a marginalization of the joint distribution
+specified above in eq.(18), and pe (z|u, v5) is a
+liscriminative model, i.e., a classifier.
+
+ 
+
+suppose we fit the model by maximum likelihood (in practice
+this is done using data from multiple images, as described
+below),
+
+   
+
+‘gmax ); in pr (ui, vi, 2
+
+   
+
+6=
+
+argmax )); in pp (uj, vi, 2139) 5
+@
+4. image registration by deep classification
+
+in the previous sections we used an information theoretic
+framework based on generative models on image features to
+construct and analyze pairwise and groupwise registration
+methods. in contrast, many of the successes of deep learning,
+eg., in image classification, have used discriminative
+modeling (huang, liu, van der maaten, weinberger, 2017,
+szegedy, ioffe, vanhoucke, alemi, 2017). here, we
+demonstrate that using discriminative models on pairs of
+patches, we are able to achieve a maximum-likelihood
+registration in the same framework. later in section4.2, we
+show that by using iterated model refinement via eqs.(4) and
+patches, we are able to achieve a maximum-likelihood
+registration in the same framework. later in section4.2, we
+show that by using iterated model refinement via eqs.(4) and
+(5), we can alleviate the need for accurately registered
+training data; thus, enabling “weakly-supervised”
+registration.
+(16)
+(15)
+(14)
+(13)
+(13)
+(12)
+(12)
+(n)
+(10)
+o’donnelletal.(2012) proposed multi-subject groupwise
+registration of whole-brain diffusion tractography of the
+white matter by entropy minimization without making
+reference to the latent data distri n; the criteria was
+optimized directly. subsequent work by zhangetal.(2018)
+adopted the alternating iteration of eqs.(15) and (16), below.
+we provide here a complete derivation from maximum
+profile likelihood in the current framework.
+
+ 
+
+ 
+
+the features (tractographic streamlines), u, are summarized
+as vectors of p knot points: u [k] € r® for 1 < k < p, where
+prone nncuiuva nue curiciit 1anicwuin.
+
+the features (tractographic streamlines), u, are summarized
+as vectors of p knot points: u [k] € r® for 1 < k < p, where
+the knot points are evenly spaced along the streamline. each
+subject u, indexed by j, is represented by a collection of nj
+features,
+
+uj = {ujas--+5ujn,} - (7)
+
+the transformation model on features @u, is defined
+component-wise by ®u {k] = t (u[k] , 6) where
+
+t (-,8) : r® + r°. previous works have used affine
+(o'’donnelletal., 2012) and b-spline (o'donnell, suter, rigolo,
+kahali, zhang, norton, albi, olubiyi, meola, essayed, unadkat,
+ciris, wells, rathi, westin, golby, 2017, zhang, wu, norton,
+rigolo, rathi, makris, o'donnell, 2018) transformation
+models.
+
+in this setting, our model is a probability density function on
+features, pp (u; @) , for a population of subjects that are in
+registration; so pp is a density on vectors of p points in r°.
+©; are model parameters, in this case chosen to be one per
+features, pp (u; @) , for a population of subjects that are in
+registration; so pp is a density on vectors of p points in r°.
+©; are model parameters, in this case chosen to be one per
+feature i per subject j. pr will be described in more detail
+below.
+
+we assume that the features are distributed independently
+and identically within and across subjects. the model for a
+population of subjects, offset by transformations parameters
+b= {1,...,m} (one per subject), and model parameters
+@, is then
+
+p(uh,.--,um b,®) = [1 pr (uji3®) - (8)
+
+here, subject indexes are represented with j, and i represents
+indices of features within subjects.
+
+maximum profile likelihood registration takes the following
+form,
+
+b= argmax max dy npr (pujis®) 5 (9)
+b
+
+and the asymptotic form is
+b= argmax max dy npr (pujis®) 5 (9)
+b
+
+and the asymptotic form is
+
+b
+= argmin {min kil [pp (u5 b) || pe (u;®)] +h [po (us b)]
+a
+
+here, pp (u; b) is the latent distribution that generates the
+data as the collection of transformations is varied.
+
+groupwise registration is accomplished using iterative model
+refinement (coordinate ascent),
+
+anh
+
+bp = argmax y, inpr (*uj56") (10)
+3
+
+mtd
+
+ 
+
+= argmax dj; npr (® 38) . (11)
+e
+
+the model for registered feature data, pr, is constructed as a
+sum of kernels,
+
+ 
+
+pr (u;®) x 325, o(u— ox)» (12)
+
+sum of kernels,
+pr (u;®) «dy 6(u- ox) (12)
+
+where @;; is a vector of p points in r® (the same
+representation as the features u). this is similar to a kernel
+density, or a mixture density. as the features u are modeled
+by probability density functions, arbitrary transformations, 8,
+on the features could cause pr (°u; ®) to not integrate to
+one. to avoid this, we assume that our transformations will
+be approximately volume preserving, i., the subjects’ heads
+do not vary in size by a large amount. kernel densities are
+often described as being ‘non-parametri
+the number of model parameters grows with the size of the
+data, as is the case here. despite this terminology, the model
+
+does have parameters. we use the following kernel,
+6 (u) o exp (=s2) where d(u) = 35, julillisa
+
+stance function for tracts and o is a scale parameter.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the iteration becomes
+
+anh
+
+by" = argmax y,, in|, ¢ (uy — 8},)] (13)
+the iteration becomes
+
+anh
+
+by" = argmax in [ey ¢ (puy — 8%) (13)
+
+ 
+
+ore argmax yi [exo (fu —ey)] - (14)
+
+eq.(13) amounts to adjusting the transformations of the
+individuals for best registration to the most recently
+estimated atlas. eq.(14) corresponds to maximum likelihood
+estimation of the parameters © of a kernel density, given a
+
+ 
+
+collection of data, ® uj;. this can be approximated by setting
+the kernel density parameters to be centered on the data
+points (the standard way of constructing a kernel density
+from data). if the kernels did not overlap, the approximation
+would be exact. in practice, the resulting method works well.
+the iteration is:
+
+anh
+
+bm" = argmax in [ey ¢ (puy — 8%) (15)
+
+vege ott yy, (16)
+
+en amr me ayy
+
+ 
+
+(16)
+
+ 
+
+vij:
+
+thus, groupwise registration of tractography streamlines and
+potentially other feature-based registration problems can be
+accomplished using the same maximum profile likelihood
+framework as used for the registration of intensity images.
+=?
+
+(4) 00 egies wean (0) une er hte (6) amp er ser
+
+download : download high-res image (431kb)
+
+download : download full-size image
+
+fig. 2. (a) groupwise registered tractography data from 100
+subjects, used to form a data-driven fiber cluster atlas. a
+random sample of fibers across all 100 subjects is shown. the
+fig. 2. (a) groupwise registered tractography data from 100
+subjects, used to form a data-driven fiber cluster atlas. a
+random sample of fibers across all 100 subjects is shown. the
+colors are derived from the fiber similarity measure used in
+clustering. (b) a cluster of fibers that have a common shape
+and location across the population of 100 subjects.
+anatomically, this cluster forms part of the arcuate fasciculus
+language tract. (c) an example fiber cluster that forms part of
+the corticospinal motor tract.
+(6) samp er hv
+3.1. congealing
+
+beyond pairwise registration, minimization of joint entropy
+has been also used as a measure of joint similarity for
+population registration via congealing (learned-iiller,
+matsakis, viola, 2000, learned-miller, 2005, zéllei, learned-
+miller, grimson, wells, 2005). learned-milleretal.(2000) first
+introduced the idea of congealing for hand-written digit
+recognition. they used the sum of the entropy of pixel-stacks
+(a collection of pixels from the same location in the image
+set) as the measure of agreement, and minimized it by
+transforming ead!
+
+    
+
+   
+
+ls from the same locat
+
+set) as the measure of agreement, and minimized it by
+transforming each image separately. in the context of medical
+imaging, zdlleietal.(2005) adopted a congealing framework
+
+to create atlases for brain mri using entropy estimation with
+empirical entropy manipulation analysis (emma) (violaetal.,
+1996) and optimization via a stochastic gradient-based
+
+approach.
+
+  
+
+ 
+
+congealing registers a group of m collections of,
+corresponding features {u,..., un} sampled fromm
+images by varying a group of per-image transformations
+
+b= {81,...,8m}. here uj contains features {uji,---,ujn}
+where uj; is the intensity of the image indexed by j, sampled
+at location «;. the features are assumed to be independent
+and identically pixel/voxel locations, but
+with different distributions pp (u;4;) at each location, with
+parameters © = {01,...,0n},
+
+ 
+
+    
+
+ributed witl
+
+then, the model takes form as
+
+p(u1,--+,umsb,®) = ti; pr (pujso) -
+
+then, the model takes form as
+p(ui,---,um} b,o) = ti; pr (ujs30i) -
+maximum profile likelihood is
+
+b = argmaxmax d),; npp (*uji59:) .
+b °
+
+and the asymptotic form is
+
+b
+
+= argmin min kl [pp (ui; b) || pr (wis 64)] +h [pp (u
+
+learned-milleretal.(2000) used a conventional univariate
+categorical distribution at each voxel location,
+
+cat (u = ux; 6;) = [6:];,, where u are the intensity values
+that wcan assume. here 6; are the parameters of the
+categorical distribution at the location indexed by i, [4;], > 0
+and 3>,, [6:], = 1. the maximum profile likelihood
+formulation is then,
+
+ 
+
+be ep ec (58 ixeunooa
+
+formulation is then,
+
+b= argmaxmax y7,;in cat (' 8 wis 8i)
+b
+
+ 
+
+= argmax s,max sj cat (ps6) -
+
+ina similar fashion to the previous case of jointly categorical
+istributions, the inner maximization can be solved in closed
+form, yielding,
+
+ 
+
+ 
+
+b= argmin hl [car (6; (b))| , where [a (b)], (6)
+
+~ lnb)
+—“n
+
+ 
+
+here, n; (b) is the histogram of voxel intensities at voxel i. in
+other words, [n; (b)],, is the number of voxels located at i
+that have intensity value u;, and n; = >, [n; (b)],. is the
+normalizer for the histogram for voxels located at i.
+
+eq.(6) is equivalent to the original statement of the
+congealing algorithm in learned-milleretal.(2000). thus, we
+have shown that congealing is an instance of maximum
+eq.(6) is equivalent to the original statement of the’
+congealing algorithm in learned-milleretal.(2000). thus, we
+have shown that congealing is an instance of maximum
+profile likelihood registration on a population of data. dl-
+based image alignment by congealing has also been proposed
+by huangetal.(2012). in that work, unsupervised features are
+learned from a multi-layer boltzmann machine to find
+similarity transformation for alignment.
+
+3.2. tractographic atlas formation by groupwise
+registration
+
+in the cases discussed so far, the features have been image
+intensities at pixels or voxels. in the following we describe a
+kernel-based approach that can be used with more elaborate
+features. in medical imaging, features can be quite varied.
+sift features (lowe, 1999) are one example; here an image is
+represented by rich feature descriptors that are located at key
+points in images. streamline tractograhy from diffusion mri
+(jeurissenetal., 2019) is another example. the method we
+describe below can be specialized to a specific problem by
+defining the kernel that takes a pair of features as arguments,
+(jeurissenetal., 2019) is another example. the method we
+describe below can be specialized to a specific problem by
+defining the kernel that takes a pair of features as arguments,
+in eq.(12).
+
+ 
+
+ 
+ 
+
+ 
+
+streamline tractography enables in-vivo mapping of the
+brain's white matter connections, or fiber tracts. typically,
+the estimated fiber tracts are represented as curves
+(sequences of points) in 3d. these curves, often called
+“fibers,” have been used as image features for many proposed
+tractography-based registration methods (garyfallidis,
+ocegueda, wassermann, descoteaux, 2015, leemans, sijbers,
+de backer, vandervliet, parizel, 2006, mayer, zimmerman-
+moreno, shadmi, batikoff, greenspan, 2010, ziyan, sabuncu,
+o'donnell, westin, 2007), including the groupwise
+registration approach that we will discuss below. first, to
+illustrate the concept of groupwise tractography registration,
+we take as an example a recent work by zhangetal.(2018),
+where groupwise tractography registration was employed as
+an initial step in creating a white matter fiber atlas (fig.2).
+the figure shows the result of whole-brain tractography
+
+ 
+
+where groupwise tractography registration was employed as
+an initial step in creating a white matter fiber atlas (fig.2).
+the figure shows the result of whole-brain tractography
+registration, as well as selected individual clusters or
+common anatomical structures in the population. these
+clusters give a more fine-grained visualization of the success
+of the registration. the data-driven fiber cluster atlas was
+annotated by a neuroanatomist and enabled the first white
+matter parcellation across the human lifespan.
+3. groupwise registration
+
+the methods discussed so far have been examples of pairwise
+registration. in this section, we extend our framework to
+
+>. giuupwide lezisud ull
+
+the methods discussed so far have been examples of pairwise
+registration. in this section, we extend our framework to
+groupwise registration in which the goal is to bring a
+collection of images into joint registration, based on their
+contents. we start with the congealing method, and later we
+discuss an instance of feature-based registration, specifically
+of tractographic streamlines. we show that both applications
+are instances of a maximum profile likelihood formulation.
+2.2.1. asymptotic interpretation
+
+to perform asymptotic analysis, we replace the sum in the
+maximum profile likelihood estimator of eq.(2) with a
+sample average that is approximated by expectation,
+
+ 
+
+br argmax max ey, (x9;3) [npe (u,v; 6)] «
+
+here, pp (u,v; 8) is the latent distribution that generates the
+observed data, (u;,v;), which is a function of 8. to reiterate,
+the two distributions, pp (u,v; 8) and pp (u, v; 8) , playa
+major role in the rest of this article. the former is a
+parametric model that is designed to characterize the joint
+data when images are in registration. the latter is the latent
+(unknown) true dis
+
+ 
+
+ution that characterizes the observed
+parametric model that is designed to characterize the joint
+data when images are in registration. the latter is the latent
+(unknown) true
+joint data. since image v is being offset by a transformation
+parameterized by a in the registration setup, the latent
+distribution depends on 8.
+
+ 
+
+ion that characterizes the observed
+
+re-writing the above equation,
+
+6 = argminmin ey, (v5) [in pp (u,v; 8) — inpp (u,v; 4)
+b
+—inpp (u,v; 8)),
+and from kullbac-leibler (kl) divergence and joint entropy
+definitions,
+
+br argmin min kl [pp (u,v; 8) || pr (u,v;8)] +h [po (u,
+
+thus, maximum profile likelihood, or iterative model
+refinement (which we will discuss in section2.3),
+asymptotically minimizes an upper bound on the entropy of
+the distribution that generates the joint data. from the above
+refinénent (which we will discuss in section2.3),
+asymptotically minimizes an upper bound on the entropy of
+the distribution that generates the joint data. from the above
+equation, as # approaches the value corresponding to correct
+registration, then, if pz has enough capacity (parameters),
+the kl divergence between the estimated model and the true
+model could approach zero. in that case, the maximum
+profile likelihood will devolve to minimization of the entropy
+of the joint data distribution. in other related work,
+registration by minimization of the kl divergence between
+trained and empirical distributions on joint intensities was
+described by chanetal.(2003).
+
+ 
+
+the upper bound minimization provides traction on
+minimizing the joint entropy, which is otherwise difficult to
+perform since the latent joint distribution can not be directly
+accessed. a similar approach is used in the “evidence lower
+bound” method for marginalizing an intractable posterior
+probability (bleietal., 2017).
+
+2.2.2. special case: categorical models
+
+ 
+
+2.2.2. special case: categorical models
+
+we discuss next an important special case of maximum
+profile likelihood registration where the features are discrete
+valued intensities, and the model is jointly categorical,
+
+pr (u,v;0) = jcat (u, v;6). here
+
+jcat (u = uj, v = vi; 6) = ox, where a, > 0 and
+
+dj, 8jx = 1. in this formulation, u and v are the intensity
+values that w; and v; can take, and j, k represents histogram
+bin indices.
+
+ 
+
+the model is
+
+p(u,v;8,0) = tj; jcat (u;,°v:;8) .
+
+ 
+
+maximum profile likelihood takes the form
+
+b = argmaxmax d;1n6,, 2,
+8
+
+or, summing over histogram bins rather than pixels or voxels,
+
+b = argmax max sy, nix (8) in dix. (3)
+
+or, summing over histogram bins rather than pixels or voxels,
+
+b= argmaxmax yi nyx (8) n oj - (3)
+
+here nj, (8) is the joint histogram representing the number
+of (u;, v;) data items with intensity values equal to (u;, vx);
+it varies with the transformation parameters.
+
+in eq.(3), the inner optimization over @ is equivalent to
+maximum likelihood estimation of the model parameters
+given data that is summarized by n;, (8). it is well-known
+that in the case of standard categorical models, the solution
+to maximum likelihood parameter estimation is the
+normalized histogram of the data. in more detail, using
+
+  
+
+lagrange multi a closed form solution can be obtained
+tr nin .
+as, 6: (b) = “8 where n = dy, nix (8)-
+
+di
+
+ 
+
+ling by nv, we obtain
+
+ 
+
+nul8
+
+b= argmax dp an [a
+
+ 
+
+= arominit [7a t (aav |
+
+ 
+
+= argmax sp ae in [|
+
+ 
+
+argmintt [scar (@(5))] .
+
+thus, the optimization over f has devolved exactly to
+registration by minimization of joint entropy; informally in
+words circa 1995: “adjust the registration so that the entropy
+of the joint histogram is minimized.” rocheetal.(2000)
+described a similar finding for a related con
+likelihood approach that used categorical models.
+
+ 
+
+ional
+
+registration by maximization of mutual information
+
+registration by maximization of mutual information is
+closely related to registration by minimization of joint
+entropy of the distribution on pairs of corresponding
+features, as i (p(w, v)) = —h[p(u, »)] + h[p(u)] + hl [p(»)]-
+in some situations, e.g., the registration of volumetric medical
+images, the marginal entropy terms (h [p(u)] and h [p(v)])
+may be unimportant, and neglected. in other situations that
+allow large scale changes in the images (e.g., perspective
+images, the marginal entropy terms (h [p(u)] and h[p(v)])
+may be unimportant, and neglected. in other situations that
+allow large scale changes in the images (e.g., perspective
+projection), the estimated joint entropy may approach zero as
+an image shrinks to one pixel in size; here the corresponding
+marginal entropy term is potentially useful. the utility of the
+marginal term is discussed in violaand wellsili(1997).
+
+ 
+
+2.3. coordinate ascent or iterative model
+refinement
+
+so far, we discussed maximum profile likelihood, its
+asymptotic interpretation, and a special case of categorical
+models in profile likelihood which we solved in closed form.
+if the inner optimization of maximum profile likelihood
+registration of eq.(2) can not be carried out in closed form,
+then we may use coordinate ascent by alternating
+
+bet = argmax d, inpr (ui pus w) (4)
+8
+
+  
+
+t — argmax 3, in pr (ui, v8) . (5)
+0
+pe
+
+     
+
+on
+
+ 
+
+argmax >, npr (ui, v5 8) . (5)
+6
+
+we refer to this as iterative model refinement, which has
+
+previously been utilized in intensity-based registration by
+
+timoner(2003) and for groupwise registration of
+
+tractography streamlines by 0'donnelletal.(2012), as we will
+
+liscuss in more detail in section3.2.
+
+ 
+
+this approach has an advantage in comparison to direct
+optimization of joint entropy, which is a “global” function (in
+the sense that changes anywhere in the image affect the joint
+entropy). in contrast, in the update of eq.(4), changes in one
+part of the images do not affect the objective function in
+other parts of the images; thus, the calculations are local and
+can be carried out in parallel.
+2. pairwise registration
+
+the goal of pairwise registration is to find transformation
+parameters that bring two images into correspondence based
+on their contents. the development in this section will begin
+with a formulation of maximum likelihood registration using
+1g paramete tively, unkne _
+on their contents. the development in this section will begin
+with a formulation of maximum likelihood registration using
+known modeling parameters. alternatively, unknown
+modeling and transformation parameters can be jointly
+maximized. we show that this “profile likelihood” approach
+asymptotically minimizes an upper bound on the joint
+entropy of the distribution that governs the observed joint
+data under transformations. we discuss the connection to
+registration by maxi
+analyze a special case. we show that for discrete image
+intensities, the profile likelihood approach devolves exactly
+to registration by minimization of joint entropy. for more
+general cases, we describe an iterative model refinement that
+may be used for the joint optimization.
+
+   
+
+iter
+
+   
+
+ 
+
+ization of mutual information and
+
+ 
+
+ 
+
+2.1. maximum likelihood registration
+
+let u = {ur,uz,...}and v = {vy, v.,...} be collections of
+corresponding image features sampled from images % and y
+the maximum likelihood registration approach is based on
+the construction of a parametric model, pp (u, %; 2) , that is
+corresponding image features sampled trom images % and ¥
+the maximum likelihood registration approach is based on
+
+ 
+
+the construction of a parametric model, pp (u, v; 2) , that is
+
+intended to characterize pairs of corresponding image
+features when the two images are in registration. here, 6
+represents estimated model parameters. the goal is to vary
+an offsetting transformation, 8, on image features v for the
+highest likelihood under pp.
+
+we assume that pairs of features are distributed
+independently and identically,
+
+(u,v; 8,8) = tepe (uis?ri38) - a
+
+throughout the article, we will use the concise syntactic
+notation “y; for the application of a transformation with
+parameters (3 to a feature. for a concrete example, let
+
+uj = & (x;) and v; = ¥ (2;) be image intensities at a
+location x; € r® sampled from the space occupied by the
+images. the transformation notation in this case is,
+
+8u; = v (t (a;, 8) where t (-, 8) : r? + r° isa spatial
+transformation parameterized by @. note that, in this case, as
+images. the transformation notation in this case is,
+
+8u; = v (t (a;, 8) where t (-, 8) : r? + r° isa spatial
+transformation parameterized by @. note that, in this case, as
+varies, °v; corresponds to intensity values from different
+locations in the images. in the applications studied in the
+article, the features will consist of pixel or voxel intensities,
+summaries of tractographic streamlines, or 3d patches of
+image intensities, and the transformations will be rigid,
+affine, and deformable models.
+
+ 
+
+maximum likelihood registration estimates the
+transformation as the one that maximizes the log-likelihood,
+given image data and model parameter 6,
+
+).
+
+this approach was used by leventonand grimson(1998). in
+that work, the features were discretized intensities of image
+voxels, and the joint distribution was jointly categorical. the
+model parameters 6 were estimated by histogramming from
+pairs of registered images.
+
+b = argmax y; inpr (us? vs
+b
+
+ 
+
+ 
+
+voxels, and the joint distribution was jointly categorical. the
+model parameters 6 were estimated by histogramming from
+pairs of registered images.
+
+2.2. maximum profile likelihood registration
+
+the need for pre-registered training data for estimating the
+model parameters, 6, is a drawback of maximum likelihood
+istration methods. one way to mitigate this is to
+simultaneously maximize over both the transformation and
+model parameters,
+
+ 
+
+ 
+
+ 
+
+b= argmaxmax y, inpr (ui,%0438) - (2)
+in this setting, the transformation parameters, 8, are of
+primary interest, and the model parameters @ can be viewed
+as nuisance parameters. “maximizing out” the nuisance
+parameters is called maximum profile likelihood in the
+estimation literature (cole, chu, greenland, 2014, pawitan,
+2001). bayesian methods have also been explored by
+zélleietal.(2007) that average over nuisance parameters
+(instead of maximizing); the resulting approach produces an
+
+ 
+
+2001). bayesian methods have also been explored by
+zélleietal.(2007) that average over nuisance parameters
+(instead of maximizing); the resulting approach produces an
+approximation of registration by mje as a special case. as we
+will see below, in some settings, the inner optimization of
+eq,(2) may be solved in closed form.
+
+ 
+1.4. roadmap
+
+the remainder of the article is structured as follows. section2
+
+1.4. roadmap
+
+the remainder of the article is structured as follows. section2
+introduces our theoretical framework connecting maximum
+likelihood and information theoretic registration via
+asymptotic analysis and profile likelihood. it also describes a
+general-purpose optimization approach. we expect that this
+section will be of interest to experienced registration
+researchers who are interested in the theoretical
+
+under; \gs as well as those with a machine learning /
+deep learning background that are interested in learning
+about registration. the latter may benefit from the material
+in the appendix that provides some justification for the
+utility of entropy-based methods.
+
+ 
+
+section3 discusses application of the theory to problems of
+groupwise registration, an approach that is useful for the
+formation of atlases, among other problems. the theoretically
+inclined will see a formulation using kernel density
+estimators that may be used in feature-based applications, a
+less common modeling approach in information theoretic
+inclined will see a formulation using kernel density
+estimators that may be used in feature-based applications, a
+less common modeling approach in information theoretic
+registration. readers with machine learning backgrounds
+most interested in standard pairwise registration may skip
+the section, as the next section does not depend on it.
+
+section4 shows how maximum likelihood and minimum
+joint entropy registration can be approached with deep
+discriminative classifiers, bringing the theoretical
+developments to bear on registration systems that learn their
+image agreement metric from training data. we expect this
+section will be of interest to both groups of readers
+mentioned.
+1.3. contributions
+
+despite the developments in registration approaches by dl, i
+
+has remained unclear if there is a connection between deep
+1.3, contributions
+
+ 
+
+ 
+
+despite the developments in registration approaches by dl, i
+
+has remained unclear if there is a connection between deep
+
+metrics and information theoretic registration. in this paper,
+we present a novel theoretical framework based on
+maximum profile likelihood for image registration which
+links the newly proposed classifier-based deep metrics to
+previous information theoretic ones. our contributions are
+summarized as follows:
+
++ we establish a framework for analyzing pairwise
+registration methods as instances of maximum likelihood
+or maximum profile likelihood along with asymptotic
+information theoretic interpretations. we demonstrate
+that, asymptotically, maximizing the profile likelihood
+corresponds to minimizing an upper bound on the
+entropy of the latent distribution that governs the joint
+image data, and that, in the case of categorical models, the
+approach is exactly equivalent to registration by mje.
+
++ later, we extend the proposed framework to groupwise
+registration and show that, in a special case, maximum
+
++ later, we extend the proposed framework to groupwise
+registration and show that, in a special case, maximum
+profile likelihood reduces exactly to the congealing
+method. subsequently, we describe a method for
+groupwise feature-based registration that is demonstrated
+on tractographic data and show that it is an instance of
+iterative model refinement of a maximum profile likelihood
+criteria.
+
++ we use our framework to propose a patch-based
+formulation that links maximum likelihood registration
+and deep metric registration using discriminative binary
+classifiers. the patch-based formulation alleviates one of
+the main limitations of most entropy-based approaches,
+namely the strong implicit independence assumption on
+pixels or voxels. we also show why the sum of pre-
+sigmoid activations makes sense as an image registration
+metric in this context.
+
+ 
+
++ finally, we demonstrate that maximum profile likelihood
+and iterative model refinement can be utilized to train a
+
++ finally, we demonstrate that maximum profile likelihood
+and iterative model refinement can be utilized to train a
+deep metric from data that is only roughly aligned; thus,
+enabling “weakly-supervised” registration. we explore
+data augmentation techniques and evaluate our proposed
+approach, demonstrating improved robustness in
+comparison to conventional mutual-information-based
+registration on a challenging multi-modality problem.
+
+information theoretic image registration is a substantial
+research area; our intention is not to provide a thorough
+review, but rather to provide a succinct formalism and use it
+to analyze a collection of registration algorithms and set the
+stage for new developments. the taxonomy of the discussed
+image registration approaches along with their modeling
+assumptions (in pink) and an example of each method (in
+green) is depicted in fig. 1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+a a] et
+o a
+a a] et
+fo we, ~ = \
+
+ 
+
+ 
+
+ 
+
+se | vs (so [el se 2)
+a
+
+ogaation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+seats eee chad
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (474kb)
+
+download : download full-size image
+
+fig. 1. taxonomy of information theoretic registration
+methods discussed in this article. pw: pairwise, gw:
+groupwise, cat: categorical model, mje: minimization of
+joint entropy, iid: independent and identically distributed.
+
+ 
+1.2. background on registration by deep learning
+
+dl has revolutionized medical image analysis in the past few
+
+1.2. background on registration by deep learning
+
+ 
+
+dl has revolutionized medical image analysis in the past few
+years, with state-of-the-art performance in many tasks such
+as image segmentation, classification, and registration
+(balakrishnan, zhao, sabuncu, guttag, dalca, 2019, haskins,
+kruger, yan,, litjens, kooi, bejnordi, setio, ciompi, ghafoorian,
+van der laak, van ginneken, sanchez, 2017, shen, wu, suk,
+2017, yang, kwitt, styner, niethammer, 2017). discriminative
+modeling (rather than generative modeling) has been the
+focus of dl researchers in the medical field and training is
+often accomplished using maximum likelihood (minimum
+cross-entropy). the success of deep networks is thought to be
+due to the automatic extraction of intermediate- and high-
+level features from image structures that can be effectively
+used for problem solving (lecunetal., 2015).
+
+registration algorithms are usually characterized by an
+objective function that measures image agreement, an image
+deformation model, and an opti
+recently, researchers have used “unsupervised” learning to
+
+ 
+
+ition method. more
+
+ 
+
+objéctive function that measiires image agreement, an image
+deformation model, and an optimization method. more
+recently, researchers have used “unsupervised” learning to
+perform image registration. these methods often recast the
+conventional intensity-based registration into a learning
+problem to optimize network parameters for registration
+(balakrishnan, zhao, sabuncu, guttag, dalca, 2019, de vos,
+berendsen, viergever, sokooti, staring, i3gum, 2019, krebs,
+delingette, mailhé, ayache, mansi, 2019, wolterink, dinkla,
+savenije, seevinck, van den berg, isgum, 2017). however, the
+image agreement metrics that have been used are tra
+ones such as normalized cross-correlation (devosetal., 2019),
+mean-squared error (dalcaetal., 2018) and lcc metric
+(krebsetal., 2019). as the theoretical properties of
+deformation models and optimization methods are well
+understood, perhaps the most important limitation of
+registration algorithms is the image agreement functions
+themselves.
+
+ 
+
+ional
+
+it may be that with enough training data, deep learning
+methods could learn effective measures of image agreement,
+pethaps superior to the engineered ones. this observation
+
+it may be that with enough training data, deep learning
+methods could learn effective measures of image agreement,
+perhaps superior to the engineered ones. this observation
+serves to motivate current research on deep metric-based
+registration.
+
+supervised (cheng, zhang, zheng, 2018, haskins, kruecker,
+kruger, xu, pinto, wood, yan, 2019a, simonovsky, gutiérrez
+becker, mateus, navab, komodakis, 2016), and unsupervised
+(blendowski, heinrich, 2019, wu, kim, wang, munsell, shen,
+2015) approaches have been studied by researchers for deep
+metric registration. in some of these studies, deep networks
+are designed to classify registered and randomly unregistered
+patches. chengetal.(2018) trained a fully connected deep
+neural networks to recognize corresponding and non-
+corresponding patches. they used pre-sigmoid activation
+values to quantify similarity of given patches for task of 2d
+rigid registration on mri and ct, and showed superior
+performance compared to traditional similarity metrics. in
+another study, simonovskyetal.(2016) proposed an
+application-specific deep metric based on convolutional
+performance compared to traditional similarity metrics. in
+another study, simonovskyetal.(2016) proposed an
+application-specific deep metric based on convolutional
+neural network (cnn) classifiers that are trained to
+distinguish registered and randomly unregistered patches. in
+their registration framework, gradients of the deep metric
+were used for the optimization of the transformation
+parameters for image registration.
+
+although both studies demonstrated superior performance
+compared to conventional similarity metrics, the theoretical
+foundation, and the relationship between the derived deep
+metric and conventional methods were not investigated. in
+addition, both deep metrics require well-registered training
+data, which is a drawback for applications where multi-
+modality images cannot be obtained simultaneously (e.g.,
+abdominal mri and ultrasound).
+1.1. background on information theoretic
+registration
+
+registration by maximization of mutual information and its
+variants have resulted in notable successes, solving many
+registration problems without customization of
+parameters(maes, collignon, vandermeulen, marchal,
+suetens, 1997, pluim, maintz, viergever, 2003, studholme,
+hill, hawkes, 1999, viola, wells, 1997, wells, viola, atsumi,
+nakajima, kikinis, 1996). the mutual information of two
+images is a measure of how much information is gained
+about one image, from observing the other one. beyond the
+form of the joint distribution that characterizes the images,
+mutual-information-based registration does not use any
+specific information regarding the modalities; thus, training
+data is not needed for model fitting. in other words, it is
+unsupervised. one of the limitations of mutual-information-
+based registration, as conventionally formulated, is an (often
+s nplicit) assumption of pixel- or voxel-wise independence,
+which is clearly incorrect as nearby pixels or voxels are
+
+ 
+
+ 
+
+ 
+
+ 
+
+based registration, as conventionally formulated, is an (often
+implicit) assumption of pixel- or voxel-wise independence,
+which is clearly incorrect as nearby pixels or voxels are
+correlated. there are a few exceptions to this assumption
+(heinrich, jenkinson, brady, schnabel, 2012, huang, jain,
+learned-miller, 2007, yi, soatto, 2011). for instance,
+huangetal.(2007) used scale-invariant feature transform
+(sift) in a 8 x 8 pixel window, and used mixture models to
+approximate probability models on the high dimensional
+features. despite this modeling limitation, the approach has
+been very successful. in fact, the reason that mutual
+information registration can be solved via gradient descent
+on the transformation parameters is precisely because the
+pixels are not independent, but rather spatially coherent. this
+coherence means that registrations that are “close” to the
+correct answer have scores for the estimated mutual
+information that are close to the optimum. this makes
+mutual-information-based loss suitable for gradient
+optimization procedures. if pixels were independent, we
+would expect an extremely sharp and difficult to optimize
+loss function, with a spike at the optimum and low values
+optimization procedures. if pixels were independent, we
+would expect an extremely sharp and difficult to optimize
+loss function, with a spike at the optimum and low values
+everywhere else.
+
+given that the principle of maximum likelihood pre-dates
+information theory, it is perhaps interesting that maximum
+likelihood registration appeared after mutual-information-
+based methods, inleventonand grimson(1998). in that work,
+a joint intensity model is learned from a set of registered data
+that characterizes the probability of observing a given
+intensity pair at corresponding locations in the images. later,
+the spatial relationship of the images is varied to make the
+observed data most probable, based on the model. it is
+important to note that the model is application specific, for
+example, the model could characterize the intensities of
+specific mri and ct imaging protocols.
+
+ 
+
+as mentioned, in maximum likelihood registration, model
+parameters are derived from a set of registered data.
+however, they can also be estimated at registration time by
+joint likelihood maximization.(alanz with the. transformation
+parameters are derived from a set of registered data.
+however, they can also be estimated at registration time by
+joint likelihood maximization (along with the transformation
+parameters) (zélleietal., 2003), and in a conditional
+likelihood formulation (rocheetal., 2000). this joint
+maximization is called maximum profile likelihood
+(pawitan,2001). in this setting, the parametric models could
+be, eg., jointly categorical or kernel dens
+
+ 
+
+s.
+
+maximum likelihood formulations of image registration and
+their relation to entropy and mutual-information-based
+methods have been previously discussed. rocheetal.(2000)
+demonstrated that a conditional likelihood approach reduces
+exactly to an information theoretic criteria in the case of
+categorical models, though latent distributions on features
+and related asymptotics were not discussed. minimum joint
+entropy (mje) was introduced in collignonetal.(1995) and it
+is the earliest reported information theoretic registration
+method. empirically, the joint entropy of the intensities of a
+pair of images has a sharp jocal minimum when the images
+are correctly registered (a simple argument from basic
+
+ 
+
+ 
+
+method. empirically, the joint entropy of the intensities of a
+pair of images has a sharp jocal minimum when the images
+are correctly registered (a simple argument from basic
+principles is provided in the appendix of this article that
+explains this observation). registration by mie is closely
+related to registration by maximization of mutual
+information.
+
+ 
+
+the profile likelihood can be more generally optimized by
+coordinate ascent, or iterated model refinement, which
+alternates between estimating the transformation
+parameters and the model parameters. in registration
+literature, zélleietal.(2003) described relations between
+maximum likelihood and information theoretic registration,
+including the possibility of modeling the joint data for all
+transformations (not just for registered data). they also
+described asymptotic analysis, though upper bound
+minimization was not discussed.
+
+ 
+1. introduction
+
+the maximum likelihood principle (pawitan,2001) is one of
+the most successful paradigms of probability theory. since its
+popularization by fisher in the early 20th century, it has
+become a primary method of statistical inference. on the
+
+, leoretical side, ood has attractive
+consistency and invariance properties that help to explain its
+
+ 
+
+aximum |i
+
+ 
+
+ 
+
+become a primary method of statistical inference. on the
+theoretical side, maximum likelihood has attractive
+consistency and invariance properties that help to explain its
+empirical successes. more recently, maximum likelihood may
+be seen as one of the engines that drives the impressive
+accomplishments of deep learning (dl), as it is perhaps the
+most widely used training criteria (it is called minimum
+
+cross-entropy in that context).
+
+ 
+
+maximum likelihood has also proven to be a powerful
+principle for image registration - it provides a foundation for
+the widely-used information theoretic methods. in this
+article we develop a theoretical framework that is used to
+formulate and analyze maximum likelihood | information
+theoretic approaches to supervised and weakly-supervised
+pairwise and groupwise registration. in addition, we show
+how the framework can be applied to harness the power of
+deep discriminative methods to learn effective image
+agreement metrics from data.
+
+s. background on information theoretic
+agrdatrertiarmuns wom uaa.
+
+ 
+
+ 
+
+ 
+msc
+
+41a05; 41a10; 65d05; 65d17
+keywords
+
+image registration; deep learning; information theory
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+s
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+graphical abstract
+
+ 
+
+download : download high-res image (143k8)
+
+download : download full-size image
+abstract
+
+in this work, we propose a theoretical framework based on
+maximum profile likelihood for pairwise and groupwise
+registration. by an asymptotic analysis, we demonstrate that
+maximum profile likelihood registration minimizes an upper
+bound on the joint entropy of the distribution that generates
+the joint image data. further, we derive the congealing
+method for groupwise registration by optimizing the profile
+likelihood in closed form, and using coordinate ascent, or
+iterative model refinement. we also describe a method for
+feature based registration in the same framework and
+demonstrate it on groupwise tractographic registration. in
+the second part of the article, we propose an approach to
+deep metric registration that implements maximum likelihood
+registration using deep discriminative classifiers. we show
+rrther that this approach can be used for maximum profile
+sfeicod registration to discharge the need for well-
+registered training data, using iterative model refinement. we
+
+ 
+
+ 
+
+ 
+
+further that this approach can be used for maximum profile
+likelihood registration to discharge the need for well-
+registered training data, using iterative model refinement. we
+demonstrate that the method succeeds on a challenging
+registration problem where the standard mutual information
+approach does not perform well.
+highlights
++ aninformation-theoretic framework for pairwise
+
+and groupwise registration based on maximum.
+profile likelihood.
+
++ the congealing method is derived as a special
+case of maximum profile likelihood.
+
++ apatch-based formulation that links maximum
+likelihood to deep metric registration.
+
++ using iterative model refinement alleviates the
+need for registered data in learning a deep
+metric.
+image registration: maximum
+likelihood, minimum entropy
+and deep learning
+
+alireza sedghi® © py, lauren]. o'donnell >, tina kapur °,
+erik learned-miller ¢, parvin mousavi °, william m. wells iii >
+
+show more v
++ addtomendeley <@ share 35 cite
+
+t}ps://dol.org/10.1016/}.media.2020.101939 2 _—get rights and content 2
+
+ 
+
+https://dol.org/10.1016/).media.2020.101939 7__get rights and content
+medical image analysis
+volume 69, april 2021, 101939
+download full issue
+
+ 
+
+medical image analysis
+
+volume 69, april 2021, 101939
+
+   
+

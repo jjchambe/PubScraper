@@ -1,0 +1,701 @@
+authors.
+
+igures
+references
+eywords
+
+metrics
+
+ 
+ 
+
+purchase details pail cdiiantc
+
+references
+eywords
+
+metrics
+
+ 
+
+purchase details pail cdiiantc
+payment options ro ion erie)
+sta aaineao)
+view purchased
+so rocer0 y= les profession and
+education
+
+technical interes
+
+contact us | help | accessibility | terms of use | nondiscrimina
+
+ization, ieee is the world's largest technical professional organ
+
+ee - all rights reserved, including rights for text and data minin¢
+
+ 
+ 
+
+fig. 2.
+
+rtip results for root sequences s1 and s2 shown in rows 1
+and 3 with corresponding rts for each frame in rows 2 and
+4. frames are marked as valid (v) and perturbed (p). row 5
+shows the root tip velocity vs frame number (time).
+
+show all
+
+(sl) wwu(v) 016) uly (ey uz0(v)
+
+pal bal ba
+=a
+
+($2)000(v) 019 9®) 021 1) 022 2(v)
+
+p< | pa |
+
+ay |
+“ne
+
+  
+ 
+
+   
+
+ 
+
+velocity of $1 velocity of s2
+
+ 
+
+fig. 2.
+
+rtip results for root sequences s1 and s2 shown in rows 1
+and 3 with corresponding rts for each frame in rows 2 and
+4. frames are marked as valid (v) and perturbed (p). row 5
+
+fig. 2.
+
+rtip results for root sequences s1 and s2 shown in rows 1
+and 3 with corresponding rts for each frame in rows 2 and
+4. frames are marked as valid (v) and perturbed (p). row 5
+shows the root tip velocity vs frame number (time).
+
+show all
+the proposed rtip tracker uses the radon transform for
+occlusion handling, and robust klt (rklt) feature
+matching to handle deformable tissue structures and
+outliers, providing accurate bounding boxes and subpixel
+motion estimates of the root tip with smooth trajectories.
+
+occlusion handling, and robust klt (rklt) feature
+matching to handle deformable tissue structures and
+outliers, providing accurate bounding boxes and subpixel
+motion estimates of the root tip with smooth trajectories.
+jitter in the position or shape of the bounding box from
+klt is minimized using the forward-backward error
+(fbe) combined with using a robust m-estimator
+sample consensus (msac) method for rejecting outliers
+in the rklt matches during similarity transformation
+estimation. manual interaction is not needed to recover
+
+   
+
+from episodic perturbations when the root is removed
+from the imaging station for biological manipulation and
+then placed back on the microscopy stage, modeled as a
+specialized type of occlusion handling or activity
+detection. the simplified radon transform was used to
+identify the visibility of the root tip object of interest in
+the field-of-view, including filtering frames where the
+root may be visible but not the root tip. fbe assists in
+the robust matching of multiple bounding boxes near the
+root tip to recover from perturbations, motion blur, and
+illumination changes. rtip can be scaled to high-
+
+throughput biological studies with thousands of motion
+root may be visible but not the root tip. fbe assists in
+
+the robust matching of multiple bounding boxes near the
+root tip to recover from perturbations, motion blur, and
+illumination changes. rtip can be scaled to high-
+throughput biological studies with thousands of motion
+sequences since rtip can automatically detect the root
+tip object without manual interactive bounding box
+(re)initialization. rtip outperformed siamdw, a state-
+of-theart deep learning-based tracking algorithm and
+winner of the vot-2019 rgb-d challenge. compared
+to the six trackers tested, rtip had the lowest average
+velocity error of less than 0.50 pixel per frame and the
+lowest variance.
+section 5.
+conclusions
+a comparison of velocity estimates v,,, shows that rtip
+gives the highest accuracy results with the lowest mean
+error and standard deviation using the bb centroids.
+evaluation using rmse and ssim show that, rtip has a
+small error with a small standard deviation in rmse,
+and a high similarity value with a small standard
+deviation in ssim, close to the ground truth. mil and
+medianflow also have close mean values to rtip, but
+the standard deviations, i.e. jitter in the localizations, are
+higher than rtip. other tested trackers have higher
+errors with lower similarity values. therefore, kcf,
+siamdw, csrt and tld do not perform well in such
+root tip image sequences. moreover, none of the other
+tested trackers could adapt automatically to the
+perturbation activity in the videos, requiring a manual
+cton and ractart saith » mannal rol
+
+siamdw, csrt and tld do not perform well in such
+root tip image sequences. moreover, none of the other
+tested trackers could adapt automatically to the
+perturbation activity in the videos, requiring a manual
+stop and restart with a manual reinitialization after the
+perturbation. rtip successfully detected the
+perturbations and automatically recovered from the
+episodic activity, without any manual intervention.
+hence, rtip is effective for high-throughput
+phenotyping and screening studies of root tip kinematics.
+
+ 
+
+ization -ftor the
+section 4.
+discussion
+a comparison of velocity estimates v,,, shows that rtip
+gives the highest accuracy results with the lowest mean
+error and standard deviation using the bb centroids.
+evaluation using rmse and ssim show that, rtip has a
+
+small error with a small standard deviation in rmse.
+section 4.
+discussion
+table 1 experiment results for verr averaged over all
+frames from both sequences s1 and s2. mean and
+standard deviation of root tip velocity errors are in pixels
+per frame, rmse (lower is better) and ssim (higher is
+better) values with corresponding standard deviations
+(lower is better). adaptability of tracker due to a
+perturbation (col 5).
+table 1 experiment results for verr averaged over alll
+evaluated using kivise and ddim, together witn te
+
+adaptability of each method to the perturbations are
+shown in table 1.
+where ji, and 4; are the mean intensities within the
+corresponding bbs, o, and o; the corresponding bb
+intensity variances and o,. the covariance between bb
+pixel intensities, and s;, 82 are two constants used for
+numerical stability. the measurements of rmse and
+ssim are averaged over all the images from both
+timelapse videos, and the mean and standard deviation
+values are given in table 1. ground truth values (first
+row) are also included in the table since the root tip
+structures have deformable motion. tracker quality
+evaluated using rmse and ssim, together with the
+adaptability of each method to the perturbations are
+shown in table 1.
+» view source ©
+7
+ 
+
+ssim =~ (eptpeis\lotois
+nt (he, + he + 81)(08, + 07 + 8:
+
+»
+
+1 > (pestle + $1) (2fe:¢ + 82)
+7
+where i, is the i** frame and i, is frame 0 containing the
+template of the root tip. finally, the average structural
+similarity index (ssim) over all bbs is used to
+measure the bb similarity compared to the ground truth
+for each tracker incorporating luminance, contrast and
+structure information,
+
+ssim =~ (epomisliotois
+nt (we, + he + 81)(06, + of + 8:
+
+4 »
+
+1 > (2pte,bte + $1)(2oe¢ + 82)
+» view source ©
+with, ¢;(x) = i(x + ax),t(x) =io(x) (4)
+» view source ©
+7
+ 
+
+4/2
+
+rmse=|+3>y> (a(x)-4@)"] |
+
+i=1 xebb
+7
+ 
+
+4/2
+
+rmse=|+3>y> (a(x)-4@)"] |
+
+i=1 xebb
+several different metrics are used to evaluate tracker
+performance (see table 1). first, velocity estimation
+error (vz,,), is the average of all distances between the
+algorithm estimated velocity or pixel displacement and
+the velocity of the manual ground truth in each frame
+(ie. centroid locations). the mean and standard
+deviation of the error distances for each method is
+shown in table 1. second, the gray level root mean
+squared error (rmse) is used to measure the intensity
+differences between the initial root tip template and
+tracked bbs, is defined as,
+due to the deformable nature of the root tip, it is difficult
+to create a precise ground truth using manually drawn
+bbs in every frame [22]. so the ground truth bbs for
+both test sequences were drawn using linear
+interpolation between selected key frames. the reference
+or key frames were frequently updated to minimize the
+growth rate change in the interpolated intervening bbs.
+there is some noise in the ground truth since the root tip
+growth rate is not constant and the reference boxes are
+drawn manually. reference bbs are drawn in the first
+frame and each 5th frame before perturbation with
+linearly interpolated bbs using these key frames.
+similarly, a new initialization bb is drawn in the frame
+after perturbation and each 5th frame until the end of the
+sequence, with the bbs in-between estimated using
+
+linearly interpolated bbs using these key frames.
+similarly, a new initialization bb is drawn in the frame
+after perturbation and each 5th frame until the end of the
+sequence, with the bbs in-between estimated using
+linear interpolation.
+the threshold for the rt distance comparisons is
+selected as 4 pixels for each sequence, and maximum
+number of pixel distances for the fbe used in rklt is 2
+pixels. in the similarity transformation estimation, the
+threshold of maximum distance for msac is set to 2
+pixels. a quality level threshold of at least 0.01 for the
+shi-tomasi feature detector was used. rtip is tested on
+the timelapse videos in automated mode. some
+intermediate results of the rtip tracker with velocity
+estimations are shown in the fig. 2. six other wellknown
+trackers were also tested on the same sequences
+including top performing csrt [9] and siamdw deep
+learning tracker with pre-trained weights [10]. other
+trackers tested include kcf [11], median flow [17],
+multiple instance learning (mil) [21] and tld [12].
+
+for these six trackers, the bb was manually reinitialized
+iiciuuiny lop periorming coki [j] anu sra w-ueep
+
+learning tracker with pre-trained weights [10]. other
+trackers tested include kcf [11], median flow [17],
+multiple instance learning (mil) [21] and tld [12].
+for these six trackers, the bb was manually reinitialized
+after a perturbation occurred.
+rtip was tested on two root sequences, in which
+seedlings are grown on square plastic plates containing a
+transparent substrate allowing roots to be imaged using
+transmitted light. the plate was placed on the stage of a
+horizontal, compound microscope and imaged through a
+10 objective with a spatial resolution of 2.5 microns
+per pixel, and frame size of 2048 x 2448 pixels [6]. the
+interval between frames is 30 seconds with a total
+imaging time of 40 minutes for an 80 frame video. after
+imaging starts, during a perturbation, the plant is
+removed from the microscope to cut off the plant shoot
+in order to investigate its effect on root growth, then the
+root is placed back under the microscope. images were
+acquired continuously even while the plant was being
+manipulated outside the field-of-view in order to have an
+accurate time base. consequently there will be several
+frames without the root tip being visible and sometimes
+the root tip is not re-placed properly. rtip identifies and
+skips past perturbation activity to automatically track
+
+root tips and quantitatively measure kinematic behavior.
+accurate time base. consequently there will be several
+
+frames without the root tip being visible and sometimes
+the root tip is not re-placed properly. rtip identifies and
+skips past perturbation activity to automatically track
+
+root tips and quantitatively measure kinematic behavior.
+rtip was tested on two root sequences, in which
+seedlings are grown on square plastic plates containing a
+
+ 
+
+amen nate te ha imaand sscines
+
+experirieniar resus
+
+ 
+section 3.
+experimental results
+amaximum distance threshold is used in
+transformation estimation, to find the number of inliers
+with best fit, where the error measure is the distance
+between a feature point p, and the back transformation
+pi; of the corresponding transformed point t(p;). in
+order to estimate a similarity transformation, the inliers
+must consist at least 2 points. if the number of inliers is
+smaller than 2, the air module is used. the control of
+the rklt tracker’s state is determined by the aif
+module. the centroids of bbs are used to estimate
+velocity based on displacement along the x-axis.
+amaximum distance threshold is used in
+transformation estimation, to find the number of inliers
+
+with best fit. where the error measure is the distance
+penalty to outliers when calculating the cost function.
+2.3. rklt tracking with msac outlier
+filtering
+
+after the initial bb is determined by the air module,
+rklt tracking is initialized using the features within the
+selected bb extracted by shi-tomasi feature detector.
+for each frame, rklt tracks the points from the previous
+frame to the current frame by using the given fbe
+threshold. the old inliers are updated from previous
+feature points with the new inliers selected by rklt. a
+similarity transformation between the old and new inliers
+is estimated using a variation of random sample
+consensus (ransac); m-estimator sample consensus
+(msac) [20]. msac gives a value to the inliers with
+respect to how well they fit, in addition to giving a
+penalty to outliers when calculating the cost function.
+2.3. rklt tracking with msac outlier
+filtering
+
+are smaller, (nen tacking is remiualizea using tne aik
+module.
+distances between corresponding rt projection vectors
+(profiles), drt and drx, between current i” and
+previous frames is used to detect the root tip object. a
+threshold on the distance value is used to decide
+whether there is an in-focus root tip present in the
+
+image. when one of the d7 values is greater than a
+(profiles), dx! and dx, between current i and
+
+previous frames is used to detect the root tip object. a
+threshold on the distance value is used to decide
+whether there is an in-focus root tip present in the
+image. when one of the d8 values is greater than a
+given threshold, the current frame is identified as a
+perturbed frame, i.e. no root tip object in frame. the
+tracker is then stopped and the previous frame along
+with its root tip object is stored and marked as the safe
+frame, so that this frame can be used to check
+subsequent frames until the root tip becomes visible
+again. once a safe or reliable frame is marked, then for
+each new frame, the distance between rt vectors at
+each projection between current frame and marked
+frame are denoted as d®t and d®t,.. to detect a valid
+frame after the perturbation, |d®? — dr2| and
+
+|drz, — drt.) are compared to a threshold, and if both
+are smaller, then tracking is reinitialized using the air
+module.
+» view source ©
+(2)
+the rt computes projection vectors for each
+
+6 € [0, 180], but a simplified version with only 0 and
+90 degree vectors can be used for segmentation of
+suitable images [19]. for each frame, the simplified rt
+vectors are calculated using 0 and 90 degree
+projections. the rt projection vectors of current, u, and
+previous frame, v, are compared using the chebyshev
+distance, defined as,
+
+def(u, v) = max [uy —
+~ p
+
+ 
+
+(2)
+the rt computes projection vectors for each
+6 € [0, 180], but a simplified version with only 0 and
+90 degree vectors can be used for segmentation of
+» view source ©
+7
+ro (2') = [fee cosy sind, sind +y
+
+a cos) sind] [x
+where, =| °°
+y sind cosd| ly
+2.2. automatic invalid frame (aif) detection-
+recovery
+
+the radon transform (rt) is an operator to calculate
+
+   
+
+2.2. automatic invalid frame (aif) detection-
+recovery
+
+the radon transform (rt) is an operator to calculate
+projections of an object (2d or 3d) along specified
+directions, ie. rotation angles, using line integrals. the
+coordinates of the original image are rotated by an angle
+6, and a set of parallel lines that are perpendicular to the
+rotated coordinates are used for integration as shown
+[18],
+a robust version of kanade-lucas tomasi (klt) feature
+tracker [16], rklt is used to track features between
+consecutive frames. klt computes the displacement in
+textured windows between sequential images. root tip
+motion is modeled as a translation plus noise and outliers
+to handle root perturbations, aiming to minimize the
+error in the motion vector. the rklt uses the forward-
+backward error (fbe) [17] to determine the inliers
+while tracking the features between frames. to find a
+
+dood tramelation ©wut teanden 6: foeinnd oma
+
+ 
+
+to handle root perturbations, aiming to minimize the
+error in the motion vector. the rklt uses the forward-
+backward error (fbe) [17] to determine the inliers
+while tracking the features between frames. to find a
+good translation, rklt tracks feature points, forward and
+backward between consecutive frames. the distance
+
+between feature point p, and corresponding point
+obtained by the backward tracking of p is measured as.
+fbe. if the distance is larger than a threshold for any p,
+then it is filtered out as an outlier. the number of inliers
+are stored for each candidate bb, and the candidate with
+the highest number of inliers is selected as the next bb.
+if the maximum number of inliers is smaller than a
+threshold, the current frame is not a valid, high quality
+frame and no good transformation can be estimated,
+hence it is skipped. the next frame is used to initialize or
+reinitialize the tracker using the same procedure.
+2.1. automatic initialization and
+reinitialization (air) with bounding box (bb)
+improvement
+
+for initialization, the root tip is found and localized
+roughly in the image with an initial bb, using
+
+reinitialization (air) with bounding box (bb)
+improvement
+
+for initialization, the root tip is found and localized
+roughly in the image with an initial bb, using
+normalized cross correlation (ncc) [13] for template
+matching with an example cropped root tip image [14].
+to improve accuracy, bb candidates around this initial
+bb are sampled and shi-tomasi structure tensor
+compact corner-like features extracted [15]. for each
+pixel, the minimum eigenvalue of the tensor above a
+threshold are selected for matching.
+section 2.
+
+rtip for tracking with
+perturbations
+there are several novel contributions in this study. rtip,
+is a fully automated high-throughput root tip tracker for
+kinematic measurement and phenotype screening
+developed for use with high resolution microscopy
+imaging and a complex experimental setup involving
+episodic perturbations. to our knowledge, these
+conditions cause other state-of-the-art trackers to fail.
+rtip handles automatic detection and skipping of the
+perturbed frames in the sequence by using a fast and
+efficient root tip detection algorithm. occlusion handling
+uses the radon transform and a robust kanade-lucas
+
+tomasi tracker feature matching to detect and localize a
+rtip handles automatic detection and skipping of the
+
+perturbed frames in the sequence by using a fast and
+efficient root tip detection algorithm. occlusion handling
+uses the radon transform and a robust kanade-lucas
+tomasi tracker feature matching to detect and localize a
+distorted root tip and restart tracking based on forward
+backward error and robust outlier handling. root
+displacements are estimated with sub-pixel accuracy and
+minimal centroid jitter noise.
+complex biological protocols for characterizing the
+growth kinematics of plant phenotypes now have
+additional requirements for accurate video tracking. in
+this case the experiments required manual manipulation
+of the plant shoot during growth; perturbations that
+involved moving the plant so that the root tip becomes
+occluded” (i.e. outside the microscope field-of-view)
+for an unknown duration. the plant is manipulated then
+placed back on the stage and the root can reappear in a
+new position. during this interval imaging continues, to
+preserve the time-base, so frames may be empty or
+blurred, and the continuity of the root tip trajectory is
+broken. we developed rtip, a fully automated tracking
+
+ps “ reer wppeeenie
+new position. during this interval imaging continues, to
+preserve the time-base, so frames may be empty or
+blurred, and the continuity of the root tip trajectory is
+broken. we developed rtip, a fully automated tracking
+tool to measure root tip motion in sequences where the
+root is imaged at high enough resolution and where there
+are episodic perturbation discontinuities in the position
+of the root. rtip estimates a smooth displacement
+between bounding boxes (bb) while tracking, producing
+accurate velocity estimates. experiments done on two
+root tip image sequences show that rtip outperforms six
+tested trackers in velocity accuracy, including
+discriminative correlation filter tracker (csrt) [9] and
+siamdw tracker [10]. although both are high quality
+trackers, the shape and size of the bbs change during
+tracking, which induces centroid jitter errors and leads to
+imprecise velocity estimates compared to rtip. fig. 1
+shows initial bb for frame 0 and tracking results on
+frame 12 for rtip, csrt, siamdw, kernelized
+correlation filters (kcf) [11] and tracking, learning
+and detection (tld) [12] with corresponding velocity
+arrore_whara chanaac in rr ciza and lncatinn can ha
+shows initial bb for frame 0 and tracking results on
+frame 12 for rtip, csrt, siamdw, kernelized
+correlation filters (kcf) [11] and tracking, learning
+and detection (tld) [12] with corresponding velocity
+errors, where changes in bb size and location can be
+seen. rtip is designed to automatically detect perturbed
+frames for skipping (pause tracking), when a valid frame
+comes after the perturbed ones to reinitialize and restart
+the tracker (continue tracking).
+ 
+  
+
+ 
+
+fig. 1.
+initial bb in frame 0 and tracking results on frame 12, of rtip,
+csrt, siamdw, kcf and tld with velocity errors.
+
+show all
+[2fig. 1. - initial bb in frame 0 and tracking results on frame
+12, of rtip, csrt, siamdw, kcf and tld with velocity
+
+errors.
+
+ 
+there has been extensive work done on plant image
+analysis for understanding root kinematics. van der
+weele et al. [1] used computational image analysis of
+deformable motion [2] at high resolution for root growth
+in rootflowrt. jiang et al. [3] estimated the non-rigid
+motion of plant roots by using a combination of
+matching and tensor methods. wangenheim et al. [4]
+developed a confocal microscope setup for vertical
+sample mounting and integrated directional illumination,
+and a tracker called tiptracker, a custom software for
+automatic tracking of diverse moving objects usable on
+various microscope setups. baskin and zelinsky [5] did
+a study on kinematic characterization of root growth by
+using stripflow, which was introduced in a previous
+study by yang et al. [6], leverages the prior knowledge
+that movement at nearby points are similar. other tools
+have been developed to analyze the growth of root tips in
+experimental setups with roots grow vertically at lower
+study by yang e etal. [6], leverages the prior : knowledge
+that movement at nearby points are similar. other tools
+have been developed to analyze the growth of root tips in
+experimental setups with roots grow vertically at lower
+resolution. the root tip analysis tool called artt
+combined a segmentation algorithm with additional
+imaging filters for 2d tip detection was proposed by
+russino et al. [7]. french et al. [8] implemented
+roottrace, combined a particle-filtering algorithm with
+a graphbased method to trace the root tip.
+there has been extensive work done on plant image
+manipurauons. varlous image analysis anc-smgreovyect
+
+tracking methods may be suitable to track the root tip
+depending on the microscopy and experimental setup.
+observing growth kinematics of roots under various
+experimental conditions is an important component of
+plant physiology studies. in some experiments, root
+needs to be tracked before and after some experimental
+plant manipulation of varying duration. in this work the
+aim is to track growth rate, root tip needs to be tracked
+accurately at subpixel resolution before and after
+manipulations. various image analysis and singleobject
+tracking methods may be suitable to track the root tip
+depending on the microscopy and experimental setup.
+section 1.
+introduction
+ubmed id: 33841049
+dhabi, united arab en
+ubmed id: 33841049
+
+isbn information:
+
+issn information:
+conference location
+dhabi, united arab en
+ate added to ieee xpiore: publisher: ieee
+
+) september 2020
+conference locati
+
+isbn information: dhabi, united arab
+
+issn information:
+ate of conference: 25-28 doi:
+ctober 2020 10.1109/icip40778.20
+ublished in: 2020 ieee international conference on
+rocessing (icip)
+bstract:
+tip is a tool to quantify plant root growth velocity usir
+solution microscopy image sequences at sub-pixel a
+he fully automated rtip tracker is designed for high-
+roughput analysis of plant phenotyping experiments
+pisodic perturbations. rtip is able to auto-skip past t
+anual intervention perturbation activity, i.e. when the
+not under the microscope, image is distorted or blur
+rovides the most accurate root growth velocity results
+west variance (i.e. localization jitter) compared to six
+gorithms including the top performing unsupervised
+iscriminative correlation filter tracker and the deep
+fider siamese network. rtip is the only tracker that i
+
+itamatinalhy datact and racouar fram facclicionlive\
+
+west variance (le. localization jitter) compared to six
+gorithms including the top performing unsupervised
+
+iscriminative correlation filter tracker and the deep
+fider siamese network. rtip is the only tracker that i
+utomatically detect and recover from (occlusion-like)
+uration perturbation events.
+@o<©
+lepe ; kannappan palaniappan ; melissa elmal...
+@o<©
+lepe ; kannappan palaniappan ; melissa elmal...
+eee international conte... @
+
+lly automated root tip trac
+iring plant growth with
+1t perturbations
+
+ 
+
+cite this
+
+ 
+
+ 
+
+ 
+faa
+
+browse ¥ my settings’ help v umass.
+
+ 
+

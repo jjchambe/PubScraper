@@ -1,0 +1,3274 @@
+basic science methods for the characterization of
+integrating comparative modeling and accelerated
+imulations reveals conformational and energetic
+basis of actomyosin force generation ”
+
+2023, proceedings of the national academy of sciences of the
+united states of america
+
+ 
+new paradigms in actomyosin energy transduction:
+critical evaluation of non-traditional models for
+orthophosphate release 7
+
+2023, biorxiv
+ 
+
+new paradigms in actomyosin energy transduction:
+critical evaluation of non-traditional models for
+orthophosphate release 7
+
+2023, bioessays
+now.naradiagicin 2ctamuncin anaray traneductian:
+
+2023, nature communications
+a mutation in switch | alters the load-dependent
+kinetics of myosin va 2
+2023, nature communications
+cardiomyopathy mutations impact the actin-activated
+power stroke of human cardiac myosin
+2021, biophysical journal
+
+citation excerpt :
+...because the actin-activated power stroke includes both the actin-
+binding and lever arm rotation steps, itis possible that the
+mutations could impact either of these steps. most models suggest
+that lever arm rotation and the weak to strong actin-binding
+transition occur simultaneously (11,56). thus, we propose that the
+slowed actin-activated power stroke is associated with an overall
+reduction in the rate of transition into the strongly bound states....
+
+show abstract v
+cardiomyopathy mutations impact the actin-activated
+
+po wer stroke of human cardiac myosin
+‘ited by (19)
+cited by (19)
+3911945
+
+view at publisher 7 crossref 2
+view in scopus 2 google scholar 7
+
+e.m. de la cruz, e.m. ostap
+
+kinetic and equilibrium analysis of the myosin
+atpase
+
+methods enzymol, 455 (2009), pp. 157-192
+10.1016/s0076-6879(08)04206-7 2
+
+19289206
+
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+j.m. muretta, kj. petersen, d.d. thomas
+
+direct real-time detection of the actin-activated
+power stroke within the myosin catalytic
+domain
+
+proc. natl. acad. sci. u.s.a, 110 (2013), pp. 7211-7216
+10.1073/pnas.1222257110 a
+
+23589853
+
+crossref 7 viewinscopus 2 _ google scholar 7
+10.1073/pnas.1222257110 a
+
+23589853
+
+view at publisher 7 crossref 7
+
+view in scopus 2 google scholar 7
+
+m. unger, e.p. debold
+
+acidosis decreases the ca?* sensitivity of thin
+filaments by preventing the first actomyosin
+interaction
+
+‘am. j. physiol. cell physiol, 317 (2019), pp. c714-c718
+10.1152/ajpcell.00196.2019 2
+
+31339771
+
+crossref 7 viewin scopus 7 google scholar 2
+
+d.a. smith, w. steffen, r.m. simmons, j. sleep
+hidden-markov methods for the analysis of
+single-molecule actomyosin displacement data:
+the variance-hidden-markov method
+biophys. j, 81 (2001), pp. 2795-2816
+10.1016/s0006-3495(01)75922-x a
+
+11606292
+
+the variance-hidden-markov method
+biophys. j, 81 (2001), pp. 2795-2816
+10.1016/s0006-3495(01)75922-x a
+
+11606292
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+j.f. beausang, y.e. goldman, p.c. nelson
+
+changepoint analysis for single-molecule
+polarized total internal reflection fluorescence
+microscopy experiments
+
+methods enzymol, 487 (2011), pp. 431-463
+10.1016/b978-0-12-381270-4.00015-9 7
+
+21187234
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+c. veigel, j.£. molloy, s. schmitz, j. kendrick-jones
+load-dependent kinetics of force production by
+smooth muscle myosin measured with optical
+tweezers
+
+load-dependent kinetics of force production by
+smooth muscle myosin measured with optical
+tweezers
+
+nat. cell biol, 5 (2003), pp. 980-986
+
+10.1038/ncb1060 7
+
+14578909
+
+view in scopus 2 google scholar 7
+
+i visser, m. speekenbrink
+
+depmixs4: an r package for hidden markov
+models
+
+j. stat. softw, 36 (2010), pp. 1-21
+
+10.18637/jss.v036.i07 7
+
+view in scopus 2 google scholar 7
+10448864
+
+‘h view at publisher 7 view in scopus 7
+google scholar 2
+
+e.m. de la cruz, e.m. ostap
+
+relating biochemistry and function in the
+myosin superfamily
+
+curr. opin. cell biol, 16 (2004), pp. 61-67
+10.1016/j.ceb.2003.11.011 7
+
+15037306
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+c.m. yengo, e.m. de la cruz, d. safer, e.m. ostap, h.l.
+‘sweeney
+
+kinetic characterization of the weak binding
+states of myosin v
+
+biochemistry, 41 (2002), pp. 8508-8517
+10.1021/bio15969u 7
+
+12081502
+
+view in scopus 2 google scholar 7
+10.1021/bio15969u 7
+
+12081502
+
+‘ey view at publisher 7 ‘view in scopus 7
+google scholar
+
+pb. joel, k.m. trybus, h.l. sweeney
+
+two conserved lysines at the 50/20-kda junction
+of myosin are necessary for triggering actin
+activation
+
+j. biol. chem, 276 (2001), pp. 2998-3003
+10.1074/jbc.m006930200 7
+
+11042210
+
+view pdf —viewarticle view in scopus
+
+google scholar 7
+
+ 
+
+b.h. varkuti, z. yang, b. kintses, p. erdélyi, i. bardos-nagy,
+all kovacs, p. hari, m. kellermayer, t. vellai, a. mélndsi
+csizmadia
+
+anovel actin binding site of myosin required for
+effective muscle contraction
+
+nat. struct. mol. biol, 19 (2012), pp. 299-306
+
+a novel actin binding site of myosin required for
+effective muscle contraction
+
+nat. struct. mol. biol, 19 (2012), pp. 299-306
+10.1038/nsmb.2216 7
+
+22343723
+
+ 
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ct. murphy, j.a. spudich
+
+variable surface loops and myosin activity:
+accessories to a motor
+
+j. muscle res. cell motil, 21 (2000), pp. 139-151
+10.1023/a:1005610007209 ”
+
+10961838
+
+view in scopus 2 google scholar 7
+
+j.m. chalovich, e. eisenberg
+
+inhibition of actomyosin atpase activity by
+
+troponin-tropomyosin without blocking the
+binding of myosin to actin
+
+j. biol. chem, 257 (1982), pp. 2432-2437
+
+6460759
+
+innipition or actomyosin ai rase activity by
+
+troponin-tropomyosin without blocking the
+binding of myosin to actin
+
+j. biol. chem, 257 (1982), pp. 2432-2437
+
+6460759
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+k.m. trybus, ew. taylor
+
+kinetic studies of the cooperative binding of
+subfragment 1 to regulated actin
+
+proc. natl. acad. sci. u.s.a, 77 (1980), pp. 7209-7213
+10.1073/pnas.77.12.7209 a
+
+6938966
+
+crossref 7 viewin scopus 7 google scholar 2
+
+d.f. mckillop, m.a. geeves
+
+regulation of the acto.myosin subfragment 1
+interaction by troponin/tropomyosin: evidence
+for control of a specific isomerization between
+
+two acto.myosin subfragment 1 states
+ixeguiauon ol une aclto.myosin suviragment 1
+
+interaction by troponin/tropomyosin: evidence
+for control of a specific isomerization between
+two acto.myosin subfragment 1 states
+
+biochem. j, 279 (1991), pp. 711-718
+
+10.1042/bj2790711 2
+
+1953663
+
+ 
+
+ 
+
+crossref 7 viewin scopus 7 google scholar 2
+
+h.d. white, b. belknap, m.r. webb
+
+kinetics of nucleoside triphosphate cleavage and
+phosphate release steps by associated rabbit
+skeletal actomyosin, measured using a novel
+fluorescent probe for phosphate
+
+biochemistry, 36 (1997), pp. 11828-11836
+
+10.1021/bi970540h a
+
+9305974
+
+view in scopus 7 google scholar
+
+j.d. pardee, j.a. spudich
+purification of muscle actin
+
+‘ey view at publisher 7 ‘view in scopus 7
+google scholar 7
+
+j.d. pardee, j.a. spudich
+
+purification of muscle actin
+
+methods enzymol, 85 (1982), pp. 164-181
+10.1016/0076-6879(82)85020-9 7
+
+7121269
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+ah. criddle, m.a. geeves, t. jeffries
+
+the use of actin labelled with n-(1-
+
+pyrenyl iodoacetamide to study the interaction
+of actin with myosin subfragments and
+troponin/tropomyosin
+
+biochem. j, 232 (1985), pp. 343-349
+
+10.1042/bj2320343 71
+
+3911945
+
+crossref 7 viewin scopus 7 google scholar 2
+references
+
+1
+
+40
+
+41
+
+41
+
+42
+
+43
+
+43
+
+44
+
+45
+
+45
+
+46
+
+m.a. hartman, j.a. spudich
+
+the myosin superfamily at a glance
+j. cell sci, 125 (2012), pp. 1627-1632
+10.1242/jcs.094300 7
+
+22566666
+
+crossref 7 viewin scopus 7 google scholar 2
+
+s.m. heisler, j.r. sellers
+
+various themes of myosin regulation
+
+j. mol. biol, 428 (2016), pp. 1927-1946
+10.1016/j,jmb.2016.01.022
+
+26827725
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+j.s. berg, b.c. powell, re. cheney
+a millennial myosin census
+mol. biol. cell, 12 (2001), pp. 780-794
+
+j.s. berg, b.c. powell, re. cheney
+
+a millennial myosin census
+mol. biol. cell, 12 (2001), pp. 780-794
+10.1091/mbc.12.4.780 7
+
+11294886
+
+crossref 7 viewin scopus 7 google scholar 2
+
+j. robert-paganin, o. pylypenko, c. kikuti, h.l. sweeney, a.
+houdusse
+
+force generation by myosin motors: a structural
+perspective
+
+chem. rev, 120 (2020), pp. 5-35
+10.1021/acs.chemrev.9b00264 7
+
+31689091
+
+crossref 7 viewin scopus 7 google scholar 2
+
+dn. trivedi, s. nag, a. spudich, k.m. ruppel, j.a. spudich
+the myosin family of mechanoenzymes: from
+mechanisms to therapeutic approaches
+
+annu. rev. biochem, 89 (2020), pp. 667-693
+
+dn. trivedi, s. nag, a. spudich, k.m. ruppel, j.a. spudich
+the myosin family of mechanoenzymes: from
+mechanisms to therapeutic approaches
+
+annu. rev. biochem, 89 (2020), pp. 667-693
+10.1146/annurev-biochem-011520-105234 7
+
+32169021
+
+crossref 7 viewin scopus 7 google scholar 2
+
+af. huxley
+
+mechanics and models of the myosin motor
+philos. trans. r. soc. lond. b biol. sci, 355 (2000), pp. 433-440
+10.1098/rstb.2000.0584 7
+
+10836496
+
+view in scopus 7 google scholar
+
+kc. holmes
+
+the swinging lever-arm hypothesis of muscle
+contraction
+
+curr. biol, 7 (1997), pp. r112-ru8
+10.1016/s0960-9822(06)00051-0 7
+
+dore aarts eee eee nay peneot ue ae
+contraction
+
+curr. biol, 7 (1997), pp. r112-ru8
+10.1016/s0960-9822(06)00051-0 7
+
+9081660
+
+h view pdf —viewarticle view in scopus
+google scholar 7
+
+mj. tyska, d.m. warshaw
+
+the myosin power stroke
+
+cell motil. cytoskeleton, 51 (2002), pp. 1-15
+10.1002/cm.10014 7
+
+11810692
+
+view in scopus 2 google scholar 7
+
+r.w. lymn, ew, taylor
+
+mechanism of adenosine triphosphate
+hydrolysis by actomyosin
+
+biochemistry, 10 (1971), pp. 4617-4624
+10.1021/bi00801a004 ”
+
+4258719
+
+ 
+
+gpasqagne -yiowiosepoun
+biochemistry, 10 (1971), pp. 4617-4624
+10.1021/bi00801a004 ”
+
+4258719
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ma. geeves
+
+the atpase mechanism of myosin and
+actomyosin
+
+biopolymers, 105 (2016), pp. 483-491
+10.1002/bip.22853 ”
+
+27061920
+
+crossref 7 google scholar 7
+
+c. batters, c. veigel
+
+mechanics and activation of unconventional
+myosins
+
+traffic, 17 (2016), pp. 860-871
+
+10.1111/tra.12400 7
+
+27061900
+
+crossref 7 viewinscopus 2 _ google scholar 7
+
+traffic, 17 (2016), pp. 860-871
+10.1111/tra.12400 7
+27061900
+
+crossref 7 viewin scopus 7 google scholar 2
+
+y. sun, y.e. goldman
+
+lever-arm mechanics of processive myosins
+biophys. j, 101 (2011), pp. 1-11
+
+10.1016/j.bp}.2011.05.026 ”
+
+21723809
+
+‘b view pdf ~—viewarticle google scholar ”
+
+y. ishii, a. ishijima, t. yanagida
+
+single molecule nanomanipulation of
+biomolecules
+
+trends biotechnol, 19 (2001), pp. 211-216
+10.1016/s0167-7799(01)01635-3
+
+11356282
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+11356282
+
+view pdf viewarticle view in scopus 7
+google scholar 2
+
+v. lombardi, g. piazzesi, m. reconditi, m. linari, l. lucii, a.
+stewart, y.b. sun, p. boesecke, t. narayanan, t. irving, m.
+iving
+
+x-ray diffraction studies of the contractile
+mechanism in single muscle fibres
+
+philos. trans. r. soc. lond. b biol. sci, 359 (2004), pp. 1883-
+1893
+
+10.1098/rstb.2004.1557 a
+
+15647164
+
+view in scopus 2 google scholar 7
+
+r. stehle, c. tesi
+
+kinetic coupling of phosphate release, force
+generation and rate-limiting steps in the cross-
+bridge cycle
+
+j. muscle res. cell motil, 38 (2017), pp. 275-289
+10.1007/s10974-017-9482-8 7
+
+bridge cycle
+
+j. muscle res. cell motil, 38 (2017), pp. 275-289
+10.1007/s10974-017-9482-8 7
+
+28918606
+
+crossref 7 viewin scopus 7 google scholar 2
+
+h.l. sweeney, a. houdusse
+
+structural and functional insights into the
+myosin motor mechanism
+
+annu. rev. biophys, 39 (2010), pp. 539-557
+10.1146/annurev.biophys.050708.133751 7
+20192767
+
+crossref 7 viewin scopus 7 google scholar 2
+
+p.llinas, t. isabet, l. song, v. ropars, b. zong, h. benisty, s.
+sirigu, c. mortis, c. kikuti, d. safer, h.l. sweeney, a.
+houdusse
+
+how actin initiates the motor activity of myosin
+dev. cell, 33 (2015), pp. 401-412
+
+10.1016/j.devcel.2015.03.025 7
+
+25936506
+
+houdusse
+
+how actin initiates the motor activity of myosin
+dev. cell, 33 (2015), pp. 401-412
+
+10.1016/j.devcel.2015.03.025 7
+
+25936506
+
+h view pdf viewarticle view in scopus 7
+
+google scholar 7
+
+dy. trivedi, j.m. muretta, a.m. swenson, }.p. davis, d.d.
+thomas, c.m. yengo
+
+direct measurements of the coordination of
+lever arm swing and the catalytic cycle in
+myosin v
+
+proc. natl. acad. sci. u.s.a, 112 (2015), pp. 14593-14598
+10.1073/pnas.1517566112 7
+
+26553992
+
+crossref 7 google scholar 7
+
+j.m. muretta, j.a. rohde, d.o. johnsrud, s. cornea, d.d.
+thomas
+direct real-time detection of the structural and
+
+j.m. muretta, j.a. rohde, d.o. johnsrud, s. cornea, d.d.
+thomas
+
+direct real-time detection of the structural and
+biochemical events in the myosin power stroke
+proc. natl. acad. sci. u.s.a, 112 (2015), pp. 14272-14277
+10.1073/pnas.1514859112 a
+
+26578772
+
+crossref 7 viewin scopus 7 google scholar 2
+
+j.a. rohde, d.d. thomas, j.m. muretta
+
+heart failure drug changes the
+mechanoenzymology of the cardiac myosin
+powerstroke
+
+proc. natl. acad. sci. u.s.a, 114 (2017), pp. £1796-e1804
+10.1073/pnas.1611698114 7
+
+28223517
+
+view in scopus 2 google scholar 7
+
+m.s. woody, d.a. winkelmann, m. capitanio, e.m. ostap, y.e.
+goldman
+
+view in scopus 2 google scholar 7
+
+ 
+
+ 
+
+ 
+
+m.s. woody, d.a. winkelmann, m. capitanio, e.m. ostap, y.e.
+goldman
+
+single molecule mechanics resolves the earliest
+events in force generation by cardiac myosin
+life, 8 (2019), article e49266
+
+10.7554/elife.49266 7
+
+31526481
+
+view in scopus 2 google scholar 7
+
+lk. gunther, j.a. rohde, w. tang, s.d. walton, w.c. unrath,
+dy. trivedi, j.m. muretta, d.d. thomas, c.m. yengo
+converter domain mutations in myosin alter
+structural kinetics and motor function
+
+j. biol. chem, 294 (2019), pp. 1554-1567
+10.1074/jbc.ra118.006128 2
+
+30518549
+
+th view pdf viewarticle crossref 7
+
+view in scopus 2 google scholar 7
+
+  
+
+crossref 7
+view in scopus 7 google scholar
+
+f). kull, r.d. vale, rj. fletterick
+
+the case for a common ancestor: kinesin and
+myosin motor proteins and g proteins
+
+j. muscle res. cell motil, 19 (1998), pp. 877-886
+10.1023/a:1005489907021 2
+
+10047987
+
+view in scopus 7 google scholar
+
+t. shimada, n. sasaki, r. ohkura, k. sutoh
+
+alanine scanning mutagenesis of the switch i
+region in the atpase site of dictyostelium
+discoideum myosin ii
+
+biochemistry, 36 (1997), pp. 14037-14043
+10.1021/bi971837i 7
+
+9369475
+
+view in scopus 7 google scholar
+
+rhodes, r. ikebe, t. kambara, h.d. white, m.
+
+ 
+
+‘ey view at publisher 7 ‘view in scopus 7
+google scholar 7
+
+x.d. li, t.e. rhodes, r. ikebe, t. kambara, h.d. white, m.
+ikebe
+
+effects of mutations in the y-phosphate binding
+site of myosin on its motor function
+
+j. biol. chem, 273 (1998), pp. 27404-27411
+10.1074/jbe.273.42.27404 7
+
+9765269
+
+view pdf —viewarticle view in scopus
+
+google scholar 7
+
+e. forgacs, t. sakamoto, s. cartwright, b. belknap, m.
+kovdcs, j. toth, m.r. webb, j.r. sellers, h.d. white
+switch 1 mutation $217a converts myosin v into
+a low duty ratio motor
+
+j. biol. chem, 284 (2009), pp. 2138-2149
+10.1074/jbc.m805530200 7
+
+19008235
+
+j-biol. chem, 284 (2009), pp. 2138-2149
+10.1074/jbc.m805530200 7
+
+19008235
+
+th view pdf viewarticle crossref 7
+
+view in scopus 7 google scholar 2
+
+‘a.m. swenson, dw. trivedi, a.a. rauscher, y. wang, y. takagi,
+b.m. palmer, a. malndsi-csizmadia, e.p. debold, c.m. yengo
+magnesium modulates actin binding and adp
+release in myosin motors
+
+j. biol. chem, 289 (2014), pp. 23977-23991
+10.1074/jbc.m114.562231 7
+
+25006251
+
+th view pdf viewarticle crossref 7
+
+view in scopus 2 google scholar 7
+
+d\. trivedi, c. david, dj. jacobs, c.m. yengo
+
+switch ii mutants reveal coupling between the
+nucleotide- and actin-binding regions in myosin
+vv
+
+biophys. j, 102 (2012), pp. 2545-2555
+inicrevulae* anor dcgr-vinuny reytuus 1 layustl
+vv
+
+biophys. j, 102 (2012), pp. 2545-2555
+10.1016/j.bpj.2012.04.025 a
+
+22713570
+
+view pdf —viewarticle view in scopus
+
+google scholar 7
+
+dy. trivedi, j.m. muretta, a.m. swenson, d.d. thomas, c.m.
+yengo
+
+magnesium impacts myosin v motor activity by
+altering key conformational changes in the
+mechanochemical cycle
+
+biochemistry, 52 (2013), pp. 4710-4722
+
+10.1021/bi4004364 71
+
+23725637
+
+crossref 7 viewin scopus 7 google scholar 2
+
+m.a. geeves, c. perreault-micale, lm. colucci
+kinetic analyses of a truncated mammalian
+myosin i suggest a novel isomerization event
+
+m.a. geeves, c. perreault-micale, lm. colucci
+kinetic analyses of a truncated mammalian
+myosin i suggest a novel isomerization event
+preceding nucleotide binding
+
+j. biol. chem, 275 (2000), pp. 21624-21630
+10.1074/jbc.m000342200 ”
+
+10781577
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+c. veigel, m.l. bartoo, d.c. white, j.c. sparrow, j.£. molloy
+the stiffness of rabbit skeletal actomyosin cross-
+bridges determined with an optical tweezers
+transducer
+
+biophys. j, 75 (1998), pp. 1424-1438
+10.1016/s0006-3495(98)74061-5 7
+
+9726944
+
+view pdf —viewarticle view in scopus
+
+google scholar 7
+
+uf alama ©m dinele
+‘el view pdf ~—viewarticle view in scopus 7
+
+ 
+
+google scholar 2
+
+k.c. neuman, s.m. block
+
+optical trapping
+
+rev. sci. instrum, 75 (2004), pp. 2787-2809
+10.1063/1.1785844 71
+
+16878180
+
+view in scopus 2 google scholar 7
+
+m. capitanio, m. canepari, m. maffei, d. beneventi, c.
+monico, f. vanzi, r. bottinelli, fs. pavone
+
+ultrafast force-clamp spectroscopy of single
+molecules reveals load dependence of myosin
+working stroke
+
+nat. methods, 9 (2012), pp. 1013-1019
+10.1038/nmeth.2152 7
+
+22941363
+
+crossref 7 viewin scopus 7 google scholar 2
+
+s. fischer, b. windshiigel, d. horak, k.c. holmes, j.c. smith
+stqygtyral mechanicm af the recavery stroke in
+
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+s. fischer, b. windshiigel, d. horak, k.c. holmes, j.c. smith
+structural mechanism of the recovery stroke in
+the myosin molecular motor
+
+proc. natl. acad. sci. u.s.a, 102 (2005), pp. 6873-6878
+10.1073/pnas.0408784102 a
+
+15863618
+
+crossref 7 viewin scopus 7 google scholar 2
+
+fa. kiani, s. fischer
+
+atp-dependent interplay between local and
+global conformational changes in the myosin
+motor
+
+cytoskeleton (hoboken), 73 (2016), pp. 643-651
+10.1002/cm.21333 7
+
+27583666
+
+crossref 7 viewin scopus 7 google scholar 2
+
+yenehor oem focfonov. tv. nearashav. s.f. blakely.
+27583666
+
+h view at publisher 7 — crossref 7
+
+view in scopus 7 google scholar 2
+
+y.e. nesmelov, rv. agafonov, lv. negrashov, s.e. blakely,
+m.a. titus, d.d. thomas
+
+structural kinetics of myosin by transient time-
+resolved fret
+
+proc. natl. acad. sci. u.s.a, 108 (2011), pp. 1891-1896
+10.1073/pnas.1012320108 ”
+
+21245357
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ 
+
+a. malndsi-csizmadia, d.s. pearson, m. kovacs, rj. woolley,
+m.a. geeves, c.r. bagshaw
+
+kinetic resolution of a conformational transition
+and the atp hydrolysis step using relaxation
+methods with a dictyostelium myosin ii mutant
+containing a single tryptophan residue
+biochemistry, 40 (2001), pp. 12727-12737
+
+aiap diu tiee-“ayeh uy ors otlp wong kaaaull
+methods with a dictyostelium myosin ii mutant
+containing a single tryptophan residue
+biochemistry, 40 (2001), pp. 12727-12737
+
+10.1021/bi010963q ”
+
+11601998
+
+view in scopus 2 google scholar 7
+
+cm. yengo, h.l. sweeney
+
+functional role of loop 2 in myosin v
+biochemistry, 43 (2004), pp. 2605-2612
+10.1021/bi035510v a
+
+14992598
+
+view in scopus 2 google scholar 7
+
+pb. joel, h.l. sweeney, k.m. trybus
+
+addition of lysines to the 50/20 kda junction of
+myosin strengthens weak binding to actin
+without affecting the maximum atpase activity
+biochemistry, 42 (2003), pp. 9160-9166
+
+10.1021/bi034415j
+jarpeakn 2 oy
+
+ 
+
+ 
+
+ 
+
+myosin strengthens weak binding to actin
+without affecting the maximum atpase activity
+biochemistry, 42 (2003), pp. 9160-9166
+
+10.1021/bi034415j
+
+12885250
+
+view in scopus 2 google scholar 7
+
+b. kintses, m. gyimesi, d.s. pearson, m.a. geeves, w. zeng,
+cr. bagshaw, a. mélndsi-csizmadia
+
+reversible movement of switch 1 loop of myosin
+determines actin interaction
+
+embo j, 26 (2007), pp. 265-274
+
+10.1038/sjemboj.7601482 7
+
+17213877
+
+crossref 7 viewin scopus 7 google scholar 2
+
+tf. reubold, s. eschenburg, a. becker, f). kull, dj. manstein
+astructural model for actin-induced nucleotide
+release in myosin
+
+nat. struct. biol, 10 (2003), pp. 826-830
+to 1nasinchas7 a
+
+tf. reubold, s. eschenburg, a. becker, f). kull, dj. manstein
+astructural model for actin-induced nucleotide
+release in myosin
+
+nat. struct. biol, 10 (2003), pp. 826-830
+
+10.1038/nsb987 7
+
+14502270
+
+view in scopus 2 google scholar 7
+
+m. preller, dj. manstein
+
+myosin structure, allostery, and mechano-
+chemistry
+
+structure, 21 (2013), pp. 1911-1922
+10.1016/j.str.2013.09.015 7
+
+24210227
+
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+a. houdusse, h.l. sweeney
+
+how myosin generates force on actin filaments
+trends biochem. sci, 41 (2016), pp. 989-997
+10.1016/j.tibs.2016.09.006 7
+
+a. houdusse, h.l. sweeney
+
+how myosin generates force on actin filaments
+trends biochem. sci, 41 (2016), pp. 989-997
+10.1016/j.tibs.2016.09.006 7
+
+27717739
+
+h view pdf viewarticle view in scopus 7
+
+google scholar a
+
+m. sun, m.b. rose, s.k. ananthanarayanan, dj. jacobs, c.m.
+yengo
+
+characterization of the pre-force-generation
+state in the actomyosin cross-bridge cycle
+
+proc. natl. acad. sci. u.s.a, 105 (2008), pp. 8631-8636
+10.1073/pnas.0710793105 7
+
+18552179
+
+crossref 7 viewin scopus 7 google scholar 2
+
+j.a. dantzig, y.£. goldman, n.c. millar, j. lacktis, e. homsher
+reversal of the cross-bridge force-generating
+transition by photogeneration of phosphate in
+
+rabbit psoas muscle fibres
+j.a. dantzig, y.£. goldman, n.c. millar, j. lacktis, e. homsher
+
+reversal of the cross-bridge force-generating
+transition by photogeneration of phosphate in
+rabbit psoas muscle fibres
+
+j. physiol, 451 (1992), pp. 247-278
+10.1113/jphysiol.1992.sp019163 7
+
+1403812
+
+crossref 7 viewin scopus 7 google scholar 2
+
+jw. walker, z. lu, r.l. moss
+
+effects of ca2* on the kinetics of phosphate
+release in skeletal muscle
+
+j. biol. chem, 267 (1992), pp. 2459-2466
+
+1733945
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+e.p. debold, m.a. turner, j.c. stout, s. walcott
+phosphate enhances myosin-powered actin
+filament velocity under acidic conditions ina
+
+motility assay
+e.p. debold, m.a. turner, j.c. stout, s. walcott
+
+phosphate enhances myosin-powered actin
+filament velocity under acidic conditions ina
+motility assay
+
+‘am. j. physiol. regul. integr. comp. physiol, 300 (201), pp.
+r1401-r1408
+
+10.1152/ajpregu.00772.2010 a
+
+21346239
+
+crossref 7 google scholar 7
+
+e.p. debold, s. walcott, m. woodward, m.a. turner
+
+direct observation of phosphate inhibiting the
+force-generating capacity of a miniensemble of
+myosin molecules
+
+biophys. j, 105 (2013), pp. 2374-2384
+10.1016/j.bpj.2013.09.046 ”
+
+24268149
+
+h view pdf viewarticle view in scopus 7
+
+google scholar 7
+
+m. caremani, l. melli, m. dolfi, v. lombardi, m. linari
+
+ 
+
+view pdf viewarticle viewin scopus 7
+google scholar 2
+
+m. caremani, l. melli, m. dolfi, v. lombardi, m. linari
+force and number of myosin motors during
+muscle shortening and the coupling with the
+release of the atp hydrolysis products
+
+j. physiol, 593 (2015), pp. 3313-3332
+
+10.1113/jp270265 7
+
+26041599
+
+view in scopus 2 google scholar 7
+
+m. caremani, l. melli, m. dolfi, v. lombardi, m. linari
+the working stroke of the myosin ii motor in
+muscle is not tightly coupled to release of
+orthophosphate from its active site
+
+j. physiol, 591 (2013), pp. 5187-5205
+10.1113/jphysiol.2013.257410 a
+
+23878374
+
+crossref 7 viewinscopus 2 _ google scholar 7
+10.1113/jphysiol.2013.257410 a
+
+23878374
+
+h view at publisher 7 — crossref 7
+
+view in scopus 2 google scholar 7
+
+e.m. de la cruz, a.l. wells, s.s. rosenfeld, e.m. ostap, h.l.
+‘sweeney
+
+the kinetic mechanism of myosin v
+
+proc. natl. acad. sci. u.s.a, 96 (1999), pp. 13726-13731
+10.1073/pnas.96.24.13726 7
+
+10570140
+
+view in scopus 2 google scholar 7
+
+a.d. mehta, r.s. rock, m. rief, j.a. spudich, m.s. mooseker,
+r.e. cheney
+
+myosin-v is a processive actin-based motor
+nature, 400 (1999), pp. 590-593
+
+10.1038/23072 a
+
+10448864
+
+view in scopus 2 google scholar 7
+references
+
+ 
+2 download : download acrobat pdf file (35kb)
+
+laura k. gunther
+author profile
+(2 download : download acrobat pdf file (714kb)
+supplementary material
+
+4, download all supplementary files @ what's this? 7
+included with this article
+acknowledgments
+
+we recognize the outstanding technical efforts of rohini
+desetty.
+acknowledgments
+data availability
+
+all data discussed are presented in the article. any analysis
+tools from the article will be shared upon request to the
+corresponding author: christopher m. yengo, cmy11@psu.edu
+
+a
+(eq. 1)
+transient kinetic measurements
+
+examination of the major steps in the actomyosin atpase
+cycle was performed using transient kinetic analysis (18, 22,
+64). an applied photophysics stopped-flow apparatus with a
+dead time of 1.2 ms and 9.3-nm band pass was used for all
+measurements. the intrinsic tryptophan fluorescence was
+monitored by exciting the sample at 290 nm and measuring
+the emission with a 320-nm long-pass filter. the mantadp
+fluorescence was monitored be exciting the mant
+fluorescence at 290 nm and measuring the emission with a
+395-nm long-pass filter. the pyrene actin fluorescence was
+excited at 365 nm, and the emission was measured with a
+395-nm long-pass filter. we used 380 nm to excite mdcc-
+bbd-and wigepussinren ie ppiureauuih rgresoemnle was
+excited at 365 nm, and the emission was measured with a
+395-nm long-pass filter. we used 380 nm to excite mdcc-
+pbp, and the emission was measured with a 425-nm long-
+pass filter. the fret signal was monitored by exciting fiash
+at 488 nm and measuring the emission with a 515-nm long-
+pass filter. kintek explorer was used to evaluate kinetic
+models and determine the key steps altered by the s217a
+mutation. an unpaired student's t test was used to determine
+significant differences between wt and s217a. the duty ratio
+was calculated with the following equation (26):
+
+ 
+
+      
+   
+
+  
+
+transient time-resolved fret
+
+analysis of the structural distribution of mv lever arm
+orientations was performed using tr2fret. all experiments
+were performed using a 473-nm, 5000-hz pulsed laser with
+1.0-ns fwhm and a biologic usa sfm/20 single-mix stopped
+flow apparatus with 1.8-ms dead time and acquired with a
+fluorescence spectrophotometer with 125-ps resolution after
+1.0-ns fwhm and a biologic usa sfm/20 single-mix stopped
+flow apparatus with 1.8-ms dead time and acquired with a
+fluorescence spectrophotometer with 125-ps resolution after
+passing through a 520/15-nm semrock bandpass filter. the
+fluorescence lifetime of the donor-only samples (mv-f) was
+fit for both wt and s217a (n = 12 each, from two
+independent preparations) using fargofit data analysis
+software to obtain both lifetimes and amplitudes (65). the
+multiexponential lifetimes of the donor-plus-acceptor
+samples (mv-f.qsy-cam) were best fit to a two-gaussian
+distance distribution, consistent with a motor protein
+isomerizing between two structural states during its atp-
+driven kinetic cycle, as described in our previous publications
+along with detailed descriptions of the data analysis (19). for
+the recovery stroke experiments, 80 nm mv-f.qsy-cam was
+mixed with 0-10 ma atp (postmix concentrations).
+similarly, for the power-stroke experiments, 80 nm mv-f.qsy-
+cam and 5.0 im atp was mixed with 5.0 mm adp and 0-40
+um actin, to reduce the signal-to-noise ratio to below 1%,
+several acquisitions were averaged, depending on the length
+of acquisition. 500 or more fluorescence waveforms were
+
+ui actin, to reduce the signal-to-noise ratio to below 1%,
+several acquisitions were averaged, depending on the length
+of acquisition. 500 or more fluorescence waveforms were
+acquired for all transient experiments. for every atp and
+actin concentration for the recovery-stroke and power-stroke
+experiments, the data and standard deviations reported
+represent n > 6 from two independent protein preparations.
+all experiments were performed at 25.0 °c, regulated with a
+circulating water bath, and performed in kmg50 buffer with
+tcep at ph 7.0.
+
+optical trapping
+
+the assay to determine the single-molecule mechanics and
+kinetics was performed as previously described (66), with
+minor modifications to accommodate the myosin v 11q
+constructs. briefly, the myosin was adhered to a
+nitrocellulose-coated coverslip with 3-m silica microspheres
+serving as pedestals for the myosin. myosin was added at a
+concentration of 0.02 j1g/ml to a flow cell precoated with
+anti-myc antibody to provide a substrate for myosin binding.
+the surface was. then blocked, with. rsa lo.nreventn.
+concentration of 0.02 j1g/ml to a flow cell precoated with
+anti-myc antibody to provide a substrate for myosin binding.
+the surface was then blocked with bsa to prevent
+nonspecific interactions between the actin filament and the
+antibody or surface. the experimental buffer included
+streptavidin-coated 1-m silica microspheres, biotin/tritc-
+labeled actin, oxygen scavengers, and 100 pm atp, in addition
+to 60 mm kci, 1 mw egta, 4 mm mgcl, and 1 mm dtt at ph
+7.0. by maneuvering the piezo-controlled stage, the actin was
+attached to the optically trapped 1-1m microspheres and
+stretched such that 3-4 pn of pretension was applied to the
+filament. the two-trap stiffness of the assembly was 0.03
+pn/nm. individual pedestals were interrogated by lowering
+the bead-actin-bead assembly near the surface. only 1 in 12
+pedestals displayed activity, ensuring we were in a single-
+molecule regime. the data were collected at 5 khz and
+analyzed to identify individual events using hidden markov
+modeling, as previously described (67), algorithm in r.
+changepoint analysis (68) was used to locate the start and
+finish of each event. to determine the rate of the transition
+fremweakiy!pnhovad sastronely hound, thenasitinve.
+changepoint analysis (68) was used to locate the start and
+finish of each event. to determine the rate of the transition
+from weakly/unbound to strongly bound, the positive
+displacement events were subjected to an ensemble
+averaging analysis, with minor modifications to previously
+described methods (69), and fit to a single exponential to
+determine the rate constant of the working stroke. statistical
+ifferences between wt and s217a were examined with an
+unpaired student's t test.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+single-molecule laser trapping analysis
+
+ 
+
+single-molecule binding events were identified by applying a
+two-state hidden markov (hm) model to the running
+variance and running mean of the raw trapping data using
+the depmixs4 r package (70). the running variance and
+running mean signals were treated as conditionally
+independent in the hm model to allow for the detection of
+events that produced zero displacement. ultimately, the hm
+model categorized each window in either of two states,
+which represented myosin being unattached or attached to
+events that produced zero displacement. ultimately, the hm
+model categorized each window in either of two states,
+which represented myosin being unattached or attached to
+an actin filament, respectively. unitary displacements were
+determined by taking the maximum window value from the
+running mean of each event.
+
+the running windows were set at a window width (w) of 30
+ms and moved 15-ms (w1,2) upon each advancement of the
+running window. the half-overlapping windows decreased
+the correlation between neighboring windows and provided
+a data set that met the assumptions for the hm model's
+transition matrix (67) increasing the model's ability to
+reliably detect events. consequently, the sliding windows
+decreased the time resolution of the trapping signal by a
+factor of w1)2, resulting in an artificial instrumental dead time
+of 15 ms. moreover, because events were identified based
+upon the running windows, initial estimates of the event
+durations were approximated (fon-app) by taking the product
+of the number of windows (ny,) that comprised an event and
+the conversion factor (w1,2) between the length of the
+ouratasaas wereingnindancdetaseppt oy tamnigine avast
+of the number of windows (ny,) that comprised an event and
+the conversion factor (w1,2) between the length of the
+processed running window data set and the original data set
+(con-app = nw * wia)-
+
+to improve event duration measurements, we took the start
+and end indices of each event identified by the hm model
+and multiplied these time points by w1,2 to obtain the
+relative indices where the binding events occurred in the raw
+data trace. each event was then subset of the original raw
+trace, transformed with a 10-ms (nonsliding) running
+variance, and analyzed with a changepoint dete
+algorithm (68). reanalyzing each event at the original data
+collection frequency permitted for more diverse and accurate
+event duration (ton-acc) measures, which were calculated by
+ifferencing the changepoint identified start (cpstart) and end
+(pena) indices of each event (ton-ace = pend ~ cpstart) if the
+changepoint analysis failed to find an optimal start or end of
+an event, then the ton-app value was used for the event
+duration measurement.
+
+ 
+
+n
+
+ 
+
+an event, then the fon-app value was used for the event
+duration measurement.
+
+ensemble averaging of single-molecule events was
+performed with a similar procedure as described previously
+by others (21, 33, 69) with slight modifications to
+accommodate for differences in data collection techniques.
+the ensemble averaged events are 60 ms long and only
+include events that had positive displacements. events
+meeting the inclusion criteria had the back 30% of their
+lengths removed in preparation for event alignment. the
+changepoint analysis provided a new relative time index for
+the start of each event, and as a result the events could
+universally be reindexed with the same relative time scale.
+the first data point in each event was indexed as dpo, and
+thus each event was indexed as {dpo, dp1,..-. dpn}c, where dpp
+represents either the 300th data point (dp299) in the event
+(corresponding to the first go ms of a longer event) or the last
+data point of a shorter event (dp.299). for short events less
+than 60 ms in which dp, < dpz99, the average displacement of
+the event was used to extend the event by dp209 - dpn data
+data point of a shorter event (dp.299). for short events less
+than 60 ms in which dp, < dpz99, the average displacement of
+the event was used to extend the event by dp209 - dpn data
+points to make all events equal lengths. events were then
+aligned horizontally at dpo, and all matching dp, values were
+averaged together to create the final ensemble. the average
+ensembles were then fit with a negative mono-exponential
+equation using the dre and aomisc r packages to provide
+estimates of the rate of the working stroke and plot with the
+ggplot2 and cowplot r packages. additional programming
+tools used for building the analysis programs include the
+gtools, pracma, and tidyverse packages.
+steady-state atpase activity
+
+we examined steady-state actin-activated atpase activity
+using the nadh coupled assay (18, 22, 29). the maximum
+rate of atpase rate (kcat) and actin concentration at half-
+maximal atpase (karpase) was determined from the
+hyperbolic fits of the atpase activity as a function of actin.
+the basal atpase activity (v) was determined in the absence
+of actin. the average of at least three separate protein
+hyperbolic fits of the atpase activity as a function of actin.
+the basal atpase activity (v) was determined in the absence
+of actin. the average of at least three separate protein
+preparations was used to compare conditions. an unpaired
+student's f test was used to determine significant differences
+between wt and s217a.
+protein construction, expression, and purification
+
+we used the same chicken myosin v construct that was used
+for our previous studies, containing the first 1q domain
+(residues 1-792), n-terminal tetracysteine motif, and c-
+terminal myc and flag tags (5, 18, 22, 29). we introduced the
+$217a point mutation into this construct using quikchange
+site-directed mutagenesis (stratagene). all constructs were
+coexpressed with calmodulin (cam) in the baculovirus
+system and purified by flag affinity chromatography.
+labeling with fiash and exchange of qsy-cam was
+performed as previously described (18, 22). actin was
+purified from rabbit skeletal muscle (62) obtained from pell-
+freeze and labeled with pyrene when necessary (63). we
+performed all experiments in kmg50 buffer (10 mu
+imidazole-hcl, 50 mu kcl, 1 mm egta, 1 mv mgcl, and 1 mu
+dtt) at ph 7.0 and 25 °c. we replaced dtt with tcep in all
+experiments involving fiash labeling. the expression and
+purification of both wt and $217a mv 11q (mv) constructs
+coexpressed with calmodulin gave similar yields and purities
+
+tehts ifivoiwing fiash tabehing. me @xpréssioh sha
+purification of both wt and $217a mv 11q (mv) constructs
+coexpressed with calmodulin gave similar yields and purities
+compared with our previous work (18, 22, 27, 28, 29). the
+steady-state and transient kinetic measurements comparing
+the mutant and wt were mostly performed in parallel in
+kmg50 buffer at 25 °c to allow direct comparison to our
+previous work. for the structural kinetic experiments, wt
+and 217a constructs contained qsy-cam and n-terminal
+fiash (mv-f.qsy-cam) (with 90-100% labeling efficiency)
+were also performed in parallel in kmg50 tcep at 25 °c,
+unless otherwise noted.
+
+ 
+
+ 
+protein construction, expression, and purification
+
+ 
+
+ 
+reagents
+
+we prepared atp and adp fresh from powder using reagents
+of the highest commercial availability, and concentrations
+were determined by absorbance at 259 nm (£959 = 15,400
+wrl.cm"). the chromophores, qsy-9, pyrene idoacetamide,
+and fluorescein bis-arsenical hairpin binding dye (fiash)
+were purchased from molecular probes/thermo fisher. the
+fluorescently labeled phosphate-binding protein (mdcc-pdp)
+was prepared as described (61). mantadp was purchased
+from jena biosciences.
+experimental procedures
+altered by the presence of troponin/tropomyosin in skeletal
+muscle (58, 59, 60).
+
+conclusions
+
+the current study utilized fret and optical trapping to
+provide clear evidence that actin-dependent conformational
+changes in the active site are required to trigger the power
+stroke and force generation in myosin v. our results are
+consistent with models in which the mechanical step (power
+stroke and strong actin binding) occurs first, which is
+followed by a highly irreversible chemical step (p; release) to
+thermodynamically drive the reaction forward (18, 19).
+variability in the degree of coupling between the actin- and
+nucleotide-binding regions could explain important
+ifferences in the rate of attachment to actin observed in low
+and high duty ratio myosins. we have identified the switch i
+region as an important element of the active site that couples
+the actin- and nucleotide-binding regions during the initial
+phases of force generation. other details about how actin
+nding changes the active site and specifically
+communicates. hak ta.the convereclevas am will etka:
+phases of force generation. other details about how actin
+nding changes the active site and specifically
+communicates that to the converter/lever arm will be the
+subject of future studies.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+conservation and variation in the myosin force-
+generating mechanism
+
+myosins have very different rates of atpase cycling and force
+generation, which allows them to perform specific biological
+beuelauy wic ual
+
+myosins have very different rates of atpase cycling and force
+generation, which allows them to perform specific biological
+functions. what steps in the proposed model are likely
+important for kinetically tuning myosins for their functional
+role in the cells? myosin v is a processive myosin that can
+function as a single molecule to transport cargo along actin
+by spending a large fraction of its atpase cycle bound to actin
+and allowing it to walk in a hand-over-hand manner (51, 52).
+in contrast, muscle myosins function as an ensemble and only
+interact with actin for a small fraction of their atpase cycle
+(53). therefore, the overall rate of weak-to-strong transition
+is crucial for controlling the rate of entry into the force-
+bearing states. myosin v has a higher affinity for actin than
+myosin il in the weak-binding states, suggesting that it has a
+faster rate of association and thus can more rapidly find its
+next binding site on actin (54). it is possible that myosin v is
+tuned to rapidly transition from the weak-binding to the
+force-bearing state, which involves enhanced coupling
+between the active site and actin-binding regions. indeed,
+loop 2 in the actin-binding region was found to be involved in
+
+ 
+
+ 
+
+ini
+
+ 
+
+initial force-bearing state, which involves enhanced coupling
+between the active site and actin-binding regions. indeed,
+loop 2 in the actin-binding region was found to be involved in
+enhancing the affinity of myosin v for actin in the weak-
+inding states (39, 55), and myosin v has several additional
+positively charges residues in this loop that are known to
+enhance overall weak-binding affinity (38). another
+important charged loop in the actin-binding interface, called
+the activation loop, was found to be important for actin
+activation of atpase activity (56). therefore, surface loops in
+the actin-binding region, which tend to vary greatly between
+myosin isoforms (57), likely play a crucial role in allosterically
+coupling actin binding with structural changes in the active
+site. in addition, actin-regulatory proteins such as troponin-
+tropomyosin may also be involved in coupling the actin- and
+nucleotide-binding regions that are important for mediating
+activation of the power stroke. indeed, the rate of attachment
+to actin and phosphate release were demonstrated to be
+altered by the presence of troponinjtropomyosin in skeletal
+muscle (58, 59, 60).
+
+ 
+
+ 
+impact of $217a on actin activation of the power
+stroke
+
+our results provide evidence that structural changes in the
+actin-binding region are coupled to changes in the active site
+during the initial events of the force-generating mechanism.
+we found that s217a slows actin activation of the power
+stroke and p; release in solution, making them essentially
+appear to occur with the same rate constant (fig. 3), whereas
+the rate of the working stroke in the single-molecule assay is
+not dramatically slowed (fig. 6). this suggests that an actin-
+dependent conformational change is slowed by $217a.
+making this step rate-limiting in terms of triggering the
+power stroke and then p; release. indeed our pyrene actin-
+binding studies directly demonstrate that s217a slows the
+making this step rate-limiting in terms of triggering the
+power stroke and then p; release. indeed our pyrene actin-
+nding studies directly demonstrate that $217a slows the
+rate of pyrene actin quenching 10-fold. one obvious
+possibility is that $217a alters the initial weak interaction
+between actin and myosin; however, this seems unlikely
+because the mutation is in the active site, and weak binding
+is thought to be mediated by electrostatic interactions
+between actin and myosin (38, 39). alternatively, s217a may
+impact the transition from the weak binding state to the
+initial stereospecifically bound force-bearing state with the
+cleft open immediately prior to the power stroke. woody et
+al. (21) proposed the initial force-bearing pre-power stroke
+state based on their ultra-fast optical trapping studies, which
+found evidence for an actin-attached state that was
+populated prior to the working stroke, strong actin binding,
+and p; release (21, 33). we also propose that the initial force-
+bearing state is not a structural state capable of releasing
+phosphate (e.g. the pir proposed by llinas et al. (17)), because
+we demonstrate that p; release only occurs after the power
+stroke, which is likely coupled to cleft closure (strong actin
+
+ 
+
+ 
+
+phosphate (e.g. the pir proposed by llinas et al. (17)), because
+we demonstrate that p; release only occurs after the power
+stroke, which is likely coupled to cleft closure (strong actin
+binding), based on the mechanical step and strong-binding
+occurring concomitantly in the laser trap assay (fig. 6). in
+addition, s217a would not be expected to alter the pir state,
+because pir is mostly associated with changes in switch ii
+with no major changes in switch i (17), although the s217a
+mutation could allosterically alter the conformation of switch
+il. however, it is possible that structural changes in switch i
+were not observed in the pir crystal structure because actin
+inding is required to alter the conformation of switch i.
+indeed, there is strong evidence that switch i is crucial for
+coupling the actin- and nucleotide-binding regions (40).
+
+ 
+
+ 
+
+another possible scenario is that s217a slows the power
+stroke directly, which would have to occur before p; release
+and thus would become rate-limiting. we do not favor this
+hypothesis because slowing the power stroke step without
+altering actin binding does not agree with the 20-fold
+decrease in the actin dependence of the power stroke (fig. 3),
+hypothesis because slowing the power stroke step without
+altering actin binding does not agree with the 20-fold
+decrease in the actin dependence of the power stroke (fig. 3),
+the pyrene actin quenching data (fig. 4), and our simulations
+(figs. $3 and $42), also, the rate of the working stroke, which
+is rapid and similar in wt and $217a in the single-molecule
+laser trap assay, is not consistent with a slower power stroke
+in $217a (fig. 6). thus, we propose that the $217a mutation
+impacts the ability to form the initial force-bearing state,
+suggesting that the active site must undergo actin-dependent
+structural changes, presumably involving switch i, before this
+important initial force-bearing state can form.
+
+ 
+
+updated model of force generation in myosin v
+
+the impact of $217a on actin activation of the power stroke
+and p; release provides key insight into models that describe
+the sequence of events associated with force generation in
+myosins (fig. 7). myosin containing the hydrolyzed products
+site (m.adpp) forms a weak binding interaction
+with actin with the lever arm in the pre-force-generating
+stgte and the switchelements in. the actiyesits in closed.
+in the active site (m.adp-p,) forms a weak binding interaction
+with actin with the lever arm in the pre-force-generating
+state and the switch elements in the active si
+conformations. strengthening of the actin-binding interface
+to form the initial force-bearing state requires structural
+changes in the active site. the formation of the initial force-
+bearing state is followed by lever arm rotation and actin-
+binding cleft closure, which are tightly coupled, and then p;
+release occurs from a closed cleft conformation. our results
+do not distinguish whether p; release occurs through the back
+door (opening of switch il) (4, 17) or through the trap door
+(opening of switch 1) (41, 42). it is possible that the p; enters
+the phosphate tunnel shortly after formation of the initial
+force-bearing state and that p; is released after the power
+stroke and cleft closure, as suggested in recent models (4, 43).
+however, our data would put constraints on the lifetime of
+such a state with p; in the phosphate tunnel (~5 ms), based
+on p; entering the tunnel before the power stroke and leaving
+at the observed 200 s™ rate constant. an excellent test of this
+model would be to trap p; in the tunnel with mutations that
+da npt.disrupt entrv.inta the snag put.erevekits.release.
+at the observed 200 s™ rate constant. an excellent test of this
+model would be to trap p; in the tunnel with mutations that
+do not disrupt entry into the tunnel but prevent its release
+after the power stroke. woody et al. (21) demonstrated that p;
+rebinding in the presence of load can reverse the working
+stroke, providing strong evidence for the power stroke
+occurring before phosphate release. therefore, we favor a
+model in which the lever arm rotation associated with the
+power stroke occurs rapidly with p, still in the active site (or
+in the tunnel), followed by the release of p; from an
+intermediate-power stroke and closed actin-binding cleft
+conformation.
+
+in the acti
+
+ 
+
+ 
+
+in closed
+
+ 
+
+the slower phase of the power stroke that occurs during the
+actomyosin-adp states is also slower in 217a, but because
+the earlier steps are slowed (actin-activated power stroke), it
+is difficult to evaluate whether it is altered by the mutation
+and hence the role of switch i in the process. our simulations
+do suggest that the equilibrium constant for this state is
+reduced (table $1) which may have implications for its ability
+to transition between actomyosin-adp states in the presence
+
+ 
+
+   
+
+do suggest that the equilibrium constant for this state
+reduced (table $1) which may have implications for its ability
+to transition between actomyosin-adp states in the presence
+
+of external loads (e.g. mechanosensitivity).
+
+the proposed model that phosphate release occurs after the
+power stroke and cleft closure is in agreement with previous
+iochemical and biophysical studies. in myosin v, phosphate
+release occurs at an observed rate of ~200 s™', whereas the
+rate of the power stroke is clearly faster based on fret
+measurements (~400 s“') (18, 22). in addition, the optical
+trapping results in the current work and in previous studies
+with microsecond time resolution are consistent with a rapid
+working stroke, which we assume is driven by rapid lever
+arm rotation, and followed by a slower observed phosphate
+release (21, 33). most models assume that closure of the
+actin-binding cleft occurs concomitantly with the power
+stroke because strong attachment to actin would be required
+for force production. in support, our previous fret results
+demonstrated that the actin-binding cleft closes rapidly
+before p; release and pyrene actin quenching (44). however,
+
+ 
+
+ 
+
+ 
+
+tor force prodiiction. in support; our previous frei résults ~
+demonstrated that the actin-binding cleft closes rapidly
+before p; release and pyrene actin quenching (44). however,
+we proposed that pyrene quenching does not report the cleft
+closure but another slower transition that is sensed by the
+actin filament upon strong binding. this hypothesis is
+consistent with the slower rate of pyrene actin quenching
+(fig. 4) compared with the actin dependence of the power
+stroke (fig. 3 and table 1). overall, the current solution
+
+iochemistry, structural, and single-molecule studies are
+consistent with the proposed model, but the exact structural
+details of the actin-binding interface, active site, and lever
+arm will need to be fully delineated.
+
+studies in muscle fibers support a model in which there is a
+force-bearing state populated prior to force generation,
+
+which is followed by the power stroke and then p; release
+(45). the strongest evidence is from studies that used caged
+phosphate to demonstrate that p; rebinding can reverse the
+force-generating event in the presence of load, suggesting
+that p; release occurs after the power stroke (45, 46). other
+pnadels in. which p: rebinding accelerates detachment froma
+force-generating event in the presence of load, suggesting
+that p; release occurs after the power stroke (45, 46). other
+models in which p; rebinding accelerates detachment from a
+post-power stroke state have also been proposed to explain
+observations in the motility assay (47, 48). additionally, other
+muscle fiber studies suggest there is flexibility in terms of
+when p; release occurs in relationship to the power stroke,
+which would indicate that the power stroke does not gate p,
+release (49, 50). however, this model is difficult to reconcile
+with the rapid working stroke rates observed in the ultra-fast
+optical trapping assay, because a slower p; release before the
+power stroke would greatly slow the working stroke (21).
+finally, it is important to note that p; release is impacted by
+load, as is indicated by optical trapping results (21), and the
+model proposed here reflects the unloaded situation.
+
+ 
+   
+
+ 
+
+ 
+
+download : download high-res image (179k8)
+
+download : download full-size image
+
+figure 7. model of actomyosin atpase cycle and impact of
+
+ 
+
+download : download full-size image
+
+figure 7. model of actomyosin atpase cycle and impact of
+s217a on specific steps. myosin binds and hydrolyzes atp,
+which produces a recovery stroke that primes its lever arm
+for force generation (step 1). the inset highlights the key steps
+of the recovery stroke including formation of a collision
+complex with atp (step 1a, kx), the movement of the lever
+arm during the recovery stroke (step 1b, kyr), and the
+hydrolysis of atp in the active site (step ic, ky). myosin with
+the products of atp hydrolysis first binds weakly to actin
+through electrostatic interactions (step 2, kassoc) and
+transitions into the initial force-bearing state with
+intermediate actin affinity (step 3, kassoc). in the initial force-
+bearing state, the actomyosin interface, active site, and lever
+arm are primed for the power stroke. the fast power stroke is
+associated with a large rotation of the lever arm, which is
+coupled to strong actin binding and cleft closure (step 4, k
+“pwe). the release of phosphate into solution occurs after the
+fast power stroke (step 5, k’pi). this is followed by the slow
+power stroke (step 6, k’pws), an active site isomerization that
+“pwe). the release of phosphate into solution occurs after the
+fast power stroke (step 5, k’pi). this is followed by the slow
+power stroke (step 6, k’pws), an active site isomerization that
+reduces the affinity of myosin for adp (step 7, k’p:), and the
+release of adp from the active site (step 8, kp).
+impact of $217a on overall enzymatic, structural,
+and mechanical properties
+
+our transient kinetic characterization demonstrates that the
+s217a mutation slows the atp hydrolysis and actin-activated
+phosphate release rate constants but accelerates the
+actomyosin adp release rate constant. the results are
+consistent with a previous study of the mutation in mouse
+myosin va (26). therefore, the predominant steady-state
+intermediates are changed from the actomyosin-adp state in
+wt mv to the m.atp and m.adpp, states in $217a,
+suggesting that the rates of atp hydrolysis (ky + k4,) and
+attachment to actin (k-assoc) are rate-limiting in the mutant.
+we also calculated the duty ratio based on the equation
+outlined in forgacs et al. (26) and found that the mutant
+reduces the duty ratio ~6-fold (0.15 and 0.89, respectively).
+our single-molecule optical trapping results suggest that the
+saizacaufating. does not alteuthe vastiven item
+reduces the duty ratio ~6-fold (0.15 and 0.89, respectively).
+our single-molecule optical trapping results suggest that the
+217a mutation does not alter the positive unitary
+displacements but decreases the attached lifetime (table $3).
+the attached lifetime is longer than expected for both wt
+and s217a based on the adp release rate constants measured
+in solution (table s3), which could be due to the lower
+temperature of the optical trapping experiments, the mant
+fluorophore altering the adp release rate constants in
+solution, and/or the impact of mechanical load in the optical
+trap. however, the trend of a 2-fold shorter attached time in
+$217a is consistent with the 2-fold faster adp release rate
+constant measured in solution. ensemble averaging of the
+single-molecule records suggests that the displacement
+generated by the working stroke occurred at a rate of at least
+600-800 s“! and was only slightly different in wt and s217a
+mv (fig. 6). the working stroke rate constants are likely an
+underestimate because the measured rate is limited by the
+viscous forces acting to slow the velocity of the 1-ym
+microsphere moving through solution (32). thus, it is likely
+thatkeonskingeuake arcuis aha loc land therelp tic
+viscous forces acting to slow the velocity of the 1-ym
+microsphere moving through solution (32). thus, it is likely
+that the working stroke occurs at >1000 s™! and therefore
+would be consistent with the rates of 700-5000 s“ observed
+under resistive loads in skeletal (33) and cardiac muscle
+myosin (21) using an optical trap with microsecond time
+resolution. our results suggests that although the mutation
+may have altered actin activation of the power stroke and p;
+release, it did not dramatically reduce the working stroke rate
+constant and had no impact on the size of the unitary
+displacements. these findings are also qualitatively
+consistent with our time-resolved fret studies, which
+demonstrated that 217a and wt mv have similar donor-
+acceptor distance and distance distributions in the pre- and
+post-power stroke states (fig. 5). in addition, the mole
+fractions observed in the pre- and post-power stroke states
+ilar. overall, the results
+are consistent with a model in which the $217a mutant does
+not disrupt the overall conformation of the pre- or post-
+power stroke conformations, as well as the equilibrium
+beesansharewietes hubeltarwhekinrtiss (fr néian woes
+not disrupt the overall conformation of the pre- or post-
+power stroke conformations, as well as the equi
+between these states, but alters the kinetics (transition
+states) of the transitions between these structural states.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in different nucleotide states were si
+
+ 
+
+ 
+
+rium
+
+coupling of the recovery stroke and atp
+hydrolysis
+
+the recovery stroke in myosin is a key step that allows the
+energy from atp hydrolysis to be stored in the myosin motor
+in a pre-force-generating state. there is strong evidence from
+structural and solution biochemical studies for how myosin
+transitions from a nucleotide-free (apo state) to the atp-
+bound transition state in which the active site is primed for
+atp hydrolysis and the lever arm is in a pre-power stroke
+conformation (18, 22, 34, 35, 36). atp binding to apo myosin
+causes the conserved elements of the active site, switch i,
+switch ii, and p-loop to form closed conformations in which
+they coordinate binding to the y-phosphate. the movement
+of switch ii into the closed conformation is associated with a
+shift in the relay helix from a straight to a bent conformation,
+
+ 
+
+ 
+
+ 
+
+they coordinate binding to the y-phosphate. the movement
+of switch il into the closed conformation is associated with a
+shift in the relay helix from a straight to a bent conformation,
+which alters its interactions with the converter domain and
+helps position the lever arm in the pre-power stroke position
+(34), other studies suggested that there is a second phase of
+the recovery stroke that occurs with hydrolysis, but it was not
+known whether this second phase is associated with a
+further change in the lever arm position or simply local
+rearrangements in the active site and/or converter/relay helix
+(37). our results demonstrate that $217a allows for even
+faster movement of the lever arm into the pre-power stroke
+conformation, whereas the active site is slower to hydrolyze
+atp. the work of forgacs et al. (26) demonstrated that the
+tryptophan fluorescence signal was nearly identical to the
+quench flow results, suggesting that the tryptophan
+fluorescence signal reports hydrolysis in $217a (26). our
+work is consistent with a model in which atp binding rapidly
+transitions myosin into a pre-power stroke conformation,
+primarily involving switch ii, which is followed by a
+rearrangement of the active site to hydrolyze the y-
+
+ 
+
+transitions myosin into a pre-power stroke conformation,
+primarily involving switch il, which is followed by a
+rearrangement of the active site to hydrolyze the y-
+phosphate, involving both switch i and il (fig. 7).
+interestingly, it is the second transition associated with
+priming the active site for hydrolysis that is sensed by the
+tryptophan (fig. s1). thus, s217a causes
+these events to become uncoupled and demonstrates that the
+transition to the pre-power stroke state is not driven by the
+energy from hydrolysis but rather atp binding to switch i,
+which has been proposed in previous structural (34) and
+kinetic studies (37). interestingly, the atp hydrolysis step
+may stabilize the pre-power stroke conformation by
+promoting local conformational changes around the relay
+helix and converter domain where the nucleotide-sensitive
+tryptophan is located. based on forgacs et al. (26), the s217a
+mutant slows the hydrolysis step without altering the
+equilibrium constant, and our mole fraction results in the
+time-resolved fret studies (fig. 5) are in agreement with
+these conclusions. overall, our studies of the recovery stroke
+highlight that atp binding drives the recovery stroke,
+time-resolved fret studies (fig. 5) are in agreement with
+these conclusions. overall, our studies of the recovery stroke
+highlight that atp binding drives the recovery stroke,
+whereas atp hydrolysis may stabilize the pre-power stroke
+conformation and control the number of myosins in an
+ensemble that are primed to generate force.
+
+ 
+
+nucleotide-sensi
+discussion
+
+in the current study we used a point mutation (217a) in a
+conserved region of the active site of myosins to examine
+how myosin coordinates structural changes in the active site
+with structural changes in the lever arm region. we found
+that the $217a mutation can uncouple the lever arm rotation
+during the recovery stroke with the chemical step of atp
+hydrolysis, clearly demonstrating that these are two separate
+events in the atpase cycle. in addition, we found that the
+217a mutation slows actin activation of lever arm rotation
+and p; release but does not dramatically slow the rate of the
+working stroke in the optical trapping assay. this suggests
+that the mutation slows an actin-dependent step that occurs
+prior to the power stroke and p; release. we propose that the
+actin-dependent step is a transition after the initial
+electrostatic weak binding between actin and myosin but
+before the transition to the tightly bound closed actin-
+binding cleft state that is coupled to lever arm rotation and
+force production.
+
+before the transition to the tightly bound closed actin-
+binding cleft state that is coupled to lever arm rotation and
+force production.
+
+ 
+discussion
+ 
+  
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ae
+
+a
+
+e a
+
+2
+
+a? f
+
+| im
+
+je §
+
+e ill
+
+i |
+
+i ann
+
+:
+aoe 000 ode 004 obs
+
+s217a
+
+be
+
+=
+
+e
+
+4] ssrsass*
+
+i
+
+g2
+
+3 | &
+
+zl
+time (sec)
+
+download : download high-res image (158k8)
+
+download : download full-size image
+
+figure 6. ensemble average of single-molecule binding
+events. single-molecule optical trapping experiments were
+performed to determine the impact of $217a on the step size
+andattacbed time inadditinn, thesateof theworking spoke
+events. single-molecule optical trapping experiments were
+performed to determine the impact of $217a on the step size
+and attached time. in addition, the rate of the working stroke
+was examined by performing ensemble averaging of single-
+molecule binding events. a and b, each data point represents
+the average of 244 and 333 observations for the wt (a) and
+s217a (b), respectively. the start of the events were aligned
+to time 0 and the displacement immediately prior to the
+
+ 
+
+binding event. data were fit, from time 0, with a single
+exponential to determine the rate of the transition from
+unbound to bound (means + s.e.; see “experimental
+procedures” for details about the analysis). the rate of the
+working stroke was slightly faster in the mutant versus wt (p
+< 0.01), but the positive displacements were similar (see
+table $3 for summary). insets show representative raw
+
+ 
+
+displacement records from the single-molecule laser trap
+assay. arrows highlight actomyosin strong-binding events.
+table 2. transient time-resolved fret parameters
+
+the transient time-resolved fret parameters were
+determined by simultaneously fitting a two-gaussian
+distance distribution model to power stroke and recovery
+stroke data. the error estimates are #67% confidence interval
+determined by error plane analysis. all parameters were fit
+
+globally.
+
+post-power stroke
+gaussian
+
+ 
+
+post-power stroke
+
+pre-power stroke
+gaussian
+
+pre-power stroke
+
+ 
+
+gaussian gaussian
+construct. dy fwhm, dy fwhm,
+wt 359214 268245 640404 19.6225
+s217a
+
+table 3. mole fractions of mv lever arm orientation in the
+post-power stroke state
+
+the mole fractions of mv lever arm orientation in the post-
+power stroke state were determined by simultaneous fitting a
+two-gaussian distance distribution model to power stroke
+and recovery stroke data. the error estimates are +67%
+confidence interval determined by error plane analysis. for
+statistical significance, each of the three nucleotide states of
+217a was compared with the corresponding nucleotide state
+in wt; no significant differences were found.
+
+521/a was compared with the correspohanig wicieotiae state
+in wt; no significant differences were found.
+
+construct
+nucleotide state wr s270
+m 0810.01 0810.01
+amd 0.78 £0.01 0.74 £0.05
+mdp, 0.20 £0.02 0.18 + 0.03
+optical trapping
+
+both the wt and s217a constructs were adhered to a
+nitrocellulose-coated coverslip via an anti-myc antibody in
+buffer conditions similar to our studies of myosin ii (60 mm
+kci, 1 mm egta, 4 mm mgcl, 1 mm dtt, and 100 pw atp at ph
+7.0). a single act
+two optical traps was brought into contact with a single
+myosin molecule in the presence of 100 yw atp. upon
+strongly binding to the actin filament, myosin causes a
+tesbichianin rhe rrowpian motion audadisplacemant.driven
+myosin molecule in the presence of 100 yw atp. upon
+strongly binding to the actin filament, myosin causes a
+reduction in the brownian motion and a displacement driven
+by the rotation of the lever arm, ie. working stroke (fig. 6).
+because of brownian forces experienced by the bead-actin-
+bead assembly when unbound, unitary displacements can be
+positive or negative, but the center of the distribution reflects
+the average unitary displacement (31). based on several
+hundred single-molecule binding events for wt (n = 352) and
+s217a (n = 428), we found that the average unitary
+displacement was slightly different for the wt and $217a (3 +
+0.4 and 5 + 0.4 nm, respectively) (fig. s8). however, the
+average lifetime of the binding events was less than half as
+long for the s217a versus wt (107 + 17 versus 251 + 39 ms)
+(fig. $8), which is relatively consistent with the faster adp
+release results in solution (table 1). we also examined the
+rate constant of the working stroke in the optical trap (e.g.
+overall transition from the weakly/unbound, pre-power
+stroke state, to the strongly bound, post-power stroke state)
+by ensemble averaging the positive displacement events (fig.
+6) the rate. constant was onluslightlvditfere pt fop wl (629 +
+stroke state, to the strongly bound, post-power stroke state)
+by ensemble averaging the positive displacement events (fig.
+6). the rate constant was only slightly different for wt (629 +
+30 s"!) and s217a (867 + 50 s“'), suggesting that in both
+constructs the working stroke is very rapid, occurring at a
+rate of at least 600-800's!. the y intercepts of the ensemble
+averaging demonstrated very similar positive displacement
+values for wt versus s217a (6.9 + 0.1 versus 6.6 + 0.1 nm). we
+also did not observe a difference in the frequency of binding
+events for the wt versus 217a (0.42 + 0.10 versus 0.60 + 0.15
+events/s, means + s.e.) (fig. $9). see table $3 for summary of
+optical trapping results.
+
+ 
+
+lament attached to silica beads held in
+= wr
+mm 217a
+after the power stroke and phosphate release occur, myosin
+with adp bound remains tightly bound to actin until adp is,
+released and atp-induced dissociation occurs. we examined
+the adp release rate constant in acto-mv using mantadp. a
+complex of acto-mv (0.5 ym) and mantadp (10 ym) was mixed
+with excess atp (1 mm). the mantadp fluorescence decrease
+was used to determine the adp release rate constant and was
+fit to a single-exponential function. we found that the
+mantadp release rate constant (k"+p) was 2-fold faster in
+s217a compared with wt (table 1).
+
+we performed kinetic simulations using kintek explorer
+software, which allowed us to fit fluorescence transients from
+the power stroke and phosphate release experiments to the
+kinetic model in scheme 1 (fig. $3). the rate constants used
+in the simulations are shown in table s1. we also generated
+the power stioré dia prospnae rerease expehimientsw tne
+kinetic model in scheme 1 (fig. $3). the rate constants used
+in the simulations are shown in table s1. we also generated
+synthetic data of the power stroke and phosphate release
+transients using the kinetic model and fit the synthetic data
+to an appropriate exponential function, which allowed us to
+create a simulated data set of the power stroke and
+phosphate release in wt and s217a (fig. $4). the
+synthetically generated data were similar to the experimental
+data. we also generated actin-activated atpase curves using
+the kinetic model that were similar to our experimental data
+(fig. $5). interestingly, the experimental data fit well to a
+kinetic model in which $217a does not alter the maximum
+rate of the fast power stroke (k‘pwr) or phosphate release (k
+pi), demonstrating that the mutation slows actin dependence
+of these steps by altering the actin association step (kassoc)-
+overall, our kinetic models support the conclusion that the
+217a mutant alters several steps in the atpase cycle
+including atp-induced dissociation (2-fold), hydrolysis (40-
+fold), and adp release (2-fold), which was also demonstrated
+in the forgacs et al. study (26). one difference between the
+including arp-indudea association (2-101d); nyarolysis (40-
+fold), and adp release (2-fold), which was also demonstrated
+in the forgacs et al. study (26). one difference between the
+two studies is that the maximum rate of phosphate release
+was slowed ~10-fold in the work of forgacs et al. (26) (16 s“!
+versus 198 s!, respectively) without changing the actin
+dependence of p; release, whereas in our study we found the
+217a mutation weakened the actin dependence of p; release
+(20-fold). the forgacs et al. (26) study was done at lower
+
+ionic strength and temperature, and the affinity of myosin for
+actin in the m.adp2 state is known to be ionic strength
+dependent (see “discussion”). thus, our current results with
+s217a are quite consistent with previous studies and suggest
+that the main impact of the mutation is on the hydrolysis and
+actin-activated p; release steps.
+
+ 
+
+transient time-resolved fret
+
+to quantitate the effect of the $217a mutation on the
+distribution of structural states within mv, we utilized
+transient time-resolved fret (tr?fret, fig. 5). a 5000-hz
+pulsed laser and subnanosecond detection of the resulting
+
+   
+
+distribution of structural states within mv, we utilized
+transient time-resolved fret (tr?fret, fig. 5). a 5000-hz
+pulsed laser and subnanosecond detection of the resulting
+fluorescence transients from mv-f.qsy-cam samples for both
+wt and s217a in various biochemical states were acquired
+following rapid stopped-flow mixing (fig. s6). the
+multiexponential fluorescence waveforms that were acquired
+were globally fit to a two-gaussian distance distribution, as
+reported in our previous publications (18, 22). the two
+distances of this structural model closely match those
+predicted from available crystallographic studies, consistent
+with our previous studies (table 2) (18, 22). for both the wt
+and s217a samples in various biochemical states, the mole
+fractions of molecules in either the pre-power stroke or
+post-power stroke structural states were allowed to vary. the
+fluorescence intensity and lifetime changes from the recovery
+stroke experiments (fig. 5a and fig. s7a) are best fit to a mole
+fraction change from one distance to the other following the
+stopped-flow mix, from mv in the absence of nucleotide or
+actin (m(apo)) to mv with hydrolyzed atp bound (m.adpp;).
+imilarly, the fluorescence intensity and lifetime changes
+
+ 
+
+stopped-flow mix, from mv in the absence of nucleotide or
+actin (m(apo)) to mv with hydrolyzed atp bound (m.adpp)).
+similarly, the fluorescence intensity and lifetime changes
+from the power-stroke experiments (fig. 5a and fig. s7b) are
+best fit as a mole fraction change between the two fit
+distance distributions from mv with hydrolyzed atp bound
+(m.adp;) to mv bound to actin with excess adp present
+(am_d). the mole fraction information and the two-gaussian
+distance distribution is plotted for both wt and $217a (fig. 5
+and table 3). the $217a mutation does not affect either the
+interprobe distances in either structural state or the mole
+fraction of mv molecules occupying these states for any of
+the biochemical states acquired. the kinetics of lever arm
+rotation determined by trfret demonstrate that $217a
+enhances the recovery stroke rate constant (fig. s7a) and
+slows actin activation of the power stroke (fig. s78), similar
+to the results we observed by stopped-flow fret (figure 2,
+figure 3). the observed tr2fret power stroke rate constants
+were best fit by a single-exponential function, likely because
+the experiment was not performed with a sequential mix
+setup as was done in the stopped-flow fret experiments.
+
+ 
+
+were best fit by a single-exponential function, likely because
+the experiment was not performed with a sequential mix
+setup as was done in the stopped-flow fret experiments.
+
+= wr
+s2i7a
+
+ 
+
+mole fraction (post-ps) >
+
+m(apo) mdp amd
+nucleotide-state
+
+/\
+
+— amowt
+— maapo) wt
+— mop wr
+
+   
+ 
+
+probability
+
+eet
+
+c — amds217a
+pera
+
+2 [\ \ morse
+
+i \
+
+° \
+
+2 f \ _ mbp s2i7a
+
+i
+
+&
+
+ 
+
+distance (nm)
+
+download : download high-res image (125kb)
+
+download : download full-size image
+
+figure 5. transient time-resolved fret measurements. time-
+resolved intermolecular fret within mv-f:qsy-cam was
+acquired with 125-ps resolution following excitation with a
+5000-hz pulsed laser. the fluorescence transients for three
+biochemical states were best fit globally to a two-gaussian
+distance distribution corresponding to the two lever arm
+orientations of the myosin motor protein in its pre- and
+post-power stroke states (19). a, the mole fraction of the
+post-power stroke structural state for each biochemical state
+was fit separately for wt (blue) and s217a (red). for the
+recovery stroke experiment, the corresponding mole fraction
+change between lever arm orientations is the change from
+m(apo) to m.d.p, the mole fraction change between the two
+recovery stroke experiment, the corresponding mole fraction
+change between lever arm orientations is the change from
+m(apo) to m.d.p. the mole fraction change between the two
+lever arm orientations for the power-stroke experiment is the
+change from m.d.p to a.m.d. b and c, the mole fraction
+information from a and the two-gaussian distance
+distribution is plotted for both wt (b) and $217a (c) (see also
+table 2). the peak-center and full-width half-maximum for
+each distance distribution are shown (see also table 3).
+we examined the phosphate release rate constant using
+unlabeled mv constructs and a sequential mix setup identical
+to that described above, except that the phosphate-binding
+protein was present, which allowed phosphate release to be
+measured as a function of actin concentration. the phosphate
+release transients were best fit by a single-exponential burst
+(p; release) followed by a second slow phase (prehydrolysis
+intermediates) (fig. 3d). in wt, the phosphate release rate
+constant was hyperbolically dependent on actin
+concentration and significantly slower than the fast power
+intermediates) (fig. 3d). in wt, the phosphate release rate
+constant was hyperbolically dependent on actin
+concentration and significantly slower than the fast power
+stroke rate constant (22) (fig. 3a and table 1). however, the
+rate constant of the phosphate burst was linearly dependent
+on actin concentration in s217a (kassoc x k+pi = 0.9 0.1
+p7!.s~) and nearly identical to the fast power stroke rate
+constant (fig. 3b).
+
+the dramatic decrease in the actin dependence of the power
+stroke and phosphate release of $217a prompted us to
+directly measure the rate of binding to actin in the m.adpp;
+state (fig. 4). we performed a sequential mix experiment in
+which myosin was first mixed with atp (10 ym), aged for 20 s
+to allow atp binding and hydrolysis, and then mixed with
+varying concentrations of pyrene actin (5-10-fold excess over
+myosin) and saturating adp (0.5 mm adp, included to prevent
+multiple turnovers). the fluorescence transients were fit to a
+ingle-exponential function at all pyrene actin
+concentrations. the rate of pyrene actin quenching was
+linearly dependent on actin concentration, and the slope of
+shiieexpenenederancimi'a fal pgraiewanin 62774 (96 +
+concentrations. the rate of pyrene actin quenching was
+linearly dependent on actin concentration, and the slope of
+the linear dependence was 10-fold decreased in s217a (0.6
+0.1 pw!-s“!) compared with wt (6.7 + 0.4 pwr“),
+
+ 
+
+ 
+
+ 
+
+0.001 0.01 04 1
+time (s)
+
+download : download high-res image (179k8)
+
+download : download full-size image
+
+figure 4. pyrene actin binding in the m.adp-p; state. the
+rate of pyrene actin quenching was monitored with a
+sequential mix experiment similar to that described in fig. 3,
+such that myosin with the hydrolyzed products in the active
+ite (m.adp-p;) was mixed with varying concentrations of
+pyrene actin. a, the rate of pyrene actin quenching was
+linearly dependent on the pyrene actin concentration and
+~10-fold slower in the $217a mutant compared with wt. b,
+representative fluorescence transients of pyrene actin
+quenching (3 ym pyrene actin and 0.5 ym m.adpp)) fit to a
+single-exponential function (kops=20.5 + 0.3 or 1.6 £0.1 s! in
+wpesa raive waorestqine li ausieits ur pyrene acu
+quenching (3 ym pyrene actin and 0.5 ym m.adpp)) fit to a
+ingle-exponential function (kops=20.5 + 0.3 or 1.6 + 0.1 sin
+wt and $217a, respectively).
+
+ 
+
+ 
+
+ 
+download : download high-res image (252kb)
+
+download : download full-size image
+
+figure 3. structural kinetic measurements of the power
+stroke compared with phosphate release. the power stroke
+was monitored by examining donor fluorescence quenching
+after mixing mv-f.qsy-cam first with atp, aging the reaction
+for 20 s to allow hydrolysis, and then mixing with varying
+cansenrations of actin..a..in,wt..the fluorescence transients
+after mixing mv-f.qsy-cam first with atp, aging the reaction
+for 20 s to allow hydrolysis, and then mixing with varying
+concentrations of actin. a, in wt, the fluorescence transients
+were best fit by a two-exponential function, and both the fast
+(keast power) and slow (ksiow power) phases of the power stroke
+were hyperbolically dependent on actin concentration
+(previous experiments reported in refs 18 and 22 were
+included as part of the data set). the phosphate release rate
+constant was also monitored with nearly identical conditions
+as above except the presence of mdcc-pbp allowed detection
+of the change in p; concentration (data are from ref. 22). b, in
+$2174, the fluorescence transients were also best fit by a two-
+exponential function, whereas the rate constants of the fast
+and slow phases were linearly dependent on actin
+concentration. the phosphate release rate constants were
+nearly identical to the fast power stroke rate constants in
+s217. c, representative fluorescence transients from the
+power-stroke experiments in $217a (2.5-30 1m) (rast power =
+26.1 £0.45", ksiow power = 9.5 + 0.1 s“ at 30 ym actin, #5.e.)
+and wt (30 pm) (kfast power = 302.0 + 5.1 s', ksiow power = 54.9
+prams 2b30 sapactingsf.\ d renresentariue ugur sence
+26.1 £0.45", ksiow power = 9.5 + 0.1 s“ at 30 ym actin, #5.e.)
+and wt (30 pm) (krast power = 302.0 + 5.1 s!, ksiow power = 54.9
++3.4s"! at 30 um actin, +s.e.). d, representative fluorescence
+transients of the phosphate release transients in s217a fit to a
+two-exponential function (kp = 5.6 + 0.1, 9.8 + 0.1, 19.1 + 0.1,
+26.6 + 0.1 s"!, 4s.e. with a slow phase between 0.5-2 s“! at 5,
+10, 20, 30 um actin). the data points in a and b represent
+means + s.d. from at least three separate experiments with
+three separate protein preparations.
+
+ 
+
+ 
+
+ 
+myosin adopts a weak actin-binding conformation upon
+
+ing to atp that dramatically weakens its affinity for actin.
+pyrene actin is quenched when myosin is tightly bound to
+actin, and upon atp binding there is an increase in pyrene
+fluorescence that can be used to monitor the rate of atp
+inding and maximum rate of transition into the weak
+
+ 
+
+ 
+
+actin, and upon atp binding there is an increase in pyrene
+fluorescence that can be used to monitor the rate of atp
+
+ing and maximum rate of transition into the weak
+
+ing states (fig. s2). in $217a the fluorescence transients
+were best fit to a two-exponential function, and the fast
+phase was ~70% of the signal, whereas in wt most transients
+were single-exponential. we found that 217a decreases the
+maximum rate of atp-induced transi
+binding states (k*,zr) (2-fold) and second-order rate constant
+(k irk-.29) for atp binding (4-fold) (fig. s2 and table 1). the
+slower phase of the atp-induced dissociation transients may
+be associated with an isomerization prior to atp binding
+found in other myosins (30).
+
+  
+ 
+
+ 
+
+n into the weak
+
+ 
+
+the power stroke and phosphate release rate constants are
+accelerated when myosin with the products of atp hydrolysis
+in the active site (m.adp,) binds to actin (fig. 3). we
+performed sequential mix experiments to examine the actin-
+activated power stroke and phosphate release rate constants.
+we monitored the fret signal upon mixing mv-f.qsy-cam
+with substoichiometric atp, allowing the reaction to age for
+activated power stroke and phosphate release 'rate constants.
+we monitored the fret signal upon mixing mv-f.qsy-cam
+with substoichiometric atp, allowing the reaction to age for
+20s and then mixing with varying concentrations of actin.
+the fiash fluorescence transients used to monitor the change
+in fret were best fit by a two-exponential function (fig. 3c).
+in wt, the fast and slow power stroke rate constants were
+hyperbolically dependent on actin concentration as we
+previously reported (18, 22) (fig. 3a). the fast and slow
+phases of the fret transients were linearly dependent on
+actin concentration in $217a (fig. 3b). although the
+maximum rate of the fast power stroke was not determined
+for $217a, the actin dependence of the fast power stroke rate
+constant was found to be 20-fold slower in $217a than wt
+
+(kassoc * kewe = 0.9 + 0.1 versus 19.4 + 0.9 pwr l-sé!,
+
+ 
+
+respectively). similarly, the slow power stroke was 5-fold
+slower at 30 pst actin in $217a compared with wt.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+the rate of atp binding and hydrolysis in the absence of actin
+was measured by mixing mv 11q with varying concentrations
+of atp and monitoring the enhancement in tryptophan
+fluorescence (fig. s1). the data were fit to a hyperbolic
+function, and the maximum rate of tryptophan fluorescence
+change was determined, which is thought to report the atp
+hydrolysis rate constant (k.4:+k-1)). the second-order binding
+function, and the maximum rate of tryptophan fluorescence
+change was determined, which is thought to report the atp
+hydrolysis rate constant (k,4:+k-1)). the second-order bi
+constant for atp binding to myosin can be obtained by
+determining the slope of linear portion of the curve a low atp
+concentrations (ky7k+27). we found that $217a reduces the
+maximum rate of atp hydrolysis 40-fold while slightly
+enhancing the second-order binding constant for atp binding
+to myosin (fig. s1 and table 1).
+
+  
+
+ 
+
+ 
+
+ 
+
+atp binding to myosin triggers movement of the lever arm
+into the pre-power stroke state (recovery stroke), which is
+important for priming myosin for force generation. the rate
+of the recovery stroke was examined by monitoring the fret
+signal associated with the fiash-qsy donor-acceptor pair
+upon mixing mv-f:qsy-cam with varying concentrations of
+atp (fig. 2, ac). the fiash fluorescence increase was best fit
+to a two-exponential function at most atp concentrations
+(fig. 2c). the amplitude of the fast phase dominated the
+signal (90% or greater) in both $217a and wt. by fitting the
+fast and slow rate constants to a hyperbolic function, we
+
+(hig 2c yr rie ‘amipiitiide or the fast’ pnase gominatéa the’ ~
+signal (90% or greater) in both $217a and wt. by fitting the
+fast and slow rate constants to a hyperbolic function, we
+determined that $217a increases the maximum rate of the
+fast recovery stroke rate constant (k-gcr) (fig. 2a), whereas
+the slow phase of the recovery stroke (k+gcs) (fig. 2b) was
+fairly similar to wt. because the slower phase of the recovery
+
+ 
+
+stroke represents a small fraction of the total signal, we have
+not attempted to include this transition in our kinetic
+modeling.
+
+ 
+
+“& s217a a
+© wt
+
+~—e—j
+
+ 
+
+0200400" 600 6001000 1200
+atp (um)
+
+"esata b
+wr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘200 “400600001000 1200
+[atp] um
+
+ 
+
+c
+
+ 
+   
+
+= 5ym ate
+= saw ary
+= syste
+= 50hm atp
+
+ 
+
+ 
+
+oo 007 oat 10
+time (sec)
+
+download : download high-res image (177kb)
+
+download : download full-size image
+
+figure 2. structural kinetic measurements of the recovery
+stroke. the recovery stroke was measured by mixing mv-
+f.qsy-cam with varying concentrations of atp and
+monitoring the enhancement in donor fluorescence. the
+fluorescence transients were best fit by a two-exponential
+function at most atp concentrations, whereas the fast phase
+hionitoring the cahaicanéncit conse inrarescende? rhe ~*
+fluorescence transients were best fit by a two-exponential
+function at most atp concentrations, whereas the fast phase
+was more than 90% of the fluorescent signal. a and b, the fast
+phase (a) and the slow phase (b) of the fluorescence
+transients were hyperbolically dependent on atp
+concentration. c, representative fluorescence transients with
+s217a at four different atp concentrations. the rate constants
+(4s.e.) of the fast phase were 11.6 + 0.2, 24.1 + 0.2, 45.5 +03,
+and 81.9 +0.4s"! at 5, 12.5, 25, and 50 um atp, respectively,
+whereas the slow phase ranged between 5 and 10s“. the
+data points in a and b represent means + s.d. from three
+separate experiments with three separate protein
+preparations.
+mdcc-pbp fluorescence.
+
+‘the data are from ref. 22.
+
+mantadp fluorescence.
+
+transient and structural kinetic properties
+
+we performed transient and structural kinetic analysis to
+determine how the s217a mutation impacts the key
+structural and biochemical transitions in the myosin atpase
+cycle. the data were analyzed based on the established
+kinetic scheme (scheme 1) of the atpase cycle also utilized in
+recent manuscripts (18, 22). in scheme 1, the rate constants
+going from left to right are indicated with a positive subscript
+(e.g. kes), whereas those cojng right to left have a negative. ...
+recent manuscripts (18, 22). in scheme 1, the rate constants
+going from left to right are indicated with a positive subscript
+(eg. ki), whereas those going right to left have a negative
+subscript (e.g. ki).
+
+(<> arate <> rat js cadp o> ane adpd <> read adp hn adp i]
+
+tt
+
+m <> mare <>|matp_<& madppife> mradppl <> mladp <> madp <> madp-<> mt
+ku ky % kon ky a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (83kb)
+
+download : download full-size image
+
+scheme 1.
+fret.
+k(st) 25.2418 46.14
+6.0%
+
+steady-state atpase measurements.
+
+p< 001.
+
+intrinsic tryptophan fluorescence.
+
+p< 0.0001.
+
+pyrene actin.
+
+fret.
+nd.
+kp (maximum rate, s)
+power stroke, n= 3/
+
+kysoc * kpwe (actin concentration dependence,
+parts!)
+
+pws (fast phase, maximum rate, s“!)
+pws (slow phase, maximum rate, s“!)
+actomyosin adp release, n = 5
+
+kon (sty -
+ps (slow phase, maximum rate, s”*)
+
+actomyosin adp release, n = 5
+
+k(st)
+
+ 
+
+34" nd.
+
+19.4409 09+01¢
+417295 nd.
+
+94236 nd.
+
+992508 au*
+
+25.2418 46.14
+a
+09+01
+kear(s)
+recovery stroke, n= 3!
+ace (fast phase, maximum rate, s!)
+
+kos (im)
+
+f<. felon hace mayimum esta ect)
+
+cp (fast phase, maximum rate, s)
+
+kos (im)
+
+k.pcs (slow phase, maximum rate,
+
+ 
+
+pyrene actin binding: m.adpp; (uw7!-s“!), n=
+1
+
+actin-activated phosphate release, n = 18
+
+koc * kem(actin concentration dependence,
+pls“)
+
+kp (maximum rate, s)
+
+ 
+
+157
+
+67204
+
+19.42
+4.0"
+
+206+
+34"
+
+404 +60
+
+0.6 +01
+
+09+01
+
+nd.
+17202 0401"
+577 £172 918+224
+
+1003 +
+157 404 +60
+18203 29209
+196245 324134
+
+343231 934054
+vo(s)
+kear (s")
+
+karpase (hm)
+
+kear (s")
+
+ketpase (hm)
+
+rate/equilibrium constants (#5.e.)
+atp binding/hydrolysis (myosin), n = 3°
+kirksgr (umes!)
+
+kos (hm)
+
+eit key (maximum rate, x“)
+
+atp binding (actomyosin), n = 3°
+kyrkar (uns)
+
+kos (im)
+0.05 +
+0.06
+
+11.3206
+
+18204
+
+11.3206
+
+18204
+
+0.01
+0.01
+
+3.3205?
+
+9.6 +15"
+
+3.3205?
+
+9.6 +15"
+steady-state atpase values (35.e.), n= 4°
+steady-state motor properties
+
+we examined s217a compared with wt using actin-
+activated atpase assays in kmg50 buffer at 25 °c (fig. 1b) (18,
+22). $217a reduced the maximum rate of actin-activated
+atpase (ket) 3~4-fold and increased the karpase (the actin
+concentration at which atpase is half-maximal) 5-fold (fig.
+1band table 1), which was similar to the previous myosin v
+study (26).
+
+table 1. summary of steady-state and transient kinetic results
+
+wr 217a,
+steady- -state motor properties
+2
+@
+2
+
+&
+
+5
+
+ 
+
+0 10 20 30 40 50
+[actin] nm
+
+download : download high-res image (272k)
+
+“” [actin] pm
+
+download : download high-res image (272k)
+
+download : download full-size image
+
+figure 1. actin-activated atpase activity of s217a. a, the
+217a mutation is located in switch i, a conserved region of
+the active site (see close-up of active site). the location of the
+fluorescent probes used for monitoring lever arm rotation are
+also highlighted with the lever arm in the pre- (protein data
+bank entry ivoma) and post-power stroke (protein data
+bank entry 10£9) positions. the n-terminal fiash label
+served as a donor for qsy labeled at t110c of calmodulin
+bound to the first iq motif of myosin v (structural model was
+generated using chimera). b, actin-activated atpase was
+monitored as a function of actin concentration, and data were
+fit to michaelis-menten kinetics (summarized in table 1).
+error bars represent the standard deviation from at least three
+separate protein preparations.
+
+ 
+$217a mutation in myosin v
+
+the switch i region of the active site, which shares homology
+with other p-loop atpases including kinesin and g-proteins,
+consists of a consensus motif (nxxssr) (fig. 1a) (23).
+mutating the first serine in this motif was found to reduce
+but not abolish actin-activated atpase and in vitro motility in
+myosin ii (24, 25). another study examined the impact of
+mutating this residue (s217a) in myosin v using steady-state
+and transient kinetic analysis as well as single-molecule
+(26), but optical trapping and structural kinetics
+were not examined. thus, we introduced the $217a point
+mutation into a construct of myosin v contained a single 1q
+motif (mv), n-terminal tetracysteine tag, and c-terminal myc
+
+ 
+
+ 
+
+ 
+
+were not examined. thus, we introduced the $217a point
+mutation into a construct of myosin v contained a single 1q
+motif (mv), n-terminal tetracysteine tag, and c-terminal myc
+and flag tags (18, 22, 27, 28, 29). for experiments utilizing
+fret to measure lever arm rotation, we labeled mv with the
+tetracysteine-based dye fiash and exchanged qsy-cam onto
+the first iq motif (mv-f.qsy-cam) (fig. 1a) (18, 22). the
+measurements not involving fret were done with unlabeled
+wt and $217 in kmg50 buffer (10 mu imidazole, 50 mm kcl,
+1. mm mgcl, 1 mm egta, and 1 mm dtt), whereas the fret
+measurements were performed with mv-f.qsy-cam in
+kmg50 buffer with 1 mm tcep instead of dtt. in our previous
+work we demonstrated that our fluorescence labeling
+strategy had a slight impact on steady-state atpase and in
+vitro motility (<2-fold) because of a reduction in the adp
+release rate constant, whereas other steps in the atpase cycle
+were unchanged (18).
+results
+understanding how motor proteins such as myosin couple
+structural changes in their atpase cycle with mechanical
+force is a fundamental question in biophysics. indeed, the
+actomyosin atpase mechanism is utilized for many different
+mechanical tasks in cells including muscle contraction, cell
+division, and organelle transport (1). the large family of
+myosins, which includes over 20 classes and more than 40
+diffecent humanvenes..is.defined by.astructially.conseryed
+division, and organelle transport (1). the large family of
+myosins, which includes over 20 classes and more than 40
+different human genes, is defined by a structurally conserved
+motor domain and uses a conserved atpase cycle to convert
+chemical energy from atp hydrolysis into mechanical work
+(2, 3,4). a detailed understanding of the structural and
+functional aspects of the myosin atpase pathway will
+enhance our ability to utilize myosins as drug targets to treat
+various genetic and pathological diseases (5).
+
+ 
+
+the lever arm hypothesis suggests that myosins generate
+force by coupling specific conformational changes in the
+active site to large conformational changes in the actin-
+
+ing and lever arm regions (4, 6, 7, 8). the lever arm
+domain consists of a single a-helix that extends from the
+motor and binds a variety of calmodulin or calmodulin-like
+light chains. when myosin is bound to actin, its cytoskeletal
+track, the rotation of the lever arm can produce a power
+stroke that drives actin filament sliding or allows myosin to
+walk along actin filaments. a key question in the field is how
+does actin binding trigger the dramatic acceleration in the
+
+ 
+
+stroke that drives actin filament sliding or allows myosin to
+walk along actin filaments. a key question in the field is how
+does actin binding trigger the dramatic acceleration in the
+release of the products of atp hydrolysis, specifically
+phosphate release, which can be accelerated over 1000-fold
+(9, 10), and how this is coupled to force production (ie. lever
+arm rotation when myosin is bound to its track). there have
+been many approaches to addressing this question, including
+x-ray crystallography (4), solution biochemical analysis (10),
+single-molecule mechanical studies (11, 12, 13), and muscle
+mechanics studies (14, 15).
+
+ 
+
+the challenge is to integrate all of the results in the literature
+into a model that describes the sequence of events associated
+with actin-binding, lever arm rotation (referred to as the
+power stroke), and force generation (referred to as the
+working stroke). structural studies have defined two main
+conformations of the lever arm, the pre-power stroke state,
+in which atp or the products of atp hydrolysis are tightly
+bound to the active site, and a post-power stroke state, in
+which adp or no nucleotide is bound (16). crystallography
+
+in which aip or the’products of aip hydrolysis ate tightly
+bound to the active site, and a post-power stroke state, in
+which adp or no nucleotide is bound (16). crystallography
+results on myosin vi have provided insight into the
+phosphate release mechanism by demonstrating evidence of
+the escape route of phosphate through a phosphate tunnel or
+back door (17). based on the crystallography studies, as well
+as other results in the literature, this group proposed that
+myosin binding to actin triggers structural changes in the
+active site that allow phosphate to be released through the
+back door. they propose that once phosphate is transitioned
+from the active site into the tunnel, strong actin binding and
+lever arm swing can occur and then finally phosphate leaves
+the tunnel into solution (4). therefore, in this model, only
+when myosin is tightly bound to its track does it trigger the
+movement of the force-generating lever arm and allow the
+release of phosphate, a highly irreversible step in the absence
+of load. consequently, studies that have directly measured
+the lever arm rotation by fret in real time demonstrated that
+the power stroke occurs before the release of phosphate is
+observed (18, 19, 20). in addition, recent ultra-fast optical
+
+the lever arm rotation by fret in real time demonstrated that
+the power stroke occurs before the release of phosphate is
+observed (18, 19, 20). in addition, recent ultra-fast optical
+trapping studies on myosin ii suggest that the power stroke
+and observed working stroke occur rapidly after attachment
+to actin, without any delay that might be caused by an
+intermediate with phosphate in the tunnel (21). both models
+suggest that the power stroke and strong actin binding are
+tightly coupled. there are several key questions that remain
+to test current models. foremost is defining structural
+changes in the active site that are triggered by attachment to
+actin and required for the power stroke and phosphate
+release. carefully chosen point mutations designed to inhibit
+the lever arm rotation or phosphate release could provide a
+powerful test of these models. it is also unclear whether all
+myosins follow the same sequence of events or whether
+there are variations within the myosin family that are
+important for tuning myosins for their biological function.
+
+ 
+
+ 
+
+we have developed a method of measuring the rotation of
+the lever arm in myosin v in real time using fret, which
+involves labeling mvosin v containing a single 10 motif with
+we have developed a method of measuring the rotation of
+the lever arm in myosin v in real time using fret, which
+involves labeling myosin v containing a single 1q motif with
+fiash at its n terminus and exchanging qsy-labeled
+calmodulin at the first iq motif (18). we directly measured
+lever arm rotation in the recovery and power stroke steps of
+the myosin v atpase cycle and found that the power stroke
+occurs in two steps: a rapid step that is faster than phosphate
+release and a slower step that occurs before adp release (18,
+22). in the current paper we use a point mutation in the
+conserved switch i region of the active site to demonstrate
+the coupling between the actin- and nucleotide-binding
+regions during the power stroke and phosphate release steps.
+we also characterized the impact of the mutation in single-
+molecule mechanics and kinetics in an optical trapping assay.
+our results have led to a model suggesting that the transition
+from a weak-binding state to an initial force-bearing state
+requires structural changes in the active site and that these
+actin-induced structural changes are crucial for triggering the
+power stroke. thus, generating the myosin power stroke
+tequires paiming.the key stu ctelela ments fine fone oe
+actin-induced structural changes are crucial for triggering the
+power stroke. thus, generating the myosin power stroke
+requires priming the key structural elements for force
+generation; actin-binding region, active site, and lever arm.
+myosin; actin; atpase; fluorescence resonance energy
+transfer (fret); optical tweezers; single-molecule biophysics
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+mypsins generate force and motion by precisely coordinating
+their mechanical and chemical cycles, but the nature and
+timing of this coordination remains controversial. we utilized
+a ret approach to examine the kinetics of structural changes
+in the force-generating lever arm in myosin v. we directly
+compared the fret results with single-molecule mechanical
+events examined by optical trapping. we introduced a
+mutation (s217a) in the conserved switch i region of the
+active site to examine how myosin couples structural changes
+in thea ding regions with force
+
+ 
+
+\- and nucleotide-|
+
+ 
+
+mutation (217a) in the conserved switch’ region of the
+active site to examine how myosin couples structural changes
+in the actin- and nucleotide-binding regions with force
+generation. specifically, $217a enhanced the maximum rate
+of lever arm priming (recovery stroke) while slowing atp
+hydrolysis, demonstrating that it uncouples these two steps.
+we determined that the mutation dramatically slows both
+actin-induced rotation of the lever arm (power stroke) and
+phosphate release (210-fold), whereas our simulations
+suggest that the maximum rate of both steps is unchanged by
+the mutation. time-resolved fret revealed that the structure
+of the pre- and post-power stroke conformations and mole
+fractions of these conformations were not altered by the
+mutation. optical trapping results demonstrated that s217a
+does not dramatically alter unitary displacements or slow the
+working stroke rate constant, consistent with the mutation
+disrupting an actin-induced conformational change prior to
+the power stroke. we propose that communication between
+the actin- and nucleotide-binding regions of myosin assures a
+proper actin-binding interface and active site have formed
+before producing a power stroke. variability in this coupling
+
+ 
+
+ 
+
+ 
+
+the actin- and nucleotide-binding regions of myosin assures a
+proper actin-binding interface and active site have formed
+before producing a power stroke. variability in this coupling
+is likely crucial for mediating motor-based functions such as
+muscle contraction and intracellular transport.
+editors’ picks
+
+fret and optical trapping
+reveal mechanisms of actin
+activation of the power stroke
+and phosphate release in
+myosin v
+
+laura k. gunther, john a. rohde 2, wanjian tang’,
+
+joseph a. cirilo jr. +, christopher p. marang ?, brent d. scott 3,
+david d. thomas ”, edward p. debold 3,
+
+cauid k. gurithér ', jofin a. rohde 4, wanjian tang *,
+
+joseph a. cirilo jr. +, christopher p. marang ?, brent d. scott 3,
+david d. thomas ”, edward p. debold 3,
+
+christopher m. yengo! 2.
+
+  
+
+ 
+
+ 
+
+show more v
++ addtomendeley « share 55 cite
+
+https://dol.org/10.1074/jbc.ra120.015632 7 get rights and content 7
+
+under a creative commons license a © open access
+ld download full issue
+
+journal of bass
+biological
+chemistry
+
+volume 295, issue 51, 18 december 2020, pages 17383-17397
+
+ 
+

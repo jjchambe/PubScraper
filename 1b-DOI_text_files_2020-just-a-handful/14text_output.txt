@@ -1,0 +1,2232 @@
+notes and references
+
+ 
+
+1.6. charras and a. s. yap , curr. biol, 2018, 28 r445 —r457 [crossrer] [eas
+
+pa
+
+2. m.a. wozniak and c. s. chen , wat. rev. mol. cell biol., 2009, 10 , 34 —43
+
+crossref] [cas] [pubes] que .
+
+3.c.s. chen, j. tan and j. tien, annu. rev. biomed. eng., 2004, 6 ,275 —302
+
+crossref] [cas] [pubes] que .
+
+4. e. levine ,c. h. lee , c. kintner and b. m. gumbiner , development, 1994,
+2. m.a. wozniak and c. s. chen , wat. rev. mol. cell biol., 2009, 10 , 34 —43
+
+crossref] [cas] [pubes] que .
+
+3.c.s. chen, j. tan and j. tien, annu. rev. biomed. eng., 2004, 6 ,275 —302
+
+crossref] [cas] [pubes] que .
+
+4. e. levine , c. h. lee , c. kintner and b. m. gumbiner , development, 1994,
+
+120, 901-909 [crossner] [cas] eu -
+
+5.a.c. martin , m. kaschube and e. f. wieschaus , nature, 2008, 457 , 495
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+crossref] [pubmed
+
+ 
+
+ 
+
+ 
+
+6. e. bazelliéres , v. conte , a. elosegui-artola , x. serra-picamal , m. bintanel-
+morcillo , p. roca-cusachs , j. j. mufioz , m. sales-pardo , r. guimera and x.
+trepat , nat. cell biol., 2015, 17 ,409 —420 [crossrer] [pubviea
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.b.r. acharya, s. k. wu , z. z. lieu , r. g. parton , s. w. grill, a. d. bershadsky
+,g.a. gomez and a. s. yap , cell rep., 2017, 18 , 2854 —2867 [grossker] [cas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pubmed
+
+ 
+
+ 
+
+ 
+
+8.d. e. conway , m. t. breckenridge , e. hinde , e. gratton , c. s. chen and m.a.
+schwartz , curr. biol, 2013, 23 , 1024-1030 [erosster] [cas] [pubwea
+
+qumass
+
+9. m. takeichi development, 1988, 102 , 639 —655 [grosster] [cas
+
+qumass
+
+10. f. van roy and g. berx,, cell. mol. life sci., 2008, 65 , 3756 —3788 [crossne?
+ooo
+9. m. takeichi development, 1988, 102 , 639 —655 [grosster] [cas
+
+qumass
+
+10. f. van roy and g. berx , cell. mol. life sci, 2008, 65 , 3756 —3788 [crosstet
+cas] [pubwed .
+
+11. d. e. leckband , q. le duc , n. wang and j. de rooij , curr. opin. cell biol,
+2011, 23 523-530 [crosser] [cas] [pubmed :
+
+12. c.m, niessen , d. leckband and a. s. yap , physiol. rev., 2011, 91, 691 —731
+crosstef] [eas] [pubwed .
+
+13. z. liu, j. l. tan ,d.m. cohen , m. t. yang, n. j. sniadecki , s. a. ruiz, c. m.
+nelson and c. s. chen , proc. natl. acad. sci. u. s.a.,2010, 107 , 9944 9949
+
+crossref] [cas] [pubes] que .
+
+14. j. m. halbleib and w. j. nelson , genes dev., 2006, 20 , 3199 —3214 [crossret|
+
+cas| [pubes] nue -
+
+15. m.p. stemmler mol. biosyst., 2008, 4 , 835 —850 [rsc :
+16. a. brugués ,e. anon ,v. conte, j. h. veldhuis , m. gupta, j. colombelli, j. j.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ee es bey
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mujioz , g. w. brodland , b. ladoux and x. trepat , nat. phys., 2014, 10, 683
+—690 [search pubmed :
+
+17.x. trepat , m. r. wasserman , t.e. angelini, e. millet ,d. a. weitz, j.p. butler
+and j. j. fredberg, nat. phys., 2009, 5, 426 —430 [search publied
+
+munoz, g. w. brodiand , b, ladoux and x. irepat , nat. phys., 2014, 10 , 683
+—690 [search pubmed :
+17.x. trepat , m. r. wasserman , t.e. angelini, e. millet ,d. a. weitz, j.p. butler
+and j. j. fredberg, nat. phys., 2009, 5, 426 —430 [search publied
+
+qumass
+
+18. f. van roy nat. rev. cancer, 2014, 14, 121-134 [crossrer] [cas] [puovea
+
+qumass
+
+19. d. e. leckband and j. d. rooij , annu. rev. cell dev. biol., 2014, 30 ,291—
+
+315 [crosseer] [cas] [pubes] nue
+
+20. w. j. polacheck and c. s. chen , nat. methods, 2016, 13 , 415 —423 [crossref]
+
+=) fa)
+
+21. p. roca-cusachs , v. conte and x. trepat , nat. cell biol., 2017, 19 , 742-751
+
+crossref] [cas] [pubes] que .
+
+22. m. eisenstein nature, 2017, 544, 255 —257 [grosser] [cas] [pubwiea
+
+23. d. t. tambe,, c. corey hardin , t. e. angelini , k. rajendran , c. ¥. park, x.
+serra-picamal , eh. zhou, m.h. zaman , j. p. butler ,d. a. weitz, j. j.
+fredberg and x. trepat, nat. mater. 2011, 10 ,469 —475 [erossrer] [cas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pubmed
+
+ 
+
+ 
+
+24. v. maruthamuthu , b. sabass , u. s. schwarz and m. l. gardel , proc. natl.
+acad. sci. u. 5. a., 2011, 108 , 4708 —4713 [crossket] [cas] [pubmed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fredberg and x. trepat , nat. mater, 2011, 10 ,469 475 [gost] [es
+pubea .
+24, v. maruthamuthu , b. sabass , u.s. schwarz and m. l. gardel , proc. natl.
+acad. sci. u. s.a, 2011, 108 , 4708 —4713 [grosster] [cas] [pubtea
+25. n. borghi , m. sorokina , 0. g. shcherbakova , w. |. weis ,b. l. pruitt, w. j.
+nelson and a. r. dunn , proc. natl. acad. sci. u. s.a.,2012, 109, 12568 —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12573 [crosseet] [eas] [puomea
+
+26. b. d. hoffman and a. s. yap , trends cell biol, 2015, 25 , 803 —814 [crosstet
+
+cas] [pubwed .
+
+27. p. wang, j. liang, l. z. shi, ¥. wang , p. zhang , m. ouyang, d. preece, q.
+peng, l. shao, j. fan, j. sun, s.s.li, m.w. berns , h. zhao and y. wang,
+acs photonics, 2018, 5 , 3565 —3574 [crossref] [cas] [pubmed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28. c. jurchenko and k. s. salaita , mol. cell. biol., 2015, 35 , 2570 —2582
+croaret] [eas] [paoea
+29. b. zhao , c. o'brien , a. p.k. k. k. mudiyanselage , n. li, ¥. bagheri, r. wu, y.
+sun and m. you , j. am. chem. soc., 2017, 139 , 18182 —18185 [crossref]
+cas] [paowes .
+30. m. you, y.lyu, d. han, l. qiu, q. liu, t. chen, c. wu, l. peng, l. zhang, g.
+bao and w. tan, nat. nanotechnol., 2017, 12 ,453 —459 [erosster] [eas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sun and m. you, j. am. chem. soc., 2017, 139 , 18182 —18185 | crossket|
+os) [fa .
+
+ 
+
+30. m. you, y.lyu, d. han, l. qiu, q. liu, t. chen, c. wu, l. peng, l. zhang, g.
+bao and w. tan, nat. nanotechnol., 2017, 12 ,453 —459 [erosster] [eas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pubmed
+31. a. bunge , m. loew , p. pescador , a. arbuzova , n. brodersen , j. kang, l.
+dahne, j. liebscher , a. herrmann , g. stengel and d. huster , j. phys.
+
+chem, b, 2009, 113 , 16425 —16434 [crossner] [cas] [pubwiea
+32. x. wang and t. ha, science, 2013, 340 , 991 —994 [crossrer
+
+33. y. zhang , c. ge, c. zhu and k. salaita , nat. commun., 2014, 5 ,5167
+croaret] [eas] [paoea
+34, b.l. blakely , c. e. dumelin , b. trappmann , l. m. mcgregor , c. k. choi , p. c.
+anthony , v.k. duesterberg , b. m. baker, s. m. block, d.r. liu and c. s.
+chen , nat. methods, 2014, 11 , 1229-1232 [rossrer] [eas] [pubvied
+35. m. t. woodside , w. m. behnke-parks , k. larizadeh , k. travers , d. herschlag
+and s. m. block , proc. natl. acad. sci. u.s. a.,2006, 103 , 6190 6195
+croaret] [eas] [paoea
+36. n.m. kronenberg, p. lichm , a. steude j. a. knipper , j. g. borger , g.
+
+scarcelli , k. franze , s. j. powis and m. c. gather , nat. cell biol, 2017, 19 ,
+39. m. |. woodside, w.m. behnke-parks , k. larizaden , k. iravers , d. herschlag
+
+and s. m. block , proc. natl. acad. sci. u. s. a., 2006, 103 , 6190 —6195
+
+crosstef] [eas] [pubwed
+
+36. n. m. kronenberg, p. liehm , a. steude, j. a. knipper, j. g. borger, g.
+scarcelli ,k. franze , s. j. powis and m. c. gather , nat. cell biol, 2017, 19,
+864 —872 [crossrer] [cas] [pubmed :
+
+37.s.r.k. vedula, m. c. leong, t.l. lai, p. hersen , a. j. kabla, c. t. lim and b.
+ladoux , proc. natl. acad. sci. u. s.a.,2012, 109 , 12974-12979 [crossref]
+
+cas| [pubes] qrewuver
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+38. l. li, ¥. he , m. zhao and j. jiang , burns trauma, 2013, 1, 21-26 [eressrer
+
+pan
+
+39. j. f. marko and e. d. siggia , macromolecules, 1995, 28 , 8759 —8770
+
+crosser] [cas] (cnis -
+
+40. s. b. smith , y. cui and c. bustamante , science, 1996, 271, 795 —799
+
+crosstef] [eas] [pubwed
+
+41. x. wang , z. rahil ,.t. li, f. chowdhury , d. e. leckband, y. r. chemla and
+t.ha, sci. rep., 2016, 6 , 21584 [crossret] [cas] [pubmed .
+
+42, h. liu, z. zhu, h. kang, y. wu , k. sefan and w. tan , chem. ~eur.
+16 , 3791 —3797 [crossker] [cas] [pubmed :
+
+43. y. bagheri , s. chedid , f. shafiei , b. zhao and m. you , chem. sci, 2019, 10,
+11030 —11040 [rse
+
+44, f.w.s, stetter , l. cwiklik , p, jungwirth and t. hugel , biophys. j., 2014, 107
+42. h. liu, z. zhu, h. kang, y. wu , k. sefan and w. tan , chem. ~eur. j,,2010,
+
+16 , 3791 —3797 [crossker] [cas] [pubmed :
+43. y. bagheri , s. chedid , f. shafiei , b. zhao and m. you , chem. sci, 2019, 10,
+
+11030 —11040 [sc
+
+44, fw. s. stetter , l. cwiklik,, p. jungwirth and t. hugel , biophys. j., 2014, 107
+, 1167-1175 :
+
+45. p. katsamba , k. carroll, g. ahlsen , f. bahna, j. vendome, s. posy, m.
+rajebhosale,, s. price, t. m. jessell , a. ben-shaul , l. shapiro and b. h.
+honig , proc. natl. acad. sci. u. s.a., 2009, 106 , 11594 —11599 [crossret
+
+cas] [pubwed .
+
+46. jk. hannestad , r. brune , |. czolkos , a. jesorka , a. h. el-sagheer ,t.
+
+brown ,b. albinsson and o. orwar , acs nano, 2013, 7 , 308 —315 [crosstet
+
+cas| [pubes] nue -
+
+47. f. twiss ,q. le duc, s. van der horst , h. tabaili, g. van der krogt,, n. wang
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, h. rehman , s. huveneers , d. e. leckband and j. j. b. 0. de rooij , biol.
+open, 2012, 1, 1128-1140 [eressnef] [eas] [pubes
+
+48. r. seddiki , g. h.n. s. narayana , p-o. strale , h.e. balcioglu , g. peyret,m.
+yao , a.p. le, c. teck lim, j. yan, b. ladoux and r. m. mége , mol. biol. cell,
+2018, 29 , 380 —388 [crossrer] [cas] [pubmed :
+
+49. |. muhamed , j. wu , p. sehgal , x. kong, a. tajik , n. wang and d. e.
+
+leckband , j. cell sci, 2016, 129 , 1843-1854 [crossrer] [cas] [pubtea
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+acknowledgements
+
+the authors gratefully acknowledge nih r35gm133507, a start-up grant from
+umass amherst and ials m2m seed grant to m. you and nsf cmmi 1662835 to y.
+sun. we are grateful to dr james chambers for the assistance in fluorescence
+imaging, and dr tianxi yang for manuscript preparation. we also thank every
+
+‘other member of the you lab and dr craig martin for useful discussion.
+conflicts of interest
+
+there are no conflicts to declare.
+conflicts of interest
+
+there are no conflicts to declare.
+
+various physiological and pathological processes.
+conclusions
+
+in this study, we have developed a dna-based nanoprobe to quantify, at the
+molecular level, e-cadherin-mediated tensile forces at cell-cell junctions. the
+so-called dnameter exhibits several unique features. first, the intrinsic
+modularity and precise self-assembly of the dna scaffold allows the accurate
+positioning of specific number of reference fluorophores, reporter fluorophores
+and quenchers. 2257-59 as a result, a facile ratiometric quantification of tensile
+forces can be achieved. predictably, through the rational tuning of the
+sequence and length of the dna hairpin, the threshold force can be tailored ina
+large range to study different intensities of intercellular forces. 233 by further
+conjugating two hairpins into one self-assembled “rod”-like dna structure, a
+large range of tensile forces can be measured simultaneously. compared to two
+separated membrane dna hairpin probes, the conjugated dnameter allows the
+use of one reference fluorophore to characterize the membrane distributions of
+both hairpins. supposedly, more hairpins can be incorporated into the
+
+dnameter to realize delicate quantification of an even larger range of forces.
+large range of tensile forces can be measured simultaneously. compared to two
+
+separated membrane dna hairpin probes, the conjugated dnameter allows the
+use of one reference fluorophore to characterize the membrane distributions of
+both hairpins. supposedly, more hairpins can be incorporated into the
+dnameter to realize delicate quantification of an even larger range of forces.
+
+compared to the traction force microscopy, 2224 the beauty of the dnameter
+is its capability to distinguish tension mediated by a particular protein from the
+total forces at cell-cell junctions. compatible with readily accessible
+fluorescence microscopes, the dnameter is also easy to prepare and use. by
+simply incubating with the target cells, the dnameter can be spontaneously
+anchored onto cell membrane to report the tensions. compared to fluorescent
+protein-based sensors and cantilever pillars, 1.25 there is no requirement for
+the cloning or microfabrication. in addition, the obtained fluorescence signals
+can be straightforwardly converted into mechanical forces without the need of
+complicated data processing or analysis. as a natural component in the cell
+plasma membrane, the cholesterol anchors can freely diffuse along the
+membrane. *° in addition, the cholesterol-dna conjugates can also be
+effectively removed if desired (fig. $13 and s14+)..
+
+we have demonstrated in detail two approaches to quantify the force
+distributions by either the number of bright pixels or the unfolded dna probes.
+
+both approaches can be facilely applied for mapping intercellular forces. in
+
+effectively removed if desired (fig. $13 and s14+).
+we have demonstrated in detail two approaches to quantify the force
+
+ 
+
+ 
+
+distributions by either the number of bright pixels or the unfolded dna probes.
+both approaches can be facilely applied for mapping intercellular forces. in
+addition, the ec-dnameter has been used to quantify intercellular e-cadherin
+tension during the collective migration of cell sheet. in principle, the dnameter
+can also be used to quantify three-dimensional protein-specific intercellular
+forces in physiologically relevant multi-layer cell assemblies or tissues. 9°!
+our study demonstrated the ability of the dnameter to quantify and real-time
+monitor mechanical forces within a colony of cells. with a broad choice of
+fluorophores and quenchers, the dnameter can be further used to
+simultaneously measure intercellular forces among different receptor-ligand
+pairs, and to study the correlations between forces and the concentration
+gradients of morphogens or signaling molecules. © further applications of the
+dnameter will allow the construction of more accurate mechanical models to
+study mechanotransduction during embryogenesis, morphogenesis, and
+
+various physiological and pathological processes.
+before migration. leading edge is the edge where “leader cells” located at the front edge of
+the advancing cell sheet. scale bar, 50 um. (c) quantitative analysis of tension within these
+monolayer cells as a function of their distances to the leading edge before cell migration
+
+(black
+
+ 
+
+) or after 12 h of cell migration (green line).
+fig. 5 mapping tensile force distributions during collective cell migration. (a)
+‘schematic of collective mdck cell migration. a pdms slab was pre-attached on a glass
+
+bottom.
+
+ 
+
+h, and a confluent cell monolayer was formed next to it. before removing the
+pdms, the ec-dnameter was added to map the intercellular forces. the removal of the
+pdms then triggered the collective migration. after 12 h of migration, fresh ec-dnameter
+was added again to map the forces. (b) fluorescence imaging of mdck monolayer cells
+before (top) and after 12 h of cell migration (bottom). g/¥ ratio was shown and used for the
+
+quantification. initial edge is the:
+
+ 
+
+al interface between the pdms and monolayer cells
+before migration. leading edge is the edge where “leader cells” located at the front edge of
+the advancing cell sheet. scale bar, 50 um. (c) quantitative analysis of tension within these
+monolayer cells as a function of their distances to the leading edge before cell migration
+(black
+
+ 
+
+) or after 12 h of cell migration (green line).
+oo
+
+a before migration
+
+owiror i.
+vr 2
+
+‘0 100 200 300 400 500 600
+distance to leading edge (um)
+
+to
+
+ol
+
+ 
+ 
+
+initial
+
+leading migration edge
+
+edge
+force mapping during collective cell migration
+
+cooperative intercellular forces drive cellular motions and play vital roles in
+collective cell migration. 22.55 we asked if the dnameter could be used to
+quantify intercellular tensions during collective migration of an epithelial
+monolayer. epithelial migration occurs on a time scale of hours-to-days. we
+first wondered if the dnameter allows long-term force measurement. for the
+sake of simplicity, we prepared a non-quenched ec-dnameter containing only a
+22%gc dna hairpin (nqec22-dnameter). after incubating this nqec22-
+dnameter with a confluent mdck cell monolayer for 1 h, the probe persistence
+on the cell membrane was studied. our results indicated that in a complete
+growth medium, the cell membrane fluorescence would completely disappear
+within 3 h (fig. $12). since the growth medium is needed for collective
+epithelial migrations, the dnameter cannot be directly used for the force
+
+mapping.
+on the cell membrane was studied. our results indicated that in a complete
+
+growth medium, the cell membrane fluorescence would completely disappear
+within 3 h (fig. s12). since the growth medium is needed for collective
+epithelial migrations, the dnameter cannot be directly used for the force
+mapping.
+
+to achieve a long-term force measurement, we asked if the cell membrane
+probe density could be recovered by simply adding fresh dnameter. to test
+that, we first anchored 0.2 um nqec22-dnameter onto mdck cell membrane in
+hepes- buffered saline, followed by replacing with complete growth medium.
+after 3 h incubation, almost no fluorescence was observed on the cell
+membrane. by further replacing the growth medium with buffer containing 0.2
+hm of fresh nqec22-dnameter, again, strong fluorescence and a similar level of
+membrane probe density (95.6 4.5%) was observed at cell-cell junctions (fig.
+$137). moreover, this loss-and-regain of cell membrane probes can be
+repeated for at least 5 cycles without significant reduction in the efficiency (fig.
+$13 and $147). in addition, considering the relatively weak e-cadherin binding
+affinity, “5 intercellular e-cadherin interactions are highly dynamic. newly
+added ec-dnameter probes can quickly engage in these natural cadherin
+interactions. as a result, the dnameter can now be used to study long-term
+cellular events.
+
+finally, we applied the ec22-dnameter to measure intercellular e-cadherin
+
+  
+
+ 
+
+ 
+
+a raine wen oh
+
+ 
+
+added ec-dnameter probes can quickly engage in these natural cadherin
+interactions. as a result, the dnameter can now be used to study long-term
+cellular events.
+
+finally, we applied the ec22-dnameter to measure intercellular e-cadherin
+tensions during collective epithelial migrations. a slab of polydimethylsiloxane
+(pdms) was pre-attached onto a substrate, and then a confluent mdck cell
+monolayer was formed adjacent to the pdms slab. 2” the interface between
+the monolayer and pdms was defined as the initial edge. after the removal of
+the pdms slab, the exposed free space triggers the migration of the cell sheet,
+emulating the wound healing process. after the initial force mapping with the
+ec22-dnameter, we replaced the hepes-buffered saline with the complete cell
+growth medium. following another 12h of cell growth and migration, fresh
+ec22-dnameter was added to measure intercellular e-cadherin tensions (fig,
+5a and $151). before removing the pdms slab, intercellular forces mediated by
+5b). after allowing
+the cell sheet to migrate for 12 h, interestingly, junctional pixels of high g/y
+
+e-cadherin were rarely observed within the cell sheet (ei
+
+ 
+
+ratio were clearly observed in the regions ~15 cell lengths from the leading
+
+ 
+
+edge of migration (fig. 5). we have further quantified the correlation between
+the number of pixels experiencing >4.4 pn forces and their distance to the
+leading edge (fig. s16+ and 5c, materials and methods). as the distance
+
+increased, the percentage of e-cadherins undergoing intercellular tensions also
+ratio were clearly observed in the regions ~ 19 cell lengths trom the leaaing
+
+edge of migration (fig. 5). we have further quantified the correlation between
+the number of pixels experiencing >4.4 pn forces and their distance to the
+leading edge (fig. s16+ and 5c, materials and methods). as the distance
+increased, the percentage of e-cadherins undergoing intercellular tensions also
+linearly increased. in comparison, negligible forces were observed throughout
+the imaging zone before removing the pdms (fig. 5c). overall, these
+‘observations are in good agreement with some previous studies on the global
+
+force distributions during this process. 1737.56
+we next asked if the ec-dnameter could be used to monitor the dynamic
+variations of e-cadherin-mediated intercellular tension after the egta
+treatment. indeed, at a representative cell-cell junction, within 20 min after
+adding 10 mm egta, the percentage of medium tension (4.4-8.1 pn) gradually
+decreased from 5.0% to 1.5%, and meanwhile large tension (8.1 pn) dropped
+from 10.4% to 2.1% (fi
+junctions confirmed that the ec-dnameter could be used to measure the
+
+4a and b). further quantification of more cell-cell
+
+ 
+
+dynamics of intercellular e-cadherin tension. interestingly, a linear decrease in
+
+auunig av
+
+ 
+
+luin, wie percentage &
+
+ 
+
+ 
+
+ 
+
+creme. pry glauuauy
+decreased from 5.0% to 1.5%, and meanwhile large tension (8.1 pn) dropped
+from 10.4% to 2.1% (fi
+junctions confirmed that the ec-dnameter could be used to measure the
+
+4a and b). further quantification of more cell-cell
+
+ 
+
+dynamics of intercellular e-cadherin tension. interestingly, a linear decrease in
+the number of membrane probes experiencing medium or large tensile forces
+(64.4 pn) was observed after adding egta, with a rate constant ~53 um-2
+min“ (fig. 4c). in a control experiment, a constant unfolding percentage of the
+prog-dnameter (~1.1%) was shown before and after adding egta (fig. 4d, $8,
+and $97).
+
+as another validation, we applied the ec-dnameter to monitor the ml-7-
+induced changes in the e-cadherin tension. ml-7 can inhibit the activity of
+myosin light chain kinase and impair the ability of cells to concentrate e-
+cadherin at cell-cell junctions. °4 as expected, the treatment of ml-7 induced a
+gradual decrease in the g/y and r/y ratio at mdck cell-cell junctions (fig.
+$10+). for example, at a representative junction, after adding 100 um ml-7, the
+percentage of large tension (>8.1 pn) gradually decreased within 20 min from
+6.3% to 0.5%, and meanwhile medium tension (4.4-8.1 pn) dropped from
+10.2% to 0.5% (fig. $10). the statistical analysis of more cell-cell junctions
+further confirmed this observation (fig. $11). in contrast, the control probe,
+prog-dnameter, displayed a constant unfolding percentage at ~0.8% (fig. s10
+
+and s117). indeed. the fc-dnameter can be used to study the dynamic f-
+6.3% to 0.5%, and meanwhile medium tension (4.4-8.1 pn) dropped from
+
+10.2% to 0.5% (fig. $10‘). the statistical analysis of more cell-cell junctions
+further confirmed this observation (fig. $11). in contrast, the control probe,
+prog-dnameter, displayed a constant unfolding percentage at ~0.8% (fig. s10
+and s11+). indeed, the ec-dnameter can be used to study the dynamic e-
+
+cadherin tensions at cell-cell junctions.
+fig. 4 pynamics and disruptions of the e-cadherin-mediated tension. (a)
+fluorescence images of ec-dnameter-modified mdck cells from 0 min to 20 min after,
+adding 10 mm egta at 0 min, the cell-cell junction denoted by white arrows was used for
+the quantitative analysis in the panel (b). scale bar, 5 um. (b) the quantitative analysis of
+tension revealed by percentage of unfolded probes after adding egta. each pie chart
+corresponds to the images above it in the panel (a). the blue, green, and red region
+
+ 
+
+indicted the distribution of tensile forces in the range of <4.4 pn, 4.4-8.1 pn, and>8.1 pn,
+respectively. (c and d) statistical analysis of the dynamic changes in the intercellular
+tensile forces (4.4 pn) at different cell-cell junctions (n= 10) with the (c) ec-dnameter or
+
+(d) prog-dnameter.
+fig. 4 pynamics and disruptions of the e-cadherin-mediated tension. (a)
+
+fluorescence images of ec-dnameter-modified mdck cells from 0 min to 20 min after
+
+5 pombe 8 in
+
+    
+
+timo¢min)
+ 
+
+ 
+dynamics of e-cadherin-mediated tension
+
+to validate if the ec-dnameter indeed measured e-cadherin-mediated tensile
+forces, we have further studied the effect of ethylene glycol-bis (b-aminoethyl
+ether)-n,n,n,n tetraacetic acid (egta) treatment on mdck cell adhesions. e-
+ify the
+
+ 
+
+cadherin interactions are gated by extracellular ca2* ions that can ri
+extracellular domains of cadherins and promote cadherin-cadherin junctional
+interactions. °2 as a selective ca2* chelating agent, egta can disrupt e-
+
+cadherin interactions at cell-cell iunctions. °? indeed. after the insertion of the
+ether)-n,n,n,n tetraacetic acid (egta) treatment on mdck cell adhesions. e-
+
+cadherin interactions are gated by extracellular ca* ions that can rigidify the
+extracellular domains of cadherins and promote cadherin-cadherin junctional
+interactions. °2 as a selective ca2* chelating agent, egta can disrupt e-
+cadherin interactions at cell-cell junctions. °? indeed, after the insertion of the
+ec-dnameter onto mdck cell membranes, the addition of egta triggered a
+rapid and substantial loss of the fluorescence signal, accompanied with cell
+
+dissociations (fig. 4a and s7+).
+
+ 
+we next asked if we could quantify the distribution of different magnitudes of
+tensile forces at cell-cell junctions. here, we quantified the force distribution by
+either the number of bright pixels or the number of unfolded dna probes. to
+calculate the number or percentage of pixels considering as g+ or r+, we first,
+measured the membrane statistical fluorescence distribution of the negative
+control, the prog-dnameter (fig. 2e). a threshold value of g/y> 1.0 and r/y >
+0.24 was determined to distinguish the pixels experiencing tensile forces above
+4.4 pn and 8.1 pn, respectively. after counting the total number of probe-
+immobilized pixels (¥#) at cell-cell junctions, we quantified the percentage of
+junction pixels experiencing the tensile forces (fig. 3b). for example, at a
+representative cell-cell junction (fig. 3a), the weak (<4.4 pn), medium (4.4-8.1
+pn), and strong (8.1 pn) tension was present in ~60.4%, 30.0%, and 9.6%
+membrane areas, respectively. we have further calculated these distributions
+at another 20 cell-cell junctions. on average, under the studied condition when
+mdck cells were stably adhered to each other, the fraction of pixels
+
+experiencing the weak, medium, and strong tension was 58.5 # 12.3%, 27.1
+pn), and strong (*8.1 pn) tension was present in ~60.4%, 30.0%, and 9.6%
+
+membrane areas, respectively. we have further calculated these distributions
+at another 20 cell-cell junctions. on average, under the studied condition when
+mdck cells were stably adhered to each other, the fraction of pixels
+experiencing the weak, medium, and strong tension was 58.5 # 12.3%, 27.1
+11.5% and 14.4 + 4.2%, respectively (fig. 3d and table $3).
+
+  
+
+the second approach to quantify the force distributions is based on the
+number and percentage of the unfolded ec-dnameter. as mentioned above,
+the percentage of unfolded 22%gc and 66%gc dna hairpin in each pixel can be
+calculated by measuring the g/y and r/v ratio (fig. 2g). the number of
+unfolded probes can then be quantified based on the tamra fluorescence and
+the standard calibration curve (fig. 2f). our data indicated that 13.2 + 3.1% and
+6.4 # 2.4% ec-dnameter probe was unfolded by 4.4-8.1 pn and >8.1 pn tension,
+respectively, while 80.4 + 3.9% probe remained folded (fig. 3b and c, materials
+and methods). as a control, unfolding of the prog-dnameter was negligible
+(fig. 3e and g).
+
+when comparing the obtained data from two approaches, we found that by
+measuring the percentage of unfolded dna probes, force distributions at
+different cell-cell junctions were more homogeneous (fig. 3d and f)..
+considering these mdck cells were experiencing similar physical environment
+
+and cell-cell adhesions, it may be more accurate to determine force
+
+dictei
+
+ 
+
+inne hur mancnirina the nerrantana nf iinfaldad nenhac rathar than that
+measuring the percentage of unfolded dna probes, force distributions at
+3dandf).
+
+considering these mdck cells were experiencing similar physical environment
+
+different cell-cell junctions were more homogeneous ( fi
+
+ 
+
+and cell-cell adhesions, it may be more accurate to determine force
+distributions by measuring the percentage of unfolded probes rather than that
+of bright pixels. even though the percentage of bright pixels is easier to be
+quantified, the accuracy of this approach is influenced by the choice of
+threshold values, e.g., g/y > 1.0 and r/y > 0.24 in this case. meanwhile, even in
+pixels that are brighter than the threshold value, many dnameters can be still
+in the folded form. in contrast, the percentage of unfolded dna hairpins can
+more accurately report, at the molecular level, the force distributions
+
+experienced by the dnameter.
+fig. 3 quantification of e-cadherin-mediated tensile forces at mdck cell-cell,
+
+   
+
+junctions. (a) representative fluorescence images of mdck cells after inserting the ec-
+dnameter. g/y stands for the fluorescence ratio of fam to tamra, indicating the tensile
+
+forces above 4.4 pn. r/y is the fluorescence ratio of cy5 to tamra, i
+
+  
+
+ting the tensile
+
+ 
+
+forces above 8.1 pn. the prog-dnameter that lacks e-cad modification is used as a control.
+‘scale bar, 5 um. (b) quantitative analysis of the tension based on the fluorescence images.
+‘the top panels show the percentage of pixels experiencing forces as quantified with the
+
+ec-dnameter (left) and prog-dnameter (right). the bottom panels indicate the percentage
+
+of unfolded probes with the ec-dnameter (left) and prog-dnameter (right). g+ (or g-)
+
+ 
+
+ates the fluorescence ratio of fam to tamra is above (or below) the threshold,
+respectively. si
+(or below) the threshold value. (c) the distribution of pixels within different subranges of
+
+ 
+
+larly, r+ (or r-) indicates the fluorescence ratio of cy5 to tamra is above
+
+giy or r/v ratios for the representative junction denoted by white arrows in the panel (a).
+(dand e) stati
+
+   
+
+al analysis of tensile force distributions in terms of the percentage of
+pixels at different cell-cell junctions (n= 20) with the (d) ec-dnameter or (e) prog-
+
+dnameter. (fand g) st
+
+ 
+
+istical analysis of tensile force distributions i
+
+ 
+
+terms of the
+
+ 
+
+percentage of probes at different cell-cell junctions (w= 10) with the (f) ec-dnameter or (g)
+prog-dnameter.
+
+(dana e) statistical analysis of tensile force distributions in terms ot the percentage ot
+pixels at different cell-cell junctions (n= 20) with the (d) ec-dnameter or (e) prog-
+dnameter. (fand g) st
+
+ 
+
+‘ical analysis of tensile force distribution:
+
+ 
+
+terms of the
+percentage of probes at different cell-cell junctions (w= 10) with the (f) ec-dnameter or (g)
+prog-dnameter.
+fig. 3 quantification of e-cadherin-mediated tensile forces at mdck cell-cell,
+
+     
+@ ccavonancter proc onaviter —d gmicue. sm gum: mmhire
+
+ov
+
+3
+20.0%
+” g
+jo 60% 945%
+
+i
+
+2 ~ 2) we
+io o
+fa 2” _
+
+ 
+
+c
+
+ 
+
+ 
+
+$ soo}
+= 200)
+a
+
+ 
+
+i
+5 me
+fw
+al...
+is
+oo
+imaging and quantification of e-cadherin-mediated tensile
+forces
+
+before imaging intercellular forces, we wondered if the addition of dnameter
+
+ 
+
+imaging and quantification of e-cadherin-mediated tensile
+forces
+
+before imaging intercellular forces, we wondered if the addition of dnameter
+would impair the adhesion and mechanical function of cell-cell junctions. we
+first studied the effect of membrane-anchored ec-dnameter on the force-
+dependent recruitment of vinculin and b-catenin to the adherens
+junctions. 4748 immunofluorescence staining was used to image the cellular
+locations of vinculin or b-catenin in mdck cells before and after adding the
+dnameter. mdck cells have been widely used as a model cell line to study e-
+cadherin-mediated tensile forces. “? no significant difference in the junction
+vinculin or b-catenin fluorescence was observed (fig. $61). we have also used
+western blot to study the effect of dnameter on the membrane expression of,
+another critical cell-cell adhesion protein, b-catenin.°°>! again, the amount of
+b-catenin in mdck cell membranes was quite similar in the presence or
+absence of ec-dnameter anchoring (fig. s61). as a result, the addition of
+dnameter will not influence the mechanotransduction at cell-cell junctions.
+we also studied the effect of dnameter on the cell viability. for this purpose,
+propidium iodide staining was conducted to assess the viability of mdck cells
+with or without ec-dnameter probe treatment (fig. $6). minimal cell death
+
+was observed in both cases. these results indicated that the modification of
+dnameter will not influence the mechanotransduction at cell-cell junctions.
+
+we also studied the effect of dnameter on the cell viability. for this purpose,
+propidium iodide staining was conducted to assess the viability of mdck cells
+with or without ec-dnameter probe treatment (fig. s6*). minimal cell death
+was observed in both cases. these results indicated that the modification of
+the dnameter probe or lipid-dna conjugate would not affect mdck cell
+viability.
+
+ 
+
+we next applied the ec-dnameter to image e-cadherin-mediated
+intercellular tensile forces at mdck cell-cell junctions. after incubating the pre-
+assembled ec-dnameter with mdck cells for 1 h, the cell membrane
+fluorescence signal of fam (apy/ asm? 488/530 nm), tamra (ox/aem? 561/590
+nm), and cy5 (ag,/aem: 640/675 nm) were imaged with a spinning disk confocal
+microscope (fig. 3a). here, we denoted the fluorescence of fam, tamra, and
+cysas 6, y, and r, respectively. for a given dnameter-modified cell membrane
+(+), the weak (<4.4 pn), medium (4.4-8.1 pn), and strong (>8.1 pn) e-cadherin-
+mediated intercellular tensile forces can be visualized based on the
+fluorescence distribution of g-/r-, g+/r-, and g+/r+, respectively. a large
+number of g+/r- and some g+/r+ pixels were clearly observed at mdck cell-
+cell junctions (fig, 3a). to test if the fluorescence activation is indeed mediated
+by e-cadherin interactions, we prepared a control dnameter without the
+
+modification of e-cadherin, denoted as prog-dnameter. as expected, limited
+
+fam and cus flunraccance wae nheaniad whila the tamda flinraccance wise
+
+ 
+
+number of g+/r- and some g+/r+ pixels were clearly observed at mdck cell-
+
+cell junctions (fig. 3a). to test if the fluorescence activation is indeed mediated
+
+ 
+
+by e-cadherin interactions, we prepared a control dnameter without the
+modification of e-cadherin, denoted as prog-dnameter. as expected, limited
+fam and cys fluorescence was observed, while the tamra fluorescence was
+similar as that of the ec-dnameter. these results indicated that we could
+
+visualize e-cadherin-mediated tensile forces using the ec-dnameter.
+calibration of the dnameter on supported lipid monolayers
+
+we next asked if we could further quantify the percentage of unfolded dna
+hairpins based on the fluorescence intensities. for this purpose, we prepared a
+supported lipid monolayer system using soybean polar extract. “° cholesterol-
+modified dnameter can anchor into this monolayer and diffuse freely.2° by
+mixing the soybean polar extract with different amount of dna probes, we can
+precisely control the membrane density of the dnameter on lipid monolayers.
+after preparing a series of monolayers with different probe densities, we
+measured the corresponding membrane fluorescence intensity with a spinning
+disk confocal fluorescence microscope. the same setup and parameters of the
+microscope was used for the following cellular measurements as well.
+
+the obtained fluorescence intensities were then plotted as a function of
+probe densities for the calibration. a linear correlation between the
+
+fluorescence intensity and the dnameter concentration was observed for all
+
+ 
+
+ei tra lrp chire nm rtnsom ut pn mar ue an
+microscope was used for the following cellular measurements as well.
+
+the obtained fluorescence intensities were then plotted as a function of
+probe densities for the calibration. a linear correlation between the
+fluorescence intensity and the dnameter concentration was observed for all
+the fluorophores, including fam (6), cy5 (r), and tamra (y) (fig. 2d and e).
+similarly, a linear correlation was observed with all these fluorophores in the
+‘dqdnameter as well (fig. 2d and e). after subtracting the background
+fluorescence for each channel, the fluorescence intensity ratio of both
+fam/tamra (g/y) and cy5/tamra (r/¥) is independent on the probe
+concentration due to the linear correlation between the probe density and
+fluorescence (fig. 2d). such concentration-independent g/y and r/y ratio was
+observed with both the dnameter and dqdnameter, while the dqdnameter
+exhibited a 4.0-fold and 8.3-fold higher intensity ratio. the g/y and r/v ratio can
+thus be used to quantify the membrane dqdnameter-to-dnameter probe
+density ratio, as well as the percentage of unfolded 22%6gc and 66%gc dna
+hairpins, respectively.
+
+‘our next goal is to validate if the g/y and r/y ratio can be used to quantify the
+percentage of unfolded dna hairpins. we prepared mixtures of dqdnameter
+and dnameter, with a ratio of 0: 1, 0.5:0.5, and 1:0. indeed, both g/y and r/y
+ratio are linearly correlated with the percentage of the unfolded dqdnameter
+
+(eig. 2e). we have also tested if the g/y and r/y ratio can orthogonally report
+‘our next goal is to validate if the g/y and r/y ratio can be used to quantify the
+
+percentage of unfolded dna hairpins. we prepared mixtures of dqdnameter
+and dnameter, with a ratio of 0: 1, 0.5:0.5, and 1:0. indeed, both g/y and r/y
+ratio are linearly correlated with the percentage of the unfolded dqdnameter
+(eig. 2e). we have also tested if the g/y and r/y ratio can orthogonally report
+the unfolding of 22%gc and 66%gc dna hairpins, respectively. by adding only
+a complementary dna strand to either 22%gc or 66%6gc dna hairpin, we
+prepared de-quenched dnameter with only one hairpin being unfolded. after
+mixing different ratios of these two partially unfolded dnameter, indeed, the
+fam and cys signal can be used to quantify the amount of unfolded 22%gc or
+66%gc dna hairpin, without interfering with each other (fig. 2f). all these
+results indicated that we could quantify the unfolding of dna hairpins in the
+dnameter by measuring the g/y and r/y ratio. based on the standard
+
+calibration curve (fig. 2d), we can also use the tamra fluorescence to quantify
+
+ 
+
+the number of probes per individual pixel of images. as a result, we can
+quantitatively determine not only the percentage, but also the number of
+
+unfolded dna hairpins from the images (fig. 2g).
+fig. 2 in vitrocharacterization of the dnameter. (a-c) the fluorescence spectra of,
+
+the ec-dnameter (black line) and de-quenched ec-dnameter (color line) was measured
+
+ 
+
+terms of fam (a), cy5 (b), and tamra (c). the excitation wavelength was 488 nm, 630 nm,
+
+and 550 nm, respectively. (d) calibration curves to correlate the membrane fluorescence
+
+ 
+
+intensity with the number of probes per pixel on a supported lipid monolayer. the de-
+quenched dnameter was used to measure the calibration curves for unfolded 22%gc
+hi
+
+     
+
+(green solid line), 66%6c hairpin (red solid line), and tamra reference (yellow solid
+
+ 
+
+ine). while the dnameter was used to calibrate for the folded 22%gc hairpin (dark green
+dashed line) and 669%gc hairpin (dark red dashed line). (e) correlation of the g/y or ry.
+
+ 
+
+ratio with the percentage of unfolded h: lual pixels. g/y (green line)
+
+   
+
+ates the percentage of unfolded 22%gc hairpins. r/y (red line) indicates the
+percentage of unfolded 66%gc hairpins. (f) fluorescence images by adding different
+
+combinations of the dnameter and de-quenched dnameter onto a supported
+
+ 
+
+monolayer. for example, 100/50 means that 22%gc and 66%gc dna hairpins were 100%
+‘and 50% unfolded, respectively. scale bar, 5 yim. (g) schematic of the correlation between
+the fluorescence intensity and the number of unfolded dna hai
+
+ 
+
+ineach
+
+ 
+
+|the top
+and bottom spectra illustrate the fluorescence
+
+ 
+
+‘of fam and cys. each square
+
+indicates an individual pixel, and each dot represents a single dna probe, e.g., 50/0
+
+ 
+ 
+
+ 
+
+ 
+
+ates that the percentage of unfolded 22%gc and 66%gc dna hairpins is 50% and 0%,
+‘and 50% untolded, respectively. scale bar, 5 jim. (g) schematic of the correlation between
+
+    
+
+the fluorescence intensity and the number of unfolded dna hairpins in each pixel. the top
+
+and bottom spectra illustrate the fluorescence
+
+  
+
+tensity of fam and cys. each square
+
+indicates an individual pixel, and each dot represents a single dna probe, e.g., 50/0
+
+ 
+
+ficates that the percentage of unfolded 22%gc and 66%gc dna hairpins is 50% and 0%,
+respectively.
+fig. 2 in vitrocharacterization of the dnameter. (a-c) the fluorescence spectra of,
+
+the ec-dnameter (black line) and de-quenched ec-dnameter (color line) was measured in
+
+eere (010 $010" 50/50 100/100
+
+ 
+
+ 
+ov
+
+ 
+
+sos| g
+ae ss bee
+© wavelength (am) wiavetongth (am) = “wavelength (nm)
+
+a
+y
+©
+
+ 
+
+ 
+
+: . atta th
+
+probenumberperpixel ——-% unfolded
+
+f010 5010 10010 50180 100/50 1001100
+
+amici * \ .
+beeeee 3%.
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+design and characterization of the dnameter
+
+the dnameter is designed based on the self-assembly of four oligonucleotide
+strands (fig. 1b and table s1+). two of the strands contain a 25-nucleotide-
+long dna hairpin with 22% and 66% g/c base pairs to detect weak and strong
+tensile force, respectively. as an internal reference, a tamra dye (agy/aem!
+557/579 nm, denoted as y) was modified at one end of the 66%gc dna hairpin
+strand. to detect the folding/unfolding switch of the 66%gc dna hairpin, a cys-
+qsy®21 fluorophore-quencher pair (az,/aem: 640/659 nm, denoted as r-qg)
+was conjugated next to the end of this hairpin. similarly, a fam-dabcyl
+fluorophore-quencher pair (asy/acm: 488/519 nm, denoted as g-qg) was used
+
+to measure the folding/unfolding of the 22%gc dna hairpin. after calculating
+strand. 10 detect the rolaing/untolaing switch of the 66%l lna hairpin, a ly>-
+
+qsy®21 fluorophore-quencher pair (az,/aem: 640/659 nm, denoted as r-qg)
+was conjugated next to the end of this hairpin. similarly, a fam-dabcyl
+fluorophore-quencher pair (asy/acm: 488/519 nm, denoted as g-qg) was used
+to measure the folding/unfolding of the 22%gc dna hairpin. after calculating
+the unfolding free energy of hairpin at zero force and the free energy of,
+stretching the corresponding single stranded dna, 227° based on a worm-like
+chain model, *°“° the tensile force threshold (f,/) of the 22%gc and 66%gc
+dna hairpin was determined to be 4.4 pn and 8.1 pn, respectively (materials
+and methods and table $2+). here, fi, is defined as the force at which the
+dna hairpin has 50% probability of being unfolded.
+
+when experiencing a weak tensile force (<4.4 pn), both fam-dabcyl and cy5-
+qsy°21 pairs remain at close proximity, resulting in low fluorescence level in
+both reporter channels (denoted as g-/r-). in contrast, a strong tensile force
+(°8.1 pn\) results in the stretching out of both 22%gc and 66%gc hairpins. both
+fluorophores will separate from the corresponding quencher, leading to an
+increase in both fam and cy5 fluorescence signal (denoted as g+/r+). in
+another case, a medium tensile force (4.4-8.1 pn) opens up the 22%gc hairpin,
+but not the 66%gc hairpin, so only the fam signal will be activated (denoted as.
+g+/r-). as a result, we can image different ranges of tensile forces based on the
+
+two reporter channels.
+
+  
+ 
+
+another case, a medium tensile force (4.4-8.1 pn) opens up the 22%gc hairpin,
+but not the 66%gc hairpin, so only the fam signal will be activated (denoted as.
+g+/r-). as a result, we can image different ranges of tensile forces based on the
+two reporter channels.
+
+to test the efficiency of this probe design, we prepared an e-cadherin-
+modified dnameter (termed ec-dnameter) to quantify e-cadherin-mediated
+intercellular tensile forces at the madin-darby canine kidney (mdck) epithelial
+cell-cell junctions. e-cadherin is a transmembrane protein, which cytoplasmic
+domain can bind with beta-catenin, alpha-catenin, and then experience forces
+generated by the actomyosin cytoskeleton. 125 the ec-dnameter was
+prepared using a protein g linker to couple the lgg/fc-fused extracellular
+domain of e-cadherin with the dnameter (materials and methods). compared
+with direct chemical conjugation, the protein g linker helps to avoid the loss of,
+e-cadherin activities. 224! in addition, to allow the probe to insert onto mdck
+cell membranes, a cholesterol anchor was conjugated at the other end of the
+dnameter.
+
+after demonstrating the formation of the dnameter in a gel mobility shift
+assay (fig. $1), the cell membrane insertion efficiency of the dnameter was
+studied. here, we prepared a non-quenched dnameter (nqdnameter) by using
+dna strands that are not modified with dabcyl and qsy°21 quenchers (scheme
+
+s1+). the fluorescence of the nqdnameter is always on and is independent of
+alte! gemonsuaung ine formauion of ue livameler ina get modiuly sail
+
+ 
+
+assay (fig. $1), the cell membrane insertion efficiency of the dnameter was
+studied. here, we prepared a non-quenched dnameter (nqdnameter) by using
+dna strands that are not modified with dabcyl and qsy°21 quenchers (scheme
+s1+). the fluorescence of the nqdnameter is always on and is independent of
+intercellular forces. as a result, the cell membrane fluorescence intensity can
+be used to indicate the concentration of the immobilized probes. indeed,
+‘obvious fluorescence signal on mdck cell membranes was shown shortly after
+adding these nqdnameter probes (fig. s2t).
+
+we have further studied the membrane anchoring efficiency of the dnameter
+
+ 
+
+containing one or two cholesterol tail. interestingly, one cholesterol-modified
+nqdnameter (1chol-nqdnameter) exhibited higher insertion efficiency (2.1-
+fold) on mdck cell membranes than the more hydrophobic two cholesterol-
+modified one (2chol-nqdnameter) (fig. s2+). this might be due to the
+relatively larger critical micelle concentration value of the 1chol-nqdnameter
+as compared to 2chol-nqdnameter. “2 as a result, more monomeric
+nqdnameter could exist in the solution when one cholesterol was anchored.
+indeed, our recent data indicated that the cell membrane anchoring of the
+lipid-dna conjugates stems mainly from the monomeric form, instead of the
+aggregation form. *? previous studies have suggested that ~100 pn tensile
+
+force is required to extract a cholesterol from lipid bilayers. “* asa result, the
+
+ 
+
+membrane insertion of the cholesterol should be auite stable during the
+indeed, our recent data indicated that the cell membrane anchoring of the
+
+lipid-dna conjugates stems mainly from the monomeric form, instead of the
+aggregation form. *? previous studies have suggested that ~100 pn tensile
+
+layers. “4 asa result, the
+
+ 
+
+force is required to extract a cholesterol from lipid
+membrane insertion of the cholesterol should be quite stable during the
+unfolding of dna hairpins (4.4 pn and 8.1 pn). unless specifically indicated, one
+cholesterol-based construct was used for the following studies.
+
+we next asked if the dnameter probe may be activated by the cisreceptor-
+ligand interactions on the same cell membrane, rather than between
+neighboring cells. to study if the dna probes prefer to “stand” (favoring trans
+interactions) or “lie down” (favoring cis interactions) on membrane surfaces,
+we performed atomistic molecular dynamics simulation in a dnameter/lipid
+bilayer membrane system (see materials and methods). our simulation results
+indicated that the tilting angle (6) of the dnameter with respect to the
+membrane surface is always within 30° (see fig. $3). indeed, these
+membrane-anchored dna probes prefer to “stand” (8<30°) on the membrane
+surface and favor the sensing of trans interactions between cells. the reason for
+dna probes to maintain such orientation is likely attributed to the electrostatic
+repulsion between dna strands and cell membranes, which are both negatively
+charged. itis also worth mentioning that trans interactions between two e-
+
+cadherins are much stronger than cis.4° asa result, the ec-dnameter will be
+
+ 
+
+ 
+
+ 
+
+dna probes to maintain such orientation is likely attributed to the electrostatic
+repulsion between dna strands and cell membranes, which are both negatively
+charged. itis also worth mentioning that trans interactions between two e-
+cadherins are much stronger than cis.4° asa result, the ec-dnameter will be
+mostly activated by transinteractions between neighboring cells.
+
+we next asked if we could distinguish the unfolding and the folding state of
+dna hairpins based on their fluorescence intensities. to determine the
+fluorescence of the unfolded dnameter, we prepared a de-quenched probe
+(dqdnameter) by incubating the dnameter with dna strands that are
+complementary to the 22%gc and 66%gc hairpins, respectively (scheme s1,
+fig. $47). based on the fluorescence intensity ratio between the dnameter and
+‘dqdnameter, in the absence of external forces, the quenching efficiency for fam
+and cy5 in the dnameter was measured to be 70% and 81%, respectively (fig.
+2a and b). meanwhile, the dnameter and dqdnameter exhibited the same
+
+tamra fluorescence intensity, which can act as a standard reference to
+
+  
+
+ 
+
+normalize probe concentrations (fi
+dnameter or dqdnameter with mdck cells for 30 min, similarly, almost the
+same tamra fluorescence was observed. in contrast, 6.7-fold and 3.1-fold
+activation of cy5 and fam fluorescence exhibited after the unfolding of dna
+hairpins (fig. $5+). these results indicate that the folding and unfolding of
+
+22%gc and 66%gc hairpins indeed can be visualized based on changes in the
+dnameter or dqdnameter with mdck cells for 30 min, similarly, almost the
+
+same tamra fluorescence was observed. in contrast, 6.7-fold and 3.1-fold
+activation of cy5 and fam fluorescence exhibited after the unfolding of dna
+hairpins (fig. $5+). these results indicate that the folding and unfolding of
+22%gc and 66%gc hairpins indeed can be visualized based on changes in the
+
+fluorescence intensity.
+
+2c). in addition, after incubating 1 um
+results and discussion
+fig. 1 design of the dnameter to quantify tensile forces at cell-cell junctions. (a)
+‘schematic of collective cell system experiencing intercellular tensile forces. black arrows
+indicate the forces at cell-cell junctions that we are studying in this project. (b) the
+
+construction of an ec-dnameter on alive cell membrane. the dnameter is comprised of a
+
+ 
+
+cholesterol-modified 22%gc dna hairpin strand (orange, fy = 4.4 pn), a 66%gc hairpi
+
+strand (green, fy
+strands was further modified with e-cadherin (e-cad) through a protein g linker to form the
+
+ 
+
+  
+
+1 pn), a ligand strand (blue) and a helper strand (grey). the dna
+
+ec-dnameter. upon experiencing different magnitudes of tensile forces as generated by
+the neighboring cells, the fam (6) and/or cys (r) fluorophore separates from the
+corresponding quencher, dabcyl (qg) and/or qs¥*21 (qg). here, a tamra fluorophore (¥)
+
+acts as the internal reference for the ratiometric im:
+
+ 
+
+ing and quantification. the
+
+theoretical length of the dnameter probe upon experiencing week, medium, and strong
+
+ec-unamelee, upor experlencing ghiere
+
+ 
+
+lagintudes of lenshe 1orces as gerterateu vy
+
+the neighboring cells, the fam (6) and/or cy5 (r) fluorophore separates from the
+
+ 
+
+1g quencher, dabcyl (qa) and/or qsy°21 (x). here, a tamra fluorophore (¥)
+
+ 
+
+ing and quantification. the
+theoretical length of the dnameter probe upon experiencing week, medium, and strong
+tensile forces is calculated to be ~24 nm, 34 nm, and 44 nm, respectively. the scheme is
+
+not drawn to scale.
+& ) vor st
+
+comes
+
+{eam 4s
+
+:  gife complex
+
+ij
+pnnenshagnnnnanianngnne -
+
+se58
+
+=>
+goss bp
+
+    
+introduction
+
+intercellular mechanical forces, especially tensile forces, play important roles in
+development, wound healing and cancer invasion. 1-3 these tensile forces at
+cell-cell junctions actively reshape the tissues during morphogenesis in
+embryos and in quiescent adult tissues, *~® such as epithelial and endothelial
+monolayers. "8 for example, cadherins constitute a superfamily of cell-cell
+adhesion molecules that are expressed in various types of cells. 21° it is known
+that cadherins can sense and mediate tensile forces at cell-cell junctions, !!
+cell-cell junctions actively reshape the tissues during morphogenesis in
+embryos and in quiescent adult tissues, *~® such as epithelial and endothelial
+monolayers. "8 for example, cadherins constitute a superfamily of cell-cell
+adhesion molecules that are expressed in various types of cells. 21° it is known
+that cadherins can sense and mediate tensile forces at cell-cell junctions, !!
+which are required for regulating cellular homeostasis and collective migration
+during embryo development, wound healing, and pulmonary system
+homeostasis. ®!2-!7 elucidating the mechanisms of cadherin-mediated force
+sensing and transduction is therefore critical for revealing the fundamental
+
+principles in the collective organizations and motions of cell populations. 819
+
+ 
+
+however, mapping the spatiotemporal dynamics of intercellular forces is still
+
+challenging, tools for the precise, quantitative, and real-time measurement of
+tensile forces at cell-cell junctions are still largely missing. 2°-22
+
+generally, two strategies are currently available to estimate intercellular
+forces. monolayer stress microscopy utilizes cell-matrix traction force data to
+deduce mechanical forces at cell-cell junctions, with the assumption that total
+forces experienced by each cell remain zero.° traction force microscopy has
+been used to elucidate the relationships between the total cellular forces on
+extracellular matrix and the endogenous intercellular forces. 2“ however, these
+methods can only be applied to a monolayer of cells. it requires extensive
+image analysis and data processing. moreover, the force deduced is not specific
+
+for certain junctional molecules. similarly, intercellular forces between a pair of
+been used to elucidate the relationships between the total cellular forces on
+
+extracellular matrix and the endogenous intercellular forces. 2“ however, these
+methods can only be applied to a monolayer of cells. it requires extensive
+
+image analysis and data processing. moreover, the force deduced is not specific
+
+ 
+
+for certain junctional molecules.
+
+ 
+
+ilarly, intercellular forces between a pair of
+cells have been measured by microfabricated cantilever pillars. 1? however, in
+
+addition to the above-mentioned drawbacks, these cantilever
+
+ 
+
+lars can only
+measure forces between a pair of cells, one at a time, and require advanced
+microfabrication facilities.
+
+in another strategy, genetically encoded protein-based tension probes have
+been developed to measure intercellular forces mediated by cadherins or
+platelet endothelial cell adhesion molecule. ®:2>-2" however, the routine use of
+these sensors is limited due to their labor-intensive design and validation. the
+functions of many junctional proteins will be disrupted after insertion of a large
+protein sensor (~500 amino acids). the small force measurement range (1-12
+pn) and low sensitivity of fluorescence signals of these probes (~10-fold lower
+than sensors using common organic dyes) “8 further hinders the widespread
+applications of these genetically encoded probes.
+
+we have recently developed a new dna-based probe to visualize intercellular
+
+tensile forces at cell-cell junctions. 2° in this system, a pair of cholesterol
+30,31
+
+anchors was used to insert a dna hairpin probe onto cell membranes.
+
+ 
+
+bag ee
+
+ 
+
+applications of these genetically encoded probes.
+
+we have recently developed a new dna-based probe to visualize intercellular
+tensile forces at cell-cell junctions. 2° in this system, a pair of cholesterol
+anchors was used to insert a dna hairpin probe onto cell membranes. 2°31
+‘once the intercellular tensile force exceeds the threshold value to unfold the
+dna hairpin, the separation of a fluorophore-quencher pair results in the
+activation of fluorescence signals. these dna probes are well suited for
+intercellular force measurement. first, the probes function simply by
+incubation with target cells. there is no need for cloning or transfection.
+secondly, different mechanosensitive ligands or receptors can be directly
+conjugated within these dna probes, which allow the facile study of specific
+junctional molecule-mediated force transduction. thirdly, by tuning the
+sequence and duplex length of the dna hairpin, the force tolerance of the
+probe can be rationally adjusted in a large range. 22-24 moreover, a broad
+choice of organic fluorophores and quenchers allows highly sensitive imaging
+of tensile forces.
+
+however, this “first-generation” dna tension probe has several limitations.
+first, it cannot be used to quantify the intercellular forces due to the
+heterogeneous membrane distribution of the probes. secondly, each dna
+hairpin unfolds in a narrow threshold force range (+2 pn),2° itis challenging to
+
+use a single probe to measure a large range of intercellular forces. in natural
+however, this “lirst-generation” dna tension probe nas several imitations.
+
+ 
+
+first, it cannot be used to quantify the intercellular forces due to the
+heterogeneous membrane distribution of the probes. secondly, each dna
+hairpin unfolds in a narrow threshold force range (+2 pn),2° itis challenging to
+use a single probe to measure a large range of intercellular forces. in natural
+mechanotransduction process, indeed, different levels of tensile forces could
+exist simultaneously. in addition, many collective cell behavior studies require
+a long-term measurement of intercellular forces. "3°38 however, current
+lipid-modified dna probes havea limited anchoring persistence on the cell
+membranes (~2 to 4 h). to overcome all these limitations, in this study we have
+developed the “second-generation” dna-based membrane tension ratiometric
+probe, termed “dnameter”.
+
+the dnameter was designed to be highly adaptable, consisting of two self-
+assembled dna hairpins with different threshold forces and a lipid tail to
+
+anchor onto live cell membranes (
+
+ 
+
+1). to quantify the intercellular tension
+based on the fluorescence signal, an internal reference fluorophore was
+introduced to normalize the membrane distribution of the dnameter. in
+addition, two orthogonal fluorophore-quencher pairs were conjugated at the
+end of each dna hairpin to report different magnitudes of forces. by measuring
+each reporter-to-reference fluorescence intensity ratio, molecular scale
+intercellular force distributions can be quantified at cell-cell junctions. using
+
+intercellular e-cadherin tension measurement as an example, we demonstrated
+addition, two orthogonal fluorophore-quencher pairs were conjugated at the
+
+end of each dna hairpin to report different magnitudes of forces. by measuring
+each reporter-to-reference fluorescence intensity ratio, molecular scale
+intercellular force distributions can be quantified at cell-cell junctions. using
+intercellular e-cadherin tension measurement as an example, we demonstrated
+here a quantitative and general approach to map spatiotemporal distributions
+of tensile forces at the molecular level during long-term collective cell
+
+behaviors.
+ 
+wearer “the
+
+to-use dna tension probes can be broadly used to quantify
+
+mechanotransduction in collective cell behaviors.
+cells are physically contacting with each other. direct and precise
+quantification of forces at cell-cell junctions is still challenging. herein, we have
+developed a dna-based ratiometric fluorescent probe, termed dnameter, to
+quantify intercellular tensile forces. these lipid-modified dnameters can
+spontaneously anchor onto live cell membranes. the dnameter consists of two
+self-assembled dna hairpins of different force tolerance. once the intercellular
+tension exceeds the force tolerance to unfold a dna hairpin, a specific
+fluorescence signal will be activated, which enables the real-time imaging and
+quantification of tensile forces. using e-cadherin-modified dnameter as an
+‘example, we have demonstrated an approach to quantify, at the molecular
+level, the magnitude and distribution of e-cadherin tension among epithelial
+cells. compatible with readily accessible fluorescence microscopes, these easy-
+to-use dna tension probes can be broadly used to quantify
+
+mechanotransduction in collective cell behaviors.
+@ author affiliations
+@ author affiliations
+® check for updates
+quantifying tensile forces at cell-cell ® check for upda
+junctions with a dna-based
+fluorescent probet
+
+ 
+
+@° yousef bagheri, @? chungwen
+
+ 
+
+bin zhao, @ ? ningweiti,’ tianfa
+1g, puspam keshri,? yubingsun @ *° and mingxuyou ® *?
+
+   
+next article
+previous article
+issue 32, 2020
+
+   
+
+@] from the journal:
+
+ 
+ 
+
+publishing journals books databases q
+
+{work access provided by: university of massachusetts “amherst
+

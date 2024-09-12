@@ -1,0 +1,100 @@
+anthology id:
+volume:
+month:
+
+year:
+address:
+editors:
+amtmotoyy 1:
+volume:
+month:
+
+year:
+address:
+editors:
+venue:
+
+sic:
+publisher:
+note:
+
+pages:
+language:
+url:
+
+dol:
+
+bibkey:
+cite (acl):
+
+cite (informal):
+
+copy citation:
+
+pdf:
+data
+
+2020.findings-emnlp.48
+findings of the association for computational linguistics: emnlp 2020
+november
+
+2020
+
+online
+
+trevor cohn, yulan he, yang liu
+
+zuco.unaings-emnip.4%
+
+findings of the association for computational linguistics: emnlp 2020
+november
+
+2020
+
+online
+
+trevor cohn, yulan he, yang liu
+
+findings
+
+association for computational linguistics
+
+545-555,
+
+https://aclanthology.org/2020.findings-emnip.48
+10.18653/v1/2020.findings-emnip.48
+
+() lalor-yu-2020-dynamic
+john p. lalor and hong yu. 2020. dynamic data selection for curriculum learning
+
+via ability estimation. in findings of the association for computational linguistics:
+emnlp 2020, pages 545-555, online. association for computational linguistics.
+
+0
+dynamic data selection for curriculum learning via ability estimation (lalor & yu,
+findings 2020) ©
+
+bibtex () markdown [) modsxml [endnote more options...
+
+https://aclanthology.org/2020.findings-emnlp.48.paf
+glue, mrpc, multinli, onli, sst, sst-2
+y search
+abstract
+
+curriculum learning methods typically rely on heuristics to estimate the difficulty of training examples
+or the ability of the model. in this work, we propose replacing difficulty heuristics with learned difficulty
+parameters. we also propose dynamic data selection for curriculum learning via ability estimation
+(ddaclae), a strategy that probes model ability at each training epoch to select the best training
+examples at that point. we show that models using learned difficulty and/or ability outperform heuristic-
+based curriculum learning models on the glue classification tasks.
+ 
+
+pdf
+
+g6 cite
+dynamic data selection for curriculum learning via ability
+estimation
+john p. lalor, hong yu
+search...
+el acl anthology news faq corrections submissions © github
+

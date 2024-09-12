@@ -1,0 +1,1945 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+frontiers in immunol
+{doi 10.3580 /fimmu.2021
+ 
+
+a6
+2
+
+frontiers in immunology
+doi 10.5389/fimmu.2019.01761
+fro
+
+ 
+sisse r. ostrowski -o
+sogaard - martin tots
+nina b. staerke - jens
+lundgren - lars
+ostergaard - anne-m
+has
+comparative
+proteomic analysis
+of polarized human
+thp-1 and mouse
+raw264.7
+macrophages
+
+pengfei li- zhifang hao
+jingyu wu - chen ma
+yintai xu - jun li - rongxia
+lan - bojing zhu - pengyu
+ren - 1 more - shisheng
+frontiers forum
+frontiers policy la
+
+frontiers for youn’
+minds
+
+inflammation at
+platelet activati
+after covid-19
+vaccines - poss
+mechanisms
+
+behind vaccine
+induced immun
+thrombocytops
+and thrombosis
+articles
+research topics
+
+journals
+hor guidelines
+tor guidelines
+
+icies and publication
+ics
+
+a novel, five-
+marker alternative
+to cd16-cd14
+gating to identify
+the three human
+monocyte subsets
+
+siew-min ong - karen
+teng - evan newell - hao
+chen - jinmiao chen
+‘thomas loy - tsin-wen
+yeo - katja fink - siew-
+‘cheng wong
+outreach
+explore
+idelines
+keywords: protein disulfide isomerase, mast cells, food allergy, pdi,
+propynoic acid carbamoyl methyl amide
+
+citation: krajewski d, polukort sh, gelzinis j, rovatti j, kaczenski e, galinski
+c, pantos m, shah nn, schneider ss, kennedy dr and mathias cb (2020)
+
+propynoic acid carbamoyl methyl amide
+
+citation: krajewski d, polukort sh, gelzinis j, rovatti j, kaczenski e, galinski
+c, pantos m, shah nn, schneider ss, kennedy dr and mathias cb (2020)
+protein disulfide isomerases regulate ige-mediated mast cell responses and
+their inhibition confers protective effects during food allergy. front.
+immunol. 11:606837. doi: 10.3389/fimmu.2020.606837
+
+received: 15 september 2020; accepted: 17 november 2020;
+published: 22 december 2020.
+
+edited by:
+ana olivera, national institutes of health (nih), united states
+
+reviewed by:
+hariharan subramanian, michigan state university, united states
+peter monk, the university of sheffield, united kingdom
+satoshi tanaka, kyoto pharmaceutical university, japan
+
+copyright © 2020 krajewski, polukort, gelzinis, rovatti, kaczenski, galinski,
+pantos, shah, schneider, kennedy and mathias. this is an open-access article
+distributed under the terms of the creative commons attribution license
+(cc by). the use, distribution or reproduction in other forums is permitted,
+provided the original author(s) and the copyright owner(s) are credited and
+that the original publication in this journal is cited, in accordance with
+accepted academic practice. no use, distribution or reproduction is
+permitted which does not comply with these terms,
+
+that the original publication in this journal is cited, in accordance with
+accepted academic practice. no use, distribution or reproduction is
+permitted which does not comply with these terms,
+
+ 
+
+   
+
+ 
+
+*correspondence: clinton b. mathias, clinton.mathias@wne.edu
+
+disclaimer: all claims expressed in this article are solely those of the authors and do not necessarily
+represent those of their affiliated organizations, or those of the publisher, the editors and the
+reviewers. any product that may be evaluated in this article or claim that may be made by its
+‘manufacturer is not guaranteed or endorsed by the publisher.
+doi: 10.1046/j.1365-2141.1999.01197.x
+
+pubmed abstract | crossref full text | google scholar
+
+39. ros m, nguyen at, chia j, le tran s, le guezennec x, mcdowall r, et
+al. er-resident oxidoreductases are glycosylated and trafficked to the
+cell surface to promote matrix degradation by tumour cells. nat cell
+biol (2020) 22:1371-81. doi: 10.1038/s41556-020-00590-w
+
+pubmed abstract | crossref full text | google scholar
+
+40. wan sw, lin cf, lu yt, lei hy, anderson r, lin ys. endothelial cell
+surface expression of protein disulfide isomerase activates betal and
+beta3 integrins and facilitates dengue virus infection. j cell biochem
+(2012) 113(5):1681-91. doi: 10.1002/jcb.24037
+
+pubmed abstract | crossref full text | google scholar
+
+41. myllyharju j. prolyl 4-hydroxylases, the key enzymes of collagen
+biosynthesis. matrix biol (2003) 22(1):15-24. doi: 10.1016/s0945-
+053x(03)00006-4
+
+pubmed abstract | crossref full text | google scholar
+
+42. chen k, detwiler tc, essex dw. characterization of protein
+disulphide isomerase released from activated platelets. br j haematol
+pubmed abstract | crossref full text | google scholar
+
+42. chen k, detwiler tc, essex dw. characterization of protein
+disulphide isomerase released from activated platelets. br j haematol
+(1995) 90(2):425-31. doi: 10.1111/j.1365-2141.1995.tb05169.x
+
+pubmed abstract | crossref full text | google scholar
+
+43. thon in, peters cg, machlus kr, aslam r, rowley j, macleod h, et al.
+t granules in human platelets function in tlr9 organization and
+signaling. j cell biol (2012) 198(4):561-74. doi: 10.1083/jcb.201111136
+
+pubmed abstract | crossref full text | google scholar
+
+44, kozlov g, maattanen p, thomas dy, gehring k. a structural overview
+of the pdi family of proteins. febs j (2010) 277(19):3924-36.
+doi: 10.1111/).1742-4658.2010.07793.x
+
+pubmed abstract | crossref full text | google scholar
+
+45. klappa p, hawkins hc, freedman rb. interactions between protein
+disulphide isomerase and peptides. eur j biochem (1997) 248(1):37—
+42. doi: 10.1111/}.1432-1033.1997t01-1-00037.x
+
+pubmed abstract | crossref full text | google scholar
+
+42. doi: 10.1111/}.1432-1033.1997.t01-1-00037.x
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+46. molinari m, galli c, piccaluga v, pieren m, paganetti p. sequential
+assistance of molecular chaperones and transient formation of
+covalent complexes during protein degradation from the er. j cell biol
+(2002) 158(2):247-57. doi: 10.1083/jcb.200204122
+
+pubmed abstract | crossref full text | google scholar
+
+47. zhang k, kaufman rj. from endoplasmic-reticulum stress to the
+inflammatory response. nature (2008) 454(7203):455-62.
+doi: 10.1038/nature07203
+
+pubmed abstract | crossref full text | google scholar
+
+48. hoffman sm, tully je, nolin jd, lahue kg, goldman dh, daphtary n,
+et al. endoplasmic reticulum stress mediates house dust mite-induced
+airway epithelial apoptosis and fibrosis. respir res (2013) 14(1):141.
+doi: 10.1186/1465-9921-14-141
+
+pubmed abstract | crossref full text | google scholar
+
+49. hoffman sm, chapman dg, lahue kg, cahoon jm, rattu gk,
+
+  
+
+pubmed abstract | crossref full text | google scholar
+
+49. hoffman sm, chapman dg, lahue kg, cahoon jm, rattu gk,
+daphtary n, et al. protein disulfide isomerase-endoplasmic reticulum
+resident protein 57 regulates allergen-induced airways inflammation,
+fibrosis, and hyperresponsiveness. j allergy clin immunol (2016)
+137(3):822-32.e7. doi: 10.1016/j jaci.2015.08.018
+
+pubmed abstract | crossref full text | google scholar
+
+50. galinski cn, zwicker ji, kennedy dr. revisiting the mechanistic basis
+of the french paradox: red wine inhibits the activity of protein disulfide
+isomerase in vitro. thromb res (2016) 137:169-73.
+doi: 10.1016/j.thromres.2015.11.003
+
+pubmed abstract | crossref full text | google scholar
+
+51. chen s, gong j, liu f, mohammed u. naturally occurring
+polyphenolic antioxidants modulate ige-mediated mast cell activation.
+immunology (2000) 100(4):471-80. doi: 10.1046/j.1365-
+2567.2000.00045.x
+
+pubmed abstract | crossref full text | google scholar
+
+52. shaik y, caraffa a, ronconi g, lessiani g, conti p. impact of
+
+pubmed abstract | crossref full text | google scholar
+
+52. shaik y, caraffa a, ronconi g, lessiani g, conti p. impact of
+polyphenols on mast cells with special emphasis on the effect of
+quercetin and luteolin. cent eur j immunol (2018) 43(4):476-81.
+doi: 10.5114/ceji.2018.81347
+
+pubmed abstract | crossref full text | google scholar
+
+53. turano c, coppari §, altieri f, ferraro a. proteins of the pdi family:
+unpredicted non-er locations and functions. j cell physiol (2002)
+193(2):154—63. doi: 10.1002/jcp.10172
+
+pubmed abstract | crossref full text | google scholar
+
+54. ando t, kashiwakura ji, itoh-nagato n, yamashita h, baba m,
+kawakami y, et al. histamine-releasing factor enhances food allergy. j
+clin invest (2017) 127(12):4541-53. doi: 10.1172/jci96525
+
+pubmed abstract | crossref full text | google scholar
+
+55. kashiwakura ji, ando t, kawakami t. role of histamine-releasing
+factor in allergic inflammatory reactions. yakugaku zasshi (2017)
+137(6):517-21. doi: 10.1248 /yakushi.16-00239-3
+
+55. kashiwakura ji, ando t, kawakami t. role of histamine-releasing
+factor in allergic inflammatory reactions. yakugaku zasshi (2017)
+137(5):517-21. doi: 10.1248/yakushi.16-00239-3
+
+pubmed abstract | crossref full text | google scholar
+
+56. fernandes dc, manoel ah, wosniak j jr., laurindo fr. protein
+disulfide isomerase overexpression in vascular smooth muscle cells
+induces spontaneous preemptive nadph oxidase activation and nox1
+mrna expression: effects of nitrosothiol exposure. arch biochem
+biophys (2009) 484(2):197-204. doi: 10.1016 /j.abb.2009.01.022
+
+pubmed abstract | crossref full text | google scholar
+
+57. clive dr, greene jj. cooperation of protein disulfide isomerase and
+redox environment in the regulation of nf-kappab and ap1 binding to
+dna. cell biochem funct (1996) 14(1):49-55. doi: 10.1002/cbf.638
+
+pubmed abstract | crossref full text | google scholar
+references
+
+1, sampson ha, o'mahony l, burks aw, plaut m, lack g, akdis ca.
+mechanisms of food allergy. j allergy clin immunol (2018) 141(1):11-9
+doi: 10.1016 /jaci.2017.11.005,
+
+pubmed abstract | crossref full text | google scholar
+
+2. oettgen hc, burton ot. ige receptor signaling in food allergy
+pathogenesis. curr opin immunol (2015) 36:109-14.
+doi: 10.1016/j.coi.2015.07.007
+
+pubmed abstract | crossref full text | google scholar
+
+3. mathias cb, mcaleer jp, szollosi de. inflammatory diseases of
+the gastrointestinal tract and pharmacological treatments. in: mathias
+cb, mcaleer jp, szollosi de, editors. pharmacology of
+
+3. mathias cb, mcaleer jp, szollosi de. inflammatory diseases of
+the gastrointestinal tract and pharmacological treatments. in: mathias
+cb, mcaleer jp, szollosi de, editors. pharmacology of
+immunotherapeutic drugs. cham: springer international publishing
+(2020). p. 175-205. doi: 10.1007/978-3-030-19922-7_6
+
+crossref full text | google scholar
+
+4, kinney sr, carlson l, ser-dolansky j, thompson c, shah s, gambrah
+a, et al. curcumin ingestion inhibits mastocytosis and suppresses
+intestinal anaphylaxis in a murine model of food allergy. plos one
+(2015) 10(7):e0132467. doi: 10.1371 /journal.pone.0132467
+
+pubmed abstract | crossref full text | google scholar
+
+5. krajewski d, kaczenski e, rovatti j, polukort s, thompson c, dollard c,
+et al. epigenetic regulation via altered histone acetylation results in
+suppression of mast cell function and mast cell-mediated food
+allergic responses. front immunol (2018) 9:2414.
+doi: 10.3389/fimmu.2018.02414
+
+pubmed abstract | crossref full text | google scholar
+
+6. kurup vp, barrios cs. immunomodulatory effects of curcumin in
+allerav. mol nutr food res (2008) 52(9):1031-9. doi
+pubmed abstract | crossref full text | google scholar
+
+6. kurup vp, barrios cs. immunomodulatory effects of curcumin in
+allergy. mol nutr food res (2008) 52(9):1031-9. doi
+10.1002/mnfr.200700293
+
+pubmed abstract | crossref full text | google scholar
+
+7. lee jh, kim jw, ko ny, mun sh, her e, kim bk, et al. curcumin, a
+constituent of curry, suppresses ige-mediated allergic response and
+mast cell activation at the level of syk. j allergy clin immunol (2008)
+121(5):1225-31. doi: 10.1016/j jaci.2007.12.1160
+
+pubmed abstract | crossref full text | google scholar
+
+8. jagetia gc, aggarwal bb. “spicing up” of the immune system by
+curcumin. j clin immunol (2007) 27(1):19-35. doi: 10.1007/s10875-
+006-9066-7
+
+pubmed abstract | crossref full text | google scholar
+
+9. agrawal dk, mishra pk. curcumin and its analogues: potential
+anticancer agents. med res rev (2010) 30(5):818-60. doi
+10.1002/med.20188
+
+_pubmed abstract | crossref full text | gooale scholar
+anticancer agents. med res rev (2010) 30(5):818-60. doi
+10.1002/med.20188
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+10. shishodia s, chaturvedi mm, aggarwal bb. role of curcumin in cancer
+therapy. curr probl cancer (2007) 31(4):243-305.
+doi: 10.1016/j.currproblcancer.2007.04.001
+
+pubmed abstract | crossref full text | google scholar
+
+11. goel a, kunnumakkara ab, aggarwal bb. curcumin as "curecumin’:
+from kitchen to clinic. biochem pharmacol (2008) 75(4):787-809.
+doi: 10.1016/j.bcp.2007.08.016
+
+pubmed abstract | crossref full text | google scholar
+
+12. sandur sk, ichikawa h, pandey mk, kunnumakkara ab, sung b, sethi
+g, etal. role of pro-oxidants and antioxidants in the anti-inflammatory
+and apoptotic effects of curcumin (diferuloytmethane). free radical
+biol med (2007) 43(4):568-80.
+doi: 10.1016/j.freeradbiomed.2007.05.009
+
+crossref full text | google scholar
+
+doi 10. lulo/) eeraabiomed:cvu7u3.0gf
+
+     
+
+crossref full text | google scholar
+
+13. schmidt b, ho l, hogg pj. allosteric disulfide bonds. biochemistry
+(2006) 45(24):7429-33. doi: 10.1021/bi0603064
+
+pubmed abstract | crossref full text | google scholar
+
+14. givol d, goldberger rf, anfinsen cb. oxidation and disulfide
+interchange in the reactivation of reduced ribonuclease. j biol chem
+(1964) 239:pc3114-16.
+
+pubmed abstract | google scholar
+
+15. parakh s, atkin jd. novel roles for protein disulphide isomerase in
+disease states: a double edged sword? front cell dev biol (2015) 3:30.
+doi: 10.3389/fcell.2015.00030
+
+pubmed abstract | crossref full text | google scholar
+
+16. cho j, kennedy dr, lin l, huang m, merrill-skoloff g, furie bc, et al.
+protein disulfide isomerase capture during thrombus formation in vivo
+depends on the presence of beta3 integrins. blood (2012) 120(3):647-
+55. doi: 10.1182/blood-2011-08-372532
+
+  
+
+srmation in vivo
+depends on the presence of beta3 integrins. blood (2012) 120(3):647—
+55. doi: 10.1182/blood-2011-08-372532
+
+pubmed abstract | crossref full text | google scholar
+
+17. ryser hj, levy em, mandel r, disciullo gj. inhibition of human
+immunodeficiency virus infection by agents that interfere with thiol-
+disulfide interchange upon virus-receptor interaction. proc nat! acad
+sci usa (1994) 91(10):4559-63. doi: 10.1073/pnas.91.10.4559
+
+pubmed abstract | crossref full text | google scholar
+
+18. xu s, sankar s, neamati n. protein disulfide isomerase: a promising
+target for cancer therapy. drug discov today (2014) 19(3):222-40
+doi: 10.1016/j.drudis.2013.10.017
+
+pubmed abstract | crossref full text | google scholar
+
+19. aalberse rc, schuurman j. igg4 breaking the rules. immunology
+(2002) 105(1):9-19. doi: 10.1046/j.0019-2805.2001.01341.x
+
+pubmed abstract | crossref full text | google scholar
+
+20. jasuja r, passam fh, kennedy dr, kim sh, van hessem l, lin l, et al.
+protein disulfide isomerase inhibitors constitute a new class of
+pudmed adstract | crossnerrutt text | google senor
+
+20. jasuja r, passam fh, kennedy dr, kim sh, van hessem l, lin l, et al.
+protein disulfide isomerase inhibitors constitute a new class of
+antithrombotic agents. j clin invest (2012) 122(6):2104-13,
+doi: 10.1172/jc161228
+
+pubmed abstract | crossref full text | google scholar
+
+21. khodier c vl, nag pp, pu j, wurst j, pilyugina t, dockendorff c, et al.
+identification of ml359 as a small molecule inhibitor of protein
+disulfide isomerase. probe reports from the nih molecular libraries
+program [internet]. bethesda (md): national center for biotechnology
+information (us). (2013 apr 12 [updated 2014 sep 18})
+
+google scholar
+
+22. smith am, chan j, oksenberg d, urfer r, wexler ds, ow a, et al. a
+high-throughput turbidometric assay for screening inhibitors of protein
+disulfide isomerase activity. j biomol screen (2004) 9(7):614-20.
+doi: 10.1177/1087057104265292
+
+pubmed abstract | crossref full text | google scholar
+
+23. mathias cb, freyschmidt ej, caplan b, jones t, poddighe d, xing w,
+et al. ige influences the number and function of mature mast cells, but
+pubmed abstract | crossref full text | google scholar
+
+23. mathias cb, freyschmidt ej, caplan b, jones t, poddighe d, xing w,
+et al. ige influences the number and function of mature mast cells, but
+not progenitor recruitment in allergic pulmonary inflammation. j
+immunol (2009) 182(4):2416-24. doi: 10.4049/jimmunol.0801569
+
+pubmed abstract | crossref full text | google scholar
+
+24, polukort sh, rovatti j, carlson l, thompson c, ser-dolansky j,
+kinney sr, et al. il-10 enhances ige-mediated mast cell responses and
+is essential for the development of experimental food allergy in il-10-
+deficient mice. j immunol (2016) 196(12):4865-76.
+doi: 10.4049 /jimmunol.1600066
+
+pubmed abstract | crossref full text | google scholar
+
+25. brandt eb, strait rt, hershko d, wang q, muntel ee, scribner ta, et al.
+mast cells are required for experimental oral allergen-induced diarrhea.
+j clin invest (2003) 112(11):1666-77. doi: 10.1172/3c119785
+
+pubmed abstract | crossref full text | google scholar
+
+26. mathias cb, hobson sa, garcia-lloret m, lawson g, poddighe d,
+freyschmidt ej, et al. ige-mediated systemic anaphylaxis and impaired
+tolerance to food antigens in mice with enhanced il-4 receptor
+
+26. mathias cb, hobson sa, garcia-lloret m, lawson g, poddighe d,
+freyschmidt ej, et al. ige-mediated systemic anaphylaxis and impaired
+tolerance to food antigens in mice with enhanced il-4 receptor
+signaling. j allergy clin immunol (2011) 127(3):795-805.e1-6
+doi: 10.1016/}jaci.2010.11.009
+
+pubmed abstract | crossref full text | google scholar
+
+27. flaumenhaft r, furie b, zwicker ji. therapeutic implications of protein
+disulfide isomerase inhibition in thrombotic disease. arterioscler
+thromb vasc biol (2015) 35(1):16-23.
+doi: 10.1161/atvbaha.114.303410
+
+pubmed abstract | crossref full text | google scholar
+
+28. zwicker ji, schlechter bl, stopa jd, liebman ha, aggarwal a,
+puligandla m, et al. targeting protein disulfide isomerase with the
+flavonoid isoquercetin to improve hypercoagulability in advanced
+cancer. jc/ insight (2019) 4(4):1-12. doi: 10.1172/jci.insight.125851
+
+crossref full text | google scholar
+
+29. oslowski cm, urano f. measuring er stress and the unfolded protein
+
+response using mammalian tissue culture system. methods enzymol
+(2m aoo7a_07 anie 1an1e (dota _a 17 zora tanana
+
+29. oslowski cm, urano f. measuring er stress and the unfolded protein
+response using mammalian tissue culture system. methods enzymol
+(2011) 490:71-92. doi: 10.1016/b978-0-12-385114-7.00004-0
+
+pubmed abstract | crossref full text | google scholar
+
+30. appenzeller-herzog c, eligaard l. the human pdi family: versatility
+packed into a single fold. biochim biophys acta (2008) 1783(4):535—
+48. doi: 10.1016/j.bbamcr.2007.11.010
+
+pubmed abstract | crossref full text | google scholar
+
+31. mandel r, ryser hj, ghani f, wu m, peak d. inhibition of a reductive
+function of the plasma membrane by bacitracin and antibodies against
+protein disulfide-isomerase. proc nat! acad sci usa (1993) 90(9):4112—
+6. doi: 10.1073/pnas.90.9.4112
+
+pubmed abstract | crossref full text | google scholar
+
+32. dickerhof n, kleffmann t, jack r, mccormick s. bacitracin inhibits the
+reductive activity of protein disulfide isomerase by disulfide bond
+formation with free cysteines in the substrate-binding domain. febs j
+(2011) 278(12):2034-43. doi: 10.1111/}.1742-4658.2011.08119.x
+
+dithmad ahetract | cracedaf enill tavt | canale schnlar
+
+reubetive acuvity of prowein ubutige bortierase oy uisaniae dora
+formation with free cysteines in the substrate-binding domain. febs j
+(2011) 278(12):2034-43. doi: 10.1111/}.1742-4658.2011.08119.x
+
+pubmed abstract | crossref full text | google scholar
+
+33. guyette j, cherubin p, serrano a, taylor m, abedin f, o'donnell m, et
+al. quercetin-3-rutinoside blocks the disassembly of cholera toxin by
+protein disulfide isomerase. toxins (basel) (2019) 11(8).
+doi: 10.3390/toxins11080458
+
+pubmed abstract | crossref full text | google scholar
+
+34. lin l, gopal s, sharda a, passam f, bowley sr, stopa j, et al.
+quercetin-3-rutinoside inhibits protein disulfide isomerase by binding
+to its b'x domain. j biol chem (2015) 290(39):23543-52.
+doi: 10.1074/jbc.m115.666180
+
+pubmed abstract | crossref full text | google scholar
+
+35. xu s, butkevich an, yamada r, zhou y, debnath b, duncan r, et al.
+discovery of an orally active small-molecule irreversible inhibitor of
+protein disulfide isomerase for ovarian cancer treatment. proc nat!
+acad sci usa (2012) 109(40):16348-53. doi: 10.1073/pnas.1205226109
+
+pubmed abstract | crossref full text | google scholar
+
+protein disulfide isomerase for ovarian cancer treatment. proc nat!
+acad sci usa (2012) 109(40):16348-53. doi: 10.1073/pnas.1205226109
+
+pubmed abstract | crossref full text | google scholar
+
+36. delom f, mallet b, carayon p, lejeune pj. role of extracellular
+molecular chaperones in the folding of oxidized proteins. refolding of
+colloidal thyroglobulin by protein disulfide isomerase and
+immunoglobulin heavy chain-binding protein. j biol chem (2001)
+276(24):21337—42. doi: 10.1074/jbc.m101086200
+
+pubmed abstract | crossref full text | google scholar
+
+37. essex dw, chen k, swiatkowska m. localization of protein disulfide
+isomerase to the external surface of the platelet plasma membrane.
+blood (1995) 86(6):2168-73. doi:
+10.1182/blood.v86.6.2168.bloodjournal8662168
+
+pubmed abstract | crossref full text | google scholar
+
+38. essex dw, li m. protein disulphide isomerase mediates platelet
+aggregation and secretion. br j haematol (1999) 104(3):448-54.
+doi: 10.1046/).1365-2141.1999.01197.x
+
+pubmed abstract | crossref full text | google scholar
+abbreviations
+
+ova, ovalbumin; wt, wild-type; bmmcs, bone marrow-derived mast cells;
+
+pacma-31, propynoic acid carbamoyl methyl amide; rutin, quercetin-3-
+rutinoside.
+abbreviations
+
++#+=p<0,0001 (student's t-test)
+supplementary material
+
+the supplementary material for this article can be found online at:
+https://www frontiersin.org/articles/10.3389/fimmu.2020.606837/full#sup
+plementary-material
+
+supplementary figure 1| pre-treatment with bacitracin and rutin suppresses
+ige-induced bmmc cytokine gene expression. bmmcs were treated with
+increasing doses of bacitracin (bac) (a—c) or rutin (rut) (d—f) and activated
+via ige and antigen stimulation. cells were pooled and collected 1 h after
+activation and rna and cdna were prepared using established protocols
+rt-pcr was performed using taqman probes. expression of genes was
+calculated relative to that of gapdh
+
+supplementary figure 2 | comparison of the percent pdi inhibitory activity
+of curcumin and pacma-31. the pdi inhibitory activity of curcumin
+
+and pacma-31 were evaluated using the insulin turbidimetric assay. bar
+graphs representing inhibition at the 40 min time point for various doses of
+the inhibitors are shown. significance at each dose was calculated against
+the pdi added and untreated control aroup usina one-wav anova (p< p=
+and pacma-31 were evaluated using the insulin turbidimetric assay. bar
+graphs representing inhibition at the 40 min time point for various doses of
+the inhibitors are shown. significance at each dose was calculated against
+the pdi added and untreated control group using one-way anova (p< p=
+<0.0001)
+
+supplementary figure 3 | histology of small intestine from ova-sensitized
+and challenged and pacma-31- treated mice. food allergy was induced in
+mice by sensitizing and challenging with ova as in figure 7a. some groups
+were treated with pacma-31 orally. representative histological images
+depicting cae-positive mast cells is shown for the (a) wt control (b) wt.
+ova (c) p-31 control and (d, e) two p-31 ova groups. mast cells are shown
+by an arrow.
+
+supplementary figure 4 | /mpaired polyclonal cytokine production by
+spleen cells from ova-challenged, pacma-31- treated mice. balb/c mice
+were sensitized and challenged with ova to induce food allergy. some
+groups of animals were also gavaged with 300 yg pacma-31 suspended in
+1% cmc. upon sacrifice, spleen cells were stimulated with anti-cd3 and
+anti-cd28 for 72 h. levels of the cytokines (a) il-4 (b) il-5 (c) il-13, and (d)
+ifn-y were enumerated in the supernatants by elisa. n = 4-7 mice/group.
+data are representative of 2 independent experiments. *=p<0.05; **=p<0.01;
+***=p<0.0001 (student's t-test)
+acknowledgments
+
+we thank dr. vikas anathy, university of vermont medical center, for critical
+reading of the manuscript.
+acknowledgments
+
+we thank dr. vikas anathy, university of vermont medical center, for critical
+conflict of interest
+
+cbm and drk are authors on a patent application submitted by western
+new england university regarding the role of thiol isomerases in mast cell
+activation.
+
+the remaining authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+funding
+
+this project was supported by funds from the national institutes of health
+grants: niaid r15ai107668 (cm) and nci r21ca231000 (drx).
+author contributions
+
+cbm and drk conceived and directed the project. dk, sp, jg, jr, ek, cg,
+mp, ns, drk, and cbm performed experiments and analyzed data. dk, sp,
+jg, drk, sss and cbm prepared figures for the manuscript. cbm, dk and
+
+ 
+
+cbm and drk conceived and directed the project. dk, sp, jg, jr, ek, cg,
+mp, ns, drk, and cbm performed experiments and analyzed data. dk, sp,
+jg, drk, sss and cbm prepared figures for the manuscript. cbm, dk and
+drk wrote the paper. all authors contributed to the article and approved the
+submitted version.
+ethics statement
+
+the animal study was reviewed and approved by the institutional animal
+care and use committee at western new england university.
+data availability statement
+
+the original contributions presented in the study are included in the
+article/supplementary material. further inquiries can be directed to the
+corresponding author.
+discussion
+
+in this study, we report for the first time an important role for pdi in the
+modulation of mast cell homeostasis and mast cell-mediated allergic
+responses. collectively, our data demonstrate that mast cells express pdi
+both constitutively and during ige-mediated activation. the presence of pdi
+was also detected in the intestines of enterally-challenged allergic mice.
+blockade of pdi activity at both the cellular and physiological levels resulted
+in a profound suppression of mast cell-mediated responses including
+decreased mast cell proliferative capacity, reduced secretion of mast cell
+cytokines, and protection from the development of food allergy.
+
+pdi, a multifunctional er thiol isomerase, is a 55-kda protein that is the
+prototype of the pdi family of proteins. the pdi family comprises of 21
+memhers (44) pdi family memhers nlav a critical role in the reaulation of
+chcorn ges, be pres on ne ere price or ocu ac ay”
+
+pdi, a multifunctional er thiol isomerase, is a 55-kda protein that is the
+prototype of the pdi family of proteins. the pdi family comprises of 21
+members (44). pdi family members play a critical role in the regulation of
+protein folding and assembly, both during physiological homeostasis as well
+as in conditions of cellular stress (15). increased generation of unfolded or
+misfolded proteins during er stress activates the upr, resulting in reduced
+protein synthesis, an increase in the er curvature, and the activation of pdi
+and other chaperones (45, 46)
+
+the development of inflammation is thought to activate the upr, resulting in
+the enhancement of protein synthesis and folding, and consequently
+increased pdi activity (47). complex allergens in particular, such as food-
+derived proteins, have the potential to induce er stress and upregulate the
+function of pdi family members (48). despite this, the effects of pdi on
+immune cells has been poorly studied, and very little is known regarding its
+functions during allergic inflammation. interestingly, a recent study
+demonstrated a critical role for a pdi family member, erp57 in airway allergic
+responses (49). the expression of erp57 was increased in lung epithelial cells
+in both allergen-challenged patients and in mice. deletion of erp57 in house
+dust-mite-challenged mice resulted in decreased airway inflammation and
+hyperreactivity, accompanied by decreased disulfide bridges in eotaxin,
+epidermal growth factor, and periostin in the lungs of allergic animals. these
+data suggest that modulation of pdi activity in vivo can influence the
+outcome of allergic sensitization and challenge.
+
+hyperreactivity, accompanied by decreased disulfide bridges in eotaxin,
+epidermal growth factor, and periostin in the lungs of allergic animals. these
+data suggest that modulation of pdi activity in vivo can influence the
+outcome of allergic sensitization and challenge.
+
+we hypothesized that food-derived substances may have the potential to
+modulate mast cell responses during food allergy by inhibiting the activity of
+pdi. we have previously shown that widely consumed dietary components
+such as curcumin can suppress mast cell activation and inhibit the
+development of food allergy in mice (4). the suppression of mast cells by
+curcumin in this model was dependent on the inhibition of nf-kb activation
+(4). similarly, lee et al. also described anti-allergic effects of curcumin on
+mast cells (7). they found that the inhibitory effects of curcumin on cultured
+mast cells were mediated via inhibition of syk kinase activity. in this study, we
+report the pdi inhibitory activity of curcumin, suggesting another potential
+mechanism for its anti-allergic effects. since pdi is involved in the formation
+of disulfide bonds which is critical for the folding of many proteins including
+transcription factors, it is likely that the previously described suppression of
+proteins by curcumin and other dietary substances occurs via inhibition of
+pdi catalytic activity. in this context, in addition to curcumin, we
+demonstrate that another well-known dietary pdi modulator, rutin, also
+inhibits mast cell activation in our model. this is consistent with reported
+observations where quercetin and its derivatives, have been demonstrated to
+have potent anti-pdi activity in vivo in various clinical trials (27, 28). in this
+context, our data suggest that anti-inflammatory compounds such as
+curcumin and the flavonoids which are iihiauitous in varinnis tynes of diets
+observations where quercetin and its derivatives, have been demonstrated to
+have potent anti-pdi activity in vivo in various clinical trials (27, 28). in this
+context, our data suggest that anti-inflammatory compounds such as
+curcumin and the flavonoids, which are ubiquitous in various types of diets
+including fruits, vegetables, wines and teas, also have the potential to alter
+pdi activity in human mast cells and suppress the development of allergic
+inflammation (27, 28, 50). while we did not specifically examine human mast
+cells or pdi expression in these cells in this study, it will be important to
+determine whether pdi has similar effects on ige-mediated activation in
+human cells. in this context, interestingly, quercetin and other polyphenols
+have been shown to modulate human mast cell activity in other studies (51,
+52)
+
+our data suggests that allergen-induced mast cell activation may be a likely
+target of pdi-dependent modulation by dietary substances, thereby
+mitigating the overall magnitude of the allergic response. dietary pdi
+modulators may possibly attenuate the activity of extracellular or cell surface
+pdi on mast cells and other immune cells, thereby suppressing their overall
+activation, and decreasing the production of proinflammatory mediators.
+this was evidenced by treatment with various pdi inhibitors, which
+suppressed the ige-mediated activation of mast cells and inhibited their
+degranulation and cytokine secretion. furthermore, treatment with pacma-
+31, an orally bioactive, irreversible inhibitor of pdi suppressed mast cell
+responses both in cell culture and during the development of food allergy,
+suggesting that therapeutic targeting of pdi in allergic patients may prove to
+degranulation and cytokine secretion. furthermore, treatment with pacma-
+31, an orally bioactive, irreversible inhibitor of pdi suppressed mast cell
+responses both in cell culture and during the development of food allergy,
+suggesting that therapeutic targeting of pdi in allergic patients may prove to
+be of benefit. interestingly, pdi inhibition also attenuated the long-term
+survival of bmmcs, suggesting that modulation of pdi activity in vivo can
+influence the homeostasis of mast cells. nonetheless, the effects of pdi
+inhibition on mast cell degranulation and cytokine secretion were unrelated
+to its effects on cell viability, as no significant effects on cellular viability were
+observed within the first 48 h, i.e. the percentages of live and dead cells
+between untreated and treated groups were comparable at this time point
+(figures 3c and 4f)
+
+in this report, we demonstrate for the first time the presence of pdi
+molecules on the surface of mast cells. here, their enhanced extracellular
+activity (which can be blocked by pdi inhibitors) during mast cell activation
+may modulate downstream cellular events, contributing to changes in
+molecular and cellular function. in this context, cell-surface specific pdi has
+been found to be important for the functions of hepatocytes, endothelial
+cells, and platelets (27, 53). furthermore, pdi has also been shown to be
+secreted into cell culture supernatants, which we did not ascertain in these
+studies (reviewed in (15)). it is thought that in these locations, pdi assists with
+redox protein folding, intramolecular thiol-disulfide exchanges and
+isomerization activities, as a result of highly specific interactions with various
+substrates. future studies aimed at dissecting the contributions of both
+extracellular and intracellular pdi to mast cell activation will shed further
+redox protein folding, intramolecular thiol-disulfide exchanges and
+isomerization activities, as a result of highly specific interactions with various
+substrates. future studies aimed at dissecting the contributions of both
+extracellular and intracellular pdi to mast cell activation will shed further
+light on the mechanisms by which pdi enhances mast cell responses. in
+particular, the effects of pdi catalytic activity on the formation of disulfide
+bonds in various proteins produced by mast cells or that activate them will
+be important to characterize. in this context, recent studies have elucidated
+novel roles for the disulfide dimer histamine-releasing factor (hrf) in mast.
+cell-mediated allergic responses (54, 55). hrf forms dimers which can
+cross-link with ige on basophils and mast cells and induce the secretion of
+enhanced levels of histamine, il-4 and il-13. both increased levels of hrf-
+reactive ige as well as increased numbers of hrf dimers were found in a
+recently described study of mast cell-mediated food allergy (54, 55)
+similarly, patients with food allergy also had increased levels of serum hrf-
+reactive ige and blockade of hrf function in the mouse model as well as
+oral immunotherapy in patients inhibited the allergic response (54, 55). in
+light of our data above, it is possible that the generation of hrf dimers in
+vivo may depend on pdi activity, resulting in the enhanced secretion of these
+proteins during allergic responses and the amplification of mast cell-
+mediated reactions.
+
+the effects of pdi may also extend beyond its known isomerization activities.
+for example, recent studies demonstrate that pdi can increase the levels of
+reactive oxygen species (56) thus directly inducing oxidative stress and
+
+the effects of pdi may also extend beyond its known isomerization activities.
+for example, recent studies demonstrate that pdi can increase the levels of
+reactive oxygen species (56) thus directly inducing oxidative stress and
+apoptosis, as well as activate transcription factors, such as nf- kb and ap-1
+(57). in this context, we have previously demonstrated that the protective
+effects of curcumin on mast cells are mediated via inhibition of nf-kb
+activation (4), whereas another study demonstrated that flavonoids such as
+rutin can inhibit reactive oxygen species in mast cells (51). as such, further
+analysis of the effects of pdi inhibition on these and other parameters in
+mast cells will help elucidate the roles of pdi in these areas.
+
+lastly, this study demonstrates that pdi blockade has a profound effect on
+mast cell homeostasis (intestinal mast cell numbers), activation (mmcp-1
+levels), and mast cell-mediated effects such as allergic diarrhea in the ige
+and mast cell-dependent model of ova-induced food allergy. however,
+although we have not examined other immune cell types in this study, it is
+likely that the activity of pdi family members is also altered in other cells
+during allergic responses. particularly, our data in figure 9 demonstrate that
+ova-specific splenic responses are also suppressed in the food alleray
+model, thereby implicating a role for pdi in the modulation of allergen-
+specific t cells. future studies aimed at examining the effects of pdi on
+various immune cells during food allergy are therefore necessary to clarify
+the differential effects of pdi modulation on immune cells and their
+contribution to the development of food allergy.
+
+various immune cells during food allergy are therefore necessary to clarify
+the differential effects of pdi modulation on immune cells and their
+contribution to the development of food allergy.
+
+taken together, our data suggest that pdi and its related family members
+may play vital roles in the regulation of mast cell activation during the
+allergic response, and that in vivo blockade of their activity may prove to be
+of therapeutic benefit in patients with mast cell-mediated disorders.
+figure 9 impaired t}42 cytokine
+production by spleen cells from
+ova-challenged, pacma-31-
+treated mice. balb/c mice were
+sensitized and challenged with
+ova. some groups of animals
+were also gavaged with 300 pg
+pacma-31 suspended in 1%
+cmc. spleen cells were
+stimulated with ova for 72 h.
+levels of the cytokines (a) il-4,
+(b) il-5, (c) il-13, and (d) ifn-y
+were enumerated in the
+supernatants by elisa. n=4
+mice/group. data are
+
+(8) il-5, (c) 1-19, ana (wy ifn-y
+were enumerated in the
+supernatants by elisa. n=4
+mice/group. data are
+representative of 2 independent
+experiments. *p < 0.05
+(student's t-test).
+figure 9
+
+ 
+
+ 
+the data above suggest that pdi activity in vivo may be enhanced during
+allergic responses and its inhibition can modulate mast cell function during
+food allergy. to determine whether this correlated with increased expression
+of pdi family members in the intestines of allergic mice, we assessed the
+levels of p4hb in the jejunae of experimental animals. as expected,
+expression of these genes was observed in the intestines of both controls
+and allergic animals and unchanged, consistent with enzymatic inhibition as
+opposed to decreased expression (figure 8f)
+
+lastly, the effects of pdi inhibition on systemic ty2 cytokine production
+were assessed by stimulating spleen cells with ova and examining the
+production of cytokines. as expected, the production of il-4, il-5, and il-13
+(figures 9a—c) was enhanced in ova-stimulated splenic cultures compared
+to unstimulated controls. in contrast, no enhancement of cytokine
+production was seen in similarly stimulated cells from pacma-31-gavaged
+animals. also, no differences in ifn-y production were observed across all
+groups examined (figure 9d). a similar pattern was observed in cells
+polyclonally stimulated with t cell agonists (supplementary figure 4). these
+data therefore suggest that pdi blockade can suppress t}42-specific cytokine
+production during allergic inflammation
+
+groups examined trigure yl). a simitar pattern was observed in celts
+polyclonally stimulated with t cell agonists (supplementary figure 4). these
+data therefore suggest that pdi blockade can suppress t}42-specific cytokine
+production during allergic inflammation
+
+ 
+0.01 (student's t-test)
+figure 8 expression of intestinal
+pdi in allergic mice and
+suppression of jejunal th2
+cytokine expression by pacma-
+31. balb/c mice were sensitized
+and challenged with ova. some
+groups of animals were also
+gavaged with 300 ig pacma-31
+suspended in 1% cmc. the
+expression of mrna for various
+cytokines (a~e), and (f) p4hb
+was assessed using established
+taqman probes and rt-pcr.
+n=7 mice/group. data are
+representative of 2 independent
+experiments. *p < 0.05; **p <
+0.01 (student's t-test).
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+furthermore, enumeration of mast cells in the small intestine revealed a
+significant upregulation of chloroacetate esterase-positive mast cells in the
+jejunum of ova-sensitized and challenged mice (figure 7d and
+supplementary figure 3). far fewer mast cells were observed in the jejunae
+of pacma-31-treated animals (figure 7d and supplementary figure 3)
+similarly, the production of murine mast cell protease-1 (mmcp-1) was
+enhanced in ova-challenged allergic mice compared to unchallenged
+controls (figure 7e). in contrast, serum levels of this enzyme were decreased
+in pacma-31-treated mice, suggesting decreased mast cell activation in
+these animals (figure 7e). furthermore, the expression of various tj2-type
+cytokines including il-4, il-5, il-13, il-9, and il-10 was significantly reduced
+in the ova-challenged pacma-31-treated group compared to the ova-
+challenged controls (figures 8a-e).
+inaepengern experiments. “p<
+0.05; **p < 0.01 (student's t-
+test).
+figure 7 pacma-31 treatment
+suppresses the development of
+food allergy in ova-sensitized
+and challenged mice. (a)
+balb/c mice were sensitized
+and challenged with ova as
+shown. some groups of animals
+were also gavaged with 300 ug
+pacma-31 suspended in 1%
+cmc. (b) percent of diarrhea-
+positive animals. (c) serum
+ova-ige levels (d) numbers of
+caet jejunal mast cells. (e)
+serum mmcp-1 levels are
+shown. n=7 mice/group. data
+are representative of 2
+independent experiments. *p <
+0.05; **p < 0.01 (student's t-
+test)
+ 
+pdi inhibition suppresses mast cell responses in a mouse model of food
+allergy
+
+our data above demonstrate a significant role for pdi during mast cell
+activation and function in cell culture. to ascertain whether blocking pdi
+activity in vivo will have similar effects on mast cell responses, we assessed
+the effects of pacma-31 treatment in a mast cell-mediated model of
+intestinal food anaphylaxis. briefly, mice were sensitized and challenged with
+the egg allergen ova as previously described (24) (figure 7a). beginning one
+day prior to challenge with ova, some groups of mice were orally gavaged
+with pacma-31 suspended in 1% carboxy methyl cellulose as previously
+described (4) (figure 7a). as observed in figure 7b, ova-sensitized and
+challenged mice developed profuse diarrhea in comparison with ova-
+sensitized controls. this correlated with an increase in ova-specific ige
+production as enumerated in the serum (figure 7c). in contrast, pacma-31-
+gavaged animals did not develop diarrhea and exhibited decreased serum
+ova-ige levels (figures 7b, c)
+  
+
+mediated mast cell activation can be regulated by the catalytic activity of
+mast cell surface pdi
+itis possible that in the experiments above, the effects of pacma-31 were
+mediated via inhibition of constitutively present cell surface pdi. to further
+investigate the effects of pdi inhibition during mast cell activation and to
+determine whether activation-associated pdi activity can modulate
+downstream cellular events, bmmcs were incubated with pacma-31 starting
+30 min prior to activation with dnp-bsa. six h post-challenge with antigen,
+iivesugave ine eriécts or pul nmpruort auring mast ceti acivauon dnd to
+determine whether activation-associated pdi activity can modulate
+downstream cellular events, bmmcs were incubated with pacma-31 starting
+30 min prior to activation with dnp-bsa. six h post-challenge with antigen,
+the levels of cytokines in supernatants were assessed. as observed in figures
+6b-d, the levels of tnf-a, il-6, and il-13 were suppressed in the pacma-
+31-treated samples compared to untreated controls, suggesting that
+inhibition of activation-induced pdi activity may be sufficient to alter mast
+cell responses in vivo. furthermore, inhibition of pdi was sufficient to
+attenuate the suppression of both pre-formed mediators such as tnf-a as
+well as de novo synthesized cytokines such as il-13. to further confirm the
+effects of inhibition of cell surface pdi, bmmcs were treated with an anti-pdi
+mab (abcam), followed by activation via ige and antigen (figure 6e). as
+expected, extracellular pdi blockade also resulted in suppression of mast
+cell-derived il-13 as seen in figure 6e. lastly, to determine whether pdi
+blockade by pacma-31 during er stress can inhibit the production of mast
+cell-derived cytokines, bmmcs were cultured with brefeldin a just before
+activating with dnp-bsa as described in figure 1. pre-treatment of cells with
+pacma-31 significantly attenuated the capacity of bmmcs to produce il-13
+and tnf-a as shown in figures 6f to h. furthermore, the median
+fluorescence intensity of both cytokines was also decreased in pacma-31-
+treated cells (figures 6g-i). these data therefore strongly suggest that ige-
+mediated mast cell activation can be regulated by the catalytic activity of
+mast cell surface pdi
+figure 6 evaluation of fceri
+expression, cell surface pdi
+inhibition and er stress in
+pacma-31-treated and ige-
+activated bmmcs. (a) bmmcs
+were cultured with pacma-31
+overnight and the expression of
+pacma-21=treatea ana ige=
+activated bmmcs. (a) bmmcs
+were cultured with pacma-31
+overnight and the expression of
+fceri was assessed in
+unactivated and activated cells.
+mean fluorescence intensity is
+shown. (b-d) bmmcs were
+treated with 30 um pacma-31
+for 30 min and activated via ige
+and antigen stimulation
+supernatants were collected 6 h
+after activation and elisas were
+performed for respective
+cytokines. (e) bmmcs were pre-
+treated with anti-pdi mab for
+
+6 hand activated via ige and ag
+il-13 secretion into cell
+supernatants was assessed by
+elisa. (f-1) bmmcs were pre-
+treated with pacma-31
+overnight and activated via ige
+and antigen. er stress was
+induced by adding brefeldin a
+during activation. intracellular
+
+ 
+
+and antigen. er stress was
+induced by adding brefeldin a
+during activation. intracellular
+staining was performed 6 h
+later. (f) numbers of cytokine
+producing cells (g—h)
+representative histogram
+overlays and (i) median
+fluorescence intensity for
+cytokines is shown. data are
+representative of 2 independent
+experiments. *p < 0.05; **p <
+0.005; ***p < 0.001; ****p <
+0.0001 (student's t-test)
+figure
+
+ 
+pdi inhibition during mast cell activation is sufficient to suppress ige-
+induced cytokine production
+
+the data above suggest that pdi can be secreted by mast cells after
+activation, with the potential to modulate downstream events such as the
+transcription of cytokine genes. to further assess the role of pdi inhibition on
+mast cell activation, we examined the effects of pacma-31 pre-treatment on
+ime ata above suggest tnat put cam pe secreted py mast ceus ater
+activation, with the potential to modulate downstream events such as the
+transcription of cytokine genes. to further assess the role of pdi inhibition on
+mast cell activation, we examined the effects of pacma-31 pre-treatment on
+the expression of the high affinity receptor for ige, fceri, on resting and
+activated bmmcs. as observed in figure 6a, resting bmmcs express high
+levels of unbound fceri. in contrast, pre-incubation with pacma-31
+significantly decreased the expression of the receptor in bmmcs. in activated
+mast cells, the overall intensity of unbound fcr! expression was decreased
+as would be expected as a consequence of saturation by ige molecules.
+however, this was further reduced in pacma-31-exposed and ige-activated
+bmmcs,
+the secretion and extracellular activity of pdi in endothelial cells and
+platelets is well-established (16, 40, 42, 43), but its extracellular role in mast
+cells is unknown. to determine whether pdi can be detected on the surface
+of mast cells, we assessed the secretion of pdi using flow cytometry. as seen
+in figures 5b, c, extracellular pdi can be detected on both resting and
+activated mast cells, with increased expression being observed a few min
+after activation. quantification of the median fluorescence intensity of pdi
+expression revealed a significant increase in the presence of this molecule
+on the surfaces of cells activated with ige and antigen (figure 5c). these
+data therefore suggest that extracellular pdi is present on the cell
+
+expression revealed a significant increase in the presence of this molecule
+on the surfaces of cells activated with ige and antigen (figure 5c). these
+data therefore suggest that extracellular pdi is present on the cell
+membranes of resting mast cells, where it has the potential to modulate
+cellular function via its enzymatic activity. the secretion of extracellular pdi
+is further enhanced soon after ige activation has occurred. next, to examine
+the levels of intracellular pdi protein in mast cells, we evaluated its presence
+in unactivated and ige-activated mast cells six h after ige-activation had
+occurred. as observed in figure 5a above, intracellular pdi was detected
+both constitutively and in activated mast cells by flow cytometry (figure 5d).
+a small but demonstrable increase was observed in activated cells, although
+the overall levels appeared to be similar (figure 5d), consistent with
+observations of intracellular pdi levels in other cell types (16, 36, 38-40).
+this was also confirmed by western blot analysis (figure 5e). these data
+therefore demonstrate that pdi is secreted on the surfaces of mast cells,
+where they may be a likely target of naturally occurring food-derived pdi
+inhibitors
+
+   
+figure 5 upregulation of pdi
+expression in mast cells after
+activation with ige and antigen.
+(a) bmmcs were activated with
+dnp-ige and antigen and cells
+were collected for rt-pcr
+analysis after 4 h. expression of
+p4hb is shown. (b-d) in other
+experiments, activated bmmcs
+or mc/9 cells and controls were
+examined for the expression of
+pdi family members by flow
+cytometry. (b) histogram
+overlay depicting increase in
+pdi expression in activated
+bmmcs compared to isotype
+control is shown. (€) plot
+depicting calculated median
+fluorescence intensity of pdi
+expression is shown. (d)
+intracellular expression of pdi in
+fixed and nermeahilized cells is
+fluorescence intensity of pdi
+expression is shown. (d)
+intracellular expression of pdi in
+fixed and permeabilized cells is
+shown. isotype controls are
+represented as dashed lines. (e)
+wester blot for pdi in mc/9
+cells. data are representative of
+2 independent experiments. **p
+< 0.01 (student's t-test)
+figure 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+figure 5
+enhanced secretion of pdi in activated mast cells
+
+our data above demonstrates a significant reduction in mast cell functional
+activity and activation-induced events such as cytokine production when
+exposed to pdi inhibitors, suggesting that pdi enzymatic activity is induced
+in mast cells after activation has occurred. this is consistent with the known
+effects of pdi during cellular activation in various cells. interestingly, several
+recent studies have also identified novel functional roles for extracellular
+secreted pdi in various cells (16, 36-40). pdi bound to integrins on the
+surfaces of these cells has been shown to exert extracellular effects and
+modulate cellular function. as such, we wondered whether extracellular pdi
+is also secreted by mast cells during ige-activation and whether cell-surface
+‘secreted pdi in various cells (16, 56-40). pdi bound to integrins on the
+surfaces of these cells has been shown to exert extracellular effects and
+modulate cellular function. as such, we wondered whether extracellular pdi
+is also secreted by mast cells during ige-activation and whether cell-surface
+pdi may likely be a target of our pdi inhibitors
+
+to further explore the role of pdi and evaluate its activity during mast cell
+activation, we assessed the expression of pdi in resting and ige-activated
+bmmcs by quantitative pcr. pdi is the gene originally identified as the b-
+subunit of prolyl-4-hydroxylase (p4hb) that catalyzes the formation of 4-
+hydroxyproline in collagen (reviewed in (41)). we therefore assessed the
+expression of the p4hb gene in resting and activated mast cells. as seen in
+figure 5a, basal expression of the p4hb gene may be observed in resting
+bmmcs consistent with its role as an intracellular chaperone. however, no
+further increase in gene expression was observed in ige-activated bmmcs a
+few h after activation, suggesting that the intracellular transcriptional levels
+of pdi remain stable after activation has occurred (figure 5a). this is not
+surprising as it is the increased enzymatic activity of pdi and not its cellular
+expression levels that contribute to changes in cellular function.
+figure 4 pacma-31 inhibits pdi
+and pre-treatment with
+pacma-31 suppresses bmmc
+proliferation and cytokine
+
+ 
+
+and pre-treatment with
+pacma-31 suppresses bmmc
+proliferation and cytokine
+secretion in ige-activated mast
+cells. (a) pdi catalytic activity
+was measured using the insulin-
+based turbidimetric assay in the
+absence or presence of various
+concentrations of pacma-31.
+(b-e) bmmcs were treated with
+10um or 30m pacma-31 (p-
+31) overnight and activated via
+ige and antigen stimulation.
+supernatants were collected
+
+12 h after activation and elisas
+were performed for respective
+cytokines. (f) bmmcs were
+cultured with ril-3 and rscf for
+5 days and the effects of
+pacma-31 treatment on mast
+cell proliferation were assessed
+numbers of live cells at different
+time points are shown. data are
+representative of 3 or more
+indenendent exneriments *n <
+numbers of live cells at different
+time points are shown. data are
+representative of 3 or more
+independent experiments. *p <
+0.05; **p < 0.005; ***p < 0.001;
+****p < 0.0001 (student's t-test)
+#p < 0.0001 by two-way anova
+between untreated cells and p-
+31-treated groups
+ 
+suppression of mast cell activation and function by the pdi-selective
+inhibitor, pacma-31.
+
+lastly, to verify that pdi plays an important role in these processes, we used
+a pdi selective compound, shown to have potent anti-pdi activity in animal
+studies. recently, a class of propynoic acid carbomyl methyl amides
+(pacmas) was shown to have broad-spectrum activity against various cancer
+cell lines (18, 35). of these, the small molecule compound, pacma-31, was
+shown to have irreversible activity against pdi (icgo of 10m in animal
+studies (35)), forming a covalent bond with active site cysteines, and
+exhibited in vivo activity with oral bioavailability in a mouse xenograft model
+of ovarian cancer (35). furthermore, pacma-31 has a greater selectivity for
+pdi over other thiol isomerases compared to bacitracin. we therefore
+investigated whether pacma-31 would also inhibit pdi in our confirmatory
+assays and assessed its effects on mast cell activation and function in our
+
+ 
+
+ 
+
+   
+
+pdi over other thiol isomerases compared to bacitracin. we therefore
+investigated whether pacma-31 would also inhibit pdi in our confirmatory
+assays and assessed its effects on mast cell activation and function in our
+model. as observed in figure 4a, pacma-31 is a potent inhibitor of pdi in
+cell-free enzymatic assays and inhibits the insulin reduction catalytic activity
+of pdi in a dose-dependent manner. a comparison of the pdi inhibitory
+activity of pacma-31 with curcumin is shown in supplementary figure 2. to
+further investigate whether pacma-31 has similar dose-dependent effects
+on functional studies in mast cells, we treated bmmcs with various
+concentrations (lom and 30m) of pacma-31. as observed in the case of
+bacitracin and rutin above, pre-treatment of bmmcs with pacma-31
+overnight (figures 4b-e) resulted in a significant suppression of mast cell
+activation as evidenced by reduced mast cell cytokine production (figures
+4b—d) and decreased overall mast cell survival (figure 4e)
+to further investigate the effects of pdi inhibition on mast cells, we also
+examined the effects of bacitracin and rutin exposure on bmmc proliferation
+and survival as previously described (24). bmmcs were cultured with il-3 and
+scf, along with various concentrations of bacitracin, rutin, or vehicle. their
+proliferation and/or survival was followed for 5 days and live cells were
+enumerated using trypan blue exclusion. as observed in figure 3c and data
+not shown, co-culture with bacitracin or rutin for 5 days, resulted in an
+overall dose-dependent decrease in bmmc proliferation and survival,
+suggesting that pdi activity may regulate mast cell homeostasis and
+proliferation possibly by modulating intracellular protein folding during cell
+growth. this is consistent with the known roles of pdi as an important
+housekeeping protein necessary for cell survival (30). however, treatment
+with both pdi inhibitors had no effects on cell viability and proliferation for at
+least up to 48 h (for the 104m doses) or longer (for the 1m doses) after
+treatment at these time noints nercentaaes of live cells were comnarable
+housekeeping protein necessary for cell survival (30). however, treatment
+with both pdi inhibitors had no effects on cell viability and proliferation for at
+least up to 48 h (for the 104m doses) or longer (for the 1m doses) after
+treatment. at these time points, percentages of live cells were comparable
+between groups and no changes in percentages of dead cells, approximately
+10%, were observed. this confirms that the effects of the pdi inhibitors on
+ige-mediated mast cell activation described above are not due to cell death
+but reduction of catalytic activity consistent with reported observations in
+other (27)
+figure 3 pre-treatment with pdi
+inhibitors suppresses mast cell
+degranulation and cell
+proliferation. (a, b) bmmcs
+were cultured with varying
+concentrations of bacitracin or
+rutin as described above. mast
+cell degranulation was assessed
+by pre-sensitizing bmmcs with
+dnp-ige followed by challenge
+with dnp-bsa. supernatants
+and cell iveates were collected
+by pre-sensitizing bmmcs with
+dnp-ige followed by challenge
+with dnp-bsa. supernatants
+and cell lysates were collected
+and the b-hex assay was
+performed. (a) o.d. values
+correlating to b-hex release in
+supernatants and (b) percent
+degranulation (percent cellular
+content) of bmmcs is shown
+(c) the effects of treatment
+with pdi inhibitors on bmmc
+proliferation and survival were
+assessed. bmmcs were cultured
+in triplicates with rll-3 and rscf
+for 5 days in the presence of
+varying concentrations of
+bacitracin or rutin and vehicle
+(dmso). cells were counted
+daily. numbers of live cells are
+shown. data are representative
+of 2 independent experiments.
+*p < 0.05; **p < 0.005 (students
+t-test]. ****p < 0.0001 using
+two-way anova between
+
+of 2 independent experiments.
+*p < 0.05; **p < 0.005 (students
+t-test]. ****p < 0.0001 using
+two-way anova between
+untreated controls and 10m-
+treated groups.
+ 
+rutin pre-treatment modulates cytokine secretion in ige-activated mast
+cells
+
+while bacitracin is widely used in research as a pdi antagonist, its clinical use
+in vivo is hampered by its low membrane permeability and adverse side
+effects such as nephrotoxicity (27). to therefore further confirm that pdi
+plays an important role in mast cell activation, we utilized a second well-
+established inhibitor of pdi, rutin (icsq 6 um in insulin reductase assays (27)),
+in human studies (28, 33, 34). the polyphenolic flavonoid, quercitin-3-
+rutinoside (rutin) was recently shown to be a potent small molecule inhibitor
+of pdi (20). quercetin and its derivatives such as rutin are ubiquitously
+present in many fruits and vegetables (27), suggesting that they may have the
+potential to modulate mast cell function in a manner similar to that observed
+with curcumin (4). to therefore further investigate the importance of pdi
+during mast cell activation and confirm the effects observed above with
+bacitracin, we also cultured bmmcs with increasing concentrations of rutin,
+and assessed the production of mast cell-derived cytokines. as observed
+above, pre-treatment with increasing concentrations of rutin, also
+suppressed cytokine gene expression (supplementary figures 1d-f) and the
+bacitracin, we also cultured bmmcs with increasing concentrations of rutin,
+and assessed the production of mast cell-derived cytokines. as observed
+above, pre-treatment with increasing concentrations of rutin, also
+suppressed cytokine gene expression (supplementary figures 1d-f) and the
+production of mast cell-derived cytokines in a dose-dependent manner
+(figures 2e-h), suggesting that mast cell activity during immune responses
+in vivo may be modulated by the fine-tuning of cell-specific pdi activity.
+
+pre-treatment with bacitracin or rutin suppresses release of pre-formed
+mediators and influences long-term cell survival
+
+our observations above demonstrating a dose-dependent suppression of
+cytokine expression and secretion by pdi inhibitors are consistent with well-
+described roles of pdis as molecular chaperones during the intracellular
+generation of various proteins. to further determine whether pdi is also
+involved during mast cell degranulation and the release of pre-formed
+mediators, we examined cell culture supernatants immediately after
+activation with dnp-bsa, and assessed the secretion of the enzyme b-
+hexosaminidase (b-hex) as previously described (24). as observed in figure
+3a, ige-mediated activation induced the secretion of b-hex into cell culture
+supernatants 15 min later compared with unactivated controls (figure 3a). in
+contrast, pre-treatment with increasing concentrations of either bacitracin
+or rutin, resulted in decreased secretion of this enzyme in activated cells
+(figure 3a). these data suggest that inhibition of pdi can suppress the
+release of pre-formed mediators from mast cell granules after ige-mediated
+activation furthermore the total cellular r-hex content was also decreased
+or rutin, resulted in decreased secretion of this enzyme in activated cells
+(figure 3a). these data suggest that inhibition of pdi can suppress the
+release of pre-formed mediators from mast cell granules after ige-mediated
+activation. furthermore, the total cellular b-hex content was also decreased
+in cells treated with pdi inhibitors (data not shown), suggesting that pdi
+inhibition may also block b-hex production. however, a much smaller effect
+on the extent of intrinsic mast cell degranulation was observed (figure 38)
+sse
+
+0.0001 (dunnet's post-hoc
+test).
+figure 2 pre-treatment with pdi
+inhibitors suppresses the
+secretion of cytokines in ige-
+activated bmmcs. bmmcs were
+treated with increasing doses of
+(a-d) bacitracin (bac) or (e-h)
+rutin (rut) overnight and
+activated bmmcs. bmmcs were
+treated with increasing doses of
+(a-d) bacitracin (bac) or (e-h)
+rutin (rut) overnight and
+activated via ige and antigen
+stimulation as in figure 1.
+supernatants were collected
+
+12 h after activation and elisas
+were performed for il-4, il-6,
+1l-13, and tnf-a. data are
+representative of two or more
+independent experiments
+statistical signifance between
+multiple groups was performed
+using one-way anova with p<
+0.0001. significance for means
+of groups treated with bac or
+rut compared to mean of
+untreated cells is shown above
+bars representing the groups
+respectively. *p < 0.03; **p <
+0.002; ***p < 0.0002; ****p <
+0.0001 (dunnet's post-hoc
+test).
+figure 2
+
+clamncs unactivated  bmmcs ge activated
+
+ 
+bacitracin pre-treatment modulates cytokine gene expression and
+secretion in ige-activated mast cells
+
+the ubiquitous expression of pdi and its importance in protein folding
+presents a major challenge to examination of its activity using gene
+knockdown strategies. knockdown of pdi is lethal in yeast and mammalian
+cell lines (30) and to date, no viable strains of pdi knockout mice exist. as
+such, the functions of pdi both in vitro and in vivo have often been studied
+using various small molecule inhibitors of pdi as well as pdi-blocking
+antibodies. to further investigate the role of pdi during mast cell activation
+and function, we therefore assessed the effects of pre-treatment with
+various pdi inhibitors on mast cell cytokine production after activation with
+laf and antiaen we exolored the effects of three well-established pdi
+antibodies. to further investigate the role of pdi during mast cell activation
+and function, we therefore assessed the effects of pre-treatment with
+various pdi inhibitors on mast cell cytokine production after activation with
+ige and antigen. we explored the effects of three well-established pdi
+inhibitors to verify they all had the same effect and corroborate that the
+process was pdi-dependent. the following stepwise approach was utilized
+assessment of mast cell function using classic pdi inhibitors such as
+bacitracin, examination of the effects of clinically validated pdi inhibitors
+such as rutin on mast cells, and confirmation of pdi activity in mast cells
+using selective pdi inhibitors such as pacma-31.
+
+the effects of pdi in cell studies have historically been studied using the
+topical peptide antibiotic, bacitracin (27, 31). bacitracin is a well-studied,
+non-selective inhibitor of pdi and blocks pdi function in the high
+micromolar range (ic59 of zum in insulin reductase assays) inhibiting
+disulfide bond formation (32). bacitracin is also non cell-permeable (27).
+therefore, its effects on pdi catalytic activity maybe mediated via inhibition
+of cell surface pdi. to examine the effects of bacitracin pre-treatment on
+ige-mediated activation in mast cells, bmmcs were pre-treated with
+increasing concentrations of the drug overnight prior to activation via ige
+and antigen. the dose-dependent effects of bacitracin pre-treatment on
+cytokine were then assessed. as expected, ige-mediated activation of
+bmmcs resulted in the enhanced secretion of il-4, il-6, il-13, and tnf-a
+into cell culture supernatants (figures 2a—d). in contrast, pre-treatment with
+various doses of bacitracin, resulted in a dose-dependent inhibition of
+cytokine were ten assessed. as expected, ige-mediated activation or
+bmmcs resulted in the enhanced secretion of il-4, il-6, il-13, and tnf-a
+into cell culture supernatants (figures 2a—d). in contrast, pre-treatment with
+various doses of bacitracin, resulted in a dose-dependent inhibition of
+cytokine secretion (figures 2a-d), suggesting that bacitracin suppresses
+mast cell-mediated cytokine production by inhibiting the activity of pdi
+during ige-induced activation. similar effects were also observed on the
+induction of cytokine gene transcription (supplementary figures 1a-c)
+these data therefore suggest that inhibition of pdi activity can suppress the
+production of cytokines by ige-activated mast cells. furthermore, they also
+strongly implicate a role for extracellular pdi activity, as bacitracin is a non-
+cell membrane permeable pdi inhibitor.
+figure 1 curcumin inhibits pdi
+catalytic activity and suppresses
+ige-mediated mast cell-derived
+cytokine production. (a) pdi
+activity was measured using the
+insulin-based turbidimetric
+assay in the absence (red) or
+cytokine production. (a) pdi
+activity was measured using the
+insulin-based turbidimetric
+assay in the absence (red) or
+presence of 0.3 im (orange), 1
+um (green), 3 lm (blue), or 10
+um (purple) curcumin. the
+brown line represents baseline
+with dtt in the absence of pdi
+(b) bmmcs were pre-treated
+with 30m curcumin overnight
+and activated with dnp-ige
+(1ug/ml) and dnp-bsa (200
+ng/ml in the presence or
+absence of brefeldin a (1
+g/m. six h later, tnf-a-
+positive cells were enumerated
+using intracellular staining. (c—
+f) bmmcs were pre-treated
+with 30 ym curcumin and
+activated via dnp-ige and
+antigen. supernatants were
+collected 12 h later and were
+evaluated for the presence of
+il-4, il-6, il-13, and tnf-a by
+antigen. supernatants were
+collected 12 h later and were
+evaluated for the presence of
+il-4, il-6, il-13, and tnf-a by
+elisa. data are representative
+of three or more independent
+experiments. ** p < 0.0051; ***p
+< 0.0005; ****p < 0.0001
+(students t-test).
+figure 1
+
+ 
+results
+
+curcumin inhibits protein disulfide isomerase activity and suppresses ige-
+mediated mast cell activation
+
+we have previously demonstrated that food-derived substances such as
+curcumin can modulate mast cell responses during food allergy by
+suppressing their activation and pro-allergic effects (4). the proper folding
+and assembly of proteins catalyzed by pdi as well as their dimerization is a
+critical component of cellular function, suggesting that the modulation of
+mast cell responses during alleraic inflammation may depend on cell-
+suppressing their activation and pro-allergic effects (4). the proper folding
+and assembly of proteins catalyzed by pdi as well as their dimerization is a
+critical component of cellular function, suggesting that the modulation of
+mast cell responses during allergic inflammation may depend on cell-
+specific regulation of pdi activity. furthermore, a number of recent studies
+suggest novel roles for dietary pdi inhibitors in regulating cellular activation
+and altering disease progression (27, 28). this includes polyphenolic
+flavonoids such as the quercetin-3-glycosides, which have been shown to
+inhibit pdi both in vitro and in mice (20). we therefore wondered whether
+the effects of curcumin on mast cells may also be mediated via inhibition of
+pdi catalytic activity. using a modified version of the insulin turbidimetric
+assay that measures pdi catalytic activity (20-22), we therefore explored the
+potential of curcumin to also inhibit pdi activity (figure 1). curcumin
+inhibited pdi activity in a dose-dependent manner, suggesting that its ability
+to inhibit mast cell activation in vivo may be dependent on regulation of pdi
+activity (figure 1a). pdi catalytic activity is highly induced during conditions
+of er stress and upregulation of the unfolded protein response (upr). to
+therefore further assess whether the inhibitory effects of curcumin on mast
+cells maybe mediated via pdi inhibition, we examined its role in ige-activated
+mast cells under conditions of er stress. one way of inducing er stress in
+cells is to block protein transport using the chemical, brefeldin a (29)
+brefeldin a inhibits transport of proteins from the er to the golgi and
+induces retrograde protein transport from the golgi apparatus to the er. this
+results in the accumulation of unfolded proteins in the er. examination of
+tnf-a cytokine production by bmmcs after ige-induced activation using
+brefeldin a inhibits transport of proteins from the er to the golgi and
+induces retrograde protein transport from the golgi apparatus to the er. this
+results in the accumulation of unfolded proteins in the er. examination of
+tnf-a cytokine production by bmmcs after ige-induced activation using
+intracellular cytokine staining revealed a significant decrease in the
+generation of tnf-d-producing cells in the presence of curcumin (figure
+1b). furthermore, pretreatment of bmmcs with curcumin prior to activation
+with ige and antigen resulted in a significant decrease in the production of
+the cytokines il-4, il-6, il-13, and tnf-a (figures 1c-f). collectively, these
+data demonstrate that curcumin inhibits pdi activity and its effects on mast
+cells may be mediated via pdi inhibition, warranting further assessment of
+the role of pdi during mast cell-mediated responses
+spleen stimulation
+
+spleen cells were cultured with medium, 200 ig/ml ova or anti-cd3 and
+anti-cd28 and cytokines were enumerated in supernatants as previously
+
+spleen stimulation
+
+spleen cells were cultured with medium, 200 jig/ml ova or anti-cd3 and
+anti-cd28 and cytokines were enumerated in supernatants as previously
+described (5, 24)
+
+statistical analysis
+
+data are expressed as mean + sem, unless stated otherwise. statistical
+significance comparing different sets of mice (between 2 groups) was
+determined by the unpaired student's t-test, whenever applicable. in
+experiments comparing multiple experimental groups or time points, one or
+two-way analysis of variance was performed followed by the dunnett test
+for multiple comparisons.
+measurement of intestinal anaphylaxis
+
+intestinal anaphylaxis was assessed in challenged mice by scoring the
+percentage of animals exhibiting allergic diarrhea for one h after ova
+challenge (4, 25)
+
+histological analysis and enumeration of mast cells
+
+intestinal mast cells were enumerated as previously described by us (26)
+tissue sections were stained with chloroacetate esterase (cae) and mast
+cells were counted in complete cross-sections of jejunum.
+western blot
+
+bmmcs and mc/9 cells were activated with dnp-ige and dnp-bsa and total
+protein extracts were harvested after 4h. western blot was performed as
+previously described (4). pd! detection was performed using a rabbit anti-pdi
+mab (1:1000; cell signaling)
+
+food allergy regimen
+
+to induce food allergy, balb/c mice were i,p. immunized with 50 lg chicken
+egg ova in 1 mg alum twice as previously described (5, 24). mice were
+challenged ig. with 50 mg ova on 6 alternating days. control animals were
+ip. sensitized but not challenged with ova. one hour after the sixth
+challenge, mice were sacrificed and assessed as previously described (5, 24,
+25). to assess the effects of pacma-31 exposure in allergic mice, some
+groups of mice (both controls and ova-challenged animals) were gavaged
+with 10 mg/kg (300 sg) of pacma-31 suspended in 250 ul 1% carboxy
+methyl cellulose (cmc) as previously described (4). treatment with pacma-
+31 was initiated one day prior to challenge with ova and continued daily
+until sacrifice. mice were sacrificed 1 h after the sixth challenge with ova
+and food allergy parameters were assessed as previously described (4, 5, 24)
+methyl cellulose (cmc) as previously described (4). treatment with pacma-
+31 was initiated one day prior to challenge with ova and continued daily
+until sacrifice. mice were sacrificed 1 h after the sixth challenge with ova
+and food allergy parameters were assessed as previously described (4, 5, 24)
+the development of intestinal anaphylaxis was assessed as described below.
+blood was collected for evaluation of antibodies and mmcp-1 in serum,
+jejunum was collected for histological assessment of mast cells and
+evaluation of cytokine gene expression by rt-pcr as described above.
+spleens were collected for evaluation of systemic cytokine production by t
+cells.
+flow cytometry
+
+bmmcs and mc/9 cells (a murine mast cell line) were incubated with mabs
+against mouse c-kit (biolegend), fceri (biolegend), pdi (life technologies),
+and isotype controls for pdi (igg2a/life technologies). expression of cell
+surface pdi was assessed at various times in cells after activation with ige
+and antigen and in unactivated controls. intracellular pdi expression was
+assessed 30 min later in fixed and permeabilized cells. flow cytometric
+analysis was performed using an accuri c6 flow cytometer and flow jo
+software
+
+and antigen and in unactivated controls. intracellular pdi expression was
+assessed 30 min later in fixed and permeabilized cells. flow cytometric
+analysis was performed using an accuri c6 flow cytometer and flow jo
+software.
+materials and methods
+
+animals
+
+balb/c mice were purchased from taconic farms and envigo. all mice were
+bred in our facility and all animal research was approved by the |acuc of
+western new england university.
+
+insulin turbidity assay
+
+pdi activity was measured via pdi-catalyzed reduction of insulin in the
+insulin turbidity assay as previously described by us and others (20-22)
+briefly, the reaction mixture consisted of 100 mm potassium phosphate (ph
+7.4), 0.75 mm dtt, 2 mm edta, 35 ug/ul of bovine insulin, and 0.8 ug
+purified human pd! in a total volume of 30 [ll in a 384-well plate. the
+progress of the reaction was monitored for 90 min at 37°c. curcumin,
+pacma-31 or control buffer was added prior to the addition of enzyme at
+the concentrations indicated. pdi activity in the presence of compound was
+determined by the following formula: pdi activity (%) = (odicompound + pdi +
+prt] ~ odiprr/(odipp1 + prt] - odiprt)) x 100%. enzyme inhibition was
+pacma- 51 or control butter was added prior to the addition of enzyme at
+the concentrations indicated. pdi activity in the presence of compound was
+determined by the following formula: pdi activity (%) = (odicompound + pdi +
+prt] ~ odiprr)/(odipp1 + prt - odiprr)) x 100%. enzyme inhibition was
+determined by the following formula: enzyme inhibition = (1 —
+
+[odmaxtcompound + enzyme}/odmaxtouffer control + enzyme).
+
+bmmc culture
+
+bmmcs were generated from naive balb/c mice and cultured with 10 ng/ml
+of rll-3 (shenandoah) and rscf (shenandoah) for >4 weeks as we have
+previously described (23). harvested bmmc were positive for c-kit and fceri.
+
+bmmc activation and pre-treatment with pdi inhibitors
+
+1x 106 bmmcs/ml were cultured in triplicates with 10 ng/ml il-3 and scf.
+cells were activated by pre-sensitizing with 1 jig/ml dnp-ige (clone spe7,
+sigma) or vehicle (medium), followed by treatment with 200 ng/ml dnp-bsa
+(5, 24). increasing concentrations of curcumin (sigma), bacitracin (sigma),
+quercetin-3-rutinoside hydrate or rutin (sigma), and propynoic acid
+carbamoyl methyl amide (pacma)-31 (sigma) or vehicle (dmso) were added
+to various experimental groups for different time periods (including 30 min
+and 24 h) prior to challenge with dnp-bsa. expression of cytokine genes
+was assessed by rt-pcr between 30 min to 1 h following activation.
+assessment of secreted cytokines was performed 6 to 24 h later.
+
+      
+
+was assessed by rt-pcr between 30 min to 1 h following activation.
+assessment of secreted cytokines was performed 6 to 24 h later.
+
+measurement of er stress
+
+er stress was induced by adding brefeldin a (1 ug/ml) to unactivated bmmcs
+or cells activated with ige and antigen as described above. the effects of pdi
+inhibition were examined by treating with pdi inhibitors such as curcumin or
+pacma-31. six hours after activation with ige/ag, cells were stained for
+surface antigens such as c-kit or fceri with fluorescently-labeled mabs.
+intracellular cytokine staining was then performed using a kit from biolegend
+(san diego, ca). cells were fixed, then permeabilized and stained for various
+cytokines using mabs. cytokine-producing cells were enumerated by flow
+cytometry.
+
+quantitative pcr analysis and elisas
+
+quantitative rt-pcr was performed as previously described using taqman
+probes (5, 24). expression of cytokine genes (il-4, il-5, il-6, il-9, il-10, il-13,
+1l-33, tnf-a, ifn-y) and pdi (p4hb, pdia3) was calculated relative to gapdh
+transcripts. elisas for mmcp-1 (affymetrix), il-4, il-5, il-6, tnf-a, and ifn-y
+(biolegend), il-13 (r&d systems), and ova-ige were performed according to
+manufacturers’ protocols as previously described (5, 24)
+
+b-hexosaminidase (b-hex) assay
+
+manufacturers’ protocols as previously described (5, 24)
+
+b-hexosaminidase (b-hex) assay
+
+bmmcs were activated with dnp-ige and dnp-bsa in the presence or
+absence of various pdi inhibitors. b-hex activity in cell culture supernatants
+was assessed as previously described by us (5, 24). percent cellular content
+was calculated according to the following formula: (amount released into
+supernatant) /(amount in supernatant + amount in lysate) x 100.
+
+bmmc proliferation
+
+bmmcs were cultured with rll-3 and rscf as described above. some groups
+of cells were treated with various concentrations of bacitracin, rutin or
+pacma-31, cells were counted daily for 4 to 5 days, and live cells were
+enumerated on the basis of trypan blue exclusion
+introduction
+
+ige-mediated mast cell activation is a critical component in the induction of
+allergic responses to food-derived antigens (1-3). the cross-linking of food-
+specific antigens by ige-bearing mast cells in the intestinal tract induces a
+stepwise cascade of activation-induced events, resulting first in the release
+of various pre-formed mediators from mast cell granules, followed by the
+synthesis of several de novo substances including various cytokines and lipid
+mediators. these events are tightly orchestrated involving several
+phosphorylative reactions that culminate in the activation of transcription
+factors which regulate gene expression.
+
+we have previously shown that food-derived components such as curcumin
+can attenuate the development of mast cell responses during food allergy (4,
+5). curcumin, a natural product found in the spice turmeric has well-known
+pharmacological properties, including anti-allergic (4, 6, 7), anti-
+inflammatory (8), and anti-cancer activities (9, 10). despite the interest in
+curcumin and its analogues as potential therapeutics (9), there is no
+
+5). curcumin, a natural product found in the spice turmeric has well-known
+pharmacological properties, including anti-allergic (4, 6, 7), anti-
+inflammatory (8), and anti-cancer activities (9, 10). despite the interest in
+curcumin and its analogues as potential therapeutics (9), there is no
+consensus on the molecular mechanisms by which it exerts pharmacological
+action. while some studies have demonstrated curcumin acts upon various
+transcription factors to regulate the expression of enzymes and cytokines (4,
+11), other studies suggest that curcumin exerts these effects by modulating
+the redox status of the target cell (12)
+
+we hypothesized that dietary components such as curcumin may modulate
+the mast cell response during food allergy by inhibiting the direct activation
+of circulating proteins and enzymes and explored likely targets. one
+common mechanism of protein activation is through an allosteric disulfide
+bond, where a disulfide will rearrange to alter the intra- or intermolecular
+structure of the protein to activate or inactivate it (13). the rearrangement of
+these disulfide bonds is often accomplished through a thiol reductase
+enzyme such as protein disulfide isomerase (pdi)
+
+thiol isomerases such as pdi catalyze the breakage, formation and
+rearrangement of disulfide bonds, regulating protein folding within the
+endoplasmic reticulum (er) (14, 15). however more recent studies have
+determined extracellular roles for pdi including the activation of thrombus
+formation (16), entry of hiv into lymphocytes (17), and the survival and
+progression of various cancers (18)
+
+determined extracellular roles for pdi including the activation of thrombus
+formation (16), entry of hiv into lymphocytes (17), and the survival and
+progression of various cancers (18)
+
+in this study, we verify the pdi inhibitory activity of curcumin and explore the
+role that pdi plays in the development of mast cell-mediated responses
+during food allergy using known pdi inhibitors. to date, with the exception
+of a postulation that pdi catalyzes the formation of igg4 under conditions of
+chronic antigen exposure (19), there has been no known role of the enzyme
+in the development of mast cell-dependent allergic responses. here, we
+show for the first time that mast cells express extracellular pdi on their
+surface and that blockade of pdi in mast cells suppresses their function and
+attenuates the development of mast cell responses during food allergy.
+pretreatment of bone marrow-derived mast cells (bmmcs) with pdi
+inhibitors including dietary pdi modulators suppressed their activation and
+degranulation, resulting in the decreased expression and secretion of various
+mast cell-derived cytokines. furthermore, treatment of wild-type mice with
+pacma-31 (an orally active irreversible pdi inhibitor) in a model of ovalbumin
+(ova)-induced food allergy resulted in a significant attenuation in the
+development of food allergy symptoms including decreases in allergic
+diarrhea, mast cell activation and allergen-specific ige. these data
+demonstrate that pdi plays vital roles during mast cell-mediated responses
+by regulating mast cell activation and cytokine production. furthermore,
+dietary components can modulate mast cell activation during allergic
+responses by regulating pdi activity, suggesting that blocking pdi function
+demonstrate that pui plays vital roles during mast cell-mediated responses
+by regulating mast cell activation and cytokine production. furthermore,
+dietary components can modulate mast cell activation during allergic
+responses by regulating pdi activity, suggesting that blocking pdi function
+may prove to be of therapeutic benefit in allergic patients.
+the thiol isomerase, protein disulfide isomerase (pdi), plays important
+intracellular roles during protein folding, maintaining cellular function and
+viability. recent studies suggest novel roles for extracellular cell surface pdi
+in enhancing cellular activation and promoting their function. moreover, a
+number of food-derived substances have been shown to regulate cellular
+tivaceitiar rows auniig proven 1o.arig, midiniaining céuutar'1uncaor ana
+viability. recent studies suggest novel roles for extracellular cell surface pdi
+in enhancing cellular activation and promoting their function. moreover, a
+number of food-derived substances have been shown to regulate cellular
+pdi activity and alter disease progression. we hypothesized that pdi may
+have similar roles during mast cell-mediated allergic responses and
+examined its effects on ige-induced mast cell activity during cell cutture and
+food allergy. mast cells were activated via ige and antigen and the effects of
+pdi inhibition on mast cell activation were assessed. the effects of pdi
+blockade in vivo were examined by treating mice with the irreversible pdi
+inhibitor, pacma-31, in an ovalbumin-induced model of food allergy. the
+role of dietary pdi modulators was investigated using various dietary
+compounds including curcumin and quercetin-3-rutinoside (rutin). pdi
+expression was observed on resting mast cell surfaces, intracellularly, and in
+the intestines of allergic mice. furthermore, enhanced secretion of
+extracellular pdi was observed on mast cell membranes during ige and
+antigen activation. insulin turbidimetric assays demonstrated that curcumin
+is a potent pdi inhibitor and pre-treatment of mast cells with curcumin or
+established pdi inhibitors such as bacitracin, rutin or pacma-31, resulted in
+the suppression of ige-mediated activation and the secretion of various
+cytokines. this was accompanied by decreased mast cell proliferation, fcéri
+expression, and mast cell degranulation. similarly, treatment of allergic
+balb/c mice with pacma-31 attenuated the development of food allergy
+resulting in decreased allergic diarrhea, mast cell activation, and fewer
+intestinal mast cells. the production of tj42-specific cytokines was also
+
+ 
+
+     
+
+balb/c mice with pacma-31 attenuated the development of food allergy
+resulting in decreased allergic diarrhea, mast cell activation, and fewer
+intestinal mast cells. the production of tj42-specific cytokines was also
+suppressed. our observations suggest that pdi catalytic activity is essential in
+the regulation of mast cell activation, and that its blockade may benefit
+patients with allergic inflammation.
+sallie s. schneider**
+ 
+
+megan pantos* nickul n. shah?>
+
+daniel r. kennedy? @ clinton b. mathias?
+
+* department of pharmaceutical and administrative sciences, college of pharmacy and health
+sciences, western new england university, springfield, ma, united states
+
+? pioneer valley life sciences institute, baystate medical center, springfield, ma, united states
+
+3 department of veterinary and animal sciences, university of massachusetts at amherst, amherst,
+ma, united states
+megan pantos!
+christine galinski?
+edwin kaczenski*
+ 
+
+justine gelzi
+stephanie h. polukort?
+dylan krajewski?
+
+jeffrey rovatti!
+sin immunology sections v articles research topics _ editorial board
+protein disulfide isomerases regulate
+ige-mediated mast cell responses
+and their inhibition confers
+protective effects during food
+allergy
+this article is part of the
+research topic
+
+innate cells in the
+pathogenesis of food allergy
+
+view all 17 articles >
+original research article
+
+front. immunol, 21 december 2020
+sec. molecular innate immunity
+
+volume 11 - 2020 |
+https://dol.org/10.3389/fimmu.2020 606837
+sin immunology sections v articles research topics _ editorial board
+

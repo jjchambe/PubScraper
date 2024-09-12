@@ -1,0 +1,1 @@
+(1, 'Tesseract Open Source OCR Engine v4.1.1 with Leptonica Warning: Invalid resolution 0 dpi. Using 70 instead. Image too large: (565, 35816) Error during processing.')

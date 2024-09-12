@@ -1,0 +1,1509 @@
+merce montoliu-
+
+nerin » marisol sanchez-
+garcia » claudia
+
+bergin - verena esther
+kutschera - hanna
+johannesson - james d.
+bever - anna rosling
+
+doi 10 5389/ffunb 2021716385,
+kristoffer
+krogerus - frederico
+magalhaes - sandra
+castillo - gopal
+peddinti - virve
+vidgren - matteo de
+chiara - jia-xing
+
+yue - gianni liti - brian
+gibson
+
+601 10:5389/tfunb 2021 753655,
+original research
+published on 16 sep 2021
+lager yeast design
+through meiotic
+segregation of a
+saccharomyces
+cerevisiae x
+saccharomyces
+eubayanus hybrid
+original research
+ped on 29 sep 2001
+in-depth
+phylogenomic
+analysis of
+arbuscular
+mycorrhizal fungi
+based ona
+comprehensive set
+of de novo genome
+assemblies
+original research
+published on 16 sep 2021,
+original research
+published on 29 sep 2021,
+similar articles
+keywords: mycology, fungal pathogen, genome-wide association, population genomics, azole,
+antifungal, aspergillus fumigatus, itraconazole
+
+citation: zhao s, ge w, watanabe a, fortwendel jr and gibbons jg (2021) genome-wide association
+for itraconazole sensitivity in non-resistant clinical isolates of aspergillus fumigatus. front. fungal
+biol. 1:617338. doi: 10.3389/ffunb.2020.617338
+
+received: 14 october 2020; accepted: 15 december 2020;
+published: 14 january 2021.
+
+edited by:
+gianni liti, centre national de la recherche scientifique (cnrs), france
+
+reviewed by:
+tibor mihaly nemeth, university of szeged, hungary
+
+gianni liti, centre national de la recherche scientifique (cnrs), france
+
+ 
+
+     
+
+reviewed by:
+tibor mihaly nemeth, university of szeged, hungary
+hung-ji tsai, university of birmingham, united kingdom
+
+copyright © 2021 zhao, ge, watanabe, fortwendel and gibbons. this is an open-access article
+distributed under the terms of the creative commons attribution license (cc by). the use,
+distribution or reproduction in other forums is permitted, provided the original author(s) and the
+copyright owner(s) are credited and that the original publication in this journal is cited, in accordance
+with accepted academic practice. no use, distribution or reproduction is permitted which does not
+comply with these terms.
+
+*correspondence: john g. gibbons, jaaibbons@umass.edu
+
+disclaimer: all claims expressed in this article are solely those of the authors and do not necessarily
+represent those of their affiliated organizations, or those of the publisher, the editors and the
+reviewers. any product that may be evaluated in this article or claim that may be made by its
+manufacturer is not guaranteed or endorsed by the publisher.
+van der auwera, g. a. carneiro, m. o., hartl. c., poplin, r., del angel. g., levy-
+moonshine, a., et al. (2013). from fast@ data to high confidence variant calls: the,
+genome analysis toolkit best practices pipeline. curr. protoc. bioinformatics
+43:bil110s43. doi: 10.1002/0471250953.bil110s43
+
+pubmed abstract | crossref full text | google scholar
+
+warnecke, d., erdmann, r., fahl. a.. hube, b., miiller, f, zank, t., et al. (1999). cloning
+and functional expression of ugt genes encoding sterol glucosyltransferases from
+saccharomyces cerevisiae, candida albicans, pichia pastoris, and dictyostelium
+discoideum. j. biol. chem. 274, 13048-13059. doi: 10.1074/jbc.274.19.13048
+
+pubmed abstract | crossref full text | google scholar
+
+warrilow, a. g., parker, j. e., price, c. l, nes, w. d., kelly, s. l. and kelly, d. e. (2015). in
+vitro biochemical study of cyp51-mediated azole resistance in aspergillus furnigatus.
+antimicrob. agents chemother. 59, 7771-7778. doi: 10.1128/aac.01806-15
+
+pubmed abstract | crossref full text | google scholar
+
+yu, j., pressoir, g., briggs, w. h.. bi, |. v. yamasaki, m., doebley, j. f. et al. (2006). a
+unified mixed-model method for association mapping that accounts for multiple levels
+of relatedness. nat. genet. 38, 203-208. doi: 10.1038/ng1702
+
+pubmed abstract | crossref full text | google scholar
+
+zhao, s., ge, w., watanabe, a., fortwendel, j. r., and gibbons, j. g. (2020). genome-
+wide association for itraconazole sensitivity in non-resistant clinical isolates of
+
+pubmed abstract | crossref full text | google scholar
+
+zhao, s., ge, w., watanabe, a., fortwendel, j. r., and gibbons, j. g. (2020). genome-
+wide association for itraconazole sensitivity in non-resistant clinical isolates of
+aspergillus fumigatus. biorxiv. doi: 10.1101/2020.08.31.275297
+
+crossref full text | google scholar
+
+zhao, s., latge. j. p, and gibbons, j. g. (2019). genome sequences of two strains of the
+food spoilage mold aspergillus fischeri. microbiol. resour. announc. 8:e01328-19. doi:
+10.1128/mra.01328-19
+
+pubmed abstract | crossref full text | google scholar
+ 
+
+microbe interact. 29, 417-430. doi: 10.1094/mpmi-09-15-0218-r
+
+pubmed abstract | crossref full text | google scholar
+
+tashiro, m., izumikawa, k., minematsu, a., hirano, k., lwanaga, n., ide, s., et al. (2012).
+antifungal susceptibilities of aspergillus furnigatus clinical isolates obtained in nagasaki,
+japan. antimicrob. agents chemother. 56, 584-587. doi: 10.1128/aac.05394-11
+
+crossref full text | google scholar
+
+team, r. c. (2013). r: a language and environment for statistical computing. vienna,
+austria,
+
+google scholar
+
+thornton, t., and mcpeek, m. s. (2010). roadtrips: case-control association testing
+with partially or completely unknown population and pedigree structure. am. j. hum.
+genet. 86, 172-184. doi: 10.1016/.ajng.2010.01.001
+
+crossref full text | google scholar
+
+turner, s. d. (2014). qqman: an r package for visualizing gwas results using qq and
+manhattan plots. biorxiv 005165. doi: 10.1101/005165
+
+crossref full text | google scholar
+
+van der auwera, g. a. carneiro, m. o., hartl. c., poplin, r., del angel. g., levy-
+moonshine, a., et al. (2013). from fast@ data to high confidence variant calls: the,
+genome analysis toolkit best practices pipeline. curr. protoc. bioinformatics
+jombart. t., devillard, s., and balloux, f. (2010). discriminant analysis of principal
+components: a new method for the analysis of genetically structured populations. bmc
+genet. 11:94. doi: 10.1186/1471-2156-11-94
+
+pubmed abstract | crossref full text | google scholar
+
+kikuma, t., tadokoro, t., maruyama, j.-i. and kitamoto, k. (2017). aoatg26, a putative
+sterol glucosyltransferase, is required for autophagic degradation of peroxisomes,
+mitochondria, and nuclei in the filamentous fungus aspergillus oryzae. biosci.
+biotechnol. biochem. 81, 384-395. doi: 10.1080/09168451.2016.1240603
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+kurucz, v., kruger, t., antal. k., dietl, a.m. haas, h., pocsi, | et al. (2018). additional
+oxidative stress reroutes the global response of aspergillus furnigatus to iron depletion
+bmc genomics 19:357. doi: 10.1186/s12864-018-4730-x
+
+pubmed abstract | crossref full text | google scholar
+
+latge, j. p. (1999). aspergillus furnigatus and aspergillosis. clin. microbiol. rev. 12, 310—
+350. doi: 10.1128/cmr.12.2.310
+
+crossref full text | google scholar
+
+latge, j. p, beauvais, a. and chamilos, g. (2017). the cell wall of the human fungal
+pathogen aspergillus furnigatus: biosynthesis, organization, immune response, and
+virulence. annu. rev. microbiol. 71, 99-116. doi: 10.1146/annurev-micro-030117-
+020406
+
+latge, j. p, beauvais, a. and chamilos, g. (2017). the cell wall of the human fungal
+pathogen aspergillus furnigatus: biosynthesis, organization, immune response, and
+virulence. annu. rev. microbiol. 71, 99-116. doi: 10.1146/annurev-micro-030117-
+020406
+
+pubmed abstract | crossref full text | google scholar
+
+latge, j. p, and chamilos, g. (2019). aspergillus fumigatus and aspergillosis in 2019.
+clin. microbiol. rev. 33:e00140-18. doi: 10.1128/cmr.00140-18
+
+pubmed abstract | crossref full text | google scholar
+
+leinonen, r.. sugawara, h., shumway, m., and international nucleotide sequence
+database, c. (2011). the sequence read archive. nucleic acids res. 39, d19-21. doi:
+10.1093/nar/gkq1019
+
+crossref full text | google scholar
+
+li, h., and durbin, r. (2009). fast and accurate short read alignment with burrows-
+wheeler transform. bioinformatics 25, 1754-1760. doi: 10.1093/bioinformatics/btp324
+
+pubmed abstract | crossref full text | google scholar
+
+li, h., handsaker, b., wysoker, a., fennell, t., ruan, j., homer, n., et al. (2009). the
+sequence alignment/map format and samtools. bioinformatics 25, 2078-2079. doi:
+10.1093 /bioinformatics/btp352
+
+crossref full text | google scholar
+
+10.1093/bioinformatics/btp352
+crossref full text | google scholar
+
+lin, s. j., schranz, j., and teutsch, s. m. (2001). aspergillosis case-fatality rate:
+systematic review of the literature. clin. infect. dis. 32, 358-366. doi: 10.1086/318483
+
+pubmed abstract | crossref full text | google scholar
+
+mckenna, a., hanna, m., banks, e., sivachenko, a., cibulskis, k., kernytsky, a. et al.
+(2010). the genome analysis toolkit: a mapreduce framework for analyzing next-
+generation dna sequencing data. genome res. 20, 1297-1303. doi:
+10.1101/gr.107524.110
+
+pubmed abstract | crossref full text | google scholar
+
+mellado, e., garcia-effron, g., alcazar-fuoli, l, melchers, w. j., verweij. p. e., cuenca-
+estrella, m., et al. (2007). a new aspergillus fumigatus resistance mechanism conferring
+in vitro cross-resistance to azole antifungals involves a combination of cyps1a
+
+alterations. antimicrob. agents chemother. 51, 1897-1904. doi: 10.1128/aac.01092-06
+
+pubmed abstract | crossref full text | google scholar
+
+meneau, |. coste, a. t., and sanglard, d. (2016). identification of aspergillus fumigatus
+multidrug transporter genes and their potential involvement in antifungal resistance.
+med. mycol. 54, 616-627. doi: 10.1093/mmy/myw00s
+
+pubmed abstract | crossref full text | google scholar
+
+med. mycol. 54, 616-627. doi: 10.1093/mmy/myw005
+
+ 
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+moye-rowley, w. (2015). multiple mechanisms contribute to the development of
+clinically significant azole resistance in aspergillus furnigatus. front. microbiol. 6:70. doi:
+10.3389/fmicb.2015.00070
+
+pubmed abstract | crossref full text | google scholar
+
+muller, l. a., lucas, j. e, georgiana, d. r.. and mccusker, j. h. (2011). genome-wide
+association analysis of clinical vs. nonclinical origin provides insights into
+saccharomyces cerevisiae pathogenesis. mol. ecol. 20, 4085-4097. doi: 10.1111/}.1365-
+294x.2011.05225.x
+
+pubmed abstract | crossref full text | google scholar
+
+neofytos, d., chatzis, o., nasioudis, d., boely janke, e., doco lecompte, t., garzoni, c.,
+et al. (2018). epidemiology, risk factors and outcomes of invasive aspergillosis in solid
+organ transplant recipients in the swiss transplant cohort study. transpl. infect. dis.
+20:e12898. doi: 10.1111/tid.12898
+
+crossref full text | google scholar
+
+nierman, w. c., pain, a, anderson, m. j., wortman, j. r., kim, h. s., arroyo, j., et al
+(2005). genomic sequence of the pathogenic and allergenic filamentous fungus
+aspergillus fumigatus. nature 438, 1151-1156. doi: 10.1038/nature04332
+
+pubmed abstract | crossref full text | google scholar
+
+(2005). genomic sequence of the pathogenic and allergenic filamentous fungus
+aspergillus fumigatus. nature 438, 1151-1156. doi: 10.1038/nature04332
+
+pubmed abstract | crossref full text | google scholar
+
+oku, m., warnecke, d., noda, t., muller, f, heinz, e., mukaiyama, h., et al. (2003)
+peroxisome degradation requires catalytically active sterol glucosyltransferase with a
+gram domain. embo j. 22, 3231-3241. doi: 10.1093/emboj/cdg331
+
+pubmed abstract | crossref full text | google scholar
+
+palma-guerrero, j., hall, c. r.. kowbel, d., welch, j., taylor, j. w., brem, r.b., et al
+(2013). genome wide association identifies novel loci involved in fungal
+communication. plos genet. 9:e1003669. doi: 10.1371/journal pgen.1003669
+
+pubmed abstract | crossref full text | google scholar
+
+paul, s., stamnes, m., thomas, g. h., liu, h.. hagiwara, d., gori, k., et al. (2019). atrr is
+an essential determinant of azole resistance in aspergillus furnigatus. mbio 10:e02563-
+18. doi: 10.1128/mbio.02563-18
+
+pubmed abstract | crossref full text | google scholar
+
+peng, d., and tarleton, r. (2015). eupagdt: a web tool tailored to design crispr guide
+rnas for eukaryotic pathogens. microb. genom. 1:e000033. doi
+10.1099/mgen.0.000033
+
+pubmed abstract | crossref full text | google scholar
+
+10.1099/mgen.0.000033
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+power, r.a., parkhill, j., and de oliveira, t. (2017). microbial genome-wide association
+studies: lessons from human gwas. nat. rev. genet. 18, 41-50. doi:
+10.1038/nrg.2016.132
+
+pubmed abstract | crossref full text | google scholar
+
+price, a. l., zaitlen, n. a., reich, d., and patterson, n. (2010). new approaches to
+population stratification in genome-wide association studies. nat. rev. genet. 11, 459—
+463. doi: 10.1038/nrg2813
+
+pubmed abstract | crossref full text | google scholar
+
+read, t. d., and massey, r. c. (2014). characterizing the genetic basis of bacterial
+phenotypes using genome-wide association studies: a new direction for bacteriology.
+genome med. 6:109. doi: 10.1186/s13073-014-0109-2
+
+pubmed abstract | crossref full text | google scholar
+
+revie, n. m., iyer, k.r., robbins, n., and cowen, l. e. (2018). antifungal drug resistance:
+evolution, mechanisms and impact. curr. opin. microbiol. 45, 70-76. doi:
+10.1016/j.mib.2018.02.005
+
+pubmed abstract | crossref full text | google scholar
+
+robinett, k. s., weiler, b., and verceles, a. c. (2013). invasive aspergillosis masquerading
+
+ 
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+robinett, k. s., weiler, b., and verceles, a. c. (2013). invasive aspergillosis masquerading
+as catastrophic antiphospholipid syndrome. am. j. critic. care 22, 448-451. doi:
+10.4037/ajcc2013659
+
+pubmed abstract | crossref full text | google scholar
+
+sardi, m., paithane, v., place, m., robinson, e., hose, j, wohibach, d. j., et al. (2018).
+genome-wide association across saccharomyces cerevisiae strains reveals substantial
+variation in underlying gene requirements for toxin tolerance. plos genet. 14:e1007217.
+doi: 10.1371/journal pgen.1007217
+
+pubmed abstract | crossref full text | google scholar
+
+shih, s. c., prag, g., francis, s. a, sutanto, m. a., hurley, j. h., and hicke, l. (2003). a
+ubiquitin-binding motif required for intramolecular monoubiquitylation, the cue
+domain. embo j. 22, 1273-1281. doi: 10.1093/emboj/cdgl40
+
+pubmed abstract | crossref full text | google scholar
+
+shimizu, k., and keller, n. p. (2001). genetic involvement of a camp-dependent protein
+kinase in a g protein signaling pathway regulating morphological and chemical
+transitions in aspergillus nidulans. genetics. 157, 591-600.
+
+pubmed abstract | google scholar
+
+stajich, j. e., harris, t, brunk, b. p., brestelli, j, fischer, s., harb, o. s., et al. (2012).
+
+ 
+
+ 
+
+ 
+
+ 
+
+pubmed abstract | google scholar
+
+stajich, j. e., harris, t., brunk, b. p., brestelli, j, fischer, s., harb, o. s., et al. (2012).
+fungidb: an integrated functional genomics database for fungi. nucleic acids res. 40,
+675-681. doi: 10.1093/nar/gkr918
+
+pubmed abstract | crossref full text | google scholar
+
+sul, j. h., martin, l.s., and eskin, e. (2018). population structure in genetic studies:
+confounding factors and mixed models. plos genet. 14:e1007309. doi
+10.1371/journal. pgen.1007309
+
+pubmed abstract | crossref full text | google scholar
+
+takahashi-nakaguchi, a. muraosa, y., hagiwara, d., sakai, k., toyotome, t., watanabe,
+a. et al. (2015). genome sequence comparison of aspergillus furnigatus strains isolated
+from patients with pulmonary aspergilloma and chronic necrotizing pulmonary
+aspergillosis. med. mycol. 53, 353-360. doi: 10.1093/mmy/myv003
+
+pubmed abstract | crossref full text | google scholar
+
+talas, f., kalih, r.. miedaner, t.. and mcdonald, b. a. (2016). genome-wide association
+study identifies novel candidate genes for aggressiveness, deoxynivalenol production,
+and azole sensitivity in natural field populations of fusarium graminearum. mol. plant
+microbe interact. 29, 417-430. doi: 10.1094/mpmi-09-15-0218-r
+
+pubmed abstract | crossref full text | google scholar
+al abdallah, q., ge, w., and fortwendel, j. r. (2017). a simple and universal system for
+gene manipulation in aspergillus fumigatus: in vitro-assembled cas9-guide rna
+ribonucleoproteins coupled with microhomology repair templates. msphere 2:e00446—
+17. doi: 10.1128/msphere.00446-17
+
+crossref full text | google scholar
+
+alam, m.t., petit li, r.a. crispell, e. k., thornton, t. a. conneely, k. n., jiang, y., et al.
+(2014). dissecting vancomycin- intermediate resistance in staphylococcus aureus using
+genome-wide association. genome biol. evol. 6, 1174—1185. doi: 10.1093/gbe/evu092
+
+pubmed abstract | crossref full text | google scholar
+
+alcazar-fuoli, l., and mellado, e. (2013). ergosterol biosynthesis in aspergillus
+fumigatus: its relevance as an antifungal target and role in antifungal drug resistance.
+front. microbiol. 3:439. doi: 10.3389/fmicb.2012.00439
+
+pubmed abstract | crossref full text | google scholar
+
+alexander, d. h., and lange, k. (2011). enhancements to the admixture algorithm for
+individual ancestry estimation. bmc bioinformatics 12:246. doi: 10.1186/1471-2105-12-
+246
+
+pubmed abstract | crossref full text | google scholar
+
+alexander, d. h., novembre, j., and lange, k. (2009). fast model-based estimation of
+ancestry in tunrelatad individiials gennme ras 19 1655-1664 doi
+
+pubmed abstract | crossref full text | google scholar
+
+alexander, d. h., novembre, j., and lange, k. (2009). fast model-based estimation of
+ancestry in unrelated individuals. genome res. 19, 1655-1664. doi:
+10.1101/gr.094052.109
+
+pubmed abstract | crossref full text | google scholar
+
+amarsaikhan, n., albrecht-eckardt, d., sasse, c., braus, g. h., ogel. z. b., and kniemeyer,
+©. (2017). proteomic profiling of the antifungal drug response of aspergillus furnigatus
+to voriconazole. int. j. med. microbiol. 307, 398-408. doi: 10.1016) ijmm.2017.07.011
+
+pubmed abstract | crossref full text | google scholar
+
+asakura, m., ninomiya, s., sugimoto, m., oku, m., yamashita, s.-i, okuno, t., et al
+(2009). atg26-mediated pexophagy is required for host invasion by the plant
+pathogenic fungus colletotrichum orbiculare. plant celll21, 1291-1304. doi:
+10.1105/tpc.108.060996
+
+pubmed abstract | crossref full text | google scholar
+
+bradbury, p. j., zhang, z.. kroon, d. e., casstevens, t. m., ramdoss, y., and buckler, e. s.
+(2007). tassel: software for association mapping of complex traits in diverse samples.
+bioinformatics 23, 2633-2635. doi: 10.1093/bioinformatics/btm308
+
+pubmed abstract | crossref full text | google scholar
+
+brown, g. d., denning, d. w., gow, n. a., levitz, s. m., netea, m. g., and white, t. c.
+(212) hidelan lillare- human fiinnal infartinne gri trane! mad a-1bena1% dni
+
+pubmed abstract | crossref full text | google scholar
+
+brown, g. d., denning, d. w., gow, n. a., levitz, s. m., netea, m. g., and white, t. c.
+(2012). hidden killers: human fungal infections. sci. transl. med. 4:165rv113. doi:
+10.1126/scitransimed 3004404
+
+pubmed abstract | crossref full text | google scholar
+
+camps, s. m., dutith, b. e., arendrup, m. c., rijs, a. j., snelders, e., huynen, m. a., et al
+(2012). discovery of a hape mutation that causes azole resistance in aspergillus
+fumigatus through whole genome sequencing and sexual crossing. plos one
+7:e50034. doi: 10.1371/journal pone.0050034
+
+pubmed abstract | crossref full text | google scholar
+
+chen, p. liu, j., zeng, m., and sang, h. (2020). exploring the molecular mechanism of
+azole resistance in aspergillus fumigatus. j. mycol. med. 30:100915. doi:
+10.1016/j. mycmed.2019.100915,
+
+pubmed abstract | crossref full text | google scholar
+
+chen, p. e., and shapiro, b. j. (2015). the advent of genome-wide association studies
+for bacteria. curr. opin. microbiol. 25, 17-24. doi: 10.1016/j. mib.2015.03.002
+
+pubmed abstract | crossref full text | google scholar
+
+cingolani, p. platts, a. wang le, l., coon, m., nguyen. t. wang, l., et al. (2012). a
+program for annotating and predicting the effects of single nucleotide polymorphisms,
+
+soot ns gee crrtt iere | ios ee
+
+ 
+
+cingolani, p. platts, a. wang le, l., coon, m., nguyen. t. wang, l., et al. (2012). a
+program for annotating and predicting the effects of single nucleotide polymorphisms,
+snpeff: snps in the genome of drosophila melanogaster strain w1118; iso-2: iso-3. fly
+6, 80-92. doi: 10.4161/fly.19695
+
+pubmed abstract | crossref full text | google scholar
+
+colot. h. v., park, g., turner, g. e., ringelberg, c., crew, c. m. litvinkova, l., et al.
+(2006). a high-throughput gene knockout procedure for neurospora reveals functions
+for multiple transcription factors. proc. natl. acad. sci. u. s. a. 103, 10352-10357. doi
+10.1073/pnas.0601456103
+
+pubmed abstract | crossref full text | google scholar
+
+da silva ferreira, m. e., malavazi, |. savoldi, m., brakhage, a.a, goldman, m. h., kim, h.
+s., et al. (2006). transcriptome analysis of aspergillus fumigatus exposed to
+voriconazole. curr. genet. 50, 32-44. doi: 10.1007/s00294-006-0073-2
+
+pubmed abstract | crossref full text | google scholar
+
+dalman, k.. himmelstrand, k., olson, a., lind, m., brandstrom-durling, m., and stenlid, j
+(2013). a genome-wide association study identifies genomic regions for virulence in the
+non-model organism heterobasidion annosum s.s. plos one 8:e53525. doi:
+10.1371/journal pone.0053525
+
+pubmed abstract | crossref full text | google scholar
+
+ 
+
+ 
+
+10.1371/journal pone.0053525
+pubmed abstract | crossref full text | google scholar
+
+danecek, p,, auton, a., abecasis, g., albers, c. a, banks, e., depristo, m. a., et al. (2011).
+the variant call format and vcftools. bioinformatics 27, 2156-2158. doi
+10.1093/bioinformatics/btr330
+
+pubmed abstract | crossref full text | google scholar
+
+davis, m. p, van dongen, s., abreu-goodger, c., bartonicek, n., and enright, a. j. (2013).
+kraken: a set of tools for quality control and analysis of high-throughput sequence data
+methods 63, 41-49. doi: 10.1016/j ymeth.2013.06.027
+
+pubmed abstract | crossref full text | google scholar
+
+donaldson. k. m. yin, h., gekakis, n., supek, f, and joazeiro, c. a. (2003). ubiquitin
+signals protein trafficking via interaction with a novel ubiquitin binding domain in the
+membrane fusion regulator, vps9p. curr. biol. 13, 258-262. doi: 10.1016/s0960-
+9822(03)00043-5
+
+pubmed abstract | crossref full text | google scholar
+
+dunlap, j. c., borkovich, k.a., henn, m. r., turner, g. e., sachs, m. s., glass, n. l., et al.
+(2007). enabling a community to dissect an organism: overview of the neurospora
+functional genomics project. adv. genet. 57, 49-96. doi: 10.1016/so065-
+2660(06)57002-6
+
+pubmed abstract | crossref full text | google scholar
+
+functional genomics project. adv. genet. 57, 49-96. doi: 10.1016/s0065-
+2660(06)57002-6
+
+pubmed abstract | crossref full text | google scholar
+
+earle, s.g., wu, c.-h., charlesworth, j., stoesser, n., gordon, n. c., walker, t. m.,et al
+(2016). identifying lineage effects when controlling for population structure improves
+power in bacterial association studies. nat. microbiol. 1:16041. doi:
+10.1038/nmicrobiol 2016.41
+
+pubmed abstract | crossref full text | google scholar
+
+el-gebali, s., mistry, j., bateman, a., eddy, s. r., luciani, a. potter, s. c., et al. (2019). the
+pfam protein families database in 2019. nucleic acids res. 47, d427-d432. doi
+10.1093/nar/gky995
+
+pubmed abstract | crossref full text | google scholar
+
+fraczek, m. g., bromley, m., and bowyer, p. (2011). an improved model of the aspergillus
+fumigatus cyps1a protein. antimicrob. agents chemother. 55, 2483-2486. doi’
+10.1128/aac.01651-10
+
+pubmed abstract | crossref full text | google scholar
+
+fraczek, m. g., bromley, m., buied, a, moore, c. b., rajendran, r., rautemaa, r., et al.
+(2013). the cdr1b efflux transporter is associated with non-cyp51a-mediated
+itraconazole resistance in aspergillus furnigatus. j. antimicrob. chemother. 68, 1486—
+1496. doi: 10.1093/jac/dkt075
+
+>
+
+ 
+
+mad bhetrart | crnecdaf eull tavt 1 canale srholar
+(2013). the cdr1b efflux transporter is associated with non-cyp51a-mediated
+itraconazole resistance in aspergillus furnigatus. j. antimicrob. chemother. 68, 1486—
+1496. doi: 10.1093/jac/dkt075
+
+pubmed abstract | crossref full text | google scholar
+
+gallego, ©., betts, m. j, gvozdenovic-jeremic, j., maeda, k., matetzki, c., aguilar-
+gurrieri, c., et al. (2010). a systematic screen for protein-lipid interactions in
+saccharomyces cerevisiae. mol. syst. biol. 6:430. doi: 10.1038/msb.2010.87
+
+pubmed abstract | crossref full text | google scholar
+
+gao, y., liu, z., faris, j. d., richards, j., brueggeman, r. s., li, x., et al. (2016). validation
+of genome-wide association studies as a tool to identify virulence factors in
+parastagonospora nodorum. phytopathology 106, 1177-1185. doi: 10.1094/phyto-02-
+16-0113-fi
+
+pubmed abstract | crossref full text | google scholar
+
+garcia-rubio, r., cuenca-estrella, m., and mellado, e. (2017). triazole resistance in
+aspergillus species: an emerging problem. drugs 77, 599-613. doi: 10.1007/s40265-
+017-0714-4
+
+pubmed abstract | crossref full text | google scholar
+
+gibson, g. (2018). population genetics and gwas: a primer. plos biol. 16:e2005485.
+doi: 10.1371/journal pbio.2005485
+
+pubmed abstract | crossref full text | google scholar
+
+gibson, g. (2018). population genetics and gwas: a primer. plos biol. 16:e2005485.
+doi: 10.1371/journal pbio.2005485
+
+pubmed abstract | crossref full text | google scholar
+
+hagiwara, d., watanabe, a. and kamei, k. (2016). sensitisation of an azole-resistant
+aspergillus fumigatus strain containing the cyp51a-related mutation by deleting the
+srba gene. sci. rep. 6:38833. doi: 10.1038/srep38833
+
+pubmed abstract | crossref full text | google scholar
+
+hartmann, f. e., sanchez-vallet, a. mcdonald, b. a.. and croll, d. (2017). a fungal wheat
+pathogen evolved host specialization by extensive chromosomal rearrangements. isme
+j.11, 1189-1204. doi: 10.1038/ismej.2016.196
+
+pubmed abstract | crossref full text | google scholar
+
+hokken, m. w. j., zoll, j, coolen, j. p.m., zwaan, b. j., verweij, p.e.. and melchers, w. j
+g. (2019). phenotypic plasticity and the evolution of azole resistance in aspergillus
+fumigatus: an expression profile of clinical isolates upon exposure to itraconazole. bmc
+genomics 20:28. doi: 10.1186/s12864-018-5255-z
+
+pubmed abstract | crossref full text | google scholar
+
+hunt, r. c., simhadri, v. l., landoli, m., sauna, z. e., and kimchi-sarfaty, c. (2014),
+exposing synonymous mutations. trends genet. 30, 308-321. doi:
+10.1016/j tig.2014.04.006
+
+pubmed abstract | crossref full text | google scholar
+exposing synonymous mutations. trends genet. 30, 308-321. doi:
+10.1016/j tig.2014.04.006
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+huson, d. h., and bryant. d. (2006). application of phylogenetic networks in
+evolutionary studies. mol. biol. evol. 23, 254-267. doi: 10.1093/molbev/msj030
+
+pubmed abstract | crossref full text | google scholar
+
+irmer, h., tarazona, s., sasse, c., olbermann, p. loeffler, j., krappmann, s., et al. (2015).
+rnaseq analysis of aspergillus fumigatus in blood reveals a just wait and see resting
+stage behavior. bmc genomics 16:640. doi: 10.1186/s12864-015-1853-1
+
+pubmed abstract | crossref full text | google scholar
+
+ 
+
+john, h. (2008). reference method for broth dilution antifungal susceptibility testing of
+filamentous fungi, approved standard. m38-a2. clin. lab stand inst. 28, 1-35.
+
+google scholar
+
+jombart. t. (2008). adegenet: a r package for the multivariate analysis of genetic
+markers. bioinformatics 24, 1403-1405. doi: 10.1093/bioinformatics/btn129
+
+pubmed abstract | crossref full text | google scholar
+
+jombart. t., devillard, s., and balloux, f. (2010). discriminant analysis of principal
+components: a new method for the analysis of genetically structured populations. bmc
+genet. 11:94. doi: 10.1186/1471-2156-11-94
+al abdallah, q., ge, w., and fortwendel, j. r. (2017). a simple and universal system for
+aene maninulation in asneraillius fumiaatus: in vitro-assembled cas9-auide rna
+
+references
+references
+supplementary material
+
+the supplementary material for this article can be found online at:
+https://www frontiersin.org/articles/10.3389/ffunb.2020.617338/full#suppl
+ementary-material
+acknowledgments
+
+this manuscript has been released as a pre-print at biorxiv, (zhao et al.,
+2020). computational analysis was conducted on the massachusetts green
+high performance computing center (mghpcc).
+the authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+
+the authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+conflict of interest
+funding
+
+this research was supported by grant r21ai137485 from the national
+institutes of health and national institutes of allergy and infectious diseases
+(niaid) to jg which supports jg and sz. jf and wg are supported by niaid
+ro1ai143197 to jf. aw was supported by the japan agency for medical
+research and development (amed) under grant number 20jm0110015.
+sz and jg designed the study and analyzed the data. aw determined
+itraconazole mic and provided a. fumigatus isolates. wg and jf conducted
+crispr and growth rate experiments. all authors contributed to writing the
+manuscript.
+sz and jg designed the study and analyzed the data. aw determined
+
+itraranazala mic and nrawieled a firminaticicalates wg and jf candiictad
+
+author contributions
+author contributions
+data availability statement
+
+raw whole-genome illumina data for the 65 isolates are available through
+ncbi bioproject prina638646 and the 11 previously sequenced isolates by
+takahashi-nakaguchi et al. (2015) through ncbi bioproject prjdb1541.
+here, we analyzed the association between snp allele frequency and itcz
+mic data from 76 japanese clinical isolates of a. fumigatus to identify loci
+
+involved in itcz sensitivity. mic values fell within a relatively tight range of
+0.125-1 pg/ml [for reference, itcz resistant strains are defined by mics > 4
+
+eee
+
+mic data from 76 japanese clinical isolates of a. fumigatus to identify loci
+involved in itcz sensitivity. mic values fell within a relatively tight range of
+0.125-1 pg/ml [for reference, itcz resistant strains are defined by mics > 4
+ig/ml (tashiro et al., 2012)]. we reasoned that gwa could be a feasible tool
+to identify loci that contribute to the small differences in itcz mic we
+observed across these clinical isolates. we identified several candidate snps
+and loci associated with itcz sensitivity, and validated the function of the
+top candidate by knocking it out using a crispr/cas9 based approach.
+
+   
+
+ee a ae ee
+
+ 
+
+we identified a synonymous variant in afu2g02220 that showed highly
+significant associations with itcz sensitivity across gwa analyses with
+different underlying statistical models (figure 2). synonymous mutations can
+be functional through their (i) effect on cis-regulatory regions (e.g., splice
+sites or mirna and exonic transcription factor binding sites), (i) alteration of
+mrna structure, or (ii) influence on translation speed (e.g., codon usage)
+(hunt et al, 2014). determining the mechanism by which this variant alters
+phenotype would require extensive in silico and in vitro experimentation.
+afu2g02220 encodes a predicted sterol glycosyltransferase. this enzyme
+biosynthesizes sterol glucosides, which make up the common eukaryotic
+membrane bound lipids. orthologs of afu2g02220 from the ascomycete
+yeasts saccharomyces cerevisiae (atg26), candida albicans, pichia pastoris,
+as well as the amoeba dictyostelium discoideum can use various sterols,
+including ergosterol, as sugar acceptors (warnecke et al., 1999). in s.
+cerevisiae, atg26 can directly bind to and glycosylate ergosterol, which yields
+ergosterol-glucoside (gallego et al., 2010). in s. cerevisiae aatg26 did not
+as well as the amoeba dictyostelium discoideum can use various sterols,
+including ergosterol, as sugar acceptors (warnecke et al., 1999). in s.
+cerevisiae, atg26 can directly bind to and glycosylate ergosterol, which yields
+ergosterol-glucoside (gallego et al., 2010). in s. cerevisiae aatg26 did not
+impair growth when cultured in complex or minimal media, low or elevated
+temperatures, varying osmotic stress conditions, or in the presence of
+nystatin, an antifungal drug that binds to ergosterol (warnecke et al., 1999).
+similarly, we did not observe a difference in growth rate between
+aafu2g02220 and the wt when grown in minimal media (figure 3c)..
+
+in addition to its role in sterol modification, afu2g02220 may also have
+additional functions related to autophagy (kikuma et al., 2017). orthologs of
+afu2g02220 in pichia pastoris (ppatg26) (oku et al., 2003), colletotrichum
+orbiculare (coatg26) (asakura et al., 2009) and aspergillus oryzae (aoatg26)
+(kikuma et al., 2017) are required for autophagy. in a. oryzae, aaoatg26
+shows deficiency in degradation of peroxisomes, mitochondria, and nuclei
+and localizes to vacuoles (kikura et al., 2017). aaoatg26 also shows
+reductions in conidiation and impairment of aerial hyphae formation (kikuma
+et al,, 2017). similarly, we observed a reduction in condition in aafu2g02220
+compared to the wt (supplementary figure 6).
+
+the fungal cell wall is rigid but also dynamic in order to respond to
+environmental stress. because afu2g02220 may directly interact with
+ergosterol, we hypothesized that environmental stress could alter the
+expression of afu2g02220. we analyzed a. fumigatus rna-seq data during
+arowth under iron depletion oxidative stress itc7 exnosure and arowth in
+environmental stress. because afu2g02220 may directly interact with
+ergosterol, we hypothesized that environmental stress could alter the
+expression of afu2g02220. we analyzed a. fumigatus rna-seq data during
+growth under iron depletion, oxidative stress, itcz exposure and growth in
+blood and minimal media (stajich et al., 2012). we found that afu2g02220
+expression was significantly up-regulated during oxidative stress, iron
+depletion and itcz exposure (supplementary figure 5). however, other
+studies examining gene expression (da silva ferreira et al., 2006; hokken et
+al, 2019) or protein abundance (amarsaikhan et al., 2017) during exposure
+to itcz and voriconazole (da silva ferreira et al., 2006) (another triazole with
+the same mechanism of action as itcz) did not observe differential
+abundance of the afu2g02220 transcript or protein. additional experiments
+are necessary to determine the precise role of afu2g02220 in stress
+response and itcz sensitivity.
+
+previously, palma-guerrero et al. (2013) used a similar approach to identify
+ncu04379 as a gene that contributes to fungal communication in n. crassa.
+this study used rna-seq data to identify genetic variants, fisher's exact tests
+to perform gwa in a closely related group of 112 isolates, and existing
+deletion mutants generated by the neurospora genome project (colot et al.,
+2006; dunlap et al., 2007) to validate the involvement of ncu04379 in
+cellular communication during germling fusion. a study in s. cerevisiae used
+a mixed linear model to identify correlations between genotype and
+tolerance to hydrolysate toxins, and used homologous recombination to
+knockout candidate genes in two independent genetic backgrounds (sardi et
+cellular communication during germung tusion. a stuay in. cerevisiae used
+a mixed linear model to identify correlations between genotype and
+tolerance to hydrolysate toxins, and used homologous recombination to
+knockout candidate genes in two independent genetic backgrounds (sardi et
+al, 2018). interestingly, eight of 14 gene knockouts had a significant effect
+on phenotype in one, but not both genetic backgrounds, suggesting that the
+network of genes contributing to hydrolysate toxins tolerance likely differs
+between genetic backgrounds. the results of these studies, and of our own,
+broadly suggest that gwa in combination with an efficient gene disruption
+technique is a powerful and unbiased approach for identifying the genetic
+basis of polygenic phenotypes in fungal systems.
+discussion
+to test the effect of afu2902220 on itcz sensitivity, we grew the wild type
+(wt) and aafu2g02220 strains in the presence of 0.15 jig/ml of itcz and
+measured colony diameter after 72 h of incubation at 37°c. we observed a
+qualitative reduction in conidia production in ko strains (supplementary
+figure 6). in minimal media without itcz aafu2g02220-1 and aafu2g02220-
+2 growth rates did not significantly differ from the wt (aafu2g02220-1 =
+45.016 + 0.027 mm, aafu2g02220-2 = 45.018 + 0.030 mm, wt = 44.994 +
+0.024 mm) (figure 3). this result suggests that the background growth rate
+of aafu2g02220 is not impacted by the gene deletion. however, at itcz
+concentrations of 0.15 jig/ml we observed a minor but consistent reduction
+in growth in ko strains compared to wt (aafu2g02220-1 = 18.594 + 0.105
+mm, aafu2g02220-1 = 18.615 + 0.022 mm, wt = 19.239 + 0.021 mm) (p-
+value = 2e™*6 for both kos) (figure 3d). these results suggest that
+afu2g02220 plays a minor role in itcz sensitivity.
+to test the effect of afu2902220 on itcz sensitivity, we grew the wild type
+(wt) and aafu2g02220 strains in the presence of 0.15 jig/ml of itcz and
+figure 3. deletion of afu2g02220 impairs
+growth in the presence of itraconazole
+(itcz). (a) schematic of afu2g02220 gene
+deletion via crispr/cas9. the blue box with
+arrow in the upper panel represents
+‘afu2g02220 in the parent cea10 genome
+(wild type, wt), while the gray box in the
+lower panel represents the indicator gene
+hygr that replaced afu2g02220 in
+‘aafu2g02220 strains. the two black arrows
+
+(wild type, wt), while the gray box in the
+lower panel represents the indicator gene
+hygr that replaced afu2g02220 in
+‘aafu2g02220 strains. the two black arrows
+‘on the flanking region of the locus indicate
+the forward primer (p1) and reverse primer
+(p2) used for pcr validation. the wt
+amplicon size is ~4.4 kb, while the hygr
+gene replacement amplicon is ~3.8 kb. (b)
+validation of afu2g02220 gene replacement
+via pcr. lanes "m," "wt," "1," and *-2"
+indicate ladder, pcr product from wt and
+pcr product from the two independent
+knockout strains, respectively. boxplots for
+colony diameter of wt and aafu2g02220
+strains grown at 37°c for 72 h on minimal
+media (c) and minimal media with 0.15 jig/ml
+itcz (d). measurements were collected for
+10 biological replicates for each experiment.
+dunnett's test p-values indicate a significant
+reduction in growth in the kos compared to
+the wt.
+
+ 
+
+ 
+ 
+validation of a gwa candidate gene via crispr/cas9 gene
+deletion
+
+we chose to functionally examine the role of afu2g02220 because (i) the
+snp located in this gene had highly significant p-values in both gwa
+
+deletion
+
+we chose to functionally examine the role of afu2g02220 because (i) the
+snp located in this gene had highly significant p-values in both gwa
+analyses (ii) afu2g02220 has a predicted functional role in sterol metabolism,
+and itcz targets the ergosterol biosynthesis pathway and (iii) afu2g02220
+was up-regulated during itcz exposure (supplementary figure 5). thus, we
+used an established crispr/cas9 method (al abdallah et al., 2017) to
+knockout (ko) afu2g02220 by replacing it with the indicator gene
+hygromycin b phosphotransferase (hyg) in the a. fumigatus cea10 genetic
+background (figure 3a). we generated two independent kos of afu2g02220
+which we validated by via pcr (figure 38).
+expression of afu2g02220 and afu2g02140 from existing rna-seq
+experiments
+
+to investigate whether gene expression of afu2g02220 and afu2g02140
+could be modulated by environmental stress, we analyzed a. fumigatus rna-
+seq data publicly available on fungidb (stajich et al., 2012), during oxidative
+stress, iron depletion, itcz exposure, and growth in blood and minimal
+media (irmer et al., 2015; kurucz et al., 2018). afu2g02220 was up-regulated
+during iron starvation (fpkmcontrot = 20.33, fpkmrestarvation = 32.70, and p-
+value = 5.7e~), oxidative stress induced by h2o2 (fpkmcontrot = 20.33,
+fpkmy202 = 30.61, and p-value = 2.7e~), iron starvation + h2o2 (fpkmcontrot
+= 20.33, fpkmrestarvation+#i202 = 39.93, and p-value = 6.7e"?5), and during
+exposure to itcz in strain a1160 (fpkm.ircz = 48.20, fpkmsircz = 67.37, and
+p-value = 1.7e~) (supplementary figures 5a,b). afu2g02140 was not
+significantly up-regulated during any condition, and expressed at lower
+levels across all conditions compared to afu2g02220 (supplementary figure
+5).
+expression of afu2g02220 and afu2g02140 from existing rna-seq
+
+supplementary figure 4).
+of the 20 snps significantly associated with itcz mic when mic was treated
+as a binary trait (figure 28), 12 snps were located in genes (11 in exons and
+one in an intron), two snps were located in 3’ utr regions, 1 snp was
+located in a 5’ utr regions, and 4 snps were located in intergenic regions
+(table 1). of the 11 snps located in exons, six were synonymous (in
+afu2g02220, afu2g02140, afu2g02290, afu2g02170, and afu2g01910) while
+one rari firoiy, wo sips were located hi 2 utr egiots, 1 sne was ~
+located in a 5’ utr regions, and 4 snps were located in intergenic regions
+(table 1). of the 11 snps located in exons, six were synonymous (in
+afu2g02220, afu2g02140, afu2g02290, afu2g02170, and afu2g01910) while
+the remaining five were non-synonymous (in afu2g01930, afu2g02140, and
+afu2g01910) (table 1). interestingly, in this analysis, 19 of the 20 snps with
+lowest p-values were located to a 165 kb region on chromosome 2 (position
+413,387 — 579,284) (figure 28).
+
+two significant snps overlapped between the quantitative trait and binary
+trait gwa analyses (figure 2c). the snp located in afu2g02220 encodes a
+synonymous variant and had the ninth lowest and lowest p-values in the
+quantitative trait and binary trait analyses, respectively (figures 24,8).
+afu2g02220 is annotated as a sterol 3-b-glucosyltransferase (table 1). the
+snp located in afu2g02140 encodes a non-synonymous variant (a233g) and
+had the 10th lowest and seventh lowest p-values in the quantitative trait and
+binary trait analyses, respectively (figures 2a,8). afu2g02140 contains a cue
+domain (as predicted by pfam) (el-gebali et al., 2019), which has been
+shown to bind to ubiquitin (donaldson et al., 2003; shih et al,, 2003). for
+both afu2g02220 and afu2g02140, the major allele was associated with
+higher mic values and the minor allele was absent in all isolates with itcz
+mic = 1, and nearly absent in isolates with itcz mic = 0.5 (figure 2d,
+supplementary figure 4).
+table 1. characterization of snps associated
+with itcz sensitivity.
+ 
+we considered the 20 snps with the lowest p-values (lower 0.03 percentile)
+in each analysis as significant (table 1). of the 20 snps significantly
+associated with itcz mic when mic was treated as a quantitative trait
+(figure 2a), five snps were located in genes (four in exons and one in an
+intron), 7 snps were located in 3' utr regions, two snps were located in 5°
+utr regions, and six snps were located in intergenic regions (table 1). of the
+four snps located in exons, one was synonymous (in afu2g02220) while the
+remaining three snps were non-synonymous (in afu2g02140, afu4g00350,
+and afu6g11980) (table 1). significant snps mapped to chromosomes 2 (n =
+utk regions, and six snps were located in intergenic regions {table 1). or the
+four snps located in exons, one was synonymous (in afu2g02220) while the
+remaining three snps were non-synonymous (in afu2g02140, afu4g00350,
+and afu6g11980) (table 1). significant snps mapped to chromosomes 2 (n =
+5), 3 (n= 8), 4 (n= 2), 5 (n= 2), 6 (n= 1), and 8 (n= 1) (figure 2a).
+
+ 
+figure 2. genome-wide association (gwa)
+for itraconazole (itcz) sensitivity. gwa for
+itcz sensitivity when mic data is treated as a
+quantitative trait (a) or as a binary trait (b). for
+binary characterization of itcz sensitivity,
+mic <0.5 = more-sensitive and mic > 0.5 =
+less-sensitive. the genomic location of the
+68,853 snps used for gwa is depicted on the
+x-axis, while the —log (p-values) are depicted
+‘on y-axis. the dotted gray horizontal line
+
+east toe ene oka zeb eres
+
+68,853 snps used for gwa is depicted on the
+x-axis, while the —log (p-values) are depicted
+‘on y-axis. the dotted gray horizontal line
+represents the cutoff line at the 20th lowest
+p-value. afu2g02140 and afu2g02220 were
+within the 20 snps with the strongest
+associations in both analyses and are labeled
+‘on each plot. (c) venn diagram of the 20
+snps most strongly associated with itcz mic
+that overlap genes when data is treated as a
+quantitative trait (blue circle) and a binary trait
+(red circle). (d) allele frequency of the snp at
+(chr2:561,450 that falls within afu2g02220 (y-
+axis) by itcz mics (x-axis)
+ 
+genome-wide association of itraconazole sensitivity in a.
+fumigatus
+
+we hypothesized that gwa would allow us to identify genes and/or genetic
+variants with minor contributions to itcz sensitivity. to test this hypothesis,
+we performed gwa with a set of 68,853 snps that have a minor allele
+frequency >5% and < 10% missing data, and the matched itcz mics.
+because these isolates have clear population structure (figure 1) we used a
+mixed effect model gwa, which can reduce the inflated false-positive effect
+stemming from population structure (yu et al., 2006; price et al., 2010;
+power et al., 2017) and has previously been applied in microbial gwa (alam
+et al, 2014; earle et al., 2016). we performed this mixed-model gwa with a
+covariance matrix as population correction for itcz mic when treated as a
+stemming from population structure (yu et al., 2006; price et al., 2010;
+power et al., 2017) and has previously been applied in microbial gwa (alam
+et al, 2014; earle et al., 2016). we performed this mixed-model gwa with a
+covariance matrix as population correction for itcz mic when treated as a
+quantitative trait (figure 2a) and as a binary trait (figure 28) using tassel 5
+(bradbury et al., 2007) and roadtrips (thornton and mcpeek, 2010),
+respectively. we generated quantile-quantile (q-q) plots of expected vs.
+observed p-values to inspect p-value inflation, which could be the product
+of inadequate population structure correction. the q-q plots indicate that
+the distribution of p-values for both analyses are not inflated (supplementary
+figure 3).
+itraconazole minimum inhibitory concentration
+
+the itcz mic of all isolates ranged from 0.125 to 1 g/ml (mico.12s = 3,
+
+ 
+
+mic at mi = re and mi = 94) eo
+
+ 
+
+itraconazole minimum inhibitory concentration
+
+the itcz mic of all isolates ranged from 0.125 to 1 g/ml (mico.12s = 3,
+mico25 = 17, micoso = 35, and mic; = 21). for reference, itcz resistance is
+typically defined by mic > 4 (tashiro et al., 2012). gwa was independently
+conducted when mic data was treated as a quantitative trait, and when mic.
+was treated as a binary trait ("more-sensitive” = mic < 0.5 or “less-sensitive”
+= mic > 0.5). populations 1, 2, 3, and 4 had 1, 0, 2, and 0 individuals with mic
+= 0.125, 5, 5, 4, and 3 individuals with mic = 0.25, 10, 14, 10, and 1 individuals
+with mic = 0.5, and 11, 7, 3, and 0 individuals with mic = 1, respectively
+(figure 10).
+
+ 
+figure 1. population structure and itcz
+sensitivity of the 76 japanese clinical
+aspergillus furnigatus isolates. (a) the optimal
+number of genetic clusters (k, x-axis) inferred
+by admixture using cross validation
+procedure (cv error, y-axis). (b) the optimal
+
+“aspergillus fumigatus isolates. (a) the optimal
+number of genetic clusters (k, x-axis) inferred
+by admixture using cross validation
+procedure (cv error. y-axis). (b) the optimal
+number of genetic clusters (k, x-axis) inferred
+by dapc using bayesian information
+criterion (bic. y-axis). (c) membership
+coefficients (y-axis) for each of the 76
+isolates (x-axis) from admixture and dapc
+for k= 4. the two black arrows indicate the
+two isolates that are assigned into different
+clusters by admixture and dapc.
+population 1, 2, 3, and 4 are colored as blue.
+red, yellow, and gray, respectively. binary
+itcz mic assignment and quantitative itcz
+mic values are depicted in the upper and
+lower panels below the membership
+coefficient plots, respectively. for binary itcz
+mic, individuals are coded as either more-
+sensitive (mic < 0.5, gray) or less-sensitive
+(mic 2 0.5, yellow)
+ 
+ 
+
+population structure of cl al a. fumigatus isolates from japan
+
+we conducted whole genome sequencing (wgs) for 65 isolates of a.
+fumigatus from japan and analyzed them in combination with an additional
+11 previously sequenced isolates (takahashi-nakaguchi et al., 2015)
+
+we conducted whole genome sequencing (wgs) for 65 isolates of a.
+fumigatus from japan and analyzed them in combination with an additional
+11 previously sequenced isolates (takahashi-nakaguchi et al., 2015)
+deduplicated, quality trimmed, and adapter trimmed wgs data of the 76
+isolates were used for joint snp calling with gatk (mckenna et al., 2010) and
+yielded 206,055 snps. to reduce the linkage between adjacent snps for
+population structure analysis, we subsampled snps so that they were
+separated by at least 3.5 kb, which yielded 6,324 snps. this subsampled
+dataset was used for population structure and phylogenetic analysis.
+
+population structure is a main confounding factor in gwa studies that can
+lead to false positive associations (sul et al., 2018). therefore, we
+investigated the population structure of the 76 a. fumigatus isolates using
+the model-based approach implemented in admixture (alexander et al.,
+2009), as well as a non-model approach where population structure is
+inferred using discriminant analysis of principal components (dapc)
+(jombart et al., 2010). in admixture, cross-validation (cv) error was
+estimated for each k from k = 1-10. the cv error is calculated by
+systematically withholding data points, and the lowest value represents the
+best estimate of the number of ancestral populations (alexander and lange,
+2011). using this approach k = 4 was the most likely population number
+(figure 14). dapc uses the bayesian information criterion (bic) to evaluate
+the optimal number of clusters (k). k = 4 was also the most likely scenario as
+evaluated by bic in dapc (figure 18). population assignment was highly
+consistent when the entire snp set was used, or when subsampled datasets
+(figure 14). dapc uses the bayesian information criterion (bic) to evaluate
+the optimal number of clusters (k). k = 4 was also the most likely scenario as
+evaluated by bic in dapc (figure 18). population assignment was highly
+consistent when the entire snp set was used, or when subsampled datasets
+consisting of 6,324 or 756 markers were used to limit linkage between
+markers (supplementary figure 1). at k= 4, dapc assigned the 76 isolates
+into four distinct populations with no admixture, while admixture assigned
+30 of 76 individuals to more than one population. for population
+assignment, we placed isolates into their respective population based on
+their largest membership coefficient. using this approach, only two isolates,
+ifm51978 and ifm61610 (figure 1c, indicated by black arrows), were
+assigned into different populations between the two methods. phylogenetic
+network analysis further supports the presence of four main populations and
+individual population assignment into these populations (supplementary
+figure 2).
+results
+comparison of itcz sensitivity between wt and ko strains
+
+colony diameter was used as an estimate of growth rate to compare ko and
+wt strains in the presence and absence of itcz. for each strain, 104 conidia
+were inoculated onto glucose minimal media (gmm) agar plates without
+itcz or with 0.15 g/ml itcz. we used 0.15 jig/ml itcz because the parent
+strain (cea10) is sensitive to itcz and did not grow in itcz concentrations >
+0.30 jig/ml. gmm was prepared as previously described (shimizu and keller,
+2001). colony diameter was measured with a digital caliper after 72 h at
+37°c. experiments were performed with ten replicates. to compare the
+growth rate between wt and ko strains, an anova was performed between
+wt, aafu2g02220-1, and aafu2g02220-2 followed by a post-hoc dunnett's
+test using the wt as the control group. statistical analysis was conducted
+using jmp®, pro 14 (sas institute inc., cary, nc, 1989-2019)
+comparison of itcz sensitivity between wt and ko strains
+
+colony diameter was iced ac an actimate of arnuith rate ta camnare ko and
+tomi ayyn revetse sereermg pintice (ol: mcacc chat acces
+gene deletion of afu2g02220 in a. fumigatus cea10
+
+a. fumigatus strain cea10 was used as the genetic background for the
+deletion of afu2g02220. the deletion was carried out using a clustered
+regularly interspaced short palindromic repeats (crispr)/cas9-mediated
+protocol for gene editing, as previously described (al abdallah et al., 2017).
+briefly, two protospacer adjacent motif (pam) sites, at both upstream and
+downstream of afu2g02220, were selected using the eupagdt tool (peng
+and tarleton, 2015) and custom crrnas were designed using the 20 base
+pairs of sequence immediately upstream of the pam site. the crrnas used
+are as follows: 5' crrna of afu2g02220 = ctgttattttcttcgggtct and 3
+crrna of afu2q02220 = tggaccaggaagaaactgag. both crrnas were
+and tarleton, 2015) and custom crrnas were designed using the 20 base
+pairs of sequence immediately upstream of the pam site. the crrnas used
+are as follows: 5' crrna of afu2g02220 = ctgttattttcttcgggtct and 3
+crrna of afu2g02220 = tggaccaggaagaaactgag. both crrnas were
+purchased from idt (integrated dna technologies, inc.). complete
+guidernas (grnas) were then assembled in vitro using the custom designed
+crrna coupled with a commercially acquired tracrrna. the assembled
+qrnas were then combined with commercially purchased cas9 to form
+ribonucleoproteins for transformation, as previously described (al abdallah
+et al,, 2017). repair templates carrying a hygromycin resistance (hygr)
+cassette were pcr amplified to contain 40-basepair regions of
+microhomology on either side for homologous integration at the double
+strand dna break induced by the cas9 nuclease. protoplast-mediated
+transformations were then carried out using the hygromycin repair templates
+and cas-ribonucleoproteins for gene targeting. homologous integrations
+were confirmed by pcr. the primers used are as follows
+
+afu2g02020 ko forward screening primer (p1):
+ggatgcgttgttcctgtgcg
+
+afu2g02220 ko reverse screening primer (p2):
+aacgagggctggagtgcc
+
+common hyg reverse screening primer (p3): acacccaatacgccggcc
+rna-seq based expression data for afu2g02220 and afu2g02140
+
+to investigate the expression patterns of our candidate genes afu2g02220
+and afu2g02140, we obtained fpkm values as well as fold-change and p-
+values for pairwise comparisons from fungidb
+(https://fungidb.org/fungidb/) (stajich et al., 2012) for oxidative stress, iron
+depletion, growth in blood and minimal media, and itcz exposure (irmer et
+al,, 2015; kurucz et al., 2018).
+ 
+
+genome-wide association analysis for itraconazole sensitivity
+
+genome wide association (gwa) analysis was conducted to identify genetic
+variants that were significantly correlated with itcz mic. for gwa analysis,
+we filtered our complete set of snps with vcftools to include snps with a
+minor allele frequency 25%, snp sites with < 10% missing data, and snps that
+were biallelic. this filtering procedure resulted in 68,853 snps that were used
+for gwa.
+
+two models were used to perform gwa between each of the 68,853 snps
+and itcz mic. when itcz mic data was treated as a quantitative trait
+(supplementary table 1), we used a linear mixed model with a genetic
+distance matrix for population structure correction in tassel (bradbury et al.,
+2007). gwa was also performed when itcz mic was treated as a binary trait
+(mic < 0.5 = more sensitive, and mic > 0.5 = less sensitive). in this gwa
+analysis, we used a mixed effect logistic model with an empirical covariance
+matrix as a population structure correction in roadtrips (thornton and
+mcpeek, 2010). quantile-quantile(q-q) plots were generated using the r
+package “qgman’ (turner, 2014) in order to evaluate potential p-value
+inflation. the potential functional effects of candidate snps were predicted
+using snpeff v4.3t (cingolani et al., 2012) with the a. fumigatus af293
+reference genome annotation.
+
+package "qgman’ (turner, 2014) in order to evaluate potential p-value
+inflation. the potential functional effects of candidate snps were predicted
+using snpeff v4.3t (cingolani et al., 2012) with the a. fumigatus af293
+reference genome annotation.
+0,924 sins. ine priytogeneue newonkc was dunc usifig spulsitee vib
+(huson and bryant, 2006) with the neighbor joining method and 1,000
+replicates for bootstrap analysis.
+population structure of a. fumigatus isolates
+
+to investigate the population structure of the a. fumigatus isolates we used a
+subset of population genetic informative snps. we used vcftools v0.1.14
+(danecek et al., 2011) (http://vcftools.sourceforge.net/) with options “-maf
+0.05 ~max-missing 1 —thin 3500," to filter the full set of snps and require a
+minor allele frequency 2 5%, no missing data across all samples, and at least
+3.5 kb distance between snps. 6,324 snps remained after filtering, and
+subsequent population structure analysis was conducted with this marker
+set. in addition, to test the consistency of population assignments with
+different number of snps, population structure analysis was conducted with
+
+ 
+
+subsequent population structure analysis was conducted with this marker
+set. in addition, to test the consistency of population assignments with
+different number of snps, population structure analysis was conducted with
+a dense snp set where thinning was not applied (59,433 snp sites) and an
+additional thinned snp set where markers were spaced apart by at least 35
+kb (756 snps)
+
+to conduct population structure analysis, we first used the model-based
+program admixture v1.3 (alexander et al., 2009) for k = 1-10, where k
+indicates the number of populations. the 5-fold cross-validation (cv)
+procedure was calculated to find the most likely k with option “-cv = 5." for
+each k the cv error was calculated and the k with lowest cv error indicated
+the most likely population number. additionally, we used the non-model
+based population structure software dapc (jombart et al, 2010) in the
+“adegenet” package v2.1.2 (jombart, 2008) in r v3.5.3 (team, 2013) to the
+predict the number and assignment of individuals into populations. dapc
+applies a bayesian clustering method to identify populations without
+evolutionary models. the most likely number of populations was inferred by
+calculating the bayesian information criterion (bic) for each k.
+
+lastly, we also constructed a phylogenetic network with the alignment of
+6,324 snps. the phylogenetic network was built using splitstree v4.14.4
+(huson and bryant, 2006) with the neighbor joining method and 1,000
+replicates for bootstrap analysis.
+snp genotyping
+
+because a. fumigatus is haploid, we followed the best practice pipeline for
+*germline short variant discovery’ (van der auwera et al., 2013) in genome
+analysis toolkit (gatk) v4.0.6.0 (mckenna et al., 2010). the function
+because a. fumigatus is haploid, we followed the best practice pipeline for
+*germline short variant discovery’ (van der auwera et al., 2013) in genome
+analysis toolkit (gatk) v4.0.6.0 (mckenna et al., 2010). the function
+“haplotypecaller” was used to call short variants (snps and indels) with the
+sorted bam file for each sample. the resulting g.vcf files of all 76 samples
+were then combined to generate a joint-called variant file using the function
+"genotypegvcfs.” next only snps were extracted from the joint-called
+variant file using the function “selectvariants.” to limit false positive variant
+calling, the function “variantfiltration” was used to carry out “hard filtering”
+with the following parameters: “qd < 25.0 || fs > 5.0 || m@< 55.0 ||
+mqranksum < -0.5 || readposranksum < -2.0 || sor > 2.5". 206,055
+polymorphic loci were predicted after hard filtering.
+quality control and sequence read mapping
+
+raw reads were first deduplicated using tally (davis et al., 2013) with the
+parameters "—with-quality” and "-pair-by-offset” to remove potential pcr
+duplication during library construction. next, we used trim_galore v0.4.2
+(http://www. bioinformatics. babraham.ac.uk/projects/trim_galore/) to trim
+residual adapter sequences from reads, and trim reads where quality score
+was below 30, with the parameters "-stringency 5" and *-q 30,” respectively.
+trimmed reads shorter than 50 bp were then discarded using the option "—
+length 50.” next, the deduplicated and trimmed read set was mapped to the
+a fumigatus af293 reference genome (nierman et al., 2005) using bwa-mem
+v0.7.5 aligner (li and durbin, 2009). the resulting sam files were converted
+into sorted bam files using the “view’ and “sort” functions in samtools 1.4.1 (li
+et al, 2009).
+dna extraction and illumina whole-genome sequencing
+
+genomic dna (gdna) isolation was performed as previously described
+(zhao et al., 2019). dna was directly isolated from conidia stocks using the
+masterpure™ yeast dna purification kit (lucigen/epicenter) following the
+manufacturer's instructions, with several minor modifications. conidia stocks
+were centrifuged at 14,000 rpm for 5 min to obtain a pellet. next, 300 ml of
+yeast cell lysis solution was added to the pellet along with 0.4 ml of sterile
+1.0 mm diameter silica beads. lysis was carried out on a biospec mini-
+beadbeater-8 at medium intensity for 8 min. one il of rnase was added to
+the cell lysis solution and incubated at 65°c for 30 min. dna isolation and
+purification were conducted according to the manufacturer's instructions for
+the remainder of the protocol. pcr-free 150-bp paired-end libraries were
+constructed and sequenced by novogene (https://en.novogene.com/) on
+te celt ysis solution ana incubated at 6>"t tor 3u min: dna iso\aton ana
+purification were conducted according to the manufacturer's instructions for
+the remainder of the protocol. pcr-free 150-bp paired-end libraries were
+constructed and sequenced by novogene (https://en.novogene.com/) on
+an illumina novaseq 6000.
+minimum inhibitory concentration testing
+
+minimal inhibitory concentration (mic) of itcz for each isolate was
+determined following the clinical and laboratory standards institute (cls!)
+m38-a2 broth microdilution method (john, 2008). before mic calculations,
+each strain was cultured using a potato dextrose agar plate (becton
+dickinson. sparks. md. us) for 5 davs at 30°c dearees to produce the funaal
+determined following the clinical and laboratory standards institute (cls!)
+m38-a2 broth microdilution method (john, 2008). before mic calculations,
+each strain was cultured using a potato dextrose agar plate (becton
+dickinson, sparks, md, us) for 5 days at 30°c degrees to produce the fungal
+conidia. harvested conidia were suspended in standard rpmi 1640 broth (ph
+= 7) (sigma aldrich, st. louis, us-mo). for each isolate, 2.5 x 104 conidia per
+(ml were incubated in rpmi 1640 broth (ph=7) with a range of itcz
+concentrations (8, 4, 2, 1, 0.5, 0.25, 0.125, 0.0625, 0.03125, 0.015625 jig/ml)
+at 35°c for 48 h. mic values represent the lowest itcz concentrations that
+completely inhibited growth
+japanese a. fumigatus clinical isolates
+
+sixty-five japanese a. fumigatus clinical strains were provided through the
+national bio-resource project (nbrp), japan (http://nbrp.ip/)
+(supplementary table 1). these samples originated from different patients,
+several different sources and infections, and 15 cities. whole genome paired-
+end illumina sequence data for an additional 11 a. fumigatus isolates that
+were previously sequenced and have itcz mic data (takahashi-nakaguchi
+et al,, 2015) (supplementary table 1) were downloaded from ncbi sequence
+read archive (sra) (leinonen et al., 2011) using the sra toolkit
+
+(https: //trace.ncbi.nlm.nih.gov/traces/sra/sra.cgi?
+cmd=show6f=softwareém=softwarefs=software).
+materials and methods
+fumigatus.
+fungal infections result in more global deaths per year than deaths from
+tuberculosis or malaria (brown et al., 2012). aspergillus fumigatus is one of
+the most deadly fungal pathogens and results in more than 100,000 deaths
+per year (brown et al., 2012). invasive aspergillosis (ia) is the most severe
+infection caused by a. fumigatus and occurs when fungal growth, most
+commonly originating in the lung, disseminates to other parts of the body via
+the bloodstream (latge, 1999). a. fumigatus is an opportunistic pathogen
+primarily affecting immunocompromised individuals, and unfortunately,
+infections have become more common due to the increased usage of
+immunosuppressive drugs to treat autoimmune disorders and to increase
+the success of organ transplantation surgery (robinett et al., 2013; neofytos
+et al,, 2018; latge and chamilos, 2019). even when aggressively treated with
+first and second-line antifungal medication, mortality rates can exceed 50%
+in ia patients (latge, 1999; lin et al., 2001). the relatively rapid emergence of
+a. fumigatus antifungal resistance has made treatment of infections
+particularly challenging.
+
+stan secong-une anurungat mearcauony, mortauly raves cart exceed 2u%
+in ia patients (latge, 1999; lin et al., 2001). the relatively rapid emergence of
+a. fumigatus antifungal resistance has made treatment of infections
+particularly challenging.
+
+ 
+
+antifungal drugs target components that distinguish fungal cells from
+mammalian cells, including the fungal cell wall as well as unique
+components of the fungal cell membrane. for example, the echinocandins
+target b 1,3 glucan, the most abundant polysaccharide in the fungal cell wall,
+while amphotericin b (a polyene class of antifungal drug) and triazoles (an
+azole class of antifungal drugs) target ergosterol (latge et al., 2017)
+ergosterol plays an essential functional role in regulating cell membrane
+permeability and fluidity. triazoles, such as itraconazole (itcz) and
+voriconazole, are the most common first-line treatment for a. fumigatus
+infections, and target the lanosterol demethylase enzymes (cyps1a and
+cyp51b in a. fumigatus) which are directly involved in the biosynthesis of
+ergosterol (alcazar-fuoli and mellado, 2013; revie et al., 2018). blocking
+cyps1a and cyp518 results in the accumulation of a toxic sterol intermediate
+that causes severe membrane stress, impairment of growth, and cell death
+(revie et al, 2018).
+
+strains of a. fumigatus have gained resistance to triazoles through mutations
+in both the coding and regulatory regions of cyp51a, and through cyp51a
+independent mechanisms (garcia-rubio et al., 2017). the three amino acid
+positions that are commonly found with non-synonymous mutations in
+cyp51a in azole resistance strains are 54, 220, and 448 (garcia-rubio et al.,
+in both the coding and regulatory regions of cyp51a, and through cyp51a
+independent mechanisms (garcia-rubio et al., 2017). the three amino acid
+positions that are commonly found with non-synonymous mutations in
+cyp51a in azole resistance strains are 54, 220, and 448 (garcia-rubio et al.,
+2017). protein structure modeling suggests that these mutations disrupt the
+binding efficiency of azoles to cyps1a (fraczek et al., 2011; warrilow et al.,
+2015). increased expression of cyp51a through a combination of a promoter
+region repeat and the l98h point mutation can also confer azole resistance
+(mellado et al., 2007). additionally, several transcription factors (e.g., srba
+(hagiwara et al., 2016), hape (camps et al., 2012), atrr (paul et al., 2019),
+transporters [e.g., cdr1b (fraczek et al., 2013), atrf (meneau et al., 2016),
+various abc transporters (moye-rowley, 2015) etc.], and other functional
+groups of genes (e.g., genes involved in calcium signaling, iron balance,
+signaling pathways, and the hsp90-calcineurin pathway) have been
+implicated in azole resistance or susceptibility (chen et al., 2020).
+
+the numerous genes identified in azole resistance other than cyp51a
+(garcia-rubio et al., 2017) suggests that additional genes with additive minor
+effects likely play a role in fine-scale differences in azole sensitivity and
+resistance. historically, most genes involved in azole resistance in a.
+fumigatus were discovered through a candidate gene approach (garcia~
+rubio et al., 2017), or through gene expression differences during exposure
+to azoles (da silva ferreira et al., 2006; hokken et al., 2019). however,
+candidate gene methods are biased toward genes and pathways of
+biological interest. alternatively, genome-wide association (gwa) studies
+
+offer 2
+
+ 
+
+iante that
+to azoles (da silva ferreira et al., 2006; hokken et al., 2019). however,
+candidate gene methods are biased toward genes and pathways of
+biological interest. alternatively, genome-wide association (gwa) studies
+offer a powerful and versatile approach to identify genetic variants that
+contribute to complex traits, such as a. fumigatus itcz sensitivity. in gwa,
+thousands to millions of high-density genetic variants are tested for a
+statistical association between each variant and a phenotype of interest
+(gibson, 2018). microbial gwas methods have recently been developed
+(read and massey, 2014; chen and shapiro, 2015; power et al., 2017), and
+has been used in other fungal species. for instance, gwa has been used to
+identify genes and variants associated with virulence in heterobasidion
+annosum (dalman et al., 2013), saccharomyces cerevisiae (muller et al.,
+2011), and parastagonospora nodorum (gao et al., 2016), fungal
+communication in neurospora crassa (palma-guerrero et al., 2013),
+aggressiveness in fusarium graminearum (talas et al., 2016), and
+zymoseptoria tritici (hartmann et al., 2017). here, we hypothesized that gwa
+could be applied in a. fumigatus to identify genes with minor effects on itcz
+sensitivity. we performed gwa in 76 non-resistant clinical isolates of a.
+fumigatus and identified a gene that contributes to fine-scale itcz
+sensitivity. more broadly, we demonstrate that gwa in combination with
+gene disruption is a useful tool for investigating medically relevant traits in a.
+fumigatus.
+introduction
+aspergillus fumigatus is a potentially lethal opportunistic pathogen
+that infects over ~200,000 people and causes ~100,000 deaths per
+year globally. treating a. fumigatus infections is particularly
+challenging because of the recent emergence of azole-resistance.
+the majority of studies focusing on the molecular mechanisms
+underlying azole resistance have examined azole-resistant isolates.
+however, isolates that are susceptible to azoles also display variation
+in their sensitivity, presenting a unique opportunity to identify genes
+contributing to azole sensitivity. here, we used genome-wide
+association (gwa) analysis to identify loci involved in azole
+sensitivity by analyzing the association between 68,853 snps and
+contributing to azole sensitivity. here, we used genome-wide
+association (gwa) analysis to identify loci involved in azole
+sensitivity by analyzing the association between 68,853 snps and
+itraconazole (itcz) minimum inhibitory concentration (mic) in 76
+clinical isolates of a. fumigatus from japan. population structure
+analysis suggests the presence of four distinct populations, with
+itcz mics distributed relatively evenly across populations. we
+independently conducted gwa when treating itcz mic as a
+quantitative trait and a binary trait, and identified two snps with
+strong associations in both analyses. these snps fell within the
+coding regions of afu2g02220 and afu2g02140. we functionally
+validated afu2g02220 by knocking it out using a crispr/cas9
+approach, because orthologs of this gene are involved in sterol
+modification and itcz targets the ergosterol biosynthesis pathway.
+knockout strains displayed no difference in growth compared to the
+parent strain in minimal media, yet a minor but consistent inhibition
+of growth in the presence of 0.15 ig/ml itcz. our results suggest
+that gwa paired with efficient gene deletion is a powerful and
+unbiased strategy for identifying the genetic basis of complex traits
+in a. fumigatus.
+
+that gwa paired with efficient gene deletion is a powerful and
+unbiased strategy for identifying the genetic basis of complex traits
+in a. fumigatus.
+* molecular and cellular biology graduate program, university of massachusetts, amherst, ma, united
+states
+
+2 department of food science, university of massachusetts, amherst, ma, united states
+
+3 department of clinical pharmacy and translational science, university of tennessee health science
+center, memphis, tn, united states
+
+4 division of clinical research, medical mycology research center, chiba university, chiba, japan
+
+5 organismic and evolutionary biology graduate program, university of massachusetts, amherst, ma,
+united states
+shu zhao!? wenbo ge? akira watanabe*
+
+€ jarrod r. fortwendel® & john g. gibbons!2>°
+
+la ae renee near tcr st tre
+
+ 
+
+in fungal biology sections v articles research topics editorial boarc
+genome-wide association for
+itraconazole sensitivity in non-
+resistant clinical isolates of
+aspergillus fumigatus
+original research article
+
+front. fungal biol., 14 january 2021.
+sec. fungal genomics and evolution
+volume 2 - 2020 | https://doi.org/10.3389/tfunb.2020.617338
+in fungal biology sections v articles research topics editorial boarc
+

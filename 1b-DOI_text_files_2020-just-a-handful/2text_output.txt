@@ -1,0 +1,265 @@
+sag
+sage data
+
+uncovering insight
+cq library
+
+elevating debate
+also from sage
+yen w. m. (1981). using simulation results to choose a latent trait model.
+applied psychological measurement, 5, 245-262.
+
+  
+
+rial carries the same license as the article it is associated
+
+for non-open access articles published, all supplemental material carries a
+non-exclusive license, and permission requests for re-use of supplemental
+material or any part of supplemental material shall be sent directly to the
+copyright owner as specified in the copyright notice associated with the
+article.
+
+© bung outputr | 30.61 kb
+
+@ chisq statr | 1.95kb
+@ estitemr | 25.92 kb
+
+@ est scorer | 28.70kb
+© estimationr | 11.44kb
+@ expiregr | 2.116
+
+© genweightr | 3.69kb
+
+@ sradientr | 11.11 kb
+
+  
+
+‘sremecmaiaes
+@ itemfitr | 9.33kb
+
+© logike itemr | 15.92kb
+© loglike scorer | 1253 kb
+@ weer | 11.66 kb
+
+@ metalistr | 2.94kb
+
+(2) plot info.r_| 4.78 kb
+
+@ setcar | 839kb
+© shape dir | 10.08 kb
+@ simeat der | .81kb
+@® simcat mer | .81kb
+@ simdatr | 11.48 kb
+
+© az iitr | 21.69kb
+google scholar
+google scholar
+orlando m., thissen d. (2000). likelihood-based item-fit indices for
+dichotomous item response theory models. applied psychological
+measurement, 24(1), 50-64.
+
+go to reference
+
+  
+ 
+ 
+
+crossref i
+
+a
+
+google scho
+
+ 
+
+ 
+
+categories. in thissen d., wainer h. (eds.), test scoring (pp. 73-140).
+lawrence erlbaum.
+
+crossref google scholar
+
+ 
+
+ 
+lord f. m., wingersky m. s. (1984). comparison of irt true-score and
+equipercentile observed-score “equatings.” applied psychological
+measurement, 8(4), 453-461.
+
+ 
+kalan m1 tana v 12010) deuchamatric nranartiac af idt nrafici
+of educational measurement, 41(2), 85-117.
+
+go to reference
+
+ 
+
+  
+ 
+ 
+
+crossref google scholar
+
+ 
+kim s. (2006). a comparative study of irt fixed parameter calibration
+methods. journal of educational measurement, 43(4), 355-381.
+
+go to reference
+
+  
+ 
+ 
+
+crossref google scholar
+
+ 
+
+ 
+ist
+han k. t. (2016). maximum likelihood score estimation method with fences
+for short-length tests and computerized adaptive tests. applied psychological
+measurement, 40(4), 289-301.
+
+go to reference crossi
+uu bie si
+
+pubmed ist
+
+ 
+
+ 
+bock r. d., mislevy r. j. (1982). adaptive eap estimation of ability ina
+microcomputer environment. psychometrika, 35, 179-198.
+
+hambleton r. k., swaminathan h., rogers h. j. (1991). fundamentals of item
+response theory. sage.
+
+ 
+
+ 
+references
+bock r. d. (1960). methods and applications of optimal scaling. l. l. thurstone
+psychometric laboratory.
+
+go to reference google scholar
+
+ 
+orcid id
+hwanggyu lim &
+availability and distribution
+
+the r package irtplay and its reference manual are available for free from
+
+ 
+
+the website http://www.r-project.org and works on windows, linux, and
+
+a a
+
+the author(s) received no financial support for the research, authorship,
+and/or publication of this article.
+useful functions related to irt
+
+scores using tle lord alia wingersky (1984) recursion formuta, compute
+item and test information functions, compute item and test characteristic
+curves, and plot item and test characteristic curves and item and test
+information functions.
+estimation of proficiency parameters
+
+for estimation of proficiency parameters, six popular scoring methods can
+be implemented using the irtplay package. available methods include mle,
+mle with fences (mlef; han, 2016), maximum a a (map) estimation
+
+leton et al_ 1991) ey
+terns u1 assessing, wie tk
+
+ 
+
+        
+
+edd a noster ) estimation (rack &
+seat te lite trp pacrabe supports
+
+computation of popular item-fit statistics. available fit statistics include x? fit
+statistic (bock, 1960; yen, 1981), likelihood ratio x? fit statistic (g2; mckinley
+& mills, 1985), infit and outfit statistics (ames & penfield, 2015), and s-x?
+(orlando & thissen, 2000). in addition, irtplay provides users with graphical
+displays to examine residuals between the observed data and model-based
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prediction for items (hambleton et al., 1991).
+
+ 
+online item calibration using stocking’s method a
+
+   
+ 
+
+ism“
+
+ 
+
+(or mecngg
+
+  
+
+jar orit :
+software available to support it. the updated version of irtplay will include
+fixed item parameter calibration (fipc; kim, 2006).
+
+   
+
+ 
+abstract
+
+the r package irtplay provides practical tools for unidimensional item
+response theory (irt) models that conveniently enable users to conduct
+many analyses related to irt. for example, the irtplay includes functions for
+calibrating online items, scoring test-takers’ proficiencies, evaluating irt
+model-data fit, and importing item and/or proficiency parameter estimates
+from the output of popular irt software. in addition, the irtplay package
+
+cunnarts miver-itam farmats cancicting af dichatamans and nalvtamans
+many analyses related to irt such as calibrating online items, scoring test-
+
+takers’ proficiencies, and evaluating irt model-data fit. the irtplay software
+package is quite user-friendly and its functions are easy to implement. in
+addition, the irtplay package supports mixed-item formats consisting of
+dichotomous and polytomous items. for the polytomous items, the graded
+response model and the (generalized) partial credit models are available.
+browse by discipline y information for
+
+applied psychological measurement
+
+ 
+
+impact facte
+s-year impact fact
+ 
+browse by discipline y information for
+
+applied psychological measurement
+
+ 
+
+impact facte
+s-year impact fact
+ 
+

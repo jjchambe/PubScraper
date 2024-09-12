@@ -1,0 +1,893 @@
+   
+ 
+   
+
+bo citta
+
+citing literature
+ledimage
+
+sanjana gopalakrishnan received her b.s. in chemistry from the indian institute
+of technology, kanpur in 2016, where she studied the application of afm in the
+characterization of biomaterials under professor t. g. gopakumar. she is
+currently a ph.d. candidate at the chemistry department in university of
+massachusetts, amherst under the supervision of professor vincent m. rotello.
+her current research is focused on developing functional biomaterials for
+applications such as anti-fouling surfaces and antimicrobial systems.
+
+ledimage
+
+jinlong xu received his b.s. in food science from henan agricultural university,
+china in 2013. he then received his m. s. degree in food science from hefei
+university of technology, china in 2016, where he studied the natural
+macromolecular polysaccharides under the supervision of professor junhui
+wang. he is currently a ph.d. candidate at the school of food science and
+
+ 
+
+sections spor a tools < shar
+
+university of technology, china in 2016, where he studied the natural
+macromolecular polysaccharides under the supervision of professor junhui
+wang. he is currently a ph.d. candidate at the school of food science and
+technology, jiangnan university, china under the supervision of professor fang
+zhong. his current research is focused on the natural food packaging materials.
+
+ledimage
+
+vincent m. rotello is the charles a. goessmann professor of chemistry and a
+university distinguished professor at the university of massachusetts at amherst
+he received his b.s. in 1985 from illinois institute of technology, his ph. d. in 199(
+from yale university, and was an nsf postdoctoral fellow at m.l.t. from 1990—
+1993, joining the faculty at the university of massachusetts in 1993.
+biographies
+conflict of interest
+
+the authors declare no conflict of interest.
+st por a tools < shar
+ 
+
+sections spor a tools < shar
+
+polyphosphate improves propensity for osteoblast proliferation and bone
+formation. these composite films provided titanium implant coatings to enhance
+bone-regenerative properties while preventing infections. {221
+
+modification strategies offer efficient and robust methods to obtain protein films
+with a variety of functionalities. surface modifications enable the fabrication of
+multifunctional films, while utilizing additives help overcome inherent limitations
+of native protein films such as rigidity, mechanical instability etc. a major
+imitation of both approaches is the cytotoxicity arising from the reagents utilized
+for modifications or the resultant by-products. furthermore, often organic
+solvents must be utilized for some modification strategies, which may result in
+protein denaturation and loss of function.
+
+ 
+
+3 applications of protein coatings
+
+protein films are already widely used in biomedical and food packaging
+applications. broadly, the applications of protein films may be categorized into
+the following — tissue engineering and wound-repair scaffolds, antimicrobial
+coatings, sensing and diagnostic devices, and food-packaging applications.
+
+ 
+
+tissue-engineering scaffolds must provide a cytophilic surface to enhance cell
+adhesion, provide support to the cells by mimicking stiffness of natural tissue anc
+degrade at a rate proportional to cell growth.®3] for this reason, materials choser
+for fabricating tissue engineering and wound-repair scaffolds must be
+
+ 
+
+sections spor a tools < shar
+
+esoc erg incetinie beuttone tobe pre wigs ey copr
+adhesion, provide support to the cells by mimicking stiffness of natural tissue anc
+degrade at a rate proportional to cell growth.®3] for this reason, materials choser
+for fabricating tissue engineering and wound-repair scaffolds must be
+biocompatible, have modulable mechanical properties and show enzymatic
+stability. silk fibroin films are often employed as scaffolds for tissue engineering,
+84] wound repair coatings,*5! and bioelectronic devices such as electrodes.{© 84
+collagen is another protein that is extensively applied to tissue engineering and
+wound-healing scaffolds, as it is the dominant protein in the extracellular matrix.
+{871 various crosslinking, thermal treatment and additive-based strategies have
+been utilized to enhance the mechanical and enzymatic stability of collagen films.
+
+ 
+
+another avenue for the application of protein films is as antimicrobial coatings.
+antimicrobial coatings prevent the bacterial contamination of medical devices
+and consequent infections. antimicrobial protein coatings are designed by three
+main strategies — anti-fouling coatings that prevent bacteria adhesion on the
+surface; contact-killing wherein antimicrobial agent incorporated within protein
+film kills bacteria adhered to the surface; controlled-release systems wherein the
+protein film acts as a scaffold to load and release antimicrobial agents. properties
+of the native proteins have been translated into the protein film to design anti-
+fouling!22.©4l and antimicrobial (contact-killing) coatings.”5] grafting of
+antimicrobial or anti-fouling polymers onto the surface is another approach to.
+design contact killing systems.81 controlled-release coatings have also be
+
+iranarad thratich tha incannratinn af antimicrahial acante ctich ac chlarina [89]
+
+ 
+
+ 
+
+sections spor a tools < shar
+
+routing“ ana antimicrobial (contact-killing) coatings.“ raring ot
+antimicrobial or anti-fouling polymers onto the surface is another approach to.
+design contact killing systems.81 controlled-release coatings have also be
+prepared through the incorporation of antimicrobial agents such as chlorine, ®21
+antibiotics". 99] and phytochemicals! "i within the protein film.
+
+protein films are potential candidates for sensing and diagnostic tools owing to
+their varied functionalities. smart, responsive films that respond to external
+stimuli have been fabricated using gelatin.©4 silk fibroin films have been used for
+immunosensing applications through the incorporation of antibodies within the
+protein film.23! additionally, silk fibroin films have also been used to fabrication
+of flexible and wearable electronic skins for monitoring human physiological
+responses." 95] recently, wearable electronic devices have been developed
+using protein nanowire films for humidity sensing.25 composite materials of
+amyloid aggregates and graphene have exhibited shape memory and enzyme
+sensing properties.271
+
+additionally, protein coatings have been widely used in food packaging
+applications. gelatin coatings are commonly used to enhance the shelf-life of
+vegetables;!°8! gelatin,*! whey,{! and soy!'°1] protein isolate films are used in
+meat packaging, while zein!"°2i and wheat!"®3! protein films have been used in the
+packaging of dairy products.
+
+ 
+
+a cancluciane and darenactivac
+
+ 
+
+sections spor a tools < shar
+
+ 
+
+higa pacnayiny, whine zew @nu wheat + pruleh nis have deer useu ht ue
+
+packaging of dairy products.
+
+4 conclusions and perspectives
+
+this review discusses strategies for the fabrication of stable protein films, and the
+application of these biomaterials. proteins are naturally occurring functional
+building blocks that are water-processible, making them ideal for designing
+sustainable and biodegradable materials. furthermore, the choice of protein can
+be used to dictate properties such as biocompatibility, cytophilicity, anti-fouling
+and antimicrobial behavior, all of which are especially attractive for biomedical
+applications. protein film stabilization strategies predominantly use one of the
+three different strategies discussed in this review — 1) using self-assembling
+structural proteins, 2) using chemical or physical crosslinking strategies, and 3)
+using thermal treatment strategies. additionally, strategies employing post-
+functional modifications and additives to enhance properties of protein films are
+frequently utilized in combination with the above approaches.
+
+   
+
+ 
+
+protein films have long been used in applications such as edible coatings for food
+packaging" surface patterning strategies,!'°" biodegradable coatings!" and
+plastic alternatives,!"°7] and tissue engineering scaffolds.{'°8! more recently,
+fabrication strategies have been developed that greatly expand the range of
+properties accessible with these materials. protein properties have been
+translated into films to fabricate anti-fouline and bactericidal coatings 22, 6 82, 87]
+
+ 
+
+sections spor a tools < shar
+
+plasue awvernauves;; anu ussue engineerny staruius.” ure recenuy,
+fabrication strategies have been developed that greatly expand the range of
+properties accessible with these materials. protein properties have been
+translated into films to fabricate anti-fouling and bactericidal coatings,22 © 8.871
+and cargo-loaded protein films have been fabricated and applied as
+biodegradable antimicrobial coatings. 51.8991)
+
+looking forward, the development of scalable and cost-effective fabrication
+strategies will allow for the translation of more sophisticated protein-based
+materials into commercial applications. development of 2d and 3d patterning
+strategies will enable complex designs that will facilitate the creation of tissue
+engineering scaffolds that mimic native tissue properties. furthermore, the ability
+to harness native protein properties such as stimuli-responsiveness (enzymes)
+and binding specificity (receptors) will provide new responsive materials. these
+active materials will open up numerous applications including bio-sensing, point-
+of-care diagnostics and controlled/triggered release systems.
+
+ 
+
+ 
+
+acknowledgements
+
+the support of the nih (al134770) was gratefully acknowledged.
+
+conflict of interest
+
+the authors declare no conflict of interest.
+
+ 
+
+sections spor a tools < shar
+incorporation of additives is another common approach to impart specific useful
+properties to protein films. carbon nanotubes (cnts) have been incorporated
+into different types of protein films to impart mechanical and electric properties
+to protein films. cnt/silk-elastin-like protein composites showed enhanced
+mechanical and piezoelectric properties, where mechanical deformation of film
+correlated with electrical conductivity;(”8l collagen-cnt composites enhanced
+stability and electrical conductivity, imparted electromagnetic shielding
+membrane;!”®. 8°] hemoglobin-collagen-cnt composites have also been
+employed to fabricate a hydrogen peroxide biosensor." multifunctional films
+have been made using lysozyme and polyphosphate-based composites.
+lysozyme, an antimicrobial enzyme, imparts antimicrobial activity to the film as
+well as an overall positive charge that enhances cell adhesion, while
+polyphosphate improves propensity for osteoblast proliferation and bone
+formation. these composite films provided titanium implant coatings to enhance
+bone-regenerative properties while preventing infections. {221
+
+ 
+ 
+
+figure 8 open in figure viewer | powerpoint
+
+a) schematic depiction of the surface modification strategies to prepare a. superhydrophobic
+films, 8. hydrophobic films and c. superhydrophilic films. contact angle measurements of b)
+superhydrophilic film and c) superhydrophobic film, thermal stability observed through sem
+images and contact angle measurements (inset) at d) high temperature of 200 °c and e) low
+
+‘temperature of -196 °c. no significant change due to temperature was observed. f)
+sections st por a tools < shar
+
+superhydrophilic film and c) superhydrophobic film, thermal stability observed through sem
+images and contact angle measurements (inset) at d) high temperature of 200 °c and e) low
+‘temperature of -196 °c. no significant change due to temperature was observed. f)
+mechanical stability evaluated through scotch-tape test. no significant changes were observed.
+‘adapted with permission." copyright 2015, wiley-vch verlag gmbh & co. kgaa, weinheim,
+ 
+
+le2details are in the caption following the image
+thermal treatment offers additive-free approaches for fabricating water-stable
+protein films. however, the high temperatures utilized in most thermal treatment
+strategies can cause uncontrolled protein denaturation and consequently loss of
+protein functionality/properties. these losses may be ized by utilizing the
+nil strategy summarized above however, the application of nil is limited to flat,
+two-dimensional substrates. fiuorous-curing offers an alternative approach to
+the nil-treated protein films by demonstrating similar robustness to the nil
+approach. additionally, pfhp-based fluorous curing has also shown to enhance
+mechanical and enzymatic stability in addition to aqueous stability. however, this
+pfhp-based thermal treatment approach is recent and its generalizability to
+different types of proteins remains untested.
+
+ 
+
+2.4 modification through surface functionalization or
+incorporation of additives
+
+modification strategies, either through surface functionalization or incorporation
+of additives into protein films, offer new areas of film application by endowing
+them with unique properties. surface modifications are often conducted to
+increase either the hydrophilicity or hydrophobicity of protein films, impart
+specific chemical functionality to the film surface, or enhance biological
+properties such as cell adhesion. for instance, mussel-inspired dopamine
+
+ 
+
+sections spor a tools < shar
+
+increase either the hydrophilicity or hydrophobicity of protein films, impart
+specific chemical functionality to the film surface, or enhance biological
+properties such as cell adhesion. for instance, mussel-inspired dopamine
+chemistry has been utilized for the surface modification of silk fibroin used to
+fortify soy-protein adhesives.!4i silk fibroin films have also been treated with
+ethanol to induce conformational and morphological modifications in the sf
+fibers, thereby increasing crystallinity, mechanical strength and water stability.”
+superhydrophobic and self-cleaning films have also been developed by creating
+hierarchical micro-/nano-structures on soy protein film surfaces with hydrophobi
+nanoparticles.!72 73] adjusting the precursor concentration and crystal growth
+time constructed hierarchical micro-/nano-crystals on the soy protein film surface
+forming a biomimetic film with potential application as water harvesting
+materials. gao et al. developed a strategy for grafting different functional groups
+on lysozyme protein films to impart different properties to the films.” figure 82
+illustrates superhydrophobic and superhydrophilic modifications on phase-
+transitioned lysozyme (ptl) films. superhydrophobic coatings were generated
+through covalent attachment of perfluorooctanyl chloride on the surface, while
+superhydrophilic films were generated through the grafting of hydrophilic
+polymer poegma. (figure 8b,c). thermal stability of the superhydrophobic ptl
+films was evaluated by subjecting modified films to 200 and -196 °c, followed by
+recording sem images of the surface morphology and the contact angle. as seen
+in figure 8d,e, no changes due to heating or cooling were observed. mechanical
+itv was evaluated throush the scotch tane test. shown in figure 8f. no
+
+ 
+
+ 
+
+sections spor a tools < shar
+
+ 
+
+ip was evaluateu ly suujecunty huumieu tinh wy zuu aru — 120 g, tohuwweu ly
+recording sem images of the surface morphology and the contact angle. as seen
+in figure 8d,e, no changes due to heating or cooling were observed. mechanical
+was evaluated through the scotch tape test, shown in figure 8f. no
+peeling or significant change in contact angle was observed. ptl films have also
+been utilized to fabricate conformal and transparent coatings on different types
+of substrates as well as free-floating films with large areas.” this strategy of
+self-assembled phase transitioned proteins to generate amyloid-like aggregates i
+generalizable to other proteins such as bsa,!75l and has also been utilized to
+incorporate functional peptides on the protein film surface.77] wang et al. have
+utilized this approach to fabricate amelogenin mimics for controlling enamel
+remineralization by incorporating amelogenin into ptl films.77)
+
+ 
+ 
+
+thermal treatment offers additive-free approaches for fabricating water-stable
+
+ 
+
+ 
+
+ 
+
+ 
+
+sections st por a tools < shar
+figure 7 open in figure viewer | powerpoint
+
+2) thickness of spin-coated (sc) collagen films and fluorous-cured and air-cured films (fct and.
+act, where t represents treatment temperature), obtained through ellipsometry. thickness of
+the film decreases with increased temperature due to tighter packing of collagen fibers. b)
+structural stability measurements through incubation of films in aqueous media for different
+lity
+
+ 
+
+durations of time. increased thickness of ac films at 72 and 96 h indicates structural instat
+due to swelling. c) load-displacement curves of sc, fc180 and ac180 and (inset) reduced
+modulus and hardness measurements. c180 shows higher reduced modulus and hardness.
+4) enzymatic stability measured through incubation in protease (trypsin) for different
+durations of time. fc180 shows slower degradation in enzyme as compared to ac180 and sc.
+‘adapted with permission.™! copyright 2020, american chemical society.
+ 
+
+le2details are in the caption following the image
+thermal treatment is also widely utilized to improve mechanical properties of
+natively self-assembled protein films.7°l as-prepared collagen films are prone
+to mechanical damage due to wear-and-tear and tend to swell in aqueous media
+thereby resulting in loss of structural features, and are prone to rapid
+degradation due to proteolysis.!°7) thermal treatment of collagen has been
+shown to induce tighter packing of collagen fibers, thereby improving mechanical
+and structural properties.{©8 ©] however, thermal treatment results in
+denaturation and oxidation of collagen fibers") in a recent study, the effect of
+fluorous-based thermal stabilization on collagen fibers was studied (figure 7).!23)
+fluorous-curing (fc) and air-curing (ac) both result in a reduction of thickness
+proportional to the treatment temperature due to tighter packing of collagen
+fibers (figure 7a). fc collagen films, however, showed a lower degree of swelling
+as compared to hc films, as seen in figure 7b, indicating higher structural stability
+of fc films in aqueous media. this stability was substantiated through cd and
+ftir measurements, which indicated that heat-curing results in degradation of
+collagen fibers into a gelatin-like structure which is prevented by fluorous-curing.
+fc films also showed improved mechanical strength (figure 7c) and enzymatic
+stability (figure 7d), as compared to spin-coated and hc collagen films.
+
+ 
+
+sections spor a tools < shar
+
+collagen fibers into a gelatin-like structure which is prevented by fluorous-curing.
+fc films also showed improved mechanical strength (figure 7c) and enzymatic
+stability (figure 7d), as compared to spin-coated and hc collagen films.
+ 
+
+sections st por a tools < shar
+
+screw has been completely contaminated. adapted with permission. copyright 2018, the
+royal society of chemistry.
+figure 6 open in figure viewer | powerpoint
+
+a) schematic depiction of fluorous treatment using pfhp, showing minimal rearrangement at
+interface of pfhp as compared to air. b) water contact angle measurement through static
+sessile drop method indicating pfhp treatment results in hydrophilic flms as compared to
+heat-cured films. ¢) cd spectra of pfhp treated films (green), heat-cured films (red) and bsa
+solution (black) shows minimal denaturation of protein due to thermal treatment in the case of
+pfhp as compared to traditional heat-curing. d) surface potential measured by kpfm (kelvin
+probe force microscopy) indicating significant potential difference between pfhp-treated bsa
+(and lyso (+) as compared to heat-cured films. this suggests that pfhp-treated proteins
+retain their native charges. e) bare and bsa coated dental screws stained with brillant blue
+protein stain. coated screw shows uniformly dispersed blue color indicative of conformal
+coating. f) conformal coating of bsa on dental screw verified using sem. bsa forms smooth,
+uniform coating on the screw. g) anti-fouling activity of bsa coating demonstrated through
+challenge of e.coli ds red biofilm. no bacteria adhered to bsa coated screw while the bare
+screw has been completely contaminated. adapted with permission. copyright 2018, the
+royal society of chemistry.
+ 
+
+le2details are in the caption following the image
+ 
+
+sections
+st por a tools < shar
+ 
+
+le2details are in the caption following the image
+while nil successfully translates native protein properties such as charge into the
+protein films, one major limitation of this approach is its restriction to 2d
+substrates. experiments revealed that the pressure applied during nil was not
+the factor that minimized denaturation, as protein films generated in a pressure
+chamber show significant denaturation.22] it was hypothesized that the fluorous
+environment provided by the fluoro-silane mold minimized protein
+
+ 
+
+sections spor a tools < shar
+
+ 
+
+the factor that minimized denaturation, as protein films generated in a pressure
+chamber show significant denaturation.22] it was hypothesized that the fluorous
+environment provided by the fluoro-silane mold minimized protein
+rearrangement at the interface, thereby preserving protein structure.
+consequently, fluorous-cured protein films were generated by heating protein
+film in a fluorous solvent pfhp (perfluoroperhydrophenanthrene), as shown in
+igure 6a.2i this resulted in water-stable protein films that are hydrophilic as
+compared to heat-cured (hc) protein films both treated at 180 °c for 15 min, as
+shown in figure 6b. pfhp-treated films retain most of their secondary structure
+as determined by cd spectra (figure 6c). they also retain their surface charge, as
+evidenced by kpfm measurements of the surface potential shown in figure 6d,
+where the potential difference between hc-bsa and hc-lyso films is significantly
+lesser than pfhp-bsa and pfhp-lyso. this indicates that distinct surface charges
+of bsa (-) and lyso (+) is retained during pfhp treatment. furthermore, this
+strategy was successfully utilized to generate conformal protein coatings on 3d
+substrates, as seen in figure 6e by brilliant blue staining and sem images of
+protein coatings on dental screws — a model medical implant. as shown in
+
+figure 6f, negatively charged bsa protein was used to fabricate anti-fouling
+protein coatings on medical implants, using this strategy.
+
+ 
+figure 5 open in figure viewer | powerpoint
+
+1) schematic depiction of the nil treatment of protein films using flat or patterned mold. b)
+heat map depicting the correlation between treatment conditions and stability of the films.
+‘treatment at 180 °c and 3 mpa resulted in stable bsa, hemo and lyso films. c) cd spectra of 1.
+spin-coated protein films 2. nil films and 3. protein solution (0.1 mg ml-* in 5 x 10°? « pb)
+depicting that treated protein fils retained most of their secondary structure. d) cell
+adhesion on bsa, hemo and lyso films treated at 180 °c. bsa and hero show minimal cell
+adhesion while lyso shows enhanced cell adhesion. scale bars are 100 ym. adapted with
+permission. copyright 2015, wiley-vch verlag gmbh & co. kgaa, weinheim.
+ 
+
+le2details are in the caption following the image
+ 
+
+le2details are in the caption following the image
+
+ 
+
+sections stor a tools < shar
+
+celangnment.
+enzymatic chemical crosslinking is another natural, nontoxic strategy for
+fabrication of protein films. enzymes that characterize covalent bond formation
+between amino acid residues (e.g., sulfhydryl oxidases that catalyze formation of
+disulfide bonds, peroxidases that catalyze formation of radicals, and
+transglutaminase (tgase) that catalyzes acyl-transfer reactions between protein
+residues) are ideal enzymes for this strategy.'4l for instance, tgase has been
+utilized for the crosslinking of collagen fibers by catalyzing intra- and interchain
+bonds between lysine and glutamine residues.{55] tgase crosslinking when
+combined with thermal treatment notably improved crosslinking efficiency,
+stabilized film thickness, and improved mechanical and thermal stability.
+
+covalent crosslinking strategies are applicable to a number of proteins, and
+therefor offer a versatile approach for fabricating protein films. however, a
+
+ 
+
+sections spor a tools < shar
+
+stal
+
+ 
+
+eq tim thickness, and improved mecnanical ana tnermat stability.
+
+covalent crosslinking strategies are applicable to a number of proteins, and
+therefor offer a versatile approach for fabricating protein films. however, a
+concern with crosslinking strategies is increased cytotoxicity either from the
+crosslinkers themselves or from the resultant by-products. while this review
+highlights some progress in the development of nontoxic and biodegradable
+crosslinking strategies, further research on the scalability of these approaches is
+desired.
+
+2.3 thermal treatment strategies
+
+thermal treatment of protein films is a promising additive-free strategy to
+generate water stable films. high temperatures utilized in thermal treatment
+cause reorganization of native proteins resulting in physical crosslinking, thereby
+generating water-stable films.5l heat-cured films have been generated using
+plant-isolated proteins such as canola,®71 soy,!®4l vicilin,®%i and whey protein.©)
+several reports also indicate that heat-curing improved the mechanical stability ir
+addition to water stability.{6"*) furthermore, aging treatments that control both
+the relative humidity and temperature during treatment have been used to
+modulate mechanical properties such as tensile strength of collagen films.{651
+
+  
+
+ 
+
+one of the m. imitations of thermal treatment is the loss of protein structure
+due to heat-induced denaturation. loss of protein structure often results in loss
+
+ 
+
+sections spor a tools < shar
+
+ 
+
+props . . a7
+
+ 
+
+one of the main limitations of thermal treatment is the loss of protein structure
+due to heat-induced denaturation. loss of protein structure often results in loss
+of protein properties (e.g,, surface charge, hydrophilicity), thereby limiting the
+applicability of films in functional materials. a recently developed thermal
+treatment strategy using nanoimprint lithography (nil) preserves the structure
+and surface functionality of native proteins while generating water-stable films.
+(661 as depicted in figure 5a), a fluorosilane coated silicon mold was used to apply
+pressure during heat curing of spin-casted protein films. treatment at 180 °c at
+3 mpa results in stable, hydrophilic protein films (figure 5b). circular dichroism
+(cd) spectra (figure 5c)) revealed that most of the secondary structure was
+retained, while kelvin probe force microscopy (kpfm) demonstrated retention of
+the protein native charge in the film. positive, negative and neutral films were
+generated using bovine serum albumin (bsa; pl = 4.8), hemoglobin (hemo; pl =
+6.8), and lysozyme (lyso; pl = 11). charged protein films were utilized to dictate
+cell adhesion on the substrate. as seen in figure 5d) anionic and neutral protein
+films generated using bsa and hemo result in cytophobic films that prevent cell
+adhesion, while cationic lyso results in cytophilic films that enhance cell
+adhesion. nil also facilitated fabrication of patterned protein films that dictated
+cell alignment.
+
+ 
+
+ 
+figure 4 open in figure viewer | #powerpoint
+
+a) synthesis scheme for fabrication of ad-x-cas (dialdehyde sodium alginate crosslinked
+
+ 
+
+ 
+
+sections st por a tools < shar
+
+figure 4 open in figure viewer | #powerpoint
+
+a) synthesis scheme for fabrication of ad-x-cas (dialdehyde sodium alginate crosslinked
+casein). schematic representation and sem image of b) ad-x-cas and c) gs-loaded ad-x-cas.
+4) disk diffusion assay depicting antimicrobial activity of gs-loaded ad-x-cas against e.coli.
+diffusion of gs inhibits bacterial growth around loaded ad-x-cas as compared to control.
+scale bars are 50 um. adapted with permission.*7! copyright 2016, informa uk limited,
+trading as taylor and francis group.
+ 
+
+le2details are in the caption following the image
+chemical crosslinking is another strategy to fabricate water-stable protein films.
+utilizing chemical crosslinkers allows for precise manipulation of film properties
+such as mechanical strength, flexibility and rate of degradation. aldehydes with
+moderate reactivity such as glutaraldehyde and formaldehyde have been widely
+utilized as crosslinkers for protein films used in food packaging applications to
+improve their mechanical properties.{47-“° however, the use of small molecule
+aldehydes in biomedical applications is limited due to their high cytotoxicity and
+environmental hazards.©° consequently, biopolymer-based dialdehydes have
+been developed as nontoxic and biocompatible crosslinkers for protein films.
+alginate dialdehyde (ad), synthesized through peroxidate oxidation of sodium
+alginate. has been used for crosslinking of casein (cas). a milk protein. as shown
+
+ 
+
+sections spor a tools < shar
+
+sirtf otittett ca te at est cots eet ty hiop ony tet as cste tpes ttevs
+been developed as nontoxic and biocompatible crosslinkers for protein films.
+alginate dialdehyde (ad), synthesized through peroxidate oxidation of sodium
+alginate, has been used for crosslinking of casein (cas), a milk protein, as shown
+in figure 4a).5"1 alginate is a nontoxic and biocompatible polysaccharide
+biopolymer widely used in wound dressing materials.'=2] these dialdehyde
+alginates crosslinked casein (ad-x-cas), a protein with an overall negative charge
+due to the presence of coo” groups. these films are frequently used for loading
+and controlled release of cationic drugs such as gentamicin sulfate (gs), an
+antibiotic. figure 4b,c shows the surface morphology of ad-x-cas films and gs-
+loaded ad-x-cas films, where gs crystals are clearly observed in the latter.
+antimicrobial activity of gs-loaded ad-x-cas was observed through a disk
+diffusion assay (figure 4d)) where diffusion of gs inhibited growth of e. coli.
+similarly, soy protein isolate films have also been generated using dialdehyde
+carboxymethyl cellulose as a crosslinker, to fabricate water-stable spi films with
+significantly improved tensile strength and thermal stability.©21
+ 
+
+igure 3 open in figure viewer | powerpoint
+
+a) schematic depiction of freezing-annealing technique for the crosslinking of silkfibroin (sf)
+and hyaluronic acid (ha) fibers. b) 9 water solubility with respect to increase in % ha ratio. c-f)
+surface morphology of sf/ha scaffolds with varying wt% of ha obtained through sem imaging.
+scale bars are 500 ym, adapted with permission." copyright 2020, elsevier.
+ 
+
+le2details are in the caption following the image
+ 
+
+sections
+st por a tools < shar
+ 
+
+le2details are in the caption following the image
+collagen is a naturally self-assembling protein abundant in the extracellular
+matrix.®] [t supports cell attachment, migration and proliferation. it consists of
+three parallel polypeptide-a chains in a right-handed triple-helical structure that
+self-associates to form highly ordered cross-linked fibrils.28! these cross-linked
+fibrils make collagen films and coatings insoluble in water. for this reason, it is
+widely used in biomedical applications such as tissue engineering scaffolds,
+wound healing patches etc.°. 49] collagen is usually purified and can be dissolvec
+in acid solutions to form films" or alternatively, collagen fibers are directly used
+to prepare films.)
+
+ 
+
+self-assembly is an excellent approach to utilize the natural ability of some
+proteins to self-assemble through non-covalent crosslinking into water-stable
+films, without manipulating their native protein primary structure. the resultant
+protein films retain most of their native protein properties. however, there are a
+limited number of naturally-occurring structural proteins that exhibit this
+
+ 
+
+ 
+
+ 
+
+sections spor a tools < shar
+
+films, without manipulating their native protein primary structure. the resultant
+protein films retain most of their native protein properties. however, there are a
+limited number of naturally-occurring structural proteins that exhibit this
+behavior. therefore, various physical or chemical treatments must be employed
+to obtain varied functionalities in these self-assembled protein films, which may
+affect the native protein structure by causing denaturation, increase cytotoxicity
+of the film, or affect the functional properties of the protein film.
+
+2.2 crosslinked protein films
+
+self-assembling structural proteins offer an efficient and additive-free approach
+for fabricating protein films. however, there are a limited number of these
+proteins and they often need to be treated through chemical or physical
+treatment strategies to suit biomedical applications. consequently, crosslinkers
+offer an alternative approach to utilize a wider array of proteins to generate
+water-stable films while also enhancing film properties. crosslinking is typically
+conducted through 1) physical strategies that utilize noncovalent interactions
+between two proteins such as ionic interactions and hydrogen bonding, or 2)
+chemical strategies that result in covalent bonding between proteins
+
+accomplished through irradiation, sulfur vulcanization and chemical reagents.2°.
+21, 43, 44]
+
+significant research has been conducted in the development of composite
+protein films fabricated through phvsical crosslinking strategies. often with other
+
+ 
+
+sections spor a tools < shar
+
+21,43, 44)
+
+significant research has been conducted in the development of composite
+protein films fabricated through physical crosslinking strategies, often with other
+proteins or biopolymers. this approach allows for efficient manipulation of
+biophysical properties of protein films such as strength, elasticity, roughness,
+degradability and biocompatibility. for instance, the physical properties of
+natively self-assembling silk fibroin films and scaffolds were modulated through
+blending with biopolymers such as hyaluronic acid (ha) using a freezing-
+annealing technique to induce self-assembly of stable sf/ha scaffolds. figure 3a
+demonstrates the freezing-annealing technique — sf chains for silk 1 form crystal
+networks upon freezing at -80 °c, and upon annealing at 3-5 °c silk crystals trap
+ha.5] increasing ha increases water solubility, indicating that sf crystals are
+unable to effectively trap the high number of ha chains (figure 3b). surface
+morphologies observed through sem imaging (figure 3c-f) show interconnected
+microporous morphologies with a typical irregular fusiform shape. increased ha
+content did not change the morphology significantly, though the average pore
+size gradually decreased. ha, being a component of the extracellular matrix,
+enhances cell growth in the composite protein films, while sf provides
+mechanical stability.
+figure 2 open in figure viewer | #powerpoint
+
+‘schematic overview of the strategies of fabrication of silk films and coatings. |) summarizes
+strategies for preparation of silk solutions and ill} summarizes methods of fabrication of silk
+
+sections st por a tools < shar
+
+ 
+
+figure 2 open in figure viewer | $powerpoint
+
+‘schematic overview of the strategies of fabrication of silk films and coatings. !) summarizes
+strategies for preparation of silk solutions and ill) summarizes methods of fabrication of silk
+films. il{v) summarize strategies for manipulation of film properties either il) before or iv) after
+
+film formation. reproduced with permission.*) copyright 2014, american chemical society.
+ 
+
+le2details are in the caption following the image
+2 strategies for fabrication of protein films
+2.1 structural proteins for self-assembled films
+
+structural proteins with highly repetitive amino acid sequences such as silk,
+collagen, keratin, elastin etc. naturally self-assemble into water-stable protein
+
+ 
+
+sections spor a tools < shar
+
+ 
+
+structural proteins with highly repetitive amino acid sequences such as silk,
+collagen, keratin, elastin etc. naturally self-assemble into water-stable protein
+films upon processing through the methods described in section ill of figure 2.
+19, 30,31] protein films can be efficiently fabricated using these naturally self-
+assembling proteins to form robust, biocompatible and biodegradable coatings.
+for instance, silk fibroin protein has been used to fabricate protein films for
+biomedical applications due to the biocompatibility, slow degradation and robust
+mechanical properties of the resulting films.2235] silk fibroin self-assembles into
+b-sheets that result in water-stable films. film properties such as mechanical
+strength and biodegradability can be enhanced by controlling b-sheet percentage
+through different strategies such water annealing, methanol annealing and dryinj
+speed.36 37] figure 2 summarizes different strategies for the preparation of silk
+protein solution, processing methods for film formation, and strategies for the
+manipulation of film properties.
+ 
+
+igure 1 open in figure viewer | powerpoint
+
+‘schematic depiction of strategies of fabrication of protein films and examples of biomaterial
+applications. stable protein films can be fabricated through self-assembly of proteins, physical,
+or chemical crosslinking, and thermal treatment. applications of protein films include tissue
+
+engineering scaffolds, drug eluting coatings and antimicrobial surfaces.
+ 
+
+le2details are in the caption following the image
+ 
+
+sections spor a tools < shar
+
+proves are wiuely useu ww zenerate
+(41 3d scaffolds!"®] and adhesives." however, the use of proteins in these
+materials is complicated by their instability in aqueous media, which results in
+degradation and loss of structure in materials.!"7: '®] therefore, current
+technologies have been focused on improving the aqueous stability of protein-
+based materials, while maintaining desirable properties such as biocompatibility,
+biodegradability and native functionality.
+
+ 
+
+cuaurigss = nyurogels,
+
+this review focuses on strategies for generating protein films and protein-based
+coatings, as they are one of the most widely synthesized protein-based material.
+currently, three main strategies have been employed, as illustrated in figure 1—
+1, naturally self-assembling proteins, such as silk fibroin, self-assemble into
+water-stable films upon during:!"! 2. crosslinking of proteins through physical or
+chemical approaches;°. 2" and 3. thermal treatment of proteins to initiate
+reorganization of proteins, including recent approaches that retain native
+structure and properties. 23] additionally, post-functionalization of the
+surface!4l or incorporation of additives5 can be used to enhance native
+properties of the film or impart new characteristics. protein films are widely used
+as food packaging materials,! tissue engineering scaffolds, and coatings for
+specific biomedical applications such as anti-fouling coatings, cytophilic coatings
+etc.2] previous reviews on this subject have focused on either biomedical
+applications of a particular protein,2° 27! or on the different types of protein films
+utilized for a particular application.8 29) this progress report serves as a guide tc
+
+  
+
+ 
+
+ 
+
+sections spor a tools < shar
+
+etc. previous reviews on this subject have tocused on either biomedical
+applications of a particular protein,2° 27! or on the different types of protein films
+utilized for a particular application.8 29) this progress report serves as a guide tc
+the common methods of protein film fabrication, their application as biomaterial:
+and potential limitations of these approaches.
+; website utilizes technologies such as cookies to enable essential site functionality, a:
+eted advertising. to learn more, view the following link: privacy policy
+ 
+
+1 introduction
+
+proteins are sustainable, biocompatible and biodegradable building blocks for
+designing materials." 4 proteins naturally feature a variety of functionalities — for
+instance, structural proteins like collagen are widely used in biomedical
+applications due to their abundance in the extracellular matrix. silk fibroin and
+soy protein isolate films have been used as food packaging materials". 5i as well
+as in the fabrication of medical devices,'®.71 due to their ready availability, efficien
+processability, biodegradability and biocompatibility. ° furthermore, the
+process of isolating proteins and fabricating protein-based materials can be
+conducted with limited use of organic solvents, as most proteins are water
+soluble.!"°"2] therefore, protein are an attractive approach for designing
+sustainable materials for biomedical applications and as a consequence further
+research towards goals 3 (good health and well-being) and 12 (responsible
+consumption and production) of the un sustainable development goals.
+
+ 
+
+ 
+ 
+
+sections st por a tools < shar
+
+potential applications of protein films in the field of sensing, diagnostics, and
+controlled release systems are discussed.
+abstract
+
+proteins are naturally occurring functional building blocks that are useful for
+the fabrication of materials. naturally-occurring proteins are biodegradable
+and most are biocompatible and nontoxic, making them attractive for the
+fabrication of biomaterials. moreover, the fabrication of protein-based
+materials can be conducted in a green and sustainable manner due to their
+high aqueous solubility. consequently, the applicability of protein-based
+materials is limited by their aqueous and mechanical instability. this review
+summarizes strategies for the stabilization of protein films, highlighting their
+salient features and potential limitations. applications of protein films ran,
+from food packaging materials, tissue engineering scaffolds, antimicrobial
+coatings etc. are also discussed. finally, the need for robust and efficient
+fabrication strategies for translation to commercial applications as well as
+
+  
+
+g
+
+; website utilizes technologies such as cookies to enable essential site functionality, a:
+eted advertising. to learn more, view the following link: privacy policy
+ 
+
+sections
+se por a tools < shar
+progress report | & full access
+
+strategies for fabricating protein films for biomaterial
+applications
+
+sanjana gopalakrishnan, jinlong xu, fang zhong, vincent m. rotello m4
+
+first published: 11 october 2020 | https://d
+
+ 
+
+fg/10.1002/adsu.202000167 | citations: 19
+
+; website utilizes technologies such as cookies to enable essential site functionality, a:
+eted advertising. to learn more, view the following link: privacy policy
+
+satyora gupaianh shah, jhhune au, fang, chun, vinci wi, rulcho ras
+
+first published: 11 october 2020 | https://doi.org/10.1002/adsu.202000167 | citations: 19
+advanced sustainable systems
+   
+
+digi international
+
+» digi connectcore
+
+2m
+umass amherst libraries
+wiley online library
+

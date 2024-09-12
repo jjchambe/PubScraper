@@ -1,0 +1,495 @@
+tae ee paes ey
+un
+
+eatery sed a neo
+ca sloy
+
+sue aks net kee
+sua cea
+
+pee aaa
+ke
+
+de et
+
+neco ainy
+supporting information 7
+
+_—_——eeeeee
+supporting information 7
+
+citing literature vv
+
+ 
+acknowledgements
+
+this work was supported by grants from huntsman corporation and the army
+research laboratory. unrestricted support from gelest and another industrial
+sponsor is also acknowledged.
+
+conflict of interest
+
+the authors declare no conflict of interest.
+ 
+
+igure 4 open in figure viewer | powerpoint
+
+depiction of water in a pdms “nanopore.” the dashed lines between water molecules indicate
+
+hydrogen bonding.
+ 
+ 
+this observation suggested that surface modification of the membrane surface
+might increase the sorption rate. this was not studied in detail, but a simple
+experiment was done, which shows that this effect could be significant. two
+
+ 
+
+this observation suggested that surface modification of the membrane surface
+might increase the sorption rate. this was not studied in detail, but a simple
+experiment was done, which shows that this effect could be significant. two
+
+ilicone membranes of 58 im thickness were exposed!4i to an oxygen plasma for
+5 min. this procedure has a significant literaturel@5-27) and is known to
+hydrophilize pdms. water contact angles for these samples changed from @4/8p =
+105°/83° to 46°/19° upon plasma treatment.241 x-ray photoelectron spectra,
+which indicate an increase in oxygen content and a decrease in carbon content,
+and scanning electron micrographs, that indicate no change of topography are
+shown in figure s3, supporting information. figure 3c shows water mass loss
+data for both oxygen plasma-treated membranes, one measured with the
+hydrophilic side in contact with water vapor in the vial and the other (run as a
+control) with the hydrophobic side in contact with the water vapor. the
+membrane with its hydrophilic side in contact with water vapor shows a ~60%
+greater water vapor transmission rate than an identical film in the opposite
+orientation. this corresponds to a permeability rate greater than 6000 in the units
+discussed above. the control experiment shows a permeability rate less than
+4000. we note that the 58 im data in figure 1 and all of the measurements
+described in figure $2, supporting information, comprise controls for this
+experiment as well and exhibit indistinguishable permeability rates less than
+4000.
+
+ 
+
+ 
+
+ 
+
+these two observations, 1) that water vapor transi
+opel
+
+4000.
+
+ission through thin water
+
+ronson gear rea pct
+
+ 
+
+ 
+
+ 
+
+poorer is er
+
+ 
+
+these two observations, 1) that water vapor transmission through thin water
+repellent pdms films occurs at nearly the same rate as water transmission
+through the air and 2) that water vapor does not macroscopically condense on
+thin pdms films if the vapor pressure is sufficiently low on the opposite side,
+suggest multiple applications of thin silicone films. obvious ones are the same as
+those that expanded poly(tetrafluoroethylene) (goretex) and nonwoven
+polyolefins (tyvek) are employed for, where a liquid water barrier that permits
+vapor transmission is required. the silicone film differs from these porous
+alternatives in that it is continuous (not porous), thus will slow air and other gas
+permeation as indicated in figure 1. it also differs in its transparency and may be
+useful in non-fogging applications. we draw attention to these observations by
+including two applications in the title of this paper that have stimulated significant
+current research and investment: water purification! 2°) and anti-icing
+(icephobicity).". 32] 4 homogeneous silicone film is a much simpler strategy for
+desalination or water purification than using composite structures of
+transmembrane carbon nanotubes! *4] or aquaporin channels.25! if water were
+frozen in contact with a silicone membrane that permits water permeation at the
+rates described here, no adhesion would occur. the ice would sublime and
+permeate, creating a weak boundary layer, as long as the water vapor pressure at
+the opposite side of the membrane was reduced sufficiently.
+
+rates descripea nere, no aanesion would occur. ine ice would sublime ana
+permeate, creating a weak boundary layer, as long as the water vapor pressure at
+the opposite side of the membrane was reduced sufficiently.
+
+why does water vapor permeate through pdms at such an astonishing and
+counter-intuitive rate? a discussion of this is conspicuously absent from the
+paper''®] that reports the data contained in figure 1. comments on this anomaly
+were certainly as warranted in 1968 as they are now. we make several that
+pertain to the unusual structure of pdms, are aided by insight from relatively
+recent nanoscience, and that we believe lead to a qualitative understanding of
+this anomaly. importantly, the high permeability is not because of solubility
+(permeability = diffusivity x solubility). the solubility of water in silicones is
+extremely low, less than 1 ppm.4 solubility is, however, the reason that co2 and
+ethane (c2he) exhibit relatively high values (table 1). figure 4 shows the chemical
+structures of pdms and water drawn with accurate relative bond lengths: si—o =
+1.90 a, si—c = 1.63 a, o—h=0.96 a. the si—o and si—c bonds are significantly
+longer than the c—c bonds (1.53 a) that most polymers are comprised of,
+permitting flexibilities that are not possible in most polymers. this, coupled with
+the fact that the sio bonds are =51% ionic,°71 allows the si—o—si bond system
+“to readily pass through the 180° state’. these motions are responsible for the
+unusually high compressibility of pdms (over 30%),") the low glass transition
+temperature (below -120 °c),9l and the highest fractional free volume of any
+common polymer. with these comments in mind, we choose to not invoke any
+
+naw machanicm to avniain the anamalanc water narmaatian in pams hr
+
+unusually high compressibility of pdms (over 30%),/3*! the low glass transition
+temperature (below -120 °c),9l and the highest fractional free volume of any
+common polymer. with these comments in mind, we choose to not invoke any
+new mechanism to explain the anomalous water permeation in pdms, but to
+suggest that a mechanism that is the same or very similar to those proposed for
+carbon nanotubes3. 4] and aquaporins™5i is operative. hydrogen-bonded chains
+or “wires” of 1d condensed water are pulled through sub-nanometer diameter
+pores present in pdms (figure 4) from the high to low water vapor pressure sides
+of the membrane. this requires that dynamic nanopores are possible in pdms
+and the fractional free volume, compressibility values, and the fact that the
+experiments were performed at temperatures greater than 150 °c above the
+glass transition temperature encourage this conjecture. no suggestion is made
+that any interaction between water and the dynamic pdms-lined nanopores is
+operative, and these pores are envisioned as hydrophobic, as are the interiors of
+carbon nanotubes. hydrogen bonding between water and silicones is not
+observed. we suspect that the author of ref. !9l, had he been aware of the
+behavior of water in nanoscopic confinement, would have thought that this
+mechanism was consistent with the anomalous behavior he reports and would
+have made comments similar to these.
+
+ 
+
+ 
+
+ 
+®) literature values of vapor pressure at these temperatures
+
+©) no indicates that no condensation is visible; yes indicates observable condensation. see
+
+photographs in figure 3b.
+ 
+60°c149 mm.
+
+hg 9
+
+no.
+yes
+yes
+
+yes
+50°c93 mm
+
+hg 9
+
+no
+no
+yes
+
+yes
+40°c55 mm.
+
+hg”
+
+no
+no
+no
+
+yes
+30°c 32mm
+
+@)
+
+no »
+
+no.
+no.
+no.
+
+yes
+
+ 
+membrane
+thickness
+membrane 30°c32mm | 40°cssmm | 50°c93mm | 60°c149mm
+
+table 1. effects of film thickness and water vapor pressure on condensation
+table 1. effects of film thickness and water vapor pressure on condensation
+figure 3 open in figure viewer | powerpoint
+
+a) schematic mechanism for permeation of water vapor through pdms membranes. b)
+photographs of variable thickness pdms membranes capping water-containing scintillation
+vials at 40 °c. condensation is visible only on the thickest membrane. c) mass loss versus time
+
+data for oxygen plasma-treated pdms membranes.
+ 
+as expected, the water vapor transmission rate (mass loss rate) increases
+gradually as membrane thickness decreases from 160 to 15 ym, but
+unexpectedly does not increase further when the film thickness is decreased to
+8 im. the same tendency was observed at 40 and 50 °c (figure s1, supporting
+information). we note that the vapor transmission rate through the 8 and 15 ym
+
+unexpectedly does not increase further when the film thickness is decreased to
+8 im. the same tendency was observed at 40 and 50 °c (figure s1, supporting
+information). we note that the vapor transmission rate through the 8 and 15 ym
+thick membranes are =60% of the value of the open container and emphasize
+that water vapor flux through these films is greater than half the flux through air.
+figure 2b shows permeability values, calculated from the data in figure 2a, using
+the same units as figure 1 and the publication!"4] discussed above. the values for
+this material property are obviously thickness-dependent and span the
+reported!" value of 3600 (film sample thickness is not provided). thickness-
+dependent permeability of he and co) in thin pdms membranes has been
+reported’5] and explained by non-equilibrium sorption/desorption at the
+interface. this same argument can be made for water through the membranes
+described here and we summarize this argument as a mechanism in figure 3a.
+water vapor adsorbs (k;) and dissolves (kz) (sorption), permeates through the
+membrane (kp), and desorbs (k_, k.1) at low the pressure (water partial pressure)
+side of the membrane. when the film thickness is decreased sufficiently so that
+the water vapor transmission rate increases above a critical value, sorption
+(adsorption and dissolution) becomes rate-limiting. we note an interesting
+practical result of the kinetics of this process. when the membrane film is
+sufficiently thin and the vapor pressure is sufficiently low, condensation is not
+apparent on the internal membrane surface. nucleation and growth of droplets
+occur with thicker films and higher vapor pressures. figure 3b shows
+
+nhotogranhs of 8 15, 40 and 58 1m membranes at 40 °c condensation is
+sufficiently thin and the vapor pressure is sufficiently low, condensation is not
+
+apparent on the internal membrane surface. nucleation and growth of droplets
+occur with thicker films and higher vapor pressures. figure 3b shows
+photographs of 8, 15, 40, and 58 ym membranes at 40 °c. condensation is
+apparent only on the thickest film. table 1 shows the tendencies for apparent
+condensation with variable thickness films as a function of water vapor pressure.
+at sufficiently low vapor pressure and film thickness, the vapor transmission rate
+great enough to compete with droplet nucleation and growth. this competition
+is indicated in figure 3a by kp and kc.
+
+ 
+
+ 
+figure 2 open in figure viewer | powerpoint
+
+a) mass loss versus time data at 30 °c for permeation through pdms membranes of variable
+
+thickness. b) permeability rates versus membrane thickness.
+ 
+silica-free pdms film samples of controlled thickness were prepared by wire rod
+coating 2-part platinum-cured resins onto a fluoropolymer release film and curing
+at 90 °c for 24 h. the thickness was controlled by the wire diameter and
+calculated from the mass of a sample of known area, assuming a density of 0.98 g
+cm’. the resins for coating were prepared from commercial samples!"®! of two
+different molecular weight vinyldimethylsilyl-terminated poly(dimethylsiloxane)s,
+myd325my, and mydesom", a trimethylsilyl-terminated
+poly(hydridomethylsiloxane), md¥3m, and =100 ppm karstedt's catalyst. a 2:1
+excess of hydridosilane was used as recommended by the supplier.2°] we note
+that these commercial functional silicones contain cyclic oligomers of pdms"! as
+they were prepared by equilibration, but consist almost entirely (>99 wt%) of
+dimethylsiloxane repeat units. the cross-link topology of the network involves
+short md¥39m-derived clusters of cross-link points linked together by multiple
+jong (mp = 28 000 or my =63 000) myd3zsmy- or mydasomv-derived chains. the film
+samples can thus be regarded as liquid (=150 °c above t,)
+poly(dimethyistloxane)s from the molecular perspective of vapor permeation. the
+
+ 
+
+jong (m, = 28 000 or m, ~63 000) mydsysm- or m’dasqm¥-derived chains. the film
+samples can thus be regarded as liquid (=150 °c above t,)
+poly(dimethylsiloxane)s from the molecular perspective of vapor permeation. the
+cyclic oligomers of identical repeat unit structure can be regarded as miscible
+solutes in, or oil swelling the cross-linked elastomers.
+
+   
+
+    
+
+water permeation studies were carried out using a modification of the method
+reported by robb!"5! which is an astm standard test method.2i stainless steel
+washers containing %-inch (12.7 mm) diameter holes were attached (epoxy) to the
+openings (16 mm internal diameter) of 20 ml glass scintillation vials. water was
+added to the vials and pdms film samples were sandwiched as 12.7 mm diameter
+membranes between these washers and additional identical washers. the
+washers were compressed together by tangential wrapping with fluoropolymer
+plumbing tape. vials were weighed and placed in a temperature-controlled
+heating block positioned in a nitrogen-purged air-tight polyethylene container.
+permeation rates were determined from mass loss data that were recorded at 24
+h intervals and are reported in terms of cm? of vapor at 1 atm and 25 °c.
+
+ 
+
+igure 2a shows plots of mass loss versus time for water permeation through
+myd35mv-derived film samples of 8, 15, 40, 58, and 160 um thicknesses. we note
+several details concerning these experiments and data: 1) the film samples were
+prepared using commercial (gardco) wire-wound wet film applicator rods: #5
+
+(8 im), #10 (15 xm), #20 (40 jum), #30 (58 um), and two applications of #40
+
+(160 1m) eilm thiclnace valiiac_datarminad aravimatrically variad camawhat
+
+several details concerning these experiments and data: 1) the film samples were
+prepared using commercial (gardco) wire-wound wet film applicator rods: #5
+(8 im), #10 (15 xm), #20 (40 jum), #30 (58 um), and two applications of #40
+(160 um). film thickness values, determined gravimetrically, varied somewhat
+sample-to-sample, which were cut as 25 mm diameter samples with a punch. for
+example, four mydazsmv-derived film samples had thickness values of 57, 58, 61,
+and 67 um, and four mydgso my-derived film samples had thicknesses of 59, 61,
+66, and 69 um. 2) the data in figure 2a are from one set of individual membrane
+samples with the thickness values indicated (not from averages). the data points
+from 24-168 h determined during the 7-day studies can each be considered
+separate 24 h permeation rate experiments performed with the same membrane
+film thickness under identical conditions. 3) the temperature was controlled at
+30 °c using a heating block (|-kem scientific) that was designed specifically for
+these vials. this temperature determines the vapor pressure of water as well as
+the temperature of the membrane surface in contact with this environment.
+experiments (figure s1, supporting information) were carried out at higher vapor
+pressures (40 and 50 °c) and with various volumes of water. greater water vapor
+transmission rates were measured at higher temperatures/vapor pressures that
+yielded indistinguishable permeability values for the membranes. permeation
+rates were independent of water volume. 4) the rates of water permeation
+through membranes prepared with mydgsom were indistinguishable from rates
+through myd32smy-derived membranes (figure s2, supporting information).
+although cross-link densities differ, both membranes are composed of >99 wt%
+dpes
+through membranes prepared with mwdasomy were indistinguishable from rates
+through myd32smy-derived membranes (figure s2, supporting information).
+although cross-link densities differ, both membranes are composed of >99 wt%
+liquid dimethylsiloxane. 5) the data labeled “open” and “al foil” are, respectively,
+for water evaporation through two fluoropolymer-taped washers with no
+membrane present and for an experiment with aluminum foil sandwiched
+between two silicone membranes. these data indicate that there are small but
+negligible leaks in this system.
+
+ 
+
+  
+ 
+
+igure 1 open in figure viewer | powerpoint
+
+permeability of gases in pdms. data are taken from ref. "9,
+figure 1 open in figure viewer | &powerpoint
+“details are in the caption following the image
+
+ 
+ 
+in publications!"®-"4 that include the words “rediscovering silicones” and “surprise
+from 1954” in their titles, our group has tried to re-emphasize the unique aspects
+of silicones that are well known, but are appreciated by a restricted number of
+modern researchers. our objectives are largely educational, to reverse the
+neglect that silicones have been shown in chemical science curricula, but also
+application-driven, to demonstrate that the special reactivity, structure, and
+properties of silicones can address current materials issues, such as surface
+modification for wetting control,[""'5] nanoimprint lithography,!"2i and self-
+healing materials.{"3)
+
+in this paper, we report the “rediscovery” of the anomalous water permeability of
+polydimethylsiloxane (pdms) and suggest that silicones may be useful for various
+applications including water purification and anti-icing. although pdms can be
+considered one of the most water-repellent materials,!"". "51 itis highly permeable
+to water vapor.!"6 researchers at dow corning were aware of this in the 1940s
+and recognized that pdms-treated boots repel water, but still permit the
+transmission of water vapor.©! this anomaly is most obviously exploited by
+moisture-cured silicone formulations (rtv-room temperature vulcanized)!"7: "81
+that rely on the rapid permeation of atmospheric water vapor. the abbreviation,
+pdms, deserves some comment as it is widely used to describe many different
+materials that contain dimethylsiloxane repeat units and most of these, including
+commercial rtv silicones, are cross-linked solids that are reinforced with silica. in
+
+fact. the seminal studv''®) of gas permeability in silicone membranes used pdms
+pdms, deserves some comment as it is widely used to describe many different
+
+materials that contain dimethylsiloxane repeat units and most of these, including
+commercial rtv silicones, are cross-linked solids that are reinforced with silica. in
+fact, the seminal study!" of gas permeability in silicone membranes used pdms
+samples that contained 33% by weight silica. this puts in question the role of
+silica in the water permeability data reported for these materials. although this
+1960s study!'® on pdms permeability quantitates the anomalous water vapor.
+transport, it focuses on other gases, comparisons with other polymers, and
+impressive applications involving air separation. the paper includes photographs
+of a hamster breathing in a silicone cage submerged in water and mice breathing
+in air that is derived from an artificial underwater gill, as well as a drawing of an
+underground fallout shelter with a membrane air regenerator. these flashy
+applications overshadow the value for water permeability in table 2 of this paper
+that is >100 times larger than the value for he and which is discussed only in
+terms of its interference with practical air separation. figure 1 shows data taken
+from this publication!" that is plotted to emphasize the special behavior of water
+permeating through pdms. the water repellency!"": "5] of pdms further
+emphasizes this anomaly.
+
+ 
+methylsilicones were invented""i at the general electric company (ge) in the late
+1930s with the vision of processable electrical insulators that contain no
+carbon—carbon bonds. this effort was inspired’! by research on phenylsilicones
+at corning glass works"! which was directed at preparing glass/polymer hybrid
+substances with new and different properties than then-available materials.
+interesting historical accounts of this research, with the drama of the impact of
+silicones on world war ii, have been published.'*.5! by the end of the war, both
+ge and dow corning (the joint venture was established in 1943) were marketing
+silicone rubber. both the development of fundamental silicone chemistry and
+the use of silicones in a wide range of applications"! were well underway in the
+1940s. the silicone industry has prospered over the subsequent seven decades
+and academic interest in silicones has followed, achieving a high point during the
+period when polyhedral oligomeric silsesquioxanes (poss) were reinvented as
+nanoparticles.®.$1
+
+ 
+
+; website utilizes technologies such as cookies to enable essential site functionality, as
+eted advertising. to learn more, view the following link: privacy policy
+
+ 
+
+ 
+abstract
+
+cross-linked polydimethylsiloxane (pdms) is simultaneously water-repellent
+and highly permeable to water vapor. unfilled and silica-free cross-linked
+pdms films of variable thickness (8-160 jum) are prepared and their water
+vapor transmission rates and permeability values are determined. vapor
+transmission rate increases as membrane thickness decreased from 160 to
+15 jim, but does not increase further when the film thickness is decreased to
+8 im. rate-limiting sorption is implicated as the cause of this effect and
+substantiated by a surface modification to enhance adsorption rate. water
+
+ 
+
+ 
+
+ 
+
+; website utilizes technologies such as cookies to enable essential site functionality, as
+eted advertising. to learn more, view the following link: privacy policy
+
+this kinetic regime, and vapor transmission rates as high as 60% of the
+transmission rates through air are measured. a mechanism for water
+permeation is offered based on those proposed for nanoscopically confined
+water in carbon nanotubes and aquaporins.
+ 
+
+sections
+se pof a tools < share
+; website utilizes technologies such as cookies to enable essential site functionality, as
+eted advertising. to learn more, view the following link: privacy policy
+
+el lan, yan wang, inomas j. mccartny bes
+
+first published: 28 december 2020 | https://doi.org/10.1002/marc.202000682 |
+citations: 26
++ m {ob tar rapid communications
+
+communication | & full access
+
+rediscovering silicones: the anomalous water
+permeability of “hydrophobic” pdms suggests
+nanostructure and applications in water purification
+and anti-icing
+x
+
+eestreme
+
+extreme networks
+
+get the ebook
+vr rar emts ret oey
+

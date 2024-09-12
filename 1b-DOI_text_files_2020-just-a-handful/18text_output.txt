@@ -1,0 +1,866 @@
+31.
+21.
+19.
+18.
+7.
+16.
+7.
+16.
+15.
+14.
+13.
+12.
+w
+12.
+w
+10.
+ 
+fig. 10. ace inhibitory activity of extracted heparin using different enzymes (2
+mg/ml). data are given as mean values # sd (n = 4). *“p< 0.05 depends on
+‘enzyme. ace, anti-angiotensin |-converting enzyme.
+
+download original figure
+ 
+fig. 8. coatest heparin assay of extracted heparin (a) standard calibration of,
+standard heparin unit, (b) determination of heparin unit amount per milligram.
+of extracted heparin using a coatest heparin assay. data are given as mean
+values + sd (n= 4) **p< 0.05 depends on enzyme in same organ.
+
+download original figure
+fig. 7. hplc analysis of extracted heparin (a) standard calibration curve of
+standard heparin amount, (8) determination of pure heparin amount per
+‘extracted gram of heparin using hplc. data are given as mean values + sd (n=
+3).*“p< 0.05 depends on enzyme in same organ.
+
+download original figure
+quantification of heparin by high-performance liquld chromatography (hplc)
+
+glycosaminoglycan-based materials such as heparin can be identified using various chromatographic methods such as hplc
+[25,27-29], uplc [30], and liquid chromatography-mass spectrometry (lc/ms) [31,32]. heparin is a strongly negatively charged
+substance [25,27-29]. when using reverse phase chromatography, heparin is first separated from the column by binding to a
+polar mobile phase. in this study, the small intestines contained the largest amount of heparin in 1 g of extracted heparin, and
+a relatively small amount of heparin was identified in the heart and stomach. this indicates that a high purity heparin is
+extracted in the small intestine and a low purity heparin is extracted in the heart and stomach. the statistical analysis,
+confirmed that there was a significant difference in the amount of pure heparin by enzyme in each by-product. as a result,
+high purity heparin can be obtained using trypsin is higher than the others in the liver, lungs, heart, and small intestine. in the
+large intestine, papain is higher than the others. in the stomach, heparin of similar purity was obtained by the three enzymes.
+the average amount of heparin extracted by enzymes was confirmed in the order of trypsin is greater than or equal to papain,
+alkaline-ak (figs. 7a and 78).
+
+» fig. 7. hplc analysis of extracted heparin (a) standard calibration curve of
+standard heparin amount, (8) determination of pure heparin amount per
+
+     
+
+large intestine, papain is higher than the others. in the stomach, heparin of similar purity was obtained by the three enzymes.
+the average amount of heparin extracted by enzymes was confirmed in the order of trypsin is greater than or equal to papain,
+alkaline-ak (figs. 7a and 78).
+
+fig. 7. hplc analysis of extracted heparin (a) standard calibration curve of
+standard heparin amount, (8) determination of pure heparin amount per
+‘extracted gram of heparin using hplc. data are given as mean values + sd (n=
+3). p< 0.05 depends on enzyme in same organ.
+
+ 
+
+coatest heparin assay
+
+download original figure
+
+ 
+
+coatest heparin assay quantifies the units of heparin. heparin is analyzed in the form of a complex with anti-thrombin
+present in the sample. the units/mg of extracted heparin were similar in almost all pig by-products, but heparin extracted
+from the stomach was found to contain the highest amount of heparin at an average of 2,670 units/mg. the liver showed
+significant differences in units extracted by enzymes, in the order of alkaline-ak and papain greater than trypsin. in the case of,
+the other by-products, there was a difference in the amount of extracted enzymes but there was no significant difference
+because the standard deviation was too large (figs. 8a and 88). however, the average amount of enzyme in the total by-
+products was in the order of papain and alkaline-ak greater than trypsin. it is assumed that the difference in the amounts of
+heparin in the same sample may be due to the proteolytic action of trypsin (serine peptidase) and papain (cysteine peptidase)
+b31.
+
+signiticant aitferences in units extracted by enzymes, in the order of alkaline-ak and papain greater than trypsin. in the case of
+the other by-products, there was a difference in the amount of extracted enzymes but there was no significant difference
+because the standard deviation was too large (figs. 8a and 88). however, the average amount of enzyme in the total by-
+products was in the order of papain and alkaline-ak greater than trypsin. it is assumed that the difference in the amounts of
+heparin in the same sample may be due to the proteolytic action of trypsin (serine peptidase) and papain (cysteine peptidase)
+b31.
+
+fig. 8. coatest heparin assay of extracted heparin (a) standard calibration of,
+standard heparin unit, (b) determination of heparin unit amount per milligram.
+of extracted heparin using a coatest heparin assay. data are given as mean
+values + sd (n= 4) **p< 0.05 depends on enzyme in same organ.
+
+     
+
+seerthare cen ny download original figure
+
+ 
+
+measurement of angiotensin |-converting enzyme inhibitory activity
+
+studies on the antihypertensive activity of heparin have been conducted since the 20th century. heparin inhibits the
+production of angiotensin by renin [12], and suppresses aldosterone secretion [11,13], and therefore is antihypertensive.
+based on the previous studies, an experiment was conducted to confirm whether heparin extracted through an ace inhibitory
+activity assay has antihypertensive activity that inhibits the production of angiotensin il (fig. 9). heparin extracted with papain
+had the highest antihypertensive activity (72.5%) and extracted heparin showed higher antihypertensive activity in alkaline-ak
+and trypsin (fig. 10). based on the results of the coatest heparin assay, it can be inferred that the treatment containing the
+highest amount of heparin showed higher ace inhibitory activity.
+
+production of angiotensin by renin [12], and suppresses aldosterone secretion [11,13], and therefore is antihypertensive.
+based on the previous studies, an experiment was conducted to confirm whether heparin extracted through an ace inhibitory
+activity assay has antihypertensive activity that inhibits the production of angiotensin il (fig. 9). heparin extracted with papain
+had the highest antihypertensive activity (72.5%) and extracted heparin showed higher antihypertensive activity in alkaline-ak
+and trypsin (fig. 10). based on the results of the coatest heparin assay, it can be inferred that the treatment containing the
+highest amount of heparin showed higher ace inhibitory activity.
+
+ 
+
+= fig. 9. mechanism of the renin angiotensin system. ace, anti-angiotensin i-
+pee converting enzyme.
+
+ 
+
+ 
+
+download original figure
+
+ 
+
+ 
+
+~ fig. 10. ace inhibitory activity of extracted heparin using different enzymes (2
+mg/ml). data are given as mean values + sd (n = 4). *“p< 0.05 depends on
+
+‘enzyme. ace, anti-angiotensin i-converting enzyme.
+
+ 
+
+ 
+
+ 
+
+download original figure
+
+ 
+
+ 
+
+ 
+
+measurement of antimicrobial activity
+
+in the case of s. aureus, 2 mg/ml heparin was added to a medium containing an initial bacterial count of 1.21 x 103 cfu/ml.
+
+ 
+
+ 
+
+ 
+
+ 
+
+measurement of antimicrobial activity
+
+in the case of s. aureus, 2 mg/ml heparin was added to a medium containing an initial bacterial count of 1.21 x 103 cfu/ml.
+heparin extracted by papain and alkaline-ak were shown to have an antimicrobial activity at low concentration (fig. 11).
+however, in the case of l. monocytogens, e. coli, and p. aeruginosa, all the treatments in the samples cultured for 12 h did not
+grow compared to the control, but an antibacterial effect of heparin was not found (fig. 11). as a result, the antimicrobial
+activity of the extracted heparin could not be confirmed and the regularity of the antimicrobial activity treatment by
+concentration could not be confirmed. these results suggest that there is no antibacterial activity of heparin against p.
+aeruginosa, or that the antimicrobial activity was not exhibited by using an excessive concentration of bacteria (fig. 11).
+
+   
+
+fig. 11. antimicrobial activity of extracted heparin using different enzymes in
+‘staphylococcus aureus, listeria monocytogenes, escherichia coll, pseudomonas
+aeruginosa (2 mg/ml).
+
+ 
+
+download original figure
+
+heparin can be extracted from pig by-products, and is used in the medical fields for anticoagulant purposes. heparin, which
+has been commercialized in the past, was limited to extractions from the pig small intestine, and heparin in other pig by-
+products was not utilized. various studies have been conducted to reduce the disposal cost of the discarded pig by-products
+and further industrialize them [1]. the current study carried out experiments on the extraction, quantification, and validation
+of heparin. in this study, heparin was extracted from not only the small intestine (as is usually done), but also from six other
+
+maior nig hv-nrnducts [ising various tunes nf nrotenlutic anzumes (nanain and alkalina-ak) it was confirmed that hanarin
+
+heparin can be extracted from pig by-products, and is used in the medical fields for anticoagulant purposes. heparin, which
+has been commercialized in the past, was limited to extractions from the pig small intestine, and heparin in other pig by-
+products was not utilized. various studies have been conducted to reduce the disposal cost of the discarded pig by-products
+and further industrialize them [1]. the current study carried out experiments on the extraction, quantification, and validation
+of heparin. in this study, heparin was extracted from not only the small intestine (as is usually done), but also from six other
+major pig by-products. using various types of proteolytic enzymes (papain and alkaline-ak), it was confirmed that heparin
+extraction could be similar to or greater than that of conventional enzyme extractions (trypsin), but using inexpensive and high
+titer enzymes. the above findings confirm that heparin can be extracted by a faster and simpler extraction method than the
+existing extraction method, and can verify the amount of heparin contained in the pig by-product. heparin was purified
+immediately after extraction and subjected to quantitative analysis to confirm the amount. as a result of measuring the purity
+of extracted heparin by hplc, extracted heparin from each enzyme showed similar purity. among them, heparin extracted
+from the liver and small intestine were shown to have the highest purity. the coatest heparin assay, which measures the
+units of heparin, indicated the highest extractions of heparin from the liver and heart. based on the total amount of liver, it
+was confirmed that pa-h (heparin extracted using papain) and ak-h (heparin extracted using alkaline-ak) contained more units
+than tr-h (heparin extracted using trypsin).
+
+ace inhibitory activity and antimicrobial activity were measured to verify the efficacy of the extracted heparin. in the ace
+inhibitory activity experiment, the activities were confirmed in the order of pa-h, ak-h, and tr-h. this was similar to the units of
+extracted heparin analyzed by the coatest heparin assay. based on these results, it could be assumed that high heparin
+content confers ace inhibitory activity. the antimicrobial activity of heparin (according to heparin units) was confirmed in s.
+aureus. no distinct antimicrobial activity was found against l. monocytogenes, e. coli, and p. aeruginosa, which may require
+further investigation.
+
+the results of this study are summarized as follows:
+
+1. the use of crude fat and protein generated during heparin extraction shortens the extraction time, and enzyme
+differentiation improved the efficiency of heparin extraction from pig by-products.
+
+2. data were presented to indicate the amount of heparin per pig by-product. the average amount of extracted heparin per
+
+further investigation.
+
+the results of this study are summarized as follows:
+
+1. the use of crude fat and protein generated during heparin extraction shortens the extraction time, and enzyme
+differentiation improved the efficiency of heparin extraction from pig by-products.
+
+2. data were presented to indicate the amount of heparin per pig by-product. the average amount of extracted heparin per
+kilogram of pig by-product was 439 mg from the liver, 127 mg from the lung, 398 mg from the heart, 261 mg from the
+stomach, 197 mg from the small intestine, and 239 mg from the large intestine.
+
+3, various enzymes were used to extract heparin, and the amount of extracted heparin was similar. based on the major pig
+by-products (from one pig), trypsin, papain, and alkaline-ak enzymes extracted 1,718 mg, 1,697 mg, and 1,905 mg heparin,
+respectively.
+
+4, heparin showed antihypertensive activity and antimicrobial activity against s. aureus, and confirmed the possibility as a
+material to prevent or suppress disease.
+
+for industrialization and mass production of heparin, it is important to establish a low-cost extraction process that can
+secure national competitiveness. therefore, in this study, a method to reduce the production cost of heparin and generate
+additional profits was developed by simplifying the process and using inexpensive alkaline-ak (1.3 million times cheaper than
+trypsin, and 2,000 times cheaper than papain). alkaline-ak enzyme extraction can obtain similar amounts of heparin compared
+to other enzymes and reduce the cost of the extraction process. extracting heparin after crude fat is removed can reduce the
+use of enzymes and generate additional profits. heparin’s ace inhibitory activity and antimicrobial activity, which have not
+been fully studied, were confirmed, confirming the potential of heparin as a drug. therefore, further investigation should be
+directed here in the future.
+
+ 
+
+competing interests
+
+no potential conflict of interest relevant to this article was reported.
+funding sources
+
+directed here in the future.
+
+competing interests
+
+no potential conflict of interest relevant to this article was reported.
+
+funding sources
+
+this work was supported by korea institute of planning and evaluation for technology in food, agriculture, forestry and
+fisheries (ipet) through high value-added food technology development program funded by ministry of agriculture, food and
+rural affairs (mafra) (118039-03-3-wto31). this research was supported by the chung-ang university graduate research
+scholarship in 2019.
+
+acknowledgements
+
+not applicable.
+
+availability of data and material
+
+upon reasonable request, the datasets of this study can be available from the corresponding author.
+
+authors’ contributions
+
+conceptualization: hur sj.
+methodology: lee dy, lee sy, kang hj.
+investigation: lee dy.
+
+writing - original draft: lee dy.
+
+writing - review & editing: park y, hur sj.
+
+ethics approval and consent to participate
+this article does not require irb/acuc approval because there are no human and live animal participants.
+
+writing - original draft: lee dy.
+writing - review & editing: park y, hur sj.
+
+ethics approval and consent to participate
+
+this article does not require irb/iacuc approval because there are no human and live animal participants.
+
+ 
+
+references
+1 choi jp. animal byproduct(blood) current status & usage. korean j food sci anim resour. 2013; 2:2-7
+google
+2 jeon kh. current production and utilization of animal by-products. korean j food sci anim resour. 2013;
+google
+3. yoon sy, lee dy, kim oy, lee sy, hur sj. development of commercially viable method of conjugated linoleic acid
+
+synthesis using linoleic acid fraction obtained from pork by-products. korean j food sci anim resour. 201
+grossret’® publimed | pmc || google
+
+138-693
+
+ 
+
+4. lee sy, yoon sy, lee dy, kim oy, kim hs, jung ey, et al. development of batch processing to obtain bioactive
+materials from pork byproducts. anim prod sci. 2020; 60:316-22
+crossret’ | google
+
+5. tyagi ak, kumar s, choudhury pk, tyagi b, tyagi n. conjugated linoleic acid producing potential of lactobacilli
+isolated from goat (axb) rumen fluid samples. asian-australas j anim sci. 2020; :33-1233
+crossret®) publied| pmc || google
+
+ 
+
+6 lee ms, kong j. heparin: physiology, pharmacology, and clinical application. rev cardiovasc med. 2015; 16:189-99
+google
+5. tyagi ak, kumar s, choudhury pk, tyagi b, tyagi n. conjugated linoleic acid producing potential of lactobacilli
+
+ 
+
+isolated from goat (axb) rumen fluid samples. asian-australas j anim sci. 2020; :33-1233
+crossret®) publied| pmc || google
+
+lee ms, kong j. heparin: physiology, pharmacology, and clinical application. rev cardiovasc med. 2015; 16:189-99
+google
+
+7. howell wh, holt e. two new factors in blood coagulation: heparin and pro-antithrombin. am j physiol. 1918;
+47328-41
+
+crossret | google
+
+8 petitou m, casu b, lindahl u. 1976-1983, a critical period in the history of heparin: the discovery of the
+antithrombin binding site. biochimie. 2003; 85:83-9
+crossret’ | google
+
+9. lever r, page cp. novel drug development opportunities for heparin. nat rev drug discovery. 2002; :1-140
+ccrossret 2 | publied || google
+
+10. sun w, han j, li q, jiao k. spectrophotometric and voltammetric studies on the interaction of heparin with crystal
+violet and its analytical application. s afr j chem. 2007; 60:42-6
+google
+
+11. abbott ec, gornall ag, sutherland dja, stiefel m, laidlaw jc. the influence of a heparin-like compound on
+hypertension, electrolytes and aldosterone in man. can med assoc j. 1966; 94:1155-64
+
+google
+
+12, sealey je, gerten jn, ledingham jgg, laragh jh. inhibition of renin by heparin. | clin endocrinol metab. 1967;
+
+11. abbott ec, gornall ag, sutherland dja, stiefel m, laidlaw jc. the influence of a heparin-like compound on
+hypertension, electrolytes and aldosterone in man. can med assoc j. 1966; 94:1155-64
+
+google
+
+12, sealey je, gerten jn, ledingham jgg, laragh jh. inhibition of renin by heparin. | clin endocrinol metab. 1967;
+27:699-705
+
+crossref publifjed google
+
+ 
+
+ 
+
+13, susie d, mandal ak, jovovic d, stojanov m, djordjevic-denic g, kentera d. antihypertensive action of heparin: role
+of the renin-angiotensin aldosterone system and prostaglandins. | clin pharmacol. 1993; 33:342-7
+crossref publifjed google
+14. droste c, jeraj ha, macdonald a, farrington k. stability and in vitro efficacy of antibiotic-heparin lock solutions
+potentially useful for treatment of central venous catheter-related sepsis. j antimicrob chemother. 2003; 51:849-
+55
+ccrossret 2 | publied || google
+15. miceli mh, bernardo sm, ku tn, walraven c, lee sa. in vitro analyses of the effects of heparin and parabens on
+candida albicans biofilms and planktonic cells. antimicrob agents chemother. 2012; 56:148-53
+grossret’® publimed | pmc || google
+16. hanno pm, fritz r, wein aj, mulholland sg. heparin as antibacterial agent in rabbit bladder. urology. 1978; 12:411-
+5
+crossret | google
+17. rosett w, hodges gr. antimicrobial activity of heparin. j clin microbiol. 1980; 11:30-4
+emecret | putlimad || pme || gnnnlo
+16. hanno pm, fritz r, wein aj, mulholland sg. heparin as antibacterial agent in rabbit bladder. urology. 1978; 12:411-
+5
+crossret | google
+17. rosett w, hodges gr. antimicrobial activity of heparin. j clin microbiol. 1980; 11:30-4
+crossret) publimed| pmc || google
+18. arciola cr, bustanji y, conti m, campoccia d, baldassarri l, samori 8, et al. staphylococcus epidermidis-fibronectin
+binding and its inhibition by heparin. biomaterials. 2003; 24:3013-9
+crossret | google
+19. charles af, scott da. studies on heparin |. the preparation of heparin. int j biol chem. 1933; 102:425-9
+google
+20. charles af, scott da. studies on heparin il. heparin in various tissues. int | biol chem. 1933; 102:431-5
+google
+21. charles af, scott da. studies on heparin ill. the purification of heparin. int j biol chem. 1933; 102:437-48
+google
+22. freeman l, posthuma r, gordon l, marx w. determination of tissue heparin. arch biochem biophys. 1957; 70:169-
+7
+crossret google
+23. volpi n. disaccharide analysis and molecular mass determination to microgram level of single sulfated
+
+glycosaminoglycan species in mixtures following agarose-gel electrophoresis. anal biochem. 1999; 273:229-39
+
+zz reeretf leet regal, mara wy. veces
+
+7
+crossret | google
+
+ 
+
+fun ur ussue hepat
+
+ 
+
+ 
+
+piupnys. 127, 28183
+
+23. volpi n. disaccharide analysis and molecular mass determination to microgram level of single sulfated
+glycosaminoglycan species in mixtures following agarose-gel electrophoresis. anal biochem. 1999; 273:229-39
+crossref publifjed google
+
+   
+
+24, sarwar ml, hussain ms, rauf a. heparin can be isolated and purified from bovine intestine by different techniques.
+int pharm sci invent. 2013; 2:21-5
+google
+25. arumugam m, shanmugam a. extraction of heparin and heparin-like substance from marine mesogastropod
+mollusc turritella attenuata (lamarck, 1779). indian j exp biol. 2004; 42:529-32
+google
+26. cushman dw, cheung hs. spectrophotometric assay and properties of the angiotensin-converting enzyme of
+
+rabbit lung. biochem pharmacol. 1971; 20:1637-48
+crossret’ | google
+
+27. delaney sr, leger m, conrad he. quantitation of the sulfated disaccharides of heparin by high performance liquid
+chromatography. anal biochem. 1980; 106:253-61
+crossret google
+
+28. trehy ml, reepmeyer jc, kolinski re, westenberger bj, buhse lf. analysis of heparin sodium by sax/hplc for
+contaminants and impurities. j pharm biomed anal. 2009; 49:670-3,
+crossref publifjed google
+
+crossret | google
+
+  
+
+28. trehy ml, reepmeyer jc, kolinski re, westenberger bj, buhse lf. analysis of heparin sodium by sax/hplc for
+contaminants and impurities. j pharm biomed anal. 2009; 49:670-3,
+crossref publifjed google
+
+29, imanarit, toida t, koshiishi |, toyoda h. high-performance liquid chromatographic analysis of glycosaminoglycan-
+derived oligosaccharides. j chromatogr a. 1996; 720:275-93,
+crossret google
+
+30. yang b, chang y, weyers am, sterner e, linhardt rj. disaccharide analysis of glycosaminoglycan mixtures by ultra-
+high-performance liquid chromatography-mass spectrometry. j chromatogr a. 2012; 1225:91-8
+grossret’® publimed | pmc || google
+
+31. auray-blais c, bhérer p, gagnon r, young sp, zhang hh, an y, et al. efficient analysis of urinary glycosaminoglycans
+by lc-ms/ms in mucopolysaccharidoses type |, il and vi. mol genet metab. 2011; 102:49-56
+ccrossret 2 | publied || google
+
+32. auray-blais c, lavoie p, zhang h, gagnon r, clarke jt, maranda b, et al. an improved method for
+glycosaminoglycan analysis by lc-ms/ms of urine samples collected on filter paper. clinica chimica acta. 2012;
+a13771-8,
+
+crossref publifjed google
+
+33. rawlings nd, barrett aj. evolutionary families of peptidases. biochem j. 1993; 290:205-18
+crossret) publied| pmc || google
+download excel table
+table 2. comparison of yield of heparin extracted from pig organs using three different enzymes
+
+ 
+
+liver 453 + 1028 391 £497 473 £228
+lung vg 211¢ 1122 18° 132213
+heart 3444115 359 + 62° 491 £26
+‘stomach 308 + 86° 196 + 19° 281 +79
+‘small intestine 195 + 64° 171+ 64° 224458
+large intestine 194.444? 266 + 28° 256 + 34
+
+extracted heparin yeld per original pig by-products 1 kg. data are given as mean values + sd (n = 3).
+
+  
+
+heart > soy 202" aul zo
+stomach 308 + 86° 196 +19" 281479"
+‘small intestine 195 2 64° 171 264° 224258"
+large intestine 1942.44 266 + 28° 256 £34”
+
+extracted heparin yield per original pig by-products 1 kg. data are given as mean values + sd (n= 3).
+
+p< 0.05 depends on organ.
+ 
+ 
+
+-s
+ace inhibitory «100 (9.1)
+
+where c is the absorbance value of the control, b is the absorbance value of the blank, and s is the absorbance value of
+standard heparin or extracted heparin.
+
+measurement of antimicrobial activity
+
+in order to measure the antimicrobial activity of heparin, four kinds of bacteria, listeria monocytogenes atcc 7644,
+pseudomonas aeruginosa kctc 1750 (= atcc 10145), escherichia coli atcc 25922, and staphylococcus aureus atcc 33591
+were used. the viable count of microorganisms was determined by counting the number of colonies formed after incubation
+at 37°c for 24 h. brain heart infusion broth and agar (bhib/bhia, bd difco™, franklin lakes, nj, usa) was used as culture
+‘media for culturing the bacteria. the bacteria cultured in bhib at 37°c for 12 h was inoculated bhia at 37°c for 24h to
+measure the number of viable microorganisms. based on the number of viable microorganisms, the bacteria cultured for 12h
+
+thence 4 ct doee ts
+
+iv order to measure the antimicrobial activity of heparin, four kinds of bacteria, listeria monocytogenes atcc 7644,
+pseudomonas aeruginosa kctc 1750 (= atcc 10145), escherichia coli atcc 25922, and staphylococcus aureus atcc 33591
+were used. the viable count of microorganisms was determined by counting the number of colonies formed after incubation
+at 37°c for 24 h. brain heart infusion broth and agar (bhib/bhia, bd difco™, franklin lakes, nj, usa) was used as culture
+‘media for culturing the bacteria. the bacteria cultured in bhib at 37°c for 12 h was inoculated bhia at 37°c for 24h to
+measure the number of viable microorganisms. based on the number of viable microorganisms, the bacteria cultured for 12h
+were diluted to 1 x 107 cfu/ml. then 0.625-10 mg/ml standard heparin was diluted 9:1 in the medium (medium: heparin).
+the cultured bacteria were divided into 96 cell culture plates (spl, pocheon, korea) for 0, 2, 4, 6, 8, 12, and 24h and analyzed
+using a microplate reader (elisa [enzyme-linked immunosorbent assay device], spectramax 190, molecular devices, san jose,
+ca, usa), and the relative antibacterial activity was calculated. for the extracted heparin, concentrations of 5-20 mg/ml were
+prepared and the turbidity of the culture was measured.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statistical analysis
+
+statistical analysis of the experiment was conducted by one-way anova using the spss 22.0 program (ibm, armonk, ny,
+usa). statistical significance was assessed using the multi-range test of student-newman-keuls’ and significance level of all
+data was evaluated based on p< 0.05.
+
+results and discussion
+
+pre-processing of pig by-products
+
+‘the amount of defatted pig by-product powder was significantly different among the organs. the liver, lungs, and heart had
+an average of about 19.5% of defatted-dried organ, and the stomach, small intestine, and large intestine, which are relatively
+hydrated, had 10.7% of defatted-dried organs (fig. 5). the amount of defatted pig by-product powder was 420 gin liver, 162 g
+in lung, 83 gin heart, 105 gin stomach, 161 gin small intestine, and 40 g in the large intestine (fig. 5) from 500 g of the pig by-
+product. this accounts for about 16% of the total 6 kg of pig by-product that are left after slaughter. the defatted-dried by-
+products are advantageous in delaying the decay of the by-products, thereby increasing the shelf life of the by-products, and
+reducing the cost of storage by reducing the volume of the sample.
+
+hydrated, had 10.7% of defatted-dried organs (fig. 5). the amount of defatted pig by-product powder was 420 gin liver, 162 g
+in lung, 83 gin heart, 105 gin stomach, 161 gin small intestine, and 40 g in the large intestine (fig. 5) from 500 g of the pig by-
+product. this accounts for about 16% of the total 6 kg of pig by-product that are left after slaughter. the defatted-dried by-
+products are advantageous in delaying the decay of the by-products, thereby increasing the shelf life of the by-products, and
+reducing the cost of storage by reducing the volume of the sample.
+
+fig. 5. defatted dry matter acquisition amount of pig by-products. data are given
+‘as mean values # sd (n= 3).
+
+ 
+
+download original figure
+
+ 
+
+heparin extraction in pig by-products
+
+‘the extraction rate of heparin from each by-product was based on the weight of pig by-products before manufacturing the
+defatted pig by-product powder. heparin was extracted at the highest rate in the liver and heart and was relatively low in the
+lung (fig. 6, table 2). these results indicate that the amount of heparin extracted from pig livers was similar to or greater than
+the results from a previous study [20]. the calculated amount of heparin extracted from total pig by-products was about 1,718
+mg extracted by trypsin, about 1,697 mg extracted by papain, and about 1,905 mg extracted by alkaline-ak enzyme (fig. 6,
+table 2). in the conventional heparin extraction methods, proteolytic enzymes such as trypsin are used to remove proteins,
+[19,20,22]. however, this study attempted to extract heparin using alkaline-ak, an industrial enzyme which is inexpensive, and
+a high titer enzyme, such as papain. alkaline-ak is a proteolytic enzyme obtained by fermenting soybean meal by-products,
+which is about 1.3 million times cheaper than trypsin and 2,000 times cheaper than papain. the extraction of heparin after the
+acquisition of crude fat using folch | reagent seems to reduce the final heparin extraction amount, but it generates additional
+benefits from the high value substances obtained in the crude fat.
+
+[19,20,22), however, this study attempted to extract heparin using alkaline-ak, an industrial enzyme which is inexpensive, and
+a high titer enzyme, such as papain. alkaline-ak is a proteolytic enzyme obtained by fermenting soybean meal by-products,
+which is about 1.3 million times cheaper than trypsin and 2,000 times cheaper than papain. the extraction of heparin after the
+acquisition of crude fat using folch | reagent seems to reduce the final heparin extraction amount, but it generates additional
+
+benefits from the high value substances obtained in the crude fat.
+
+fig. 6. extracted heparin yleld from pig by-products. data are given as mean
+values sd (n = 3). *<p< 0.05 depends on organ.
+
+download original figure
+
+ 
+‘measurement of angiotensin |-converting enzyme (ace) inhibitory activity
+
+ace inhibitory activity was measured according to the method of cushman and cheung [26], with slight modifications. ace
+solution was prepared by adding rabbit lung acetone powder (sigma-aldrich) at a concentration of 50 mg/ml to 0.01 m
+potassium phosphate buffer (ph 7.0) containing 0.5 m sodium chloride, stirring for 18 h, and centrifuging at 10,280xg for 60
+min to obtain the supernatant. hippuryl-his-leu (hhl) solution was prepared by mixing 0.05 m sodium tetraborate and 0.05 m
+boric acid to a ph of 8.3 and then adding hippuryl-1-histidyi-1-leucine to this 0.05 m sodium borate buffer (ph 8.3). then, 50 pl.
+of hhl was added to standard heparin or 50 il of extracted heparin, and the mixture was reacted at 37°c for 10 min. ace (50
+ll) was added to this and reacted at 37°c for 30-60 min. after that, 250 pil of 1n hci and 250 pl of ethyl acetate were added
+
+solution was prepared by adding rabbit lung acetone powder (sigma-aldrich) at a concentration of 50 mg/ml to 0.01 m
+potassium phosphate buffer (ph 7.0) containing 0.5 m sodium chloride, stirring for 18 h, and centrifuging at 10,280xg for 60
+min to obtain the supernatant. hippuryl-his-leu (hhl) solution was prepared by mixing 0.05 m sodium tetraborate and 0.05 m
+boric acid to a ph of 8.3 and then adding hippuryl-1-histidyi-1-leucine to this 0.05 m sodium borate buffer (ph 8.3). then, 50 pl.
+of hhl was added to standard heparin or 50 il of extracted heparin, and the mixture was reacted at 37°c for 10 min. ace (50
+ll) was added to this and reacted at 37°c for 30-60 min. after that, 250 pil of 1n hci and 250 pl of ethyl acetate were added
+and vortexed for 1 min. after completion of the reaction, the mixture was centrifuged at 1,977xg for 10 min. the 200 il of
+hippuric acid in the supernatant was added to a new tube and completely dried in a drying oven (wof-so, daihan scientific,
+wonju, korea). the dried sample was dissolved in 1 ml of water just before measurement and placed in a cuvette. the dried
+sample was measured using a uv/vis spectrophotometer (cary 300 uv vis, agilent technologies, santa clara, ca, usa) at a
+wavelength of 228 nm. to measure the antihypertensive activity of the sample, the control reaction was carried out by adding
+dw instead of the sample. after adding the substrate to the blank, the reacted value was measured by adding 0.05 m sodium
+borate instead of ace. the absorbance value was substituted into the following equation to evaluate the antihypertensive
+
+ 
+
+activity:
+ 
+coatest heparin assay
+
+heparin sodium salt from porcine intestinal mucosa (192 usp unit/mg, sigma-aldrich) was used as a standard heparin
+reagent for heparin unit analysis and was analyzed using coatest heparin (chromogenix, west chester, oh, usa). a coatest
+heparin kit (chromogenix) was used to measure the units of extracted heparin according to the manufacturer's instructions.
+standard solutions were prepared by dissolving the standard heparin in dw at concentrations of 0.2 iu/ml (1 j1g/9.6 ml), and
+the extracted heparin was analyzed at a concentration of 0.2 g/ml (fig. 4).
+
+ 
+
+heparin sodium salt from porcine intestinal mucosa (192 usp unit/mg, sigma-aldrich) was used as a standard heparin
+reagent for heparin unit analysis and was analyzed using coatest heparin (chromogenix, west chester, oh, usa). a coatest
+heparin kit (chromogenix) was used to measure the units of extracted heparin according to the manufacturer's instructions.
+standard solutions were prepared by dissolving the standard heparin in dw at concentrations of 0.2 iu/ml (1 j1g/9.6 ml), and
+the extracted heparin was analyzed at a concentration of 0.2 g/ml (fig. 4).
+
+cab" ch “aii"_““ir""_"e__ fig. 4, assay of standard/sample heparin
+
+wee oo4 download original figure
+sae
+
+(suisse ee |e]
+
+——1
+
+|e (oemteuserauce) ai ae ||
+oe
+
+sore) fae)
+
+ 
+download excel table
+ 
+ 
+abstract
+
+this study was conducted to develop an effective heparin extraction method by using low-cost and highly effective enzymes
+from six pig by-products (liver, lung, heart, stomach, small intestine, and large intestine), and analyze their bioavailability. low-
+cost and highly effective enzymes (alkaline-ak and papain) and a common enzyme (trypsin) were used for the heparin
+extraction. the angiotensin | - converting enzyme (ace) inhibitory activity and the antimicrobial activity of extracted heparin
+
+abstract
+
+this study was conducted to develop an effective heparin extraction method by using low-cost and highly effective enzymes
+from six pig by-products (liver, lung, heart, stomach, small intestine, and large intestine), and analyze their bioavailability. low-
+cost and highly effective enzymes (alkaline-ak and papain) and a common enzyme (trypsin) were used for the heparin
+extraction. the angiotensin | - converting enzyme (ace) inhibitory activity and the antimicrobial activity of extracted heparin
+were analyzed to verify their bioavailability. the average amount of heparin extracted per kilogram of pig by-products was 439
+mg from the liver, 127 mg from the lung, 398 mg from the heart, 261 mg from the stomach, 197 mg from the small intestine,
+and 239 mg from the large intestine. various enzymes were used to extract heparin, and the amount of extracted heparin was
+similar. based on 1 g of pig by-product, the enzymes trypsin, papain, and alkaline-ak could extract 1,718 mg, 1,697 mg, and
+1,905 mg of heparin, respectively. heparin extracted from pig by-products showed antihypertensive activity and antimicrobial
+activity against staphylococcus aureus at low populations. these results indicated that heparin can be obtained from pig by-
+products at a low cost.
+
+keywords: alkaline-ak; angiotensin |-converting enzyme (ace) inhibitory activity; antimicrobial activity; heparin extraction; pig
+by-products
+
+ 
+
+introduction
+
+despite increasing meat consumption, the use of slaughter by-products is limited owing to the increase in the volume of
+imported by-products, the lack of improvement in consumer awareness, and a lack of product development [1,2]. the efficient
+use of by-products from the meat production process is very important not only in reducing waste, but also in improving the
+efficiency of utilization of livestock products. although the utilization rate is not high owing to a low efficiency of extraction,
+there are many bioactive substances in meat by-products, such as heparin, collagen, chenodeoxycholic acid (cdca), and
+ursodeoxycholic acid (udca), conjugated linoleic acid (cla) [3-5].
+
+‘among the many bioactive substances in meat by-products, heparin is a compound carbohydrate that is an anticoagulant
+(blood thinner) to prevent blood clotting [6]. it is a polysaccharide of glycosaminoglycans with a strong negative charge and is
+found on the cell surface and in the extracellular matrix [6]. it was also confirmed in the 1950s that the activity of anti-
+efficiency of utilization of livestock products. although the utilization rate is not high owing to a low efficiency of extraction,
+there are many bioactive substances in meat by-products, such as heparin, collagen, chenodeoxycholic acid (cdca), and
+ursodeoxycholic acid (udca), conjugated linoleic acid (cla) [3-5].
+
+‘among the many bioactive substances in meat by-products, heparin is a compound carbohydrate that is an anticoagulant
+(blood thinner) to prevent blood clotting [6]. it is a polysaccharide of glycosaminoglycans with a strong negative charge and is
+found on the cell surface and in the extracellular matrix [6]. it was also confirmed in the 1950s that the activity of anti-
+thrombin was accelerated by heparin [7,8]. heparin is widely distributed in various tissues such as the lung, liver, blood, and
+intestinal tissues of higher animals, especially in the mast cells. heparin, which is used in laboratories and clinics, is generally
+extracted from the bovine heart or the small intestinal mucosa of swine, and is made into a calcium or sodium salt through
+enzymatic and chemical treatment [6].
+
+heparin is especially used for preventing of blood clotting during ventrotomy and organ transplantation, deep vein
+thrombosis, or heart thrombosis that develops as a result of blood circulatory deterioration. in addition, it has many biological
+functions, such as ant/-inflammatory, antithrombotic, antihyperlipidemic, and anti-arteriosclerotic properties, as well as
+anticoagulant function that inhibits thrombin activity [9, 10]. previous studies have shown that heparin inhibits the production
+of angiotensin by renin and inhibits aldosterone secretion, and ultimately has an antihypertensive effect [11-13]. infection and
+thrombosis are the most common complications of central venous catheters. various gram-positive and negative bacteria
+cause catheter-related sepsis through central venous catheter [14,15]. the antibacterial activity of heparin was confirmed in
+various bacteria related to the above [14-18].
+
+however, itis very expensive and time consuming to extract and purify heparin from pork by-products. moreover, there are
+no studies comparing the amount of heparin in each pig by-product. therefore, the purpose of this study was to develop a
+low- cost and highly efficient heparin extraction method in seven major pig by-products and analyze the anti-angiotensin i-
+converting enzyme (ace) inhibitory activity in the extracted heparin and the antimicrobial activity against pathogenic
+microorganisms.
+
+materials and methods.
+pre-processing of pig by-products
+
+low- cost and highly efficient heparin extraction method in seven major pig by-products and analyze the anti-angiotensin i-
+
+converting enzyme (ace) inhibitory activity in the extracted heparin and the antimicrobial activity against pathogenic
+microorganisms.
+
+materials and methods.
+pre-processing of pig by-products
+
+six pig by-products (liver, lungs, heart, stomach, small intestine, and large intestine) for the extraction of heparin were
+obtained from the dodram slaughter house (anseong, korea) and woo-gyeung livestock (hwaseong, korea). the pig by-
+products were transported to the laboratory and cleaned with tap water and then the bronchi connection to the lungs and
+esophageal connection to the stomach were severed, and the non-discharged digest inside and outside the organs was
+washed. after washing, the by-products were ground using a chopper, then subdivided, and stored frozen (fig. 1).
+
+a fig. 1. preparation of pig by-products.
+
+download original figure
+
+  
+
+heparin extraction in pig by-products
+
+methods for the extraction of heparin from pig by-products were described previously by charles and scott [19-21],
+freeman et al. [22], volpi [23], and sarwar [24] with modifications in order to simplify the extraction. folch | solution
+(chloroform-methanol mixture, 2:1 by volume) was added to the by-product samples and homogenized using a homogenizer
+(shg-15d-set, scilab-brand, seoul, korea) for autolysis. after shaking every 30 min for 3 h, the crude fat was extracted and the
+solution and by-product tissues were separated. the folch | solution used in the extraction of crude fat was separated by
+adding 0.88% nacl solution and left overnight. the chloroform layer (the lower layer) in which fat was precipitated was dried to
+
+methods for the extraction of heparin from pig by-products were described previously by charles and scott [19-21],
+freeman et al. [22], volpi [23], and sarwar [24] with modifications in order to simplify the extraction. folch | solution
+(chloroform-methanol mixture, 2:1 by volume) was added to the by-product samples and homogenized using a homogenizer
+(shg-15d-set, scilab-brand, seoul, korea) for autolysis. after shaking every 30 min for 3 h, the crude fat was extracted and the
+solution and by-product tissues were separated. the folch | solution used in the extraction of crude fat was separated by
+adding 0.88% nacl solution and left overnight. the chloroform layer (the lower layer) in which fat was precipitated was dried to
+
+ 
+
+obtain crude fat. the by-product tissue was rinsed once with 250 ml of acetone, completely dried at low temperature, and
+stored frozen. crude fat and protein obtained in the process of extracting heparin can be used to extract other high-value-
+added materials present in pig by-products (fig. 2).
+
+fig. 2. procedures of defatting/dehydration treatment of pig by-products.
+
+download original figure
+
+  
+
+‘the method for extracting heparin from dried by-products after degreasing proceeded on the basis of the amount of dry by-
+product powder. to 100 g of dried by-products, 1,460 ml of 0.5n naoh and 174 ml of saturated ammonium sulfate solution
+were added and the mixture was extracted in a water bath at 60°c for 30 min. using gauze, discard the solids and collect the
+solution. then, 7n sulfuric acid was added to the solution for titration to obtain a ph of 2, which formed a precipitate. this
+solution was centrifuged (combi 514r, hanil scientific, gimpo, korea) at 2,691 * g for raw min to remove the precipitate. the
+supernatant was extracted with 200 ml of 95% ethyl alcohol at 25°c for 20 h. the solution was centrifuged at 2,697xg for 20
+min to remove the supernatant, and 150 ml of alkaline water (ph 10) was added to the precipitate. for each experiment, 0.5%
+of alkaline-ak was added to the by-product amount in the above mixture, and trypsin and papain were added at 0.25% of the
+by-product amount. after addition of 300 pil xylene, the mixture was left at 60°c in a water bath (37°c for trypsin) for 12h. one
+hundred miililiters of 95% ethyl alcohol was added to the solution that had undergone proteolysis, and this was left for 20 h.
+sofaegh wise cee rzes smb! star paa leeare, gimibe, rores) se deb ls for vaw tain co remove the preeipeste the
+supernatant was extracted with 200 ml of 95% ethyl alcohol at 25°c for 20 h. the solution was centrifuged at 2,697xg for 20
+min to remove the supernatant, and 150 ml of alkaline water (ph 10) was added to the precipitate. for each experiment, 0.5%
+
+ 
+
+of alkaline-ak was added to the by-product amount in the above mixture, and trypsin and papain were added at 0.25% of the
+by-product amount. after addition of 300 pil xylene, the mixture was left at 60°c in a water bath (37°c for trypsin) for 12h. one
+hundred miililiters of 95% ethyl alcohol was added to the solution that had undergone proteolysis, and this was left for 20 h.
+the resulting precipitate was collected by centrifuging at 2.691%g for 30 min, and dissolved in 50 ml of alkaline water (ph 10).
+after addition of 25 ml of acetone, the mixture was stirred sufficiently, and the supernatant was removed by centrifugation at
+2.691xg for 30 min. then, 25 ml of 95% ethyl alcohol was added to the precipitate and incorporated thoroughly by stirring,
+and the precipitate was dried to obtain the heparin (fig. 3).
+
+g z ig & fig. 3. procedures of heparin extraction.
+
+ 
+
+ 
+
+download original figure
+
+ 
+
+quantification of heparin by high-performance liquid chromatography (hplc)
+
+heparin sodium salt from the porcine intestinal mucosa (192 usp unit/mg, sigma-aldrich, st. louis, mo, usa) was used as a
+heparin standard reagent for hplc analysis. quantification of extracted heparin from pig by-products was performed
+according to the method of arumugam and shanmugam [25], with slight modifications. standard solutions were prepared by
+dissolving the standard heparin in distilled water (dw) at concentrations of 0.625-10 mg/ml. for the extracted heparin, hplc
+analysis was carried out at a concentration of 2 mg/ml (table 1).
+
+table 1. high performance liquid chromatography (hplc) conditions for heparin analysis
+
+ 
+
+according to the method of arumugam and shanmugam [25], with slight modifications. standard solutions were prepared by
+dissolving the standard heparin in distilled water (dw) at concentrations of 0.625-10 mg/ml. for the extracted heparin, hplc
+analysis was carried out at a concentration of 2 mg/ml (table 1).
+
+table 1. high performance liquid chromatography (hplc) conditions for heparin analysis
+
+hplc model hp agilent 1100, hewlett packard, palo alto, ca, usa
+column fortis h20 cie (150 x 4.6 mm id, 5 ym)
+
+mobile phase distilled water (dw)
+
+injection volume 20 pl.
+
+flow rate 1mumin
+
+column temperature 30°c
+
+detector uv210nm
+ee oe re ot ec)
+
+j anim sci technol 2020; 62(6):933-947
+issn: 2672-0191, elssn: 2055-0391
+doi: https://doi.org/10.5187/jast.2020.62.6.933
+
+research article
+
+development of effective heparin extraction method from pig by-products and
+analysis of their bioavailability
+
+da young lee'@, seung yun lee'®, hea jin kang'@, yeonhwa park?@, sun jin hur’"@®
+
+check for updates
+
+author information & copyright ¥
+received: aug 28, 2020; revised: sep 15, 2020; accepted: sep 15, 2020
+
+published online: nov 30, 2020
+indexed in sci
+indexed in
+
+y j ast journal of animal science and technology
+

@@ -1,0 +1,2483 @@
+embodied rationality: a framework of human action in
+exploring a more reasonable temperature exposure
+calculation method based on individual exposure
+survey and city-scale heat exposure impact
+assessment
+
+2022, environmental research
+
+citation excerpt :
+...the daily pet indicator (pet mean, pet max, pet mean
+(>27.4°), pet phat, and pet dhat) are counted according to the
+hourly pet corresponding to the time of day of the hourly at data a
+higher value indicates a higher exposure. we assume that the
+threshold of health risks to the human body was 27.4 °c, which was
+referenced in hondula et al. (2021). a linear mixed-effects model
+(eq. 1) was used to fit five daily pet indicators and five daily at
+indicators, respectively...
+
+show abstract v
+=
+
+show abstract v
+a multi-sector causal network of urban heat
+vulnerability coupling with mitigation
+2022, building and environment
+
+citation excerpt :
+..for instance, in delhi, india, researchers found that low and
+moderate-income populations rarely appeared in expensive rental
+housing and highly greenspace [207]. last but not least, some
+studies also explored that low-income population groups were
+‘more inclined to have higher personal heat exposure, which means
+they may stay longer outside [208,208]. mitigation strategies can
+intervene in the causal network through both sectors of cause and
+effect...
+
+show abstract v
+repurposing mesoscale traffic models for insights into
+
+traveler heat exposure
+aaa tennenactation racaasch rack de tennenent and eminemenent
+
+repurposing mesoscale traffic models for insights into
+traveler heat exposure
+
+2023, transportation research part d: transport and environment
+
+show abstract v
+demographic disparity in diurnal surface urban heat
+island exposure across local climate zones: a case
+study of chongqing, china
+
+2024, science of the total environment
+
+show abstract v
+spatiotemporal dynamic mapping of heat exposure
+risk for different populations in city based on hourly
+multi-source data
+
+2024, sustainable cities and society
+
+show abstract v
+cited by (30)
+cited by (30)
+references
+
+bailey et al., 2020 e. bailey, c. fuhrmann, j. runkle, s. stevens, m.
+brown, m. sugg
+wearable sensors for personal temperature
+exposure assessments: a comparative study
+environ. res., 1 (180) (2020), p. 108858
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+basu and samet, 2002 r. basu, j.m. samet
+an exposure assessment study of ambient heat
+reese
+basu and samet, 2002 r. basu, j.m. samet
+an exposure assessment study of ambient heat
+exposure in an elderly population in baltimore,
+maryland
+environ. health perspect., 110 (12) (2002), pp. 1219-1224
+
+crossref 7 viewin scopus 7 google scholar 2
+
+berko et al. 2014 berko, j., ingram, d.d., saha, s., parker, j.d.,
+2014. deaths attributed to heat, cold, and other
+weather events in the united states, 2006-2010.
+national health statistics reports. us department of
+health and human services.
+
+google scholar 2
+
+bernhard et al., 2015 m.c. bernhard, s.t. kent, m.e. sloan, m.b.
+evans, l.a. mcclure, j.m. gohlke
+measuring personal heat exposure in an urban
+and rural environment
+environ. res., 1 (137) (2015), pp. 410-418
+view pdf _viewarticle view in scopus 7
+measuring personal heat exposure in an urban
+and rural environment
+environ. res., 1 (137) (2015), pp. 410-418
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+brook et al., 2011 r.d. brook, h.h. shin, r.l. bard, rt. burnett, a.
+vette, c. croghan, r. williams
+can personal exposures to higher nighttime and
+early-morning temperatures increase blood
+pressure?
+j. clin. hyperten., 13 (12) (2011), pp. 881-888
+
+crossref 7 viewin scopus 7 google scholar 2
+
+chuang and gober, 2015 w.c. chuang, p. gober
+predicting hospitalization for heat-related illness
+at the census-tract level: accuracy of a generic
+heat vulnerability index in phoenix, arizona
+(usa)
+environ. health perspect., 123 (6) (2015), pp. 606-612
+
+crossref a in scopus 7__google scholar 7
+heat vulnerability index in phoenix, arizona
+
+(usa)
+environ. health perspect., 123 (6) (2015), pp. 606-612
+
+crossref 7 viewin scopus 7 google scholar 2
+
+cohen, 1988 cohen, j., 1988. the effect size index: d.
+statistical power analysis for the behavioral sciences,
+2(1).
+
+google scholar 2
+
+ejike et al., 2017 c. bjike, l. wang, m. liu, w. wang, m. morishita,
+rl. bard, w. huang, j. harkema, s. rajagopalan, r.d. brook
+personal-level exposure to environmental
+temperature is a superior predictor of
+endothelial-dependent vasodilatation than
+outdoor-ambient level
+j. am. soc. hyperten., 11 (11) (2017), pp. 746-753
+
+view in scopus 7 google scholar
+
+fuetal., 2018 s.h. fu, a. gasparrini, p.s. rodriguez, p. jha
+mortality attributable to hot and cold ambient
+
+view in scopus 7 google scholar
+
+fuetal., 2018 s.h. fu, a. gasparrini, p.s. rodriguez, p. jha
+mortality attributable to hot and cold ambient
+temperatures in india: a nationally
+representative case-crossover study
+plos med., 15 (7) (2018), p. €1002619
+
+crossref 7 viewin scopus 7 google scholar 2
+
+gasparrini et al., 2015 a. gasparrini, y. guo, m. hashizume, e.
+lavigne, a. zanobetti, j. schwartz, a. tobias, s. tong, j.
+rockléy, b. forsberg, m. leone
+mortality risk attributable to high and low
+ambient temperature: a multicountry
+observational study
+lancet, 386 (9991) (2015), pp. 369-375
+h view pdf —viewarticle view in scopus
+google scholar 7
+
+gosling et al., 2009 s.n. gosling, j.a. lowe, g.r. mcgregor, m.
+pelling, b.d. malamud
+
+ 
+
+google scholar 2
+
+gosling et al., 2009. s.n. gosling, j.a. lowe, g.r. mcgregor, m.
+pelling, b.d. malamud
+associations between elevated atmospheric
+temperature and human mortality: a critical
+review of the literature
+climat. change, 92 (3-4) (2009), pp. 299-341
+
+crossref 7 viewin scopus 7 google scholar 2
+
+gronlund, 2014 cj. gronlund
+racial and socioeconomic disparities in heat-
+related health effects and their mechanisms: a
+review
+curr. epidemiol. rep., 1 (3) (2014), pp. 165-173
+crossref 7 google scholar 7
+
+gronlund et al., 2015 cj. gronlund, vj. berrocal, j.l. white-
+newsome, k.c. conlon, m.s. o'neill
+vulnerability to extreme heat by socio-
+demographic characteristics and area green
+
+ 
+
+ 
+
+gronlund et al., 2015 cj. gronlund, vj. berrocal, j.l. white-
+newsome, k.c. conlon, m.s. o'neill
+vulnerability to extreme heat by socio-
+demographic characteristics and area green
+space among the elderly in michigan, 1990-2007
+environ. res., 1 (136) (2015), pp. 449-461
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+harlan et al,, 2006 s.l. harlan, aj. brazel, l. prashad, w.l.
+stefanov, l. larsen
+neighborhood microclimates and vulnerability
+to heat stress
+soc. sci. med., 63 (11) (2006), pp. 2847-2863
+view pdf —viewarticle view in scopus
+google scholar 7
+
+harlan et al,, 2013 s.l. harlan, j.h. declet-barreto, w.l. stefanov,
+d.b., petitti
+neighborhood effects on heat deaths: social and
+harlan et al., 2013. s.l. harlan, }.h. declet-barreto, w.l. stefanov,
+d.b., petitti
+neighborhood effects on heat deaths: social and
+environmental predictors of vulnerability in
+maricopa county, arizona
+environ. health perspect., 121 (2) (2013), pp. 197-204
+
+crossref 7 viewin scopus 7 google scholar 2
+
+harlan et al,, 2019 s.l. harlan, p. chakalian, j. declet-barreto, d.m.
+hondula, g.d. jenerette
+pathways to climate justi
+metropolis
+lr. mason, j. rigg (eds.), people and climate change:
+vulnerability, adaptation, and social justice, oxford
+university press (2019), p. 23
+
+ 
+
+in a desert
+
+crossref 7 google scholar 7
+
+hass and ellis, 2019 a.l. hass, k.n. ellis
+using wearable sensors to assess how a
+heatwave affects individual heat exposure,
+perceptions, and adaption methods
+
+ 
+
+ 
+
+hass and ellis, 2019 a.l. hass, k.n. ellis
+using wearable sensors to assess how a
+heatwave affects individual heat exposure,
+perceptions, and adaption methods
+int. j. biometeorol,, 14 (2019)
+1-1
+google scholar 7
+
+hoehne et al., 2018 c.g. hoehne, d.m. hondula, my. chester, d.p.
+eisenman, a. middel, a.m. fraser, l. watkins, k. gerster
+heat exposure during outdoor activities in the
+us varies significantly by city, demography, and
+activity
+health place, 1 (54) (2018)
+google scholar 7
+
+hondula et al. 2015 d.m. hondula, r.e. davis, mv. saha, c.r.
+wegner, lm. veazey
+geographic dimensions of heat-related mortality
+in seven us cities
+wegner, lm. veazey
+geographic dimensions of heat-related mortality
+in seven us cities
+environ. res., 1 (138) (2015), pp. 439-452
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+hondula et al. 2014 _d.m. hondula, m. georgescu, r.c. balling jr
+challenges associated with projecting
+urbanization-induced heat-related mortality
+sci. total environ., 15 (490) (2014), pp. 538-544
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+jenerette et al., 2016 g.d. jenerette, $.l. harlan, a. buyantuey, w.l.
+stefanov, j. declet-barreto, b.l. ruddell, sw. myint, s.
+kaplan, x. li
+micro-scale urban surface temperatures are
+related to land-cover features and residential
+heat related health impacts in phoenix, az usa
+landscape ecol., 31 (4) (2016), pp. 745-760
+related to land-cover features and residential
+heat related health impacts in phoenix, az usa
+landscape ecol., 31 (4) (2016), pp. 745-760
+
+crossref 7 viewin scopus 7 google scholar 2
+
+karner et al., 2015 a. karner, d.m. hondula, j.k. vanos
+heat exposure during non-motorized travel:
+implications for transportation policy under
+climate change
+j. transp. health, 2 (4) (2015), pp. 451-459
+view pdf —viewarticle view in scopus
+google scholar 7
+
+kennard et al., 2020 h.r. kennard, g.m. huebner, d. shipworth
+observational evidence of the seasonal and
+demographic variation in experienced
+temperature from 77 743 uk biobank
+participants
+j. public health, 42 (2) (2020), pp. 312-318
+
+crossref 7 viewin scopus 7 google scholar 2
+
+participants
+
+j. public health, 42 (2) (2020), pp. 312-318
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+kuras et al., 2015 e.r. kuras, d.m. hondula, j. brown-saracino
+heterogeneity in individually experienced
+temperatures (iets) within an urban
+neighborhood: insights from a new approach to
+measuring heat exposure
+int. j. biometeorol,, 59 (10) (2015), pp. 1363-1372
+
+crossref 7 viewin scopus 7 google scholar 2
+
+kuras et al., 2017 e.r. kuras, m.b. richardson, m.m. calkins, k.l.
+ebi, jj. hess, k\w. kintziger, m.a. jagger, a. middel, a.a.
+scott, j.t. spector, c.k. uejio
+opportunities and challenges for personal heat
+exposure research
+environ. health perspect., 125 (8) (2017), p. 085001
+
+view in scopus 2 google scholar 7
+
+exposure research
+environ. health perspect., 125 (8) (2017), p. 085001
+
+view in scopus 2 google scholar 7
+
+kuras et al., 2016 e. kuras, m. munoz, s. betzel, c. dastan, j.
+eneboe, m. kam, l. rohan-kohl, m. sevig, m. singh, d.
+hondula
+data set: individually experienced temperatures:
+a heat exposure study in five greater phoenix, az
+area neighborhoods (2014)
+
+environ. data initiative (2016),
+10.6073/pasta/cba2173a40671a80350c772f3da3214f a
+
+google scholar 2
+
+lee et al,, 2016 m. lee, l. shi, a. zanobetti, j.d. schwartz
+study on the association between ambient
+temperature and mortality using spatially
+resolved exposure data
+environ. res., 1 (151) (2016), pp. 610-617
+th view pdf viewarticle crossref 7
+
+goole scholar a
+environ. res., 1 (151) (2016), pp. 610-617
+
+th view pdf viewarticle crossref 7
+google scholar 2
+
+  
+
+lietal, 2014 d. li, e. bou-zeid, m. oppenheimer
+the effectiveness of cool and green roofs as
+urban heat island mitigation strategies
+environ. res. lett., 9 (5) (2014), p. 055002
+
+crossref 7 viewin scopus 7 google scholar 2
+
+mangiafico, 2016 s.s. mangiafico
+summary and analysis of extension program
+evaluation in r
+rutgers cooperative extension, new brunswick, nj, usa
+(2016), pp. 16-22
+google scholar 7
+
+martinez-nicolas et al., 2015 a. martinez-nicolas, m. meyer, s.
+hunkler, j.a. madrid, m.a. rol, a.h. meyer, a. schétzau, s.
+orgiil, k. kréuchi
+daytime variation in ambient temperature
+‘martinez-nicolas et al., 2015 a. martinez-nicolas, m. meyer, s.
+hunkler, j.a. madrid, m.a. rol, a.h. meyer, a. schétzau, s.
+orgiil, k. kréuchi
+daytime variation in ambient temperature
+affects skin temperatures and blood pressure:
+ambulatory winter/summer comparison in
+healthy young women
+physiol. behav., 1 (149) (2015), pp. 203-211
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+mild et al., 2020 c. mila, a. curto, a. dimitrova, v. sreekanth, s.
+kinra, j.d. marshall, c. tonne
+identifying predictors of personal exposure to air
+temperature in peri-urban india
+sci. total environ., 10 (707) (2020), p. 136114
+
+ 
+
+view pdf viewarticle view in scopus 7
+google scholar 2
+
+modesti et al., 2013 p.a. modesti, m. morabito, l. massetti, s. rapi,
+s. orlandini, g. mancia, g.f. gensini, g. parati
+
+oo es
+
+modesti et al., 2013 p.a. modesti, m. morabito, l. massetti, s. rapi,
+s. orlandini, g. mancia, g.f. gensini, g. parati
+seasonal blood pressure changes: an
+independent relationship with temperature and
+daylight hours
+hypertension, 61 (4) (2013), pp. 908-914
+
+view in scopus 2 google scholar 7
+
+national oceanic and atmospheric administration, 2016 national
+oceanic and atmospheric administration (noaa)
+comparative climatic data. available from:
+https: //www.nedc.noaa.gov/ghcn/comparative-
+climatic-data 7 (accessed 2016 june 10).
+
+google scholar 2
+
+national oceanic and atmospheric administration, 2019 national
+oceanic and atmospheric administration (noaa) daily
+data listing. available from: http:|/xmacis.rcc-acis.org/
+
+” (accessed 2019 june 10).
+
+google scholar 2
+
+ 
+
+data listing. available
+” (accessed 2019 june 10).
+
+google scholar 2
+
+odhiambo sewe et al., 2018 m. odhiambo sewe, a. bunker, v.
+ingole, t. egondi, d. oudin astrém, d.m. hondula, j. rocklév,
+b. schumann
+estimated effect of temperature on years of life
+lost: a retrospective time-series study of low-,
+middle-, and high-income regions
+environ. health perspect., 126 (1) (2018), p. 017004
+google scholar 7
+
+ott et al, 2006 wr. ott, ac. steinemann, la. wallace
+exposure analysis
+crc press (2006)
+google scholar 7
+
+ozkaynak et al., 2013 h. ozkaynak, l.k. baxter, k.l. dionisio, j.
+burke
+air pollution exposure prediction approaches
+
+ 
+
+burke
+
+air pollution exposure prediction approaches
+used in air pollution epidemiology studies
+
+j. exposure sci. environ. epidemiol., 23 (6) (2013), pp. 566-572
+
+crossref 7 viewin scopus 7 google scholar 2
+
+petitti et al., 2013 d.b. petitti, s.l. harlan, g. chowell-puente, d.
+ruddell
+occupation and environmental heat-associated
+deaths in maricopa county, arizona: a case-
+control study
+plos one, 8 (5) (2013), p. e62596
+
+crossref 7 viewin scopus 7 google scholar 2
+
+petitti et al., 2016 d.b. petitti, d.m. hondula, s. yang, s.l. harlan,
+g. chowell
+multiple trigger points for quantifying heat-
+health impacts: new evidence from a hot climate
+environ. health perspect., 124 (2) (2016), pp. 176-183
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ 
+
+multiple trigger points for quantifying heat-
+health impacts: new evidence from a hot climate
+environ. health perspect., 124 (2) (2016), pp. 176-183
+
+crossref 7 viewin scopus 7 google scholar 2
+
+reid et al., 2009 c.e. reid, m.s. o'neill, cj. gronlund, sj. brines,
+d.g. brown, av. diez-roux, j. schwartz
+mapping community determinants of heat
+vulnerability
+environ. health perspect., 117 (11) (2009), pp. 1730-1736
+
+crossref 7 viewin scopus 7 google scholar 2
+
+rstudio team, 2019 rstudio team, 2019. rstudio: integrated
+development for r. rstudio, inc., boston, ma url
+http://wwwarstudio.com/ 7.
+
+google scholar 2
+
+ruddell et al., 2012 d. ruddell, s.l. harlan, s. grossman-clarke, g.
+‘chowell
+scales of perception: public awareness of
+regional and neighborhood climates
+
+ruddell et al., 2012 d. ruddell, s.l. harlan, s. grossman-clarke, g.
+‘chowell
+scales of perception: public awareness of
+regional and neighborhood climates
+clim. change, 111 (3-4) (2012), pp. 581-607
+
+crossref 7 viewin scopus 7 google scholar 2
+
+runkle et al., 2019 j.d. runkle, c. cui, c. fuhrmann, s. stevens, j.
+del pinal, m.m. sugg
+evaluation of wearable sensors for physiologic
+monitoring of individually experienced
+temperatures in outdoor workers in
+southeastern us
+environ. int,,1 (129) (2019), pp. 229-238
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+sampson et al., 2013 n.r. sampson, c). gronlund, m.a. buxton, l.
+catalano, .l. white-newsome, k.c. conlon, m.s. o'neill, s.
+
+mccormick, e.a. parker
+sn
+
+ 
+
+sampson et al., 2013 n.r. sampson, cj. gronlund, m.a. buxton, l.
+catalano, j.l. white-newsome, k.c. conlon, m.s. o'neill, s.
+mccormick, e.a. parker
+staying cool in a changing climate: reaching
+vulnerable populations during heat events
+glob. environ. change, 23 (2) (2013), pp. 475-484
+view pdf —viewarticle view in scopus
+google scholar 7
+
+ 
+
+signorell et al., 2016 signorell, a., aho, k., alfons, a., anderegg,
+n., aragon, t., arppe, a., 2016. desctools: tools for
+descriptive statistics. r package version 0.99, 18.
+
+ 
+
+google scholar 2
+
+sugg et al. 2018 m.m. sugg, c.m. fuhrmann, j.d. runkle
+temporal and spatial variation in personal
+ambient temperatures for outdoor working
+populations in the southeastern usa.
+
+int. j. biometeorol., 62 (8) (2018), pp. 1521-1534
+crossref 7 in scopus 7__google scholar 7
+populations in the southeastern usa.
+
+int. j. biometeorol., 62 (8) (2018), pp. 1521-1534
+
+h view at publisher 7 — crossref 7
+
+view in scopus 2 google scholar 7
+
+sugg et al. 2019 m.m. sugg, s. stevens, j.d. runkle
+estimating personal ambient temperature in
+moderately cold environments for
+occupationally exposed populations
+environ. res., 1 (173) (2019), pp. 497-507
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+tung et al., 2014 c.h. tung, c.p. chen, kt. tsai, n. kantor, r.l.
+hwang, a. matzarakis, t.p. lin
+outdoor thermal comfort characteristics in the
+hot and humid region from a gender perspective
+int. j. biometeorol., 58 (9) (2014), pp. 1927-1939
+
+crossref 7 viewin scopus 7 google scholar 2
+ucjio et al., 2018 c.k. uejio, lh. morano, j. jung, k. kintziger, m.
+
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+uejio et al., 2018 c.k. uejio, lh. morano, j. jung, k. kintziger, m.
+jagger, j. chalmers, t. holmes
+occupational heat exposure among municipal
+workers
+int. arch. occupat. environ. health, 91 (6) (2018), pp. 705-715
+
+crossref 7 viewin scopus 7 google scholar 2
+
+wright et al., 2020 m.k. wright, d.m. hondula, p.m. chakalian, l.c.
+kurtz, l. watkins, cj. gronlund, l. larsen, e. mallen, s.l.
+harlan
+social and behavioral determinants of indoor
+temperatures in air-conditioned homes
+build. environ., 1 (183) (2020), p. 107187
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+wuetal., 2019 cy. wu, b.f. zaitchik, s. swarup, j.m. gohlke
+influence of the spatial resolution of the
+
+ 
+
+ 
+
+google scholar 2
+
+wu etal, 2019 c¥.wu, b.f zaitchik, s. swarup, j.m. gohlke
+influence of the spatial resolution of the
+exposure estimate in determining the
+association between heat waves and adverse
+health outcomes
+ann. am. assoc. geograph. 109 (3) (2019), pp. 875-886
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zeger et al., 2000 s.l. zeger, d. thomas, f. dominici, j.m. samet, j.
+schwartz, d. dockery, a. cohen
+exposure measurement error in time-series
+studies of air pollution: concepts and
+consequences
+environ. health perspect., 108 (5) (2000), pp. 419-426
+
+view in scopus 7 google scholar
+© further information on research data 7
+individually experienced temperatures: a heat
+exposure study in five greater phoenix, az
+
+area neighborhoods (2014)
+original data
+
+this dataset contains information collected during a study about
+individually experienced temperatures (iets) within and between
+neighborhoods in phoenix, arizona. in september 2014, 80
+
+research participants were recruited from  phoenix-area
+this dataset contains information collected during a study about
+
+individually experienced temperatures (iets) within and between
+neighborhoods in phoenix, arizona. in september 2014, 80
+research participants were recruited from s phoenix-area
+neighborhoods and equipped with air temperature sensors that,
+recorded iets as they went about their daily lives.
+
+get data from environmental data initiative 71
+2 download : download acrobat pdf file (1006kb)
+
+supplementary data 2.
+
+research data for this article
+appendix a. supplementary material
+
+4, download all supplementary files @ what's this? 7
+included with this article
+
+4, download all supplementary files @ what's this? 7
+included with this article
+
+the following are the supplementary data to this article:
+
+£1] download : download xml file (1kb)
+
+supplementary data 1.
+acknowledgements
+
+we are deeply indebted to all of the research participants
+who made the study possible through their involvement and
+. :
+we are deeply indebted to all of the research participants
+who made the study possible through their involvement and
+community partners that helped with advertising and
+recruiting. this work was supported in part by a quick
+response grant from the natural hazards center at the
+university of colorado boulder (nsf grant 1333610) and the
+central arizona-phoenix long term ecological research
+program (nsf grants 1026865 and 1832016). christopher
+dastan supported data collection and analysis as an
+undergraduate research assistant. we benefited from the
+sound advice of many mentors and collaborators, especially
+erik johnston, lance watkins, and marcia nation at arizona
+state university and chris sutherland and the quantitative
+consulting group at the university of massachusetts
+amherst.
+declaration of competing interest
+
+the authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+credit authorship contribution statement
+
+david m. hondula: conceptualization, methodology,
+investigation, software, formal analysis, data curation,
+writing - original draft, writing - review & editing,
+supervision, project administration, funding acquisition.
+evan r. kuras: conceptualization, methodology,
+investigation, software, formal analysis, data curation,
+writing - original draft, writing - review & editing,
+supervision, project administration, funding acquisition.
+summer betzel: methodology, investigation, writing -
+review & editing. lauren drake: methodology, investigation,
+writing - review & editing. jason eneboe: methodology,
+investigation, writing - review & editing. miranda kaml:
+methodology, investigation, writing - review & editing. mary
+munoz: methodology, investigation, writing - review &
+editing. mara sevig: methodology, investigation, writing -
+
+ 
+
+ 
+
+ 
+
+ 
+
+methodology, investigation, writing - review & editing. mary
+munoz: methodology, investigation, writing - review &
+editing. mara sevig: methodology, investigation, writing -
+review & editing. marianna singh: methodology,
+investigation, writing - review & editing. benjamin l.
+ruddell: conceptualization, methodology, writing - review &
+editing, supervision, project administration, funding
+acquisition. sharon l. harlan: . : conceptualization,
+methodology, writing - review & editing, supervi
+administration, funding acquisition.
+
+   
+
+ 
+5. conclusions
+
+in this manuscript, we have closely examined a suite of
+metrics that can be used to quantify personal heat exposure
+and to link personal heat exposure to so.
+were motivated to undertake this analysis to address a
+conceptual shortcoming in published environmental health
+
+  
+
+isk factors. we
+
+and to link personal heat exposure to social risk factors. we
+were motivated to undertake this analysis to address a
+conceptual shortcoming in published environmental health
+literature to date that implicates variability in personal heat
+exposure as a key driver of variability in adverse heat-health
+outcome. we found that the extent to which risk factors were
+statistically associated with personal heat exposure was
+sensitive to both metric choice and study time frame (day
+hours, night hours, or all hours). distinguishing and
+integrating daytime (e.g., occupation) exposure from
+nighttime (e.g., residential) exposure may be an important
+consideration for future research as well as in the design of
+interventions and policies that aim to protect public health.
+
+ 
+
+our results also show that variability in personal heat
+exposure may be a causal pathway linking certain social risk
+factors to differential heat-health outcomes. of four social
+risk factors we examined, time spent outdoors was
+significantly related to many personal heat exposure metrics
+with a moderate effect size. income and neighborhood were
+also associated with significant differences in heat exposure,
+‘smncanty teatea wo miaily personal near exposare niettics—
+with a moderate effect size. income and neighborhood were
+also associated with significant differences in heat exposure,
+mostly for nighttime metrics. to the best of our knowledge,
+this study is one of the first to demonstrate such links
+empirically. time spent outdoors is rarely explicitly
+operationalized in the temperature-health literature and thus
+more data related to individual time-activity patterns could
+improve heat-health risk assessments.
+
+ 
+
+ 
+
+ 
+
+finally, consistent with other recent studies, we found that
+personal heat exposure and outdoor ambient temperatures
+were not well correlated, and that the association between
+personal and ambient temperatures varied widely among
+study participants. we recommend additional research that
+can relate personal heat exposure metrics to physiological
+indicators for heat-health risk to better understand which
+metrics, especially those other than the mean, are most
+appropriate and useful, and for whom. with these insights in
+hand, we will be better equipped to imagine and implement
+interventions that can make a difference for the people most
+at risk in an increasingly hot world.
+
+hand, we will be better equipped to imagine and implement
+interventions that can make a difference for the people most
+at risk in an increasingly hot world.
+
+ 
+
+ 
+4.4, limitations and recommendations
+
+some limitations of our study are common to all personal
+heat exposure research. for example, it is possible that
+participants underreported the amount of time that they did
+
+ 
+
+some limitations of our study are common to all personal
+heat exposure research. for example, it is possible that
+participants underreported the amount of time that they did
+not carry their ibuttons, in which case indoor air
+temperatures were oversampled. it is also possible that
+participants deviated from the study protocol and
+wore/carried their ibuttons in an inconsistent manner (e.g.,
+on the head or neck instead of near the waist). in most cases
+associated errors in iets should be random and not bias
+subsequent analysis and interpretation (bailey et al., 2020).
+further, it would have been useful to include parameters of
+heat exposure beyond air temperature (e.g., humidity) or to
+capture geographic sources of high exposure (e.g., through
+gps data).
+
+we also did not explicitly connect heat exposure with
+thermal discomfort and adverse health events. it is tempting
+to think that exposure metrics beyond the mean may be
+more informative about ultimate heat-health risks, but
+drawing firm conclusions would have required a different
+study design, such as the use of biometric or physiological
+more informative about ultimate heat-health risks, but
+drawing firm conclusions would have required a different
+study design, such as the use of biometric or physiological
+data. there are at least six studies published within the past
+20years that relate measures of personal heat exposure to
+certain physiological endpoints (basu and samet, 2002, brook
+et al., 2011, modesti et al., 2013, martinez-nicolas et al., 2015,
+ejike et al., 2017, runkle et al., 2019). those studies generally
+report significant associations between personal exposure
+metrics and physiological indicators, and report that those
+associations were superior to those based on outdoor
+ambient temperatures. however, they did not investigate
+how those associations might vary with different personal
+exposure metrics. regardless of which metric best correlates
+to physiological response, we believe that there is merit to
+understanding the full experience of heat by examining a
+suite of metrics and seeing how they compare to the mean,
+which has been treated as the assumed gold standard widely
+in the literature, perhaps without good reason.
+
+ 
+
+the associations we observed between social risk factors and
+
+ 
+
+ 
+
+in the literature, perhaps without good reason.
+
+the associations we observed between social risk factors and
+exposure metrics are based on a cross-sectional study and do
+not necessarily indicate causal relationships. while our
+decision regarding which social risk factors to examine was
+informed by contemporary literature regarding heat
+vulnerability and heat-health outcomes, we cannot eliminate
+the possibility that there are critical unmeasured
+confounders. finally, we used participant-day as the unit of
+analysis, but other time frames (e.g., participant-hour) might
+also be important to examine. we focused on participant-day
+for consistency with the majority of epidemiological heat-
+health studies that use day as the temporal unit of analysis.
+many of the metrics we calculated do account for sub-daily
+variability in exposure. further investigation of the most
+relevant and applicable time frames for personal heat
+exposure analysis is warranted.
+
+4.5. implications for policy and practice
+
+organizations charged with protecting public health
+
+4.5. implications for policy and practice
+
+organizations charged with protecting public health
+increasingly look for opportunities to improve interventions
+imed at reducing heat-related morbidity and mortality and
+to improve warm season quality of life. our results suggest
+that those involved in the planning and implementation of
+such measures would be well-advised to conceptualize the
+causal pathway between aml
+interest in the populations they intend to serve. different
+levels of exposure may be an important driver of elevated
+risk for some populations, whereas other populations might
+be at higher risk because of elevated physiological
+susceptibility or other factors. this study suggests that not all
+heat vulnerable populations experience heat in the same way
+and, therefore, intervention measures should be specifically
+focused on reducing personal heat exposure in ways that
+target those groups. for example, nighttime, rather than
+daytime, personal heat exposure was associated with living
+in a heat vulnerable neighborhood. accordingly, intervention
+measures focused on reducing heat exposure for populations
+daytime, personal heat exposure was associated with living
+in a heat vulnerable neighborhood. accordingly, intervention
+measures focused on reducing heat exposure for populations
+living in such areas must be effective at night--and it is clear
+that different intervention strategies, even those focused
+specifically on urban cooling, have differential effects at
+different times of day (hondula et al., 2014, li et al., 2014).
+
+ 
+
+ 
+
+ 
+
+nt heat and outcomes of
+
+ 
+
+for decision makers such as the united states occupational
+safety and health administration and state-level equivalents,
+our results suggest that more messaging and resources
+should be directed toward individuals who spend
+considerable time outdoors in the warm season. these efforts
+could include strengthening protections and resources for
+outdoor workers, which have been described as insufficient
+in our study region for preventing adverse heat-health
+outcomes (petitti et al., 2013). we also encourage public
+health entities, electrical utilities, researchers, and city
+governments to ensure that intervention programs and
+policies related to heat do not deprioritize residents simply
+based on the presence of a central air conditioning in one’s
+
+ 
+
+based on the presence of a central air conditioning in one’s
+home. access to ac was not associated with lower heat
+exposure among the participants of this study. wright et al.
+(2020) similarly reported a high level of variability in indoor
+temperatures among homes all equipped with ac in central
+arizona. the high cost of energy for homeowners and
+negligence of landlords prevents some people from using ac.
+we should continue and expand efforts to target lower-
+income individuals and communities with programs that can
+reduce personal heat exposure, either through community
+cooling initiatives or creating easier ways for people to find
+access to cooler spaces, outdoors or
+
+ 
+
+finally, although we did not conduct a formal evaluation of
+the outreach and educational engagement associated with
+this research, our interactions with study participants
+suggested that this study raised new questions and interest in
+the topic of urban heat. exit surveys revealed that
+participants generally felt very comfortable collecting
+personal heat exposure data, and a majority of participants
+
+of urban heat. exit surveys revealed that
+participants generally felt very comfortable collecting
+personal heat exposure data, and a majority of participants
+were interested to learn about future research opportunities
+related to urban heat. the most common motivation
+participants cited for engaging in the study was to help
+research, especially student researchers. we are hopeful that
+some participants have found opportunities to leverage their
+involvement in this project and the associated personalized
+reports they received to pursue socioenvironmental changes
+in their own lives and communit
+participants’ experiences and post-study outcomes would be
+a useful addition to future personal heat exposure studies.
+
+ 
+
+ 
+
+‘s. formal evaluation of
+4.1. nuances in personal heat exposure are
+revealed with a suite of iet metrics and
+stratification by time of day
+
+the five metrics we tested for characterizing personal heat
+exposure revealed different patterns between groups’
+exposures at the scale of participant-days than would have
+emerged with the analysis of one metric alone. while our
+‘exposure revealed different patterns between groups’
+exposures at the scale of participant-days than would have
+emerged with the analysis of one metric alone. while our
+methods and findings largely conform to the established
+personal heat exposure research paradigm, we go further by
+using metrics that capture exposure frequency and duration
+(eg. pmat and lep), rather than intensity alone
+iet). the most common focus in personal heat exposure
+research published to date has been the mean, although
+metrics equivalent to pmat have also been examined (e.g.,
+hass and ellis, 2019). we found strong evidence that mean
+iet is a good, but perhaps not optimal, measure for assessing
+groupwise differences in exposure. if mean iet was the only
+variable that we had examined, we would have reached
+roughly the same conclusions regarding the effect of the
+independent variables. however, in some cases, we would
+have underestimated effect sizes, or reached different
+outcomes with respect to statistical significance.
+
+ 
+
+we also found that the time frame over which metrics were
+calculated influenced our conclusions. not only did we find
+that nav hours and nicht hours eynasures are wealdy __
+we also found that the time frame over which metrics were
+calculated influenced our conclusions. not only did we find
+that day hours and night hours exposures are weakly
+correlated, we also found that some associations between
+independent variables and exposure metrics were very
+different between day and night. there have been multiple
+personal heat exposure studies regarding the nature of
+workplace heat exposure (e.g,, uejio et al., 2018, runkle et al.,
+2019), which are often tied to daytime conditions. while our
+study did not focus on workplace exposures specifically, our
+analysis indicates that separation of daytime (often work and
+school time) and nighttime (often residential and sleeping
+time) periods for analysis is necessary to characterize
+diversity in individuals’ cumulative thermal experiences.
+these results support the notion that temperature-health
+epidemiological studies that link attributes of patients or
+decedents to their place of residence are only capturing a
+portion of the information that would be helpful to
+understand the magnitude and causal determinants of
+variability in heat exposure. it seems likely to us that some of
+
+  
+
+ 
+
+ 
+
+understand the magnitude and causal determinants of
+ity in heat exposure. it seems likely to us that some of
+the unexplained variance in prior temperature-health
+analyses, including modest correlations between various
+vulnerability indices and heat-health outcomes, is related to
+our reliance to date on residential address as the source of
+key demographic and environmental attributes that influence
+exposure (and perhaps other components of vulnerability
+and risk) (see harlan et al., 2013, chuang and gober, 2015,
+hondula et al., 2015).
+
+ 
+
+vari.
+
+4.2. personal heat exposure may be a causal link
+between some risk factors and heat-health
+outcomes
+
+the association between heat and health outcomes depends
+on many variables including the physiological susceptibility
+of the population and its adaptive capacity. few studies have
+explored the extent to which exposure is a contributing
+
+factor to that association. we found evidence to suggest that
+variability in exposure may be an important link in the causal
+explored the extent to which exposure is a contributing
+
+factor to that association. we found evidence to suggest that
+variability in exposure may be an important link in the causal
+pathway between heat and health outcomes, particularly for
+certain individual-level variables. for example, consistent
+with prior research (bernhard et al., 2015), we found that the
+amount of time spent outside and income were associated
+with personal heat exposure.
+
+ 
+
+variability in personal heat exposure by income is consistent
+with epidemiological literature that reports differences in
+heat-related morbidity and mortality between different
+income groups (e.g., harlan et al., 2013, gronlund et al., 2015).
+our results support the widely held assumption that
+differences in exposure between individuals with different
+incomes are at least part of the reason why there is an
+association between income and heat-related morbidity and
+mortality. we encourage more research that probes the
+underlying causal mechanisms that lead lower-income
+individuals to have higher personal heat exposure
+(particularly at night) and the relative influence of those
+
+ 
+
+underlying causal mechanisms that lead low
+individuals to have higher personal heat exposure
+(particularly at night) and the relative influence of those
+causal mechanisms in different geographic and cultural
+contexts. hypothesized mechanisms include access to and
+use of effective air conditioning and other cooling devices,
+type of employment, and place of residence and employment
+within the varied microclimates of urban areas.
+
+income
+
+of the four social risk factors we examined, time spent
+outside was the factor most strongly and consistently
+associated with personal heat exposure. it is thus concerning
+that sub-daily time-activity patterns have not been
+sufficiently incorporated into heat-health research (but see
+martinez-nicolas et al., 2015). activity patterns may be a
+source of unexplained variance, or possibly an unmeasured
+confounding variable, in population-scale and daily-timescale
+studies (following gronlund, 2014, mila et al., 2020).
+unfortunately, individual sub-daily time-activity pattern data
+are difficult to obtain at scale and difficult to couple with
+medical records. to complete this connection, we encourage
+
+ 
+
+ 
+
+are difficult to obtain at scale and difficult to couple with
+medical records. to complete this connection, we encourage
+more use of large-scale data sets like the american time use
+survey in personal heat exposure and heat-health research
+(eg., hoehne et al. 2018), and also innovative strategies to
+capture time-activity patterns in panel and cross-sectional
+studies that do not overly burden research participants.
+ethnographic research is also essential to know with
+sufficient detail where people are when they are outside, why
+they are in those locations, and the extent to which certain
+protective measures are used and under what circumstances.
+
+the location of our study in a hot setting may influence time-
+activity patterns. in metro phoenix, outdoor activities are
+often carefully planned to coincide with lower temperatures
+whenever possible. due to the high temperatures in metro
+phoenix, it is possible that time spent outside has a larger
+effect on personal heat exposure compared with other
+regions, or that due to people’s intentionality around outdoor
+activities, it is a more salient indicator of people's agency (or
+lack thereof) compared to elsewhere. to the best of our
+regions, or that due to people’s intentionality around outdoor
+activities, it is a more salient indicator of people's agency (or
+lack thereof) compared to elsewhere. to the best of our
+knowledge, our study is the first to extend iet research into a
+hot, arid region and we encourage researchers to explore iets
+in other understudied climate zones and engage in cross-city
+comparisons.
+
+ 
+
+neighborhood vulnerability was associated with personal
+heat exposure during the night hours time frame with small
+effect sizes. this finding supports the notion that differences
+in housing conditions within a residentially segregated city
+(e.g. harlan et al., 2019) have the greatest impact on
+exposure disparities while people are most likely at home.
+the lack of associations between home cooling type and
+personal heat exposure likely emerged because our survey
+questions only asked about the presence of a central air
+conditioner rather than anything regarding how participants
+use air conditioning or other cooling devices. we anticipate
+that there is significant heterogeneity in air conditioning use
+among the participants who own a unit, driven in part by
+
+ 
+
+ 
+
+ 
+
+use air conditioning or other cooling devices. we anti
+that there is significant heterogeneity in air conditioning use
+among the participants who own a unit, driven in part by
+differences in income, preference, dwelling quality, air
+conditioning age and efficiency, and other factors (e.g.,
+sampson et al., 2013, wright et al., 2020).
+
+ 
+
+4.3. suitability of outdoor ambient temperatures
+as a proxy for personal exposure
+
+similar to other recent studies (e.g., bernhard et al., 2015,
+sugg et al., 2019), we found that outdoor ambient
+temperatures as measured at a fixed-point weather station
+are only modestly associated with personal exposures. the
+heterogeneity in individual-level iet slopes and correlation
+coefficients that we observed provides additional insights
+into the nature of personal heat exposure and the role of the
+outdoor environment in shaping that exposure.
+
+the slope of the linear regression lines between iet and
+outdoor ambient temperature may serve as a type of
+sensitivity indicator, quantifying by how much indi
+
+ 
+
+ual
+the slope of the linear regression lines between iet and
+outdoor ambient temperature may serve as a type of
+sensitivity indicator, quantifying by how much individual
+exposure changes per unit change in outdoor temperatures.
+the median all hours slope for our sample, 0.32°c/°c, falls
+near other values previously reported for full samples both
+during the warm season (0.37°c/°c, bernhard et al., 2015) and
+cool season (0.22°c/°c, sugg et al., 2019). however, we also
+found that some individuals had much steeper slopes
+(approaching 1.0), some had slopes near zero, and a few
+individuals had slopes less than zero—indicating that their
+iets are lower during hotter time periods. the personal heat
+exposure of individuals with steeper slopes is more sensitive
+to changes in outdoor temperature: on hotter days, steep
+slope individuals experience higher temperatures than they
+do on cooler days. this seems to be the paradigm around
+which many existing heat response strategies, like early
+warning systems, are designed, in that they try to encourage
+behavior change or make other resources available on the
+hottest days. however, individuals with slopes close to zero,
+or even below zero, might also be at risk from heat if they are
+
+  
+
+behavior change or make other resources available on the
+hottest days. however, individuals with slopes close to zero,
+or even below zero, might also be at risk from heat if they are
+constantly exposed to high temperatures, and different
+response strategies are likely needed to help such individuals.
+
+outdoor ambient temperatures are clearly insufficient to fully
+explain individual-level variability in personal heat exposure.
+we observed a median correlation coefficient between
+outdoor temperature and iets of 0.44 during all hours, and
+near 0.10 for day hours and night hours. as such, for the
+median participant, outdoor temperatures explained less
+than 20% of the variance in all hours iets and roughly 1%
+during day hours and night hours. if those findings are more
+broadly applicable, individual-level variations in personal
+heat exposure likely represent a source of considerable
+exposure misclassification in heat-health literature,
+particularly in studies that use fixed-point measures of air or
+surface temperatures to represent the exposure of individuals
+or groups. because personal heat exposure is a more
+physiologically relevant indicator than outdoor ambient
+surface temperatures to represent the exposure of individuals
+or groups. because personal heat exposure is a more
+physiologically relevant indicator than outdoor ambient
+temperature (e.g., brook et al., 2011, ejike et al., 2017), greater
+attention to, measurement, and modeling of personal heat
+exposure can likely improve our understanding of the
+relationship between outdoor condition and human health
+outcomes. furthermore, because the relationship between
+outdoor ambient temperature and personal heat exposure is
+neither strong nor consistent between individuals, heat
+mitigation strategies designed to lower outdoor temperatures
+will clearly have differential impacts for different
+populations. we encourage special attention to the places,
+people, and circumstances for which reductions in outdoor
+temperature would meaningfully impact personal heat
+exposure.
+4. discussion
+
+this study contributes to a growing body of personal heat
+exposure research that highlights the value of precision
+measurements in identifying risk factors among a population.
+we demonstrated the feasibility of collecting simultaneous
+personal heat exposure data from dozens of residents over a
+one- week period. this contribution is notable because the
+total number of published studies on personal heat exposure,
+while growing, remains small, suggesting continued
+opportunities to advance study design and rigor. next, we
+revealed differences in the characterization of exposure
+based on metric choice, which may compel further thinking
+about the different intensities, frequencies, and durations of
+
+ 
+
+revealed differences in the characterization of exposure
+based on metric choice, which may compel further thinking
+about the different intensities, frequencies, and durations of
+exposure that are of interest for health risk analysis. finally,
+we found robust links between social risk factors and
+personal heat exposure (as measured via iets) among a
+sample of residents of metro phoenix. this finding adds to
+our understanding of causal pathways that relate ambient
+conditions to differences in heat-health and quality of life
+outcomes among urban residents. below we discuss findings
+and limitations related to the latter contributions in more
+detail.
+income was the second strongest determinant of heat
+exposure in this study based on the number of significant
+effects and overall effect sizes. lower income residents had
+higher iet metrics than higher income residents using all
+metrics in all time frames, although statistically significant
+effects were mostly evident for night hours. the strongest
+ion was with night hours mean iet (0.38), and all
+metrics except for dmat had a significant association during
+
+associ;
+
+ 
+
+effects were mostly evident for night hours. the strongest
+association was with night hours mean iet (0.38), and all
+metrics except for dmat had a significant association during
+that time frame (fig. 5, right panel). neighborhood
+vulnerability was associated with significant variability in
+mean and max iet for night hours, with small effect sizes.
+finally, home cooling type was not significantly associated
+with any of the 15 iet metrics we examined.
+
+different iet metrics revealed generally similar patterns with
+respect to the impact of social risk factors on exposure. we
+observed a high degree of consistency concerning the sign of
+effects across different metrics; cases where the sign of the
+effect varied for different iet metrics all involved estimates
+near the null. among the social risk factors that had at least
+ificant effect, iet metric choice had modest impacts
+on effect size estimates, which in some cases resulted in
+some metrics being associated with a significant effect and
+others not. for example, the effect of hours out was nearly
+50% larger on night hours lep than night hours mean iet
+(0.29 versus 0.20), and only the former was significant.
+‘oilers hot. for example, the etfect of hours out was early —
+50% larger on night hours lep than night hours mean iet
+(0.29 versus 0.20), and only the former was significant.
+similarly, the effect of income on night hours mean iet was
+nearly 50% larger than the effect on night hours dmat (0.38
+versus 0.26). the specific metrics that yielded the strongest
+(or weakest) effect sizes varied across time frames and social
+risk factors; no iet metrics were clearly or consistently
+associated with the strongest (or weakest) effects.
+
+one sij
+
+ 
+
+3.3. objective 3: exposure misclassification
+
+associations between outdoor ambient temperature (as
+measured at phoenix sky harbor airport) and iet varied
+widely across study participants, as measured by the slope of
+linear regression lines between outdoor ambient temperature
+and iet as well as the correlation coefficient (fig. $3). for
+most participants, slopes and correlation coefficients were
+positive (but modest) for all hours. however, the average
+slope and correlation coefficient approached zero when
+examining day hours and night hours alone.
+
+ 
+
+slope and correlation coefficient approached zero when
+examining day hours and night hours alone.
+
+the median all hours slope was 0.32°c/°c (iqr: 0.18-0.49°c/
+°c), and there was a negative relationship between all hours
+outdoor ambient temperature and iet for only four out of 64
+participants (6.25%). the distribution of the slopes shifted to
+the left and was wider for day hours and night hours, with a
+median day hours slope of 0.14°c/°c (-0.12-0.40°c/°c) and
+median night hours slope of 0.03°c/°c (-0.08-0.20°c/°c).
+nearly one-third of participants had a negative slope for day
+hours and almost half had a negative slope for night hours.
+the highest slope observed for any participant and time
+frame was 1.64°c/°c, during day hours.
+
+there was a modest and positive correlation between all
+hours outdoor ambient temperature and iet (median r=0.44,
+iqr: 0.29-0.56). as was the case for slope, the distribution of
+correlation coefficients shifted to the left for day hours and
+night hours, with median coefficients close to zero in both
+cases (r=0.08 and ution of
+correlation coefficients was notably wider for night hours
+night hours, with median coefficients close to zero in both
+cases (r=0.08 and r=0.11, respectively). the distribution of
+correlation coefficients was notably wider for night hours
+(iqr: -0.17-0.48) than day hours (iqr: -0.07-0.29) or all
+hours. night hours correlation coefficients nearly spanned
+the entire range of possible values.
+
+  
+
+  
+ 
+
+-==
+
+ 
+
+2
+
+low medium ‘high higher midgle lower
+hours out income
+
+download : download high-res image (150k8)
+
+download : download full-size image
+
+fig. 5. notched box plots comparing the distribution of
+personal heat exposure metrics between groups of study
+participants. the panels shown here illustrate differences in
+(left) all hours mean iet between participants with a low,
+medium, or high number of hours out, and (right) night
+hours mean iet between higher, middle, and lower income
+participants. white and blue boxes correspond to all hours
+
+ 
+
+hours mean iet between higher, middle, and lower income
+participants. white and blue boxes correspond to all hours
+and night hours, respectively. red asterisks indicate that the
+confidence interval does not include zero. notch inversions
+(which appear as “horns,” such as for the higher income
+group in the left panel) indicate confidence limits that extend
+beyond the first or third quartile. the complete set of these
+figures for all 90 statistical tests are available in the
+supplemental materials (fig. $2). (for interpretation of the
+references to colour in this figure legend, the reader is
+referred to the web version of this article.)
+35 ly
+ 
+income
+3.2. objective 2: variability in personal heat
+exposure
+
+3.2. objective 2: variability in personal heat
+exposure
+
+variation in some of the iet metrics we examined was
+explained, in part, by variables commonly identified as risk
+factors for adverse heat-health outcomes in the
+environmental health literature. this assessment was
+sensitive to both the choice of iet metric and exposure time
+frame. of the 60 associations we tested, there were 19 with a
+statistically significant effect (table 2). of those, the sign of
+the effect was in the hypothesized direction in all cases. more
+generally, across the 60 models, the sign of the effect was in
+the hypothesized direction with at least a small effect size
+(r>0.1) on 36 occasions (60%). effect sizes were generally
+modest; the strongest effects were approximately 0.44, which
+is considered medium by conventional benchmarks. there
+were no associations with even a small effect size with a sign
+in the opposite of the hypothesized direction.
+
+     
+
+table 2. estimated effect sizes for differences in personal heat
+exposure metrics between hypothesized high exposure and
+
+table 2. estimated effect sizes for differences in personal heat
+exposure metrics between hypothesized high exposure and
+low exposure groups. values shown in the table are the
+kendall tau-b correlation coefficients with bonferroni-
+corrected confidence intervals below each effect size
+estimate in parentheses. positive values indicate higher
+personal heat exposure in the hypothesized high exposure
+group. bold values with an asterisk indicate statistically
+ignificant differences between groups (where confidence
+intervals exclude zero); for variables with three groups, only
+differences between the highest and lowest groups are
+reported.
+
+ 
+
+ 
+
+all hours
+risk factors mean max lep pmat 1
+neighborhood 0.07 0.02 0.01 -0.03 (
+
+(-0.09,0.23) (-0.14,0.19) (-0.16,0.17) (-0.19,0.14) (
+
+income 0.26" 0.13 0.23 0.13 (
+
+(-0.09,0.23) (-0.14,0.19) (-0.16,0.17) (-0.19,0.14) (
+income 0.26" 0.13 0.23 013 c
+(0.01,0.51) (-0.13,0.38) (-0.02,0.48) (-0.13,0.39) (
+
+home cooling 0.06 0.07 0.02 -0.03 -
+
+type (-0.11,0.22) (-0.25,0.11) (-0.170.21) (-0.21,0.15) (
+
+hoursout 0.37" o.a1* 0.42" 037° (
+
+(0.13,0.61) (0.19,0.62) (0.20.63) (0.14,0.6) (
+
+7 >
+
+mean iet was the exposure metric most consistently
+associated with significant effects, accounting for five of the
+19 significant effects. max iet, lep, and pmat were each
+associated with four significant effects. there were more
+
+ant models (eight) for night hours than for all hours
+(six) or day hours (five). however, the specific models that
+were significant varied considerably by time frame. below we
+more thoroughly examine the suite of model results, first
+focusing on variation across the independent variables, and
+
+ 
+
+were significant varied considerably by time frame. below we
+more thoroughly examine the suite of model results, first
+focusing on variation across the independent variables, and
+second focusing on variation across the iet metrics.
+
+of the four independent variables we examined, hours out
+was the most strongly and consistently associated with
+variation in the iet metrics between hypothesized low and
+high exposure groups. iet metrics were higher for residents
+with many hours of outdoor time than those with the fewest
+hours of outdoor time. for day hours, and all hours, there
+was a medium, positive, and significant effect of hours out
+onall five iet metrics. effects remained positive but were
+weaker and not statistically significant for night hours, with
+the exception of night hours lep and pmat. hours out was
+associated with the strongest effects we observed in any
+model (0.43 for mean for day hours, which corresponds to an
+average iet difference of 2.8°c between two groups of
+participants over a gh period; fig. 5, left panel).
+download : download high-res image (209k8)
+
+download : download full-size image
+
+fig. 4. correlation table for five personal heat exposure
+metrics measured across three different time frames.
+
+each cell. all
+.05.
+
+spearman correlation coefficients are shown ii
+correlations are statistically significant at p=
+
+ 
+
+ 
+the all hours mean iet averaged across all participant-days
+was 27.6°c. mean iets were higher during day hours than
+night hours by 3.0°c, on average. participants experienced an
+equally wide range in iets during both time frames
+(approximately 15.9°c). the distribution of mean iets was
+relatively symmetric during all three time frames (fig. s1 and
+table $4).
+
+the four other metrics were characterized by different
+jistributions and patterns than mean iet. max iet, for
+example, was highest during all hours and exceeded 40°c for
+some participant-days. other metrics had skewed
+istributions and/or long tails (e.g,, lep, dmat), or spanned
+the full range of possible values (i.e., pmat). complete
+summary statistics and histograms for all metrics are
+ributions and/or long tails (e.g,, lep, dmat), or spanned
+the full range of possible values (i.e., pmat). complete
+summary statistics and histograms for all metrics are
+available in the supplemental materials (table $4 and fig. s1).
+
+ 
+
+   
+
+ 
+
+   
+
+we observed a wide range of correlations between the 15 iet
+summary metrics (fig. 4); the metrics are clearly not fully
+redundant with one another, although there is overlap
+between certain pairs and groups of metrics. the all hours
+mean iet was fairly well correlated (r20.62) with all other
+metrics, including those based on day hours and night
+hours. we also observed that all correlations between
+metrics calculated for day hours and night hours were
+relatively weak (r<0.35).
+
+ 
+40
+1500,
+
+  
+  
+
+    
+
+  
+
+lep (minutes)
+
+ 
+
+     
+
+pmat (% of dpmat (% of observations)
+dmat (degr| dmat (degree-minutes)
+
+25
+
+°
+timeframe e53 all hours 3 dayhours bb night hours
+
+download : download high-res image (294k8)
+
+download : download full-size image
+
+fig. 3. box plots illustrating the distribution of personal heat
+exposure metrics. the panels illustrate, from left to right,
+mean iet, max iet, lep, pmat, and dmat. within each panel,
+the three boxes represent the all hours time frame, day
+hours, and night hours, respectively. the middle line, notch,
+hinges, and whiskers respectively represent the median, the
+95% confidence interval for comparing medians, the
+interquartile range, and 1.5 times the interquartile range.
+points beyond whiskers are outliers. notch inversions (which
+appear as “horns,” such as for dmat night hours) indicate
+interquartile range, and 1.5 times the interquartile range.
+points beyond whiskers are outliers. notch inversions (which
+appear as “horns,” such as for dmat night hours) indicate
+confidence intervals that extend beyond the first or third
+quartile.
+3.1. objective 1: metric description and
+comparison
+
+iet summary metrics suggested a wide range in participants’
+thermal exposure (fig. 3 and table $4). we found that
+participant-day observations of 11 of the 15 metrics were
+poorly approximated by the normal distribution based on the
+shapiro-wilks normality test (table $4), motivating the use
+of non-parametric techniques for comparative analyses.
+
+1500
+oe . 100
+40 4 i] 1
+
+ 
+3.1. objective 1: metric description and
+3. results
+3. results
+2.4. social risk factors
+
+we examined four independent variables that were
+suggested by previous research to be linked with heat
+vulnerability in the study region (e.g., harlan et al., 2013,
+jenerette et al, 2016). the four social risk factors were:
+neighborhood vulnerability, income, home cooling type,
+and hours out. neighborhood vulnerability reflected a
+categorical classification of participants’ neighborhoods of
+
+ 
+
+ghboriood vamneral
+and hours out. neighborhood vulnerability reflected a
+categorical classification of participants’ neighborhoods of
+residence based on the heat vulnerability index developed
+by reid et al. (2009) and used by harlan et al. (2013) in
+phoenix. it represents a higher-level contextual effect
+compared to variables representing individual study
+participants. income questions were asked of each
+participant in a background survey. home cooling type
+indicated the types of cooling devices available in
+participants’ homes; we used a binary classification to
+indicate participants that had central air conditioning. hours
+out reflected the amount of time that participants reported
+spending outside on daily surveys completed during the
+study period. all survey responses were coded into
+categorical variables with two or three groups. specific
+details on the calculation of these variables, including
+questions from daily and background surveys from which
+these variables were derived, are available via kuras et al.
+(2016) and in table $3.
+
+ 
+
+ 
+
+these variables were derived, are available via kuras et al.
+
+(2016) and in table $3.
+
+2.5. analysis
+
+for the first objective, we calculated spearman correlation
+coefficients between each of the pairwise combinations of
+summary iet metrics to understand the extent to which they
+captured different aspects of exposure. we also visually
+examined the distributions of each of the 15 metrics using
+box plots and histograms, calculated basic descriptive
+statistics, and conducted shapiro-wilk tests for normality. for
+the second objective, we used the kendall tau-b correlation
+coefficient to measure the association between iet metrics
+and the four social risk factors, treating each independent
+variable as categorical as described above. we applied a
+bonferroni correction in the estimation of confidence
+intervals for this nonparametric measure of effect size,
+dividing the conventional « of 0.05 by 20, the number of
+combinations of independent variables and iet metrics
+within each time frame. we considered statistically
+
+ant effects to be those for which the bonferroni-
+
+ 
+
+ 
+
+combinations of independent variables and iet metrics
+within each time frame. we considered statistically
+significant effects to be those for which the bonferroni-
+corrected confidence interval excluded zero. in reporting the
+magnitude of the effect, we used the following guidance:
+small effects were those with absolute values of correlation
+coefficients between 0.1 and 0.3, medium effects were those
+with correlation coefficients between 0.3 and 0.5, and large
+effects were those above 0.5 (cohen, 1988). we discuss a
+limited sample of the effect sizes in the results section; the
+complete set of results from these tests are available in
+supplementary materials (fig. $2).
+
+for the third objective, we calculated linear regression
+models for each participant (rather than participant-day)
+with hourly mean observations from phoenix sky harbor
+airport as the independent variable and hourly mean iet as
+the dependent variable. as in other parts of this study, we
+calculated these models for only the four hottest days of the
+study week, and for three different time frames (all hours,
+day hours, night hours). we report the slopes from these
+
+ 
+
+calculated these models for only the four hottest days of the
+study week, and for three different time frames (all hours,
+day hours, night hours). we report the slopes from these
+regression models as well as the pearson correlation
+coefficient, as indicators of exposure misclassification
+between iets and outdoor temperatures (similarly to
+bernhard et al., 2015, ejike et al., 2017, uejio et al., 2018, sugg
+et al., 2019, kennard et al., 2020, bailey et al., 2020, mila et al.,
+2020).
+
+participants were included in the final analysis if they
+completed both background and daily surveys and collected
+at least two full participant-days of iets observations. all data
+processing and analysis was conducted open source r
+software (via rstudio version 1.1.456) (studio team, 2019),
+including the desctools and rcompanion packages (signorell
+et al., 2016, mangiafico, 2016). see fig. 2 for a full illustration
+of the study methods.
+
+ 
+
+spina], [nas aisha aan form of wy wo ening wn ay fre tos ney]
+s| chr cee sent he bond ly eye we wer tt nr em
+
+ 
+
+  
+
+ 
+
+  
+
+5 mre mens ed inches man hte ad emit wi ¢ eee! wee
+rn nols nari ph on al) for ohne en nme es at
+
+ 
+
+ 
+
+ 
+
+spm] [nr ge i das goma tae a so eni a ss ota
+
+ 
+   
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+eee eaten |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (696k8)
+
+download : download full-size image
+
+fig. 2. flow chart documenting the methods used in this
+study. eighty-four participants were recruited to carry
+ibuttons for 7 study days. due to an unseasonal rainfall event
+and assorted non-compliance issues, the final dataset
+included only 64 participants and focused on the 4days with
+representative meteorology. we used participant-day (pd) as,
+our unit of analysis for objectives 1 and 2, which therefore
+resulted in 256 participant-days fit for analysis (64
+representative meteorology. we used participant-day (pd) as
+our unit of analysis for objectives 1 and 2, which therefore
+resulted in 256 participant-days fit for analysis (64
+participants multiplied by 4days). pd’s were processed into
+three time frames: all hours (ah), day hours (dh), and night
+hours (nh). if an individual pd included too many hours of
+missing observations, it was not included in the analysis
+(percentages in each box show inclusion rate). metrics were
+constructed for each pd and analyzed in relation to 4
+independent variables. for objective 3, we used the entire iet
+time series from the 4days with representative meteorology
+(also for ah, dh, and nh) to calculate slope and pearson
+correlation coefficient in relation to fixed-point temperature
+measurements from phoenix sky harbor airport (kphx). the
+inset example at the top illustrates this process from the
+perspective of a hypothetical participant.
+
+ 
+2.3. exposure metrics
+
+we generated five summary iet metrics for each time frame
+of each participant-day, capturing dimensions of exposure
+intensity, duration, and frequency (table 1; fig. 1; ott et al.,
+2006, kuras et al., 2017). the five iet metrics (and
+abbreviations used in this manuscript) were: mean iet,
+maximum (max) iet, longest exposure period (lep),
+percentage minutes above threshold (pmat), and degree
+minutes above threshold (dmat) (see table 1). for all
+metrics, higher values indicate higher exposure and therefore
+higher risk of adverse heat-health impacts. three metrics
+(lep, pmat, dmat) were contingent on an external
+temperature threshold, above which exposure could be
+considered risky in metro phoenix. given our goal of
+comparing individuals to one another, we used thresholds
+derived from our sample after quality control; namely, the
+mean of the entire sample's mean iet for the given day and
+time frame. our daily thresholds ranged from 25.7°c to
+29.5°c (supplemental materials, table s2), all within the
+mean of the entire sample's mean tet tor the given gay and —
+time frame. our daily thresholds ranged from 25.7°c to
+29.5°c (supplemental materials, table s2), all within the
+range of reference points conveying heat-health risk for the
+local population (e.g., petitti et al., 2016).
+
+ 
+
+table 1. information about the five met used in this
+
+analysis. see fig. 1 for a representation of each metric in
+relation to an iet time series. iet=individually experienced
+
+temperature.
+
+ 
+
+name | unit description dimension representation
+of on fig. 1
+exposure
+
+ 
+
+magnitude of heat intensity acf sewer
+experienced on
+
+average over the
+
+entire timeframe
+
+maximum magnitude ofheat intensity = ““7™"*°°?
+(max) iet|°c experienced on
+average during the
+
+ 
+
+maximum magnitude ofheat intensity = ““7™"*°°?
+(max) iet|°c experienced on
+
+average during the
+
+hottest hour
+longest greatest number of duration  |lep= 37min]
+exposure continuous minutes
+period (lep)| with iet above
+minutes threshold”
+degree sum of iet frequency joe}
+minutes above observations ‘intensity || by
+
+threshold exceeding the
+
+(dmat) | threshold” (karner
+degree- et al. 2015), scaled
+minutes to adjust for
+missing
+observations
+percentage _ ratio of iet frequency
+
+ 
+
+minutes above observations above
+threshold threshold’ to total
+
+ 
+
+minutes above observations above
+threshold —_ threshold’ to total
+(pmat) | number of
+percentage of observations
+counts
+
+‘threshold refers to a temperature above which exposure could
+be considered risky in phoenix, calculated as the mean of every
+participant's mean iet for the given day and timeframe.
+
+   
+      
+
+maier = 38.0°c >|
+
+35
+
+ 
+
+e
+
+—loe's ier
+
+e 30 kphx
+
+te
+
+ 
+
+00'00 oa'00o8'00 «1200 «16100 20'00 24100
+time
+
+download : download high-res image (203kb)
+
+download : download full-size image
+
+fig. 1. a representative iet time series on september 14, 2014
+from research participant “lee” (a pseudonym) as well as
+outdoor temperatures as measured at phoenix sky harbor
+international airport (kphx). the all hours threshold
+(27.4°c), which is used to calculate lep, pmat, and dmat, is
+represented as a horizontal line. summary metrics are shown
+on the plot in relation to how they were derived: mean iet
+(horizontal line representing the magnitude of heat
+experienced on average over the entire time frame), max iet
+(box at the center top indicating the magnitude of heat
+experienced on average during the hottest hour), lep (bracket
+in the center middle capturing the greatest number of
+
+ 
+
+experienced on average during the hottest hour), lep (bracket
+in the center middle capturing the greatest number of
+continuous minutes with iet above threshold), pmat
+(equation on the lower left corresponding to ratio of iet
+observations above threshold to the total number of
+observations), and dmat (gray area under the curve and
+above the threshold; essentially the sum of iet observations
+exceeding the threshold). note: in this example, mean iet
+happens to be the same value as the all hours threshold; this
+is not always the case.
+2.3. exposure metrics
+pa epee efi ee
+2.1. study location
+
+this study took place in the greater phoenix metropolitan
+area, arizona, usa. metro phoenix is home to more than four
+million people and is situated within the hot and arid
+sonoran desert (képpen-geiger classification bwh), with
+average daily maximum air temperatures exceeding 37.8°c
+(100f) for 109days each year (noaa, 2016). within the
+urbanized region, air and surface temperatures differ widely
+between neighborhoods, as do vulnerability to and
+incidences of heat-related illness and mortality (harlan et al.,
+2006, ruddell et al., 2012, jenerette et al., 2016). large
+incidences of heat-related illness and mortality (harlan et al.,
+2006, ruddell et al., 2012, jenerette et al., 2016). large
+contrasts in heat illness and mortality rates also exist
+between different demographic groups; those at higher risk
+of heat illness and death include lower-income and racial and
+ethnic minority residents, elderly individuals, men, outdoor
+workers, and those living in parts of the city with less green
+space and higher land surface temperatures (harlan et al.,
+2013, hondula et al., 2015, jenerette et al., 2016). this study
+compares experienced temperatures across five
+neighborhoods with contrasting environmental,
+socioeconomic, and demographic characteristics (see
+supplemental materials, appendix a, table $1).
+
+ 
+
+ 
+
+2.2. recruitment and measurement
+
+we used a multi-pronged recruitment strategy to build a
+sample of participants that represented a variety of
+demographic characteristics and life circumstances. the
+sampling method was not intended to produce a statistically
+representative sample of each neighborhood nor the
+demographic characteristics and life circumstances. the
+sampling method was not intended to produce a statistically
+representative sample of each neighborhood nor the
+population of the region at large, but instead to capture a
+diverse set of individuals among whom personal heat
+exposure and associations with social risk factors may vary.
+participants were recruited in august and september 2014,
+via flyers distributed on the street by the research team,
+study information bulletins posted in neighborhood
+businesses, and emails sent through homeowner
+associations. study approval was obtained from the
+institutional review board at arizona state university (study
+#1454) prior to participant recruitment, with written
+informed consent received from all participants. eighty-four
+participants were initially enrolled in this study with sixty-
+four (76.2%) ultimately included in this analysis. of the
+twenty not included, three did not return their equipment,
+one participant's equipment malfunctioned, and sixteen did
+not complete the requisite background and daily surveys.
+
+ 
+
+the study took place from 20:00 on saturday, september 13
+$2. 20:00 nn catuedats cantombar i 201a ta enaaciica
+not complete the requisite background and daily surveys.
+
+ 
+
+the study took place from 20:00 on saturday, september 13
+to 20:00 on saturday, september 20, 2014, to measure
+personal heat exposure under warm season conditions. we
+specifically measured individually experienced temperatures
+(iets), which are the ambient air temperatures experienced
+by participants in their immediate surroundings, both
+indoors and outdoors. as ambient air temperature is only one
+of several environmental factors (e.g., humidity, solar
+radiation), that contribute to the human energy balance,
+thermal comfort, and heat-health risks, iets are a useful,
+although not comprehensive, indicator of personal heat
+exposure (kuras et al., 2017). other authors have referred to
+iets as personal ambient temperatures (e.g., sugg et al.,
+2018) and personal-level environmental temperature (e.g.,
+brook et al., 2011). to record iets, we equipped research
+participants with thermochron ibuttons that measured and
+recorded instantaneous air temperature at five-minute
+intervals throughout the study period (following kuras et al.,
+2015). ibuttons were attached to snap-in key ring mounts and
+pecorasa iristantaneous ar remperatare at vette
+intervals throughout the study period (following kuras et al.,
+2015). ibuttons were attached to snap-in key ring mounts and
+connected to a carabiner. participants were asked to clip their
+carabiners to a belt loop or bag so as to continuously expose
+the device to the surrounding air. we asked participants to
+record any periods of time in which they were not carrying
+their ibuttons via daily paper or online surveys. due to an
+unseasonal rainfall event with lower temperatures midway
+through the study week, we focused on the four hottest days,
+which were more representative of typical conditions. these
+included three weekdays and one weekend day (september
+14, 15, 18, 19) during which the mean outdoor temperature
+recorded at phoenix sky harbor airport (kphx) was 32.7°c,
+the mean minimum was 27.5°c and the mean maximum was
+37.9°c (noaa, 2019). september 16 and 17 were omitted
+from the analysi
+
+ 
+
+ 
+
+we focused on participant-days as our unit of analysis for the
+first two objectives, and hourly data for the third. we
+considered three time frames of interest (all hours [0:00-
+
+2:
+
+ 
+
+45] and two shorter periods with relatively homogenous
+
+ 
+
+ 
+
+st two objectives, and hourly data for the third. we
+considered three time frames of interest (all hours [0:00-
+23:45] and two shorter periods with relatively homogenous
+ambient temperatures: day hours [12:00-17:45] and night
+hours [0:00-5:45]). data were screened for exceptionally low
+or high temperatures (below ~15°c or above ~44°c); such
+values were shifted to within the 0.1th or 99.9th percentile of
+iets, respectively. we also screened for implausible acti
+patterns that indicated non-compliance with the study
+design; such patterns were removed from the analysis (see
+supplemental materials, appendix b). finally, for each time
+frame we adopted an upper limit for missing observations
+above which we removed the entire participant-day from the
+analysis (3h for all hours and 1h for day and night hours).
+after quality control, the final data set included 235 all hours
+participant-days (91.8% of possible observations), 236 day
+hours participant-days (92.2%), and 242 night hours
+participant-days (94.5%).
+
+ 
+2. methods
+1. introduction
+
+continued advances in sensor technology and computational
+power are leading to new opportunities to measure, with
+more precision and validity, how people experience their
+environments. within the realm of environmental health,
+measuring exposure to indoor and outdoor heat is a topic of
+considerable interest. in recent decades, there has been an
+increase in awareness of the total public health burden of
+heat exposure--heat ranks as a leading weather-related cause
+of mortality in the united states and elsewhere (berko et al.,
+2014, gasparrini et al., 2015). many population-scale studies
+have provided insights into the exposure-response
+relationship between “heat” and certain adverse health
+outcomes (e.g., gosling et al., 2009, odhiambo sewe et al.,
+2018, fu et al., 2018), and other research has examined how
+this association varies by certain sub-populations within
+cities (e.g., age, racialized group/ethnicity, geographic
+location) (harlan et al., 2013, gronlund et al., 2015, hondula
+et al., 2015). further, other studies compare behavior- or
+
+ 
+
+ 
+
+cities (eg. age, racialized group/ethnicity, geographic
+location) (harlan et al., 2013, gronlund et al., 2015, hondula
+et al., 2015). further, other studies compare behavior- or
+preference-based exposures between groups based on
+situational or cultural contexts (e.g,, tung et al., 2014).
+
+ 
+
+one of the most recently developed lines of research within
+the study of environmental heat involves measurement and
+quantification of heat exposure at the scale of human bodies.
+in measuring personal heat exposure, researchers are striving
+to develop a more valid and precise understanding of the
+human experience with heat, which may help more
+effectively target and evaluate a wide suite of intervention
+measures that have been proposed to protect people when
+the weather is dangerously hot (kuras et al., 2017).
+
+exposure is often deconstructed into three distinct
+dimensions: intensity, duration, and frequency (e.g,, ott et al.,
+2006). insights into how personal heat exposure materializes
+along each dimension may reveal mechanisms associated
+with dangerous exposure as well as the appropriate
+
+2006) further offer the concept of an
+
+ 
+
+intervention. ott et
+
+ 
+
+along each dimension may reveal mechanisms associated
+with dangerous exposure as well as the appropriate
+intervention. ott et al. (2006) further offer the concept of an
+exposure event, “the occurrence of continuous contact
+between an agent and a target.” for thermal exposure, this
+definition can be difficult to operationalize, because people
+are always exposed to some type of thermal environment.
+kuras et al, (2017) offer a definition of personal heat exposure
+in which exposure only occurs when there is a “risk of
+increase in perceived discomfort andjor core body
+temperature,” but this definition still requires clarification in
+terms of the exact environmental conditions that pose such a
+risk, in recent years, studies have attempted to quantify the
+relationship between outdoor conditions and personal
+exposure (e.g., basu and samet, 2002, brook et al., 2011,
+modesti et al., 2013, martinez-nicolas et al., 2015, kuras et al.,
+2015, bernhard et al., 2015, ejike et al., 2017, uejio et al., 2018,
+sugg et al., 2018, sugg et al., 2019, hass and ellis, 2019, runkle
+et al., 2019, bailey et al., 2020, mila et al., 2020). these studies
+have revealed that the environmental conditions people
+experience as they move through their daily act
+et al., 2019, bailey et al., 2020, mila et al., 2020). these studies
+have revealed that the environmental conditions people
+experience as they move through their daily activities are not
+well approximated by fixed-point weather stations, which
+are commonly used in heat-health risk assessment. these
+studies also point to considerable heterogeneity in exposure,
+especially at the scale of individual people. however, there is
+little consistency in the manner in which personal exposure
+is quantified or the extent to which the three different
+dimensions of exposure are explicitly considered.
+
+ 
+
+ 
+
+ 
+
+s are not
+
+most commonly, personal heat exposure data are
+summarized or assessed through a central tendency
+framework, for example, by assessing average values per hour
+(eg., kuras et al., 2015) or per day (e.g., uejio et al., 2018).
+these summary measures are subsequently used in statistical
+tests to either draw comparisons between different
+timeframes, or make comparisons with various independent
+variables including participant or location attributes (e.g.,
+bernhard et al., 2015, hass and ellis, 2019, runkle et al., 2019,
+(020). few studies use summary metrics beyond
+
+ 
+ 
+
+bernhard et al., 2015, hass and ellis, 2019, runkle et al., 2019,
+mila et al., 2020). few studies use summary metrics beyond
+the mean to characterize exposure at longer time scales, but
+those that do have used extreme temperature values
+runkle et al., 2019, kennard et al., 2020), ranges and standard
+deviations (ie., modesti et al., 2013, sugg et al., 2018, runkle
+et al., 2019), and values above a dangerous threshold (ie.,
+hass and ellis, 2019). thus, the majority of published studies
+largely focus on the intensity dimension of personal heat
+exposure.
+
+ 
+
+ 
+
+relatedly, a number of personal heat exposure studies have
+examined the relationships between ambient temperatures
+measured at a fixed location (e.g., an airport weather station)
+and temperatures experienced by participants (see bernhard
+et al, 2015, ejike et al., 2017, uejio et al., 2018, sugg et al.,
+2019, kennard et al., 2020, bailey et al., 2020, mila et al.
+2020). investigating such relationships can provide insights
+into the severity and sources of exposure misclassification in
+heat-health research. exposure misclassification can exist in
+beat-healthiescaich for individualsscale.ee, colour and
+into the severity and sources of exposure misclassification in
+heat-health research. exposure misclassification can exist in
+heat-health research for individual-scale (e.g., cohort and
+cross-sectional) studies and population-scale (e,
+series) studies and bias our understanding of the relationship
+between exposure and adverse outcomes, as well as how
+those relationships vary across time, space, and sub-
+populations. the consequences of exposure misclassification
+are well documented in air pollution research and other
+environmental health domains (often biasing effects towards
+the null) (e.g,, zeger et al., 2000, ozkaynak et al., 2013), but
+are only beginning to be thoroughly investigated for extreme
+heat (e.g., lee et al., 2016, wu et al., 2019).
+
+ 
+
+ 
+
+ 
+
+ 
+
+we argue that the use of a broader suite of metrics that more
+comprehensively accounts for the intensity, duration, and
+frequency of human heat exposure may be useful for
+understanding trends in vulnerability, targeting and
+evaluating interventions, and communicating risk. in this
+paper, we interrogate the value of such metrics for
+characterizing personal heat exposure. our specific objectives
+
+ 
+
+evaluating interventions, and communicating risk. in this
+paper, we interrogate the value of such metrics for
+characterizing personal heat exposure. our specific objectives
+in this paper are to: 1) describe and employ a suite of
+exposure metrics capturing key dimensions of personal heat
+exposure within an urban population, 2) assess variability in
+personal heat exposure between sub-populations
+characterized by commonly-evaluated social risk factors, and
+3) investigate potential exposure misclassification between
+personal heat exposure and fixed-point weather station data.
+
+in exploring the first two objectives, we tested the widely
+held and implicit assumption of many environmental health
+studies that different types of factors modify the relationship
+between outdoor and indoor ambient heat and personal heat
+exposure (see fig. 1 of kuras et al., 2017). we hypothesized
+that we would observe higher heat exposure among residents
+of neighborhoods classified as heat vulnerable, lower-income
+individuals, individuals without central air conditioning, and
+individuals who self-report spending more time outside. in
+pursuing the third objective, we anticipated that we would
+
+ 
+
+   
+
+juals, individuals without central air conditioni
+individuals who self-report spending more time outside. in
+pursuing the third objective, we anticipated that we would
+observe weak relationships between regional weather station
+data and personal heat exposure, consistent with other
+recent studies (e.g., ejike et al., 2017).
+
+indi
+
+ 
+
+ann
+
+ 
+1. introduction
+keywords
+
+health; urban; climate; adaptation; misclassification;
+individually experienced temperature
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+abstract
+
+a more precise understanding of individual-level heat
+exposure may be helpful to advance knowledge about heat-
+health impacts and effective intervention strategies,
+especially in light of projected increases in the severity and
+frequency of extreme heat events. we developed and
+interrogated different metrics for quantifying personal heat
+exposure and explored their association with social risk
+factors. to do so, we collected simultaneous personal heat
+exposure data from 64 residents of metropolitan phoenix,
+arizona. from these data, we derived five exposure metrics:
+mean individually experienced temperature (iet), maximum
+iet, longest exposure period (lep), percentage minutes above
+threshold (pmat), and degree minutes above threshold
+(dmat), and calculated each for day hours, night hours, and
+iet, longest exposure period (lep), percentage minutes above
+threshold (pmat), and degree minutes above threshold
+(dmat), and calculated each for day hours, night hours, and
+all hours of the study period. we then calculated effect sizes
+for the associations between those metrics and four social
+risk factors: neighborhood vulnerability, income, home
+cooling type, and time spent outside. we also investigated
+exposure misclassification by constructing linear regression
+models of observations from a regional weather station and
+hourly iet for each participant.
+
+our analysis revealed that metric choice and timeframe
+added depth and nuance to our understanding of differences
+in exposure within and between populations. we found that
+time spent outside and income were the two risk factors
+
+most strongly associated with personal heat exposure. we
+also found evidence that mean iet is a good, but perhaps not
+optimal, measure for assessing group differences in exposure.
+most participants’ iets were poorly correlated with regional
+weather station observations and the slope and correlation
+coefficient for linear regression models between regional
+most participans fers werte poorly correrated with regional—
+weather station observations and the slope and correlation
+coefficient for linear regression models between regional
+weather station data and iets varied widely among
+participants. we recommend continued efforts to investigate
+personal heat exposure, especially in combination with
+physiological indicators, to improve our understanding of
+links between ambient temperatures, social risk factors, and
+health outcomes.
+highlights
++ environmental heat exposure considerably varies
+between individuals.
+
++ time spent outdoors was moderately associated
+with personal heat exposure.
+
++ income and vulnerability were weakly associated
+with personal heat exposure.
+
++ weather station observations and personal heat
+
+exposure were poorly correlated.
+
++ weather station observations and personal heat
+exposure were poorly correlated.
+novel metrics for relating
+personal heat exposure to
+social risk factors and outdoor
+ambient temperature
+
+david m. hondula® 9, 53, evan r. kuras 7, summer betzel °,
+lauren drake °, jason eneboe %, miranda kaml°, mary munoz.°,
+mara sevig °, marianna singh °, benjamin l. ruddell ¢,
+
+sharon l. harlan 4
+
+show more v
+
+dimer ett ret
+show more v
+
++ addtomendeley « share 55 cite
+
+https://dol.org/10.1016/j.envint.2020.106271 2__get rights and content
+
+under a creative commons license 7 © open access
+download full issue
+
+ 
+
+environment international
+
+volume 146, january 2021, 106271
+
+ 
+

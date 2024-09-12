@@ -1,0 +1,11 @@
+ 
+ 
+this site can’t be reached
+www.mdpi.com took too long to respond.
+
+try:
+* checking the connection
+* checking the proxy and the firewall
+
+err_timed_out
+

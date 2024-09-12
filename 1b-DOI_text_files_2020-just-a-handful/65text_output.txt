@@ -1,0 +1,150 @@
+  
+
+ct
+
+ 
+rf
+ 
+
+rf
+
+ 
+
+ne
+
+referees
+
+general information
+submit a report
+update your information
+policies & practices
+referee faq
+guidelines for referees
+
+‘outstanding referees
+
+librarians,
+general information
+subscriptions
+
+online license agreement
+usage statistics
+
+your account
+
+students
+physics
+physicscentral
+student membership
+
+aps members
+subscriptions
+aticle packs
+membership
+
+faq
+
+aps news
+meetings & events
+sign up to receive regular email alerts from physical review letters
+msr coe er amr germ lc
+references
+
+click to expand
+article text
+
+click to expand
+authors & affiliations
+
+click to expand
+authors & affiliations +
+
+ 
+ 
+   
+
+prx energy
+rene
+received 16 august 2020 accepted 5 november 2020
+doi: https://doi.org/10.1103/physrevlett.125.251802
+
+© published by the american physical society under the terms of the creative commons
+
+attribution 4.0 international license. further distribution of this work must maintain
+attribution to the author(s) and the published article's title, journal citation, and doi. funded
+by scoap3.
+
+© 2020 cern, for the atlas collaboration
+
+ 
+
+}@ physics subject headings (physh)
+
+ 
+
+higgs bosons hypothetical gauge bosons photons
+
+ 
+
+ 
+
+hadron colliders
+
+ 
+received 16 august 2020 accepted 5 november 2020
+
+ 
+   
+ 
+
+emo su mere regents
+
+derehrad 1h aumieton90  apmantard e meaarmker onon.
+ 
+eel
+
+ 
+® check for update:
+abstract -
+
+this letter presents a search for the production of new heavy resonances decaying into a
+higgs boson and a photon using proton-proton collision data at \/s = 13 tev collected by the
+atlas detector at the lhc. the data correspond to an integrated luminosity of 139 fb. the
+analysis is performed by reconstructing hadronically decaying higgs boson (h — bb)
+candidates as single large-radius jets. a novel algorithm using information about the jet
+constituents in the center-of-mass frame of the jet is implemented to identify the two b quarks
+in the single jet. no significant excess of events is observed above the expected background.
+upper limits are set on the production cross-section times branching fraction for narrow spin-
+l resonances decaying into a higgs boson and a photon in the resonance mass range from
+0.7 to 4 tey, cross-section times branching fractions are excluded between 11.6 fb and
+
+0.11 fb at a 95% confidence level.
+issue
+
+vol. 125, iss. 25 — 18
+december 2020
+bscr seto re sm reg nit
+
+ 
+be ee
+face
+purpose-led
+
+sssunrtsthntgre 2cut2s physics magazine help/feedback
+
+al review letters
+
+te ee) ee ue) lol)
+
+ 
+
+a ‘access by university of massachusetts
+
+1 for heavy resonances decaying into a photon and a
+ically decaying higgs boson in pp collisions at /s
+ev with the atlas detector 4
+
+/, (atlas collaboration)
+
+lett. 125, 251802 — published 18 december 2020 boe
+

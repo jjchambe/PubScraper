@@ -1,0 +1,1822 @@
+review
+published on 25 jun 2018
+application of light
+scattering
+techniques to
+nanoparticle
+characterization and
+development
+87779 views 864 citations
+166902 views 509 citations
+michael holzinger - alan
+le goff - serge cosnier
+
+‘doi 103589/fchem 2014 00063,
+sara soares - joao
+sousa - alberto
+pais - carla vitorino
+
+doi 10.5389/fchem 201800360
+applications: a re\
+
+ 
+sara soares - jodo
+and regulatory issues
+review
+published on 27 aug 2014
+nanomaterials for
+biosensing
+applications: a review
+review
+published on 20 aug 2018
+nanomedicine:
+principles, properties,
+and regulatory issues
+similar articles
+keywords: membrane biology, cell signaling, transient interactions, lipids, proteins, membrane probes
+
+citation: bagheriy, all a and you m (2020) current methods for detecting cell membrane transient
+interactions. front. chem. 8:603259. doi: 10.3389/fchem.2020.603259,
+
+received: 06 september 2020; accepted: 16 october 2020:
+published: 07 december 2020.
+
+edited by:
+jianping yang, donghua university, china
+
+reviewed by:
+quezia b. cass, federal university of s80 carlos, brazil
+huawen wu, hitronics technologies, inc, united states,
+
+copyright © 2020 bagheri, ali and you. this is an open-access article distributed under the terms of
+the creative commons attribution license (cc by). the use, distribution or reproduction in other
+forums is permitted, provided the original author(s) and the copyright owners) are credited and that
+the original publication in this journal is cited, in accordance with accepted academic practice. no use,
+distribution or reproduction is permitted which does not comply with these terms.
+
+"correspondence: mingxu you, mingxuyou@chem umass.edu
+torums is permittea, provigea tne onginal aumnor\s) ana tne copynignt owner's) are creattea ana tnat
+the original publication in this journal is cited, in accordance with accepted academic practice. no use,
+distribution or reproduction is permitted which does not comply with these terms.
+
+"correspondence: mingxu you, mingxuyou@chem umass.edu
+these authors have contributed equally to this work
+
+disclaimer: all claims expressed in this article are solely those of the authors and do not necessarily
+represent those of their affiliated organizations, or those of the publisher, the editors and the
+
+reviewers. any product that may be evaluated in this article or claim that may be made by its
+manufacturer is not guaranteed or endorsed by the publisher.
+acuner ozbabacan, s. e.. engin, h. b., gursoy, a., and keskin, ©. (2011). transient
+protein-protein interactions. protein eng. des. sel. 24, 635-648. doi
+10.1093/protein/gzr025
+
+pubmed abstract | crossref full text | google scholar
+
+adhikary, s., deredge, d. j., nagarajan, a., forrest, l. r., wintrode, p. l. and singh, s. k.
+(2017). conformational dynamics of a neurotransmitter:sodium symporter in a lipid
+pubmed abstract | crossref full text | google scholar
+
+adhikary, s., deredge, d. j., nagarajan, a., forrest, l. r., wintrode, p. l. and singh, s. k.
+(2017). conformational dynamics of a neurotransmitter:sodium symporter in a lipid
+bilayer. proc. natl. acad. sci. u.s.a. 114, e1786-e1795. doi: 10.1073/pnas.1613293114
+
+pubmed abstract | crossref full text | google scholar
+
+ahuja, s., jahr, n., im, s. c., vivekanandan, s., popovych, n., le clair, s. v. et al. (2013). a
+model of the membrane-bound cytochrome b5-cytochrome p450 complex from nmr
+and mutagenesis data. j. biol. chem. 288, 22080-22095. doi: 10.1074/bc. m112.448225
+
+pubmed abstract | crossref full text | google scholar
+
+aimon, s., callan-jones, a., berthaud, a., pinot, m., toombes, g. e. s., and bassereau, p.
+(2014). membrane shape modulates transmembrane protein distribution. dev. cell 28,
+212-218. doi: 10.1016/j devcel 2013.12.012
+
+pubmed abstract | crossref full text | google scholar
+
+artetxe, |, sergelius, c., kurita, m., yamaguchi, s., katsumura, s., slotte, j. p., et al. (2013)
+effects of sphingomyelin headgroup size on interactions with ceramide. biophys. j.104,
+604-612. doi: 10.1016/j.bpj.2012.12.026
+
+pubmed abstract | crossref full text | google scholar
+
+bacia, k., kim, s. a. and schwille, p. (2006). fluorescence cross-correlation
+spectroscopy in living cells. nat. methods 3, 83-89. doi: 10.1038/nmeth822
+
+diuhmad ahetract | cencedef eni tavt | grnnla scholar
+bacia, k., kim, s. a. and schwille, p. (2006). fluorescence cross-correlation
+spectroscopy in living cells. nat. methods 3, 83-89. doi: 10.1038/nmeth822
+pubmed abstract | crossref full text | google scholar
+
+bacia, k., schuette, c. g., kahya, n., jahn, r., and schwille, p. (2004). snares prefer
+liquid-disordered over “raft” (liquid-ordered) domains when reconstituted into giant
+unilamellar vesicles. j. biol. chern. 279, 37951-37955. doi: 10.1074/jbc.m407020200
+
+pubmed abstract | crossref full text | google scholar
+
+bacia, k., and schwille, p. (2007). practical guidelines for dual-color fluorescence cross-
+correlation spectroscopy. nat. protoc. 2, 2842-2856. doi: 10.1038/nprot.2007.410
+
+pubmed abstract | crossref full text | google scholar
+
+bagheri, y.. chedid, s., shafiei, f, zhao, b., and you, m. (2019a). a quantitative
+assessment of the dynamic modification of lipid-dna probes on live cell membranes.
+chem. sci. 10, 11030-11040. doi: 10.1039/c9sc042518
+
+pubmed abstract | crossref full text | google scholar
+
+bagheri, y.. shafiei, f, chedid, s., zhao, b., and you, m. (2019b). lipid-dna conjugates
+for cell membrane modification, analysis, and regulation. supramol. chem. 31, 532—
+544, doi: 10.1080/10610278.2019.1632454
+
+crossref full text | google scholar
+
+544. doi: 10.1080/10610278.2019.1632454
+
+ 
+
+crossref full text | google scholar
+
+bakht, o., pathak, p., and london, e. (2007). effect of the structure of lipids favoring
+disordered domain formation on the stability of cholesterol-containing ordered
+domains (lipid rafts): identification of multiple raft-stabilization mechanisms. biophys. j.
+93, 43074318. doi: 10.1529/biophys).107.114967
+
+pubmed abstract | crossref full text | google scholar
+
+betaneli, v., petrov, e. p, and schwille, p. (2012). the role of lipids in vdac
+oligomerization. biophys. j. 102, 523-531. doi: 10.1016/j bpj.2011.12.049
+
+pubmed abstract | crossref full text | google scholar
+
+bolla, j. r., agasid, m. t., mehmood, s., and robinson, c. v. (2019). membrane protein—
+lipid interactions probed using mass spectrometry. annu. rev. biochem. 88, 85-111.
+doi: 10.1146 /annurev-biochem-013118-111508
+
+pubmed abstract | crossref full text | google scholar
+
+bolmatoy, d., solovioy, d., zhernenkov, m., zavyalov, d., mamontov, e., suvorov, a., et
+al. (2020). molecular picture of the transient nature of lipid rafts. langmuir 36, 4887—
+4896. doi: 10.1021/acs.langmuir.0c00125
+
+pubmed abstract | crossref full text | google scholar
+
+bossa, g. v., roth, j., and may, s. (2015). modeling lipid—lipid correlations across a
+
+pubmed abstract | crossref full text | google scholar
+
+bossa, g. v., roth, j., and may, s. (2015). modeling lipid—lipid correlations across a
+bilayer membrane using the quasi-chemical approximation. langmuir 31, 9924-9932
+doi: 10.1021 /acs.langmuir5b01719
+
+pubmed abstract | crossref full text | google scholar
+
+bunnell. s. c., hong, d. |. kardon, j. r.. yamazaki, t., mcglade, c. j., barr, v. a., et al.
+(2002). t cell receptor ligation induces the formation of dynamically regulated signaling
+assemblies. j. cell biol. 158, 1263-1275. doi: 10.1083/jcb.200203043
+
+pubmed abstract | crossref full text | google scholar
+
+contreras, f.-x.. emst, a. m., haberkant. p., bjérkholm, p. lindahl. e., génen, b., et al.
+(2012). molecular recognition of a single sphingolipid species by a protein’s
+transmembrane domain. nature 481, 525-529. doi: 10.1038/nature10742
+
+pubmed abstract | crossref full text | google scholar
+
+contreras, f.-x.. ernst. a. m., wieland, f. and brigger. b. (2011). specificity of
+intramembrane protein-lipid interactions. cold spring harb. perspect. biol. 3:2004705.
+doi: 10.1101/cshperspect.a004705
+
+pubmed abstract | crossref full text | google scholar
+
+corradi, v., sejdiu, b. |, mesa-galloso, h., abdizadeh, h., noskoy, s. y., marrink, s. j. et
+al. (2019). emerging diversity in lipid-protein interactions. chem. rev. 119, 5775-5848.
+pubmed abstract | crosskef full lext | google scholar
+
+corradi, v., sejdiu, b. |, mesa-galloso, h., abdizadeh, h., noskoy, s. y., marrink, s. j. et
+al. (2019). emerging diversity in lipid-protein interactions. chem. rev. 119, 5775-5848.
+doi: 10.1021/acs.chemrev.8b00451
+
+pubmed abstract | crossref full text | google scholar
+
+dannatt, h.r. w., felletti, m., jehle, s. wang, y., emsley, l. dixon, n. e., et al. (2016).
+weak and transient protein interactions determined by solid-state nmr. angew. chemie
+int. ed. 55, 6638-6641. doi: 10.1002/anie. 201511609
+
+pubmed abstract | crossref full text | google scholar
+
+de keersmaecker, h., camacho, r., rantasa, d. m., fron, e., uji-l, h., mizuno, h., et al
+(2018). mapping transient protein interactions at the nanoscale in living mammalian
+cells. acs nano 12, 9842-9854. doi: 10.1021/acsnano.8b01227
+
+  
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+diaz-moreno, |., diaz-quintana, a, molina-heredia, f. p, nieto, p. m., hansson, ©., de
+la rosa, m.a, et al. (2005). nmr analysis of the transient complex between membrane
+photosystem | and soluble cytochrome c6. j. biol. chem. 280, 7925-7931. doi:
+10.1074/jbc.m412422200
+
+pubmed abstract | crossref full text | google scholar
+
+darr, u.h. n., gildenberg, m., and ramamoorthy, a. (2012). the magic of bicelles lights
+up membrane protein structure. chem. rev. 112, 6054-6074. doi: 10.1021/cr300061w
+pubmed abstract | crossref full text | google scholar
+
+darr, u.h. n., gildenberg, m., and ramamoorthy, a. (2012). the magic of bicelles lights
+up membrane protein structure. chem. rev. 112, 6054-6074. doi: 10.1021/cr300061w
+
+pubmed abstract | crossref full text | google scholar
+
+eggeling, c., ringemann, c., medda, r., schwarzmann, g., sandhoff, k., polyakova, s., et
+al. (2009). direct observation of the nanoscale dynamics of membrane lipids in a living
+cell. nature 457, 1159-1162. doi: 10.1038/nature07596
+
+pubmed abstract | crossref full text | google scholar
+
+fantini, j., and yahi, n. (2010). molecular insights into amyloid regulation by membrane
+cholesterol and sphingolipids: common mechanisms in neurodegenerative diseases.
+expert rev. mol. med. 12:e27. doi: 10.1017/s1462399410001602
+
+pubmed abstract | crossref full text | google scholar
+
+frick, m., and schmidt. c. (2019). mass spectrometry—a versatile tool for characterising
+the lipid environment of membrane protein assemblies. chem. phys. lipids 221, 145—
+157. doi: 10.1016/j.chemphyslip.2019.04.001
+
+pubmed abstract | crossref full text | google scholar
+
+furukawa, a. konuma, t., yanaka, s., and sugase, k. (2016). quantitative analysis of
+protein-ligand interactions by nmr. prog. nucl. magn. reson. spectrosc. 96, 47-57. doi
+10.1016/j pnmrs.2016.02.002
+
+ 
+
+pubmed abstract | crossref full text | gooale scholar
+furukawa, a., konuma, t., yanaka, s., and sugase, k. (2016). quantitative analysis of
+
+protein-ligand interactions by nmr. prog. nucl. magn. reson. spectrosc. 96, 47-57. doi
+10.1016/j pnmrs.2016.02.002
+
+pubmed abstract | crossref full text | google scholar
+
+gagnon, e., connolly, a, dobbins, j., and wucherpfennig, k. w. (2017). studying
+dynamic plasma membrane binding of tcr-cd3 chains during immunological synapse
+formation using donor-quenching fret and flim-fret. methods mol. biol. 1584, 259-
+289, doi: 10.1007/978-1-4939-6881-7_16
+
+pubmed abstract | crossref full text | google scholar
+
+gajate, c., and mollinedo, f. (2007). edelfosine and perifosine induce selective apoptosis
+in multiple myeloma by recruitment of death receptors and downstream signaling
+molecules into lipid rafts. blood 109, 711-719. doi: 10.1182/blood-2006-04-016824
+
+pubmed abstract | crossref full text | google scholar
+
+galbraith, c. g., and galbraith, j. a. (2011). super-resolution microscopy at a glance. j.
+celll sci 124, 1607-11. doi: 10.1242/jcs.080085
+
+pubmed abstract | crossref full text | google scholar
+
+gell. d. a. kwan, a. h., and mackay, j. p. (2017). "nmr spectroscopy in the analysis of
+protein-protein interactions,” in modern magnetic resonance, ed g. a. webb (london:
+springer international publishing), 1-34. doi: 10.1007/978-3-319-28275-6_121-1
+
+ 
+
+crossref full text | google scholar
+
+protein-protein interactions,” in modern magnetic resonance, ed g. a. webb (london:
+springer international publishing), 1-34. doi: 10.1007/978-3-319-28275-6_121-1
+crossref full text | google scholar
+
+giladi, m., and khananshvil, d. (2020). hydrogen-deuterium exchange mass-
+spectrometry of secondary active transporters: from structural dynamics to molecular
+mechanisms. front. pharmacol. 11:70. doi: 10.3389/fphar.2020.00070
+
+pubmed abstract | crossref full text | google scholar
+
+grinkova, y. v., denisov, |. g., and sligar, s. g. (2010). engineering extended membrane
+scaffold proteins for self-assembly of soluble nanoscale lipid bilayers. protein eng. des.
+sel, 23, 843-848. doi: 10.1093/protein/gzq060
+
+pubmed abstract | crossref full text | google scholar
+
+gu, r-x, and de groot, b. l. (2020). lipid-protein interactions modulate the
+conformational equilibrium of a potassium channel. nat. commun. 11:2162. doi:
+10.1038/s41467-020-15741-8
+
+pubmed abstract | crossref full text | google scholar
+
+gupta, k., donlan, j. a. c., hopper, j. t. s., uzdavinys, p, landreh, m., struwe, w. b., et
+al. (2017). the role of interfacial lipids in stabilizing membrane protein oligomers. nature
+541, 421-424. doi: 10.1038/nature20820
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+ 
+
+541, 421-424, doi: 10.1038/nature20820
+
+    
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+gupta, k., li, j. liko, |, gault, j, bechara, c., wu, d., et al. (2018). identifying key
+membrane protein lipid interactions using mass spectrometry. nat. protoc. 13, 1106-
+1120. doi: 10.1038/nprot.2018.014
+
+pubmed abstract | crossref full text | google scholar
+
+haustein, e., and schwille, p. (2003). ultrasensitive investigations of biological systems
+by fluorescence correlation spectroscopy. methods 29, 153-166. doi: 10.1016/s1046-
+2023(02)00306-7
+
+pubmed abstract | crossref full text | google scholar
+
+he, c., hu, x., jung, r. s., weston, t. a., sandoval, n. p, tontonoz, p. et al. (2017). high-
+resolution imaging and quantification of plasma membrane cholesterol by nanosims.
+proc. natl. acad. sci. u.s.a. 114, 2000-2005. doi: 10.1073/pnas.1621432114
+
+pubmed abstract | crossref full text | google scholar
+
+heginbotham, l., kolmakova-partensky, l. and miller, c. (1998). functional
+reconstitution of a prokaryotic k* channel. j. gen. physiol. 111, 741-749. doi:
+10.1085/jgp.111.6.741
+
+pubmed abstract | crossref full text | google scholar
+
+heldin, c.-h., miyazono, k., and ten dijke, p. (1997). tgf-b signalling from cell,
+
+pubmed abstract | crossref full text | google scholar
+
+heldin, c.-h., miyazono, k., and ten dijke, p. (1997). tgf-b signalling from cell,
+membrane to nucleus through smad proteins. nature 390, 465-471. doi:
+10.1038/37284
+
+pubmed abstract | crossref full text | google scholar
+
+heldin, c. h., lu, b.. evans, r.. and gutkind, j. s. (2016). signals and receptors. cold
+spring harb. perspect. biol. 8:2005900. doi: 10.1101/cshperspect 2005900
+
+crossref full text | google scholar
+
+hell, s. w., sahl. s. j., bates, m., zhuang, x., heintzmann, r., booth, m. j., et al. (2015).
+the 2015 super-resolution microscopy roadmap. j. phys. d. appl. phys. 48:443001. doi:
+10.1088/0022-3727/48/44/443001
+
+crossref full text | google scholar
+
+hess, s. t., gould, t. j. gudheti, m. v., maas, s. a., mills, k. d., and zimmerberg, j.
+(2007). dynamic clustered distribution of hemagglutinin resolved at 40 nm in living cell
+membranes discriminates between raft theories. proc. natl. acad. sci. us.a.104,
+17370-5. doi: 10.1073/pnas.0708066104
+
+pubmed abstract | crossref full text | google scholar
+
+honigmann, a., mueller, v., ta, h.. schoenle, a. sezgin, e., hell, s. w., et al. (2014)
+scanning sted-fcs reveals spatiotemporal heterogeneity of lipid interaction in the
+rupmea apstract | c¥ossker fut lext7] oogtestfitar = *7 7777" -
+
+honigmann, a., mueller, v., ta, h.. schoenle, a. sezgin, e., hell, s. w., et al. (2014)
+scanning sted-fcs reveals spatiotemporal heterogeneity of lipid interaction in the
+plasma membrane of living cells. nat. commun. 5:5412. doi: 10.1038/ncomms6412
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+ikonen, e. (2008). cellular cholesterol trafficking and compartmentalization. nat. rev.
+mol. cell biol. 9, 125-138. doi: 10.1038/nrm2336
+
+pubmed abstract | crossref full text | google scholar
+
+james, j. r., oliveira, m. |. carmo, a. m., laboni, a. and davis, s. j. (2006). a rigorous
+experimental framework for detecting protein oligomerization using bioluminescence
+resonance eneray transfer. nat. methods 3, 1001-1006. doi: 10.1038/nmeth978
+
+crossref full text | google scholar
+
+kabouridis, p. s., janzen, j., magee, a. l., and ley, s. c. (2000). cholesterol depletion
+disrupts lipid rafts and modulates the activity of multiple signaling pathways in t
+lymphocytes. eur. j. immunol. 30, 954-963. doi: 10.1002/1521-
+4141(200003)30:3<954::aid-immu954>3.0.co;2-y
+
+pubmed abstract | crossref full text | google scholar
+
+kaiser, h.-j., lingwood, d., levental. i. sampaio, j. l kalvodova, l. rajendran, l.. et al
+(2009). order of lipid phases in model and plasma membranes. proc. natl. acad. sci
+usa. 106, 16645-50. doi: 10.1073/pnas.0908987106
+
+kaiser, h.-j., lingwood, d., levental. i. sampaio, j. l kalvodova, l. rajendran, l.. et al
+(2009). order of lipid phases in model and plasma membranes. proc. natl. acad. sci
+usa. 106, 16645-50. doi: 10.1073/pnas.0908987106
+
+pubmed abstract | crossref full text | google scholar
+
+kodama, y., and hu, c. d. (2012). bimolecular fluorescence complementation (bifc): a
+5-year update and future perspectives. biotechniques 53, 285-298. doi:
+10.2144/000113943
+
+pubmed abstract | crossref full text | google scholar
+
+kolmakoy, k., belov, v., bierwagen, j., ringemann, c., miller, v., eggeling, c., et al.
+(2010). red-emitting rhodamine dyes for fluorescence microscopy and nanoscopy.
+chem. a eur. j. 16, 158-166. doi: 10.1002/chem.200902309
+
+pubmed abstract | crossref full text | google scholar
+
+konijnenberg, a.. yilmaz, d., ingélfsson, h. |, dimitrova, a. marrink, s. j., li, z. et al
+(2014). global structural changes of an ion channel during its gating are followed by ion
+mobility mass spectrometry. proc. natl. acad. sci. u.s.a. 111, 17170-5. doi
+10.1073/pnas.1413118111
+
+pubmed abstract | crossref full text | google scholar
+
+kraft, m. l. (2013). plasma membrane organization and function: moving past lipid rafts.
+mol. biol. cell 24, 2765-2768. doi: 10.1091/mbc.e13-03-0165
+
+pubmed abstract | crossref full text | google scholar
+
+kraft, m. l. (2013). plasma membrane organization and function: moving past lipid rafts.
+mol. biol. cell 24, 2765-2768. doi: 10.1091/mbc.e13-03-0165
+
+pubmed abstract | crossref full text | google scholar
+
+kraft, m. l. (2017). sphingolipid organization in the plasma membrane and the
+mechanisms that influence it. front. cell dev. biol. 4:154. doi: 10.3389/fcell. 201600154
+
+pubmed abstract | crossref full text | google scholar
+
+larsen, e., olivieri, c., walker, c., manu, v. s., gao, j., bernlohr, d. a. et al. (2018)
+probing protein-protein interactions using asymmetric labeling and carbonyl-carbon
+selective heteronuclear nmr spectroscopy. molecules 23:1937. doi
+10.3390/molecules23081937
+
+pubmed abstract | crossref full text | google scholar
+
+larsen, j.b. jensen, m. b., bhatia, v. k., pedersen, s. l., bjornholm, t. iversen, l., et al.
+(2015). membrane curvature enables n-ras lipid anchor sorting to liquid-ordered
+membrane phases. nat. chem. biol. 11, 192-194. doi: 10.1038/nchembio.1733
+
+pubmed abstract | crossref full text | google scholar
+
+lee, a. (2003). lipid—protein interactions in biological membranes: a structural
+perspective. biochim. biophys. acta biomembr. 1612, 1-40. doi: 10.1016/s0005-
+2736(03)00056-7
+
+pubmed abstract | crossref full text | google scholar
+
+perspective. biochim. biophys. acta biomembr. 1612, 1-40. doi: 10.1016/s0005-
+2736(03)00056-7
+
+pubmed abstract | crossref full text | google scholar
+
+lee, a. g. (2004). how lipids affect the activities of integral membrane proteins.
+biochim. biophys. acta biomembr. 1666, 62-87. doi: 10.1016/j.bbamem.2004.05.012
+
+pubmed abstract | crossref full text | google scholar
+
+lee, a. g. (2011). lipid-protein interactions. biochem. soc. trans. 39, 761-766. doi
+10.1042/bst0390761
+
+pubmed abstract | crossref full text | google scholar
+
+leikin, s., kozlov, m. m., fuller, n. land rand, r. p. (1996). measured effects of
+diacylglycerol on structural and elastic properties of phospholipid membranes. biophys.
+j.71, 2623-2632. doi: 10.1016/s0006-3495196)79454-7
+
+pubmed abstract | crossref full text | google scholar
+
+levental, k. r., lorent, j. h., lin, x., skinkle, a. d., surma, m. a., stockenbojer, e. a. et al.
+(2016). polyunsaturated lipids regulate membrane domain stability by tuning membrane
+order. biophys. j. 110, 1800-1810. doi: 10.1016/j.bpj.2016.03.012
+
+pubmed abstract | crossref full text | google scholar
+
+i, l. dwivedi, m, patra, s., erwin, n., mobitz, s., and winter, r. (2019). probing
+colocalization of n-ras and k-ras4b lipoproteins in model biomembranes.
+cham ringham. 20, 890.195 doi inovebic wabont7e
+
+li, l. dwivedi, m., patra, s., erwin, n., mébitz, s., and winter, r. (2019). probing
+colocalization of n-ras and k-ras4b lipoproteins in model biomembranes.
+chembiochem 20, 1190-1195. doi: 10.1002/cbic.201800776
+
+pubmed abstract | crossref full text | google scholar
+
+liu, @., leber, b., and andrews, d. w. (2012). interactions of pro-apoptotic bh3 proteins
+with anti-apoptotic bcl-2 family proteins measured in live mcf-7 cells using flim fret.
+cell cycle 11, 3536-3542. doi: 10.4161/cc. 21462
+
+pubmed abstract | crossref full text | google scholar
+
+lieres, d., swift. s., and lamond, a. |. (2007). detecting protein-protein interactions in
+vivo with fret using multiphoton fluorescence lifetime imaging microscopy (flim).
+curr. protoc. cytom. 42, 12.10.1-12.10.19. doi: 10.1002/0471142956.cy1210s42
+
+ 
+
+crossref full text | google scholar
+
+lorizate, m., sachsenheimer, t., glass, b. habermann, a., gerl, m. j., krausslich, h.-g., et
+al. (2013). comparative lipidomics analysis of hiv-1 particles and their producer cell
+membrane in different cell lines. cell. microbiol. 15, 292-304. doi: 10.1111/cmi.12101
+
+pubmed abstract | crossref full text | google scholar
+
+loura, l, and prieto, m. j. (2011). fret in membrane biophysics: an overview. front.
+physiol. 2:82. doi: 10.3389/fphys.2011.00082
+
+pubmed abstract | crossref full text | google scholar
+
+loura, l, and prieto, m. j. (2011). fret in membrane biophysics: an overview. front.
+physiol. 2:82. doi: 10.3389/fphys.2011.00082
+
+pubmed abstract | crossref full text | google scholar
+
+loura, l. m. s., prieto, m., and fernandes, f. (2010). quantification of protein-lipid
+selectivity using fret. eur. biophys. j. 39, 565-578. doi: 10.1007/s00249-009-0532-z
+
+pubmed abstract | crossref full text | google scholar
+
+ma, x., foo, y. h., and wohland, t. (2014). fluorescence cross-correlation spectroscopy
+(fccs) in living cells. nature methods 3, 557-573. doi: 10.1007/978-1-62703-649-8_25
+
+pubmed abstract | crossref full text | google scholar
+
+maguy, a. hebert, t., and nattel, s. (2006). involvement of lipid rafts and caveolae in
+cardiac ion channel function. cardiovasc. res. 69, 798-807. doi
+10.1016/j.cardiores. 2005.11.013
+
+pubmed abstract | crossref full text | google scholar
+
+marius, p, de planque, m. r. r., and williamson, p. t: f. (2012). probing the interaction of
+lipids with the non-annular binding sites of the potassium channel kcsa by magic-angle
+spinning nmr. biochim. biophys. acta biomembr. 1818, 90-96. doi
+
+10.1016/j. bbamem.2011.09.017
+
+pubmed abstract | crossref full text | google scholar
+martens, c., shekhar, m., jk, a j. lau, a. m., reading, e., taikhorshid, e., et al
+10.1016/).5bamem 2011 09.017
+
+pubmed abstract | crossref full text | google scholar
+
+martens, c., shekhar, m., borysik, a. j., lau, a. m., reading, e., tajkhorshid, e., et al.
+(2018). direct protein-lipid interactions shape the conformational landscape of
+secondary transporters. nat. commun. 9:4151. doi: 10.1038/s41467-018-06704-1
+
+pubmed abstract | crossref full text | google scholar
+
+martens, c., shekhar, m., lau, a. m., tajkhorshid, e., and politis, a. (2019). integrating
+hydrogen-deuterium exchange mass spectrometry with molecular dynamics
+simulations to probe lipid-modulated conformational changes in membrane proteins.
+nat. protoc. 14, 3183-3204. doi: 10.1038/s41596-019-0219-6
+
+pubmed abstract | crossref full text | google scholar
+
+martinez-moro, m., di silvio, d., and moya, s. e. (2019). fluorescence correlation
+spectroscopy as a tool for the study of the intracellular dynamics and biological fate of
+protein corona. biophys. chem. 253:106218. doi: 10.1016/.bpc.2019.106218
+
+pubmed abstract | crossref full text | google scholar
+
+marty, m. t., hoi, k. k., and robinson, c. v. (2016). interfacing membrane mimetics with
+mass spectrometry. acc. chem. res. 49, 2459-2467. doi:
+10.1024/acs.accounts.6b00379
+
+pubmed abstract | crossref full text | google scholar
+
+mcmahon, h. t., and boucrot, e. (2015). membrane curvature at a alance. j. cell sci
+10:1021/a¢s.accounts.6b005/9
+
+pubmed abstract | crossref full text | google scholar
+
+mcmahon, h. t., and boucrot, e. (2015). membrane curvature at a glance. j. cell sci
+128, 1065-70. doi: 10.1242/jcs.114454
+
+pubmed abstract | crossref full text | google scholar
+
+mcquaw, c. m., zheng, l.. ewing, a. g., and winograd, n. (2007). localization of
+sphingomyelin in cholesterol domains by imaging mass spectrometry. langmuir 23,
+5645-50. doi: 10.1021/la063251f
+
+pubmed abstract | crossref full text | google scholar
+
+muller, m.p. jiang, t., sun, c., lihan, m., pant, s., mahinthichaichan, p. et al. (2019)
+characterization of lipid-protein interactions and lipid-mediated modulation of
+membrane protein function through molecular simulation. chem. rev. 119, 6086-6161.
+doi: 10.1021/acs.chemrev.8b00608
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+neer, e. j., and clapham, d. e. (1988). roles of g protein subunits in transmembrane
+signalling. nature 333, 129-134. doi: 10.1038/333129a0
+
+pubmed abstract | crossref full text | google scholar
+
+niphakis, m. j., lum, k. m., cognetta, a.b. correia, b.e., ichu, t. a. olucha, j., et al.
+(2015). a global map of lipid-binding proteins and their ligandability in cells. cell 161,
+1668-1680. doi: 10.1016/i.cell 2015.05.045
+
+niphakis, m. j., lum, k. m., cognetta, a.b. correia, b.e., ichu, t. a. olucha, j., et al.
+(2015). a global map of lipid-binding proteins and their ligandability in cells. cell 161,
+1668-1680. doi: 10.1016/j.cell 2015.05.045
+
+pubmed abstract | crossref full text | google scholar
+
+nooren, |. m. and thornton, j. m. (2003). structural characterisation and functional
+significance of transient protein-protein interactions. j. mol. biol. 325, 991-1018. doi:
+10.1016/s0022-2836(02)01281-0
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+novick, p., and schekman, r. (1979). secretion and cell-surface growth are blocked in a
+temperature-sensitive mutant of saccharomyces cerevisiae. proc. natl. acad. sci. u.s.a
+76, 1858-1862. doi: 10.1073/pnas.76.4.1858
+
+pubmed abstract | crossref full text | google scholar
+
+osterlund, e. j., liu, q., and andrews, d. w. (2015). the use of flim-fret for the
+detection of mitochondria-associated protein interactions. methods mol. biol. 1264,
+395-419. doi: 10.1007/978-1-4939-2257-4_34
+
+pubmed abstract | crossref full text | google scholar
+
+peng, t., yuan. x., and hang, h. c. (2014). turning the spotlight on protein-lipid
+interactions in cells. curr. opin. chem. biol. 21, 144-153. doi
+10.1016/j.cbpa.2014.07.015
+
+peng, t., yuan. x., and hang, h. c. (2014). turning the spotlight on protein-lipid
+interactions in cells. curr. opin. chem. biol. 21, 144-153. doi
+10.1016/j.cbpa.2014.07.015
+
+pubmed abstract | crossref full text | google scholar
+
+petschnigg, j.. groisman, b., kotlyar, m., taipale, m., zheng, y., kurat. c. f. et al. (2014).
+the mammalian-membrane two-hybrid assay (mamth) for probing membrane-protein
+interactions in human cells. nat. methods 11, 585-592. doi: 10.1038/nmeth.2895
+
+pubmed abstract | crossref full text | google scholar
+
+pontier, s. m., and schweisguth, f. (2012). glycosphingolipids in signaling and
+development: from liposomes to model organisms. dev. dyn. 241, 92-106. doi:
+10.1002/dvdy.22766
+
+pubmed abstract | crossref full text | google scholar
+
+purstow, j. a., khatiwada, b., bayro, m. j., and venditti, v. (2020). nmr methods for
+structural characterization of protein-protein complexes. front. mol. biosci. 7:9. doi:
+10.3389/fmolb.2020.00009
+
+pubmed abstract | crossref full text | google scholar
+
+pyle, e., kalli, a c., amilis, s., hall, z., lau, a. m., hanyaloglu, a. c., et al. (2018).
+structural lipids enable the formation of functional oligomers of the eukaryotic purine
+symporter uapa. cell chem. biol. 25, 840-848.e4. doi: 10.1016/j.chembiol.2018.03.011
+pubmed abstract | crossref full text | google scholar
+
+pyle, 6 naw, ac, ait, 9.) maul 2, lau, a. i, manyaiuywu, a. l., ela. ull).
+structural lipids enable the formation of functional oligomers of the eukaryotic purine
+symporter uapa. cell chem. biol. 25, 840-848.e4. doi: 10.1016/j.chembiol.2018.03.011
+
+pubmed abstract | crossref full text | google scholar
+
+rao, m., and mayor, s. (2005). use of forster's resonance energy transfer microscopy to
+study lipid rafts. biochim. biophys. acta mol. cell res. 1746, 221-233. doi:
+10.1016/j. bbamer.2005.08.002
+
+pubmed abstract | crossref full text | google scholar
+
+reading, e., hall, z., martens, c., haghighi, t., findlay, h., ahdash, z., et al. (2017).
+interrogating membrane protein conformational dynamics within native lipid
+compositions. angew. chem. int. ed. engl. 56, 15654-15657. doi
+10.1002/anie.201709657
+
+pubmed abstract | crossref full text | google scholar
+
+rist, w., rodriguez, f., jergensen, t. j. d., and mayer, m. p. (2005). analysis of subsecond
+protein dynamics by amide hydrogen exchange and mass spectrometry using a
+quenched-flow setup. protein sci. 14, 626-632. doi: 10.1110/ps.041098305,
+
+pubmed abstract | crossref full text | google scholar
+
+ritter, s. l. and hall, r. a. (2009). fine-tuning of gpcr activity by receptor-interacting
+proteins. nat. rev. mol. cell biol. 10, 819-830. doi: 10.1038/nrm2803,
+
+pubmed abstract | crossref full text | google scholar
+
+riel, 9. l ana fatt, a. (zu). pine-lumny of gfe acuvily vy receptorinteracung
+proteins. nat. rev. mol. cell biol. 10, 819-830. doi: 10.1038/nrm2803
+
+pubmed abstract | crossref full text | google scholar
+
+ruan, q., cheng, m. a., levi, m., gratton, e., and mantulin, w. w. (2004). spatial-
+temporal studies of membrane dynamics: scanning fluorescence correlation
+spectroscopy (sfcs). biophys. j. 87, 1260-1267. doi: 10.1529/biophys).103.036483
+
+pubmed abstract | crossref full text | google scholar
+
+rupert, d. l. m., claudio, v., lasser. c., and bally, m. (2017). methods for the physical
+characterization and quantification of extracellular vesicles in biological samples.
+biochim. biophys. acta gen. subj. 1861, 3164-3179. doi: 10.1016/j.bbagen.2016.07.028
+
+pubmed abstract | crossref full text | google scholar
+
+sadamoto, h., and muto, h. (2013). “fluorescence cross-correlation spectroscopy.
+(fccs) to observe dimerization of transcription factors in living cells,” gene regulation.
+methods in molecular biology (methods and protocols) (totowa, nj: humana press),
+229-241. doi: 10.1007/978-1-62703-284-1_18
+
+crossref full text | google scholar
+
+saka, s. k. honigmann, a., eggeling, c., hell. s. w., lang, t., and rizzoli, s. ©. (2014),
+multi-protein assemblies underlie the mesoscale organization of the plasrna membrane
+nat. commun. 5:4509. doi: 10.1038/ncomms5509
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+mmutt-protein assempues unaerue tne mesoscate organization or tne plasma memorane.
+‘nat. commun. 5:4509. doi: 10.1038/ncomms5509
+
+pubmed abstract | crossref full text | google scholar
+
+sevesik, e., brameshuber, m., félser, m, weghuber, j., honigmann, a., and schitz, g. j.
+(2015). gpi-anchored proteins do not reside in ordered domains in the live cell plasma
+membrane. nat. commun. 6:6969. doi: 10.1038/ncomms7969
+
+pubmed abstract | crossref full text | google scholar
+
+sezgin, e., levental, |. mayor, s., and eggeling, c. (2017). the mystery of membrane
+organization: composition, regulation and roles of lipid rafts. nat. rev. mol. cell biol. 18,
+361-374. doi: 10.1038/nrm.2017.16
+
+crossref full text | google scholar
+
+sezgin, e., schneider, f, galiani, s., urbanéié, |, waithe, d., lagerholm, b. c., et al. (2019).
+measuring nanoscale diffusion dynamics in cellular membranes with super-resolution
+sted-fcs. nat. protoc. 14, 1054-1083. doi: 10.1038/s41596-019-0127-9
+
+pubmed abstract | crossref full text | google scholar
+
+siebenmorgen, t.. and zacharias, m. (2020). computational prediction of protein—
+protein binding affinities. wires comput. mol. sci. 10:e1448. doi: 10.1002/wems.1448,
+
+crossref full text | google scholar
+
+simmons, d. a., and konermann, l. (2002). characterization of transient protein folding
+intermediates during myoglobin reconstitution by time-resolved electrospray mass
+crossref full text | google scholar
+
+simmons, d. a., and konermann, l. (2002). characterization of transient protein folding
+intermediates during myoglobin reconstitution by time-resolved electrospray mass
+spectrometry with on-line isotopic pulse labeling. biochemistry 41, 1906-1914. doi:
+10.1021/bi011697j
+
+pubmed abstract | crossref full text | google scholar
+
+simon, m. |, strathmann, m. p, and gautam, n. (1991). diversity of g proteins in signal
+transduction. science 252, 802-808. doi: 10.1126/science.1902986
+
+pubmed abstract | crossref full text | google scholar
+
+smith, a. w. (2012). lipid-protein interactions in biological membranes: a dynamic
+perspective. biochim. biophys. acta biomembr. 1818, 172-177. doi:
+10.1016/j. bbamem.2011.06.015
+
+pubmed abstract | crossref full text | google scholar
+
+snider, j., kittanakom, s., damjanovic, d., curak, j. wong, v., and stagljar, |. (2010)
+detecting interactions with membrane proteins using a membrane two-hybrid assay in
+yeast. nat. protoc. 5, 1281-1293. doi: 10.1038/nprot.2010.83
+
+pubmed abstract | crossref full text | google scholar
+
+staubach, s., razawi, h., and hanisch, f.-g. (2009). proteomics of muc1-containing
+lipid rafts from plasma membranes and exosomes of human breast carcinoma cells
+mcf-7. proteomics 9, 2820-2835. doi: 10.1002/pmic.200800793
+
+staubach, s., razawi, h., and hanisch, f.-g. (2009). proteomics of muc1-containing
+lipid rafts from plasma membranes and exosomes of human breast carcinoma cells
+mcf-7. proteomics 9, 2820-2835. doi: 10.1002/pmic.200800793
+
+pubmed abstract | crossref full text | google scholar
+
+stender, a. s., marchuk, k., liu, c., sander, s.. meyer, m. w., smith, e. a. et al. (2013)
+single cell optical imaging and spectroscopy. chem. rev. 113, 2469-2527. doi:
+10.1021/cr300336e
+
+pubmed abstract | crossref full text | google scholar
+
+stone, m.b., shelby, s.a. nufiez, m. f., wisser. k., and veatch, s. l. (2017). protein
+sorting by lipid phase-like domains supports emergent signaling function in b
+lymphocyte plasma membranes. elife 6:219891. doi: 10.7554/elife. 19891
+
+pubmed abstract | crossref full text | google scholar
+
+subczynski, w. k, raguz. m., and widomska, j. (2010). studying lipid organization in
+biological membranes using liposomes and epr spin labeling. methods mol. biol. 606,
+247-269. doi: 10.1007/978-1-60761-447-0_18
+
+pubmed abstract | crossref full text | google scholar
+
+suzuki, k. g. n., kasai, r. s., hirosawa, k. m., nemoto, y. l., ishibashi, m., miwa, y., et al
+(2012). transient gpi-anchored protein homodimers are units for raft organization and
+function. nat. chem. biol. 8, 774-783. doi: 10.1038/nchembio.1028
+suzuki, k. g. n., kasai, r. s., hirosawa, k. m., nemoto, y. l., ishibashi, m., miwa, y., et al
+(2012). transient gpi-anchored protein homodimers are units for raft organization and
+function. nat. chem. biol. 8, 774-783. doi: 10.1038/nchembio.1028
+
+pubmed abstract | crossref full text | google scholar
+
+swamy, m., beck-garcia, k., beck-garcia, e., hartl fa. morath, a., yousef, o. s., et al
+(2016). a cholesterol-based allostery model of t cell receptor phosphorylation.
+immunity 44, 1091-1101. doi: 10.1016/j immuni.2016.04.011
+
+pubmed abstract | crossref full text | google scholar
+
+triffo, s. b., huang, h. h., smith, a. w., chou, e. t., and groves, j. t. (2012). monitoring
+lipid anchor organization in cell membranes by pie-fccs. j. am. chem. soc. 134,
+10833-10842. doi: 10.1021/ja300374c
+
+pubmed abstract | crossref full text | google scholar
+
+valiyaveetil, f. |, zhou, y., and mackinnon, r. (2002). lipids in the structure, folding, and
+function of the kesa k+ channel. biochemistry 41, 1071-7. doi: 10.1021/bi026215y
+
+pubmed abstract | crossref full text | google scholar
+
+varshney, p., yadav, v., and saini, n. (2016). lipid rafts in immune signalling: current
+progress and future perspective. immunology 149, 13-24. doi: 10.1111/imm.12617
+
+pubmed abstract | crossref full text | google scholar
+
+vinogradova, o., and gin, j. (2012). nmr as a unique tool in assessment and complex
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+vinogradova, o., and gin, j. (2012). nmr as a unique tool in assessment and complex
+determination of weak protein-protein interactions. top. curr. chem. 326, 35-46. doi:
+10.1007/128_2011_216
+
+pubmed abstract | crossref full text | google scholar
+
+wallrabe, h., and periasamy, a. (2005). imaging protein molecules using fret and flim
+microscopy. curr. opin. biotechnol. 16, 19-27. doi: 10.1016/j.copbio.2004.12.002
+
+pubmed abstract | crossref full text | google scholar
+
+welsh, j. a., holloway, j. a., wilkinson, j. s., and englyst. n. a. (2017). extracellular
+vesicle flow cytometry analysis and standardization. front. cell dev. biol. 5:78. doi
+10.3389/fcell.2017.00078
+
+pubmed abstract | crossref full text | google scholar
+
+westphal, v., rizzoli, s. o., lauterbach, m. a.. kamin, d., jahn, r., and hell. s. w. (2008).
+video-rate far-field optical nanoscopy dissects synaptic vesicle movement. science
+320, 246-9. doi: 10.1126/science.1154228
+
+pubmed abstract | crossref full text | google scholar
+
+wickner, w., and schekman, r. (2008). membrane fusion. nat. struct. mol. biol. 15, 658-
+664. doi: 10.1038/nsmb.1451
+
+crossref full text | gooale scholar
+wickner, w., and schekman, r. (2008). membrane fusion. nat. struct. mol. biol. 15, 658-
+664. doi: 10.1038/nsmb.1451
+
+crossref full text | google scholar
+
+wymann, m. p, and schneiter, r. (2008). lipid signalling in disease. nat. rev. mol. cell
+biol. 9, 162-176. doi: 10.1038/nrm2335
+
+pubmed abstract | crossref full text | google scholar
+
+xia, y., and peng, l. (2013). photoactivatable lipid probes for studying biomembranes by
+photoaffinity labeling. chem. rev. 113, 7880-7929. doi: 10.1021/cr300419p
+
+pubmed abstract | crossref full text | google scholar
+
+yang, w., pan, w., chen, s., trendel, n., jiang, s.. xiao, f., et al. (2017). dynamic
+regulation of cd28 conformation and signaling by charged lipids and ions. nat. struct.
+mol. biol. 24, 1081-1092. doi: 10.1038/nsmb 3489
+
+pubmed abstract | crossref full text | google scholar
+
+yi, j., balagopalan, l, nguyen, t., mcintire, k. m., and samelson, l. e. (2019). tcr
+microclusters form spatially segregated domains and sequentially assemble in calcium-
+dependent kinetic steps. nat. commun. 10:27. doi: 10.1038/s41467-018-08064-2
+
+pubmed abstract | crossref full text | google scholar
+
+you, m., lyu, y., han, d., qiu, l., liu, q., chen, t,, et al. (2017). dna probes for
+
+ 
+
+ 
+
+ 
+
+ 
+
+pubmed abstract | crossref full text | google scholar
+
+you, m., lyu, y., han, d., giu, l., liu, @., chen, t., et al. (2017). dna probes for
+monitoring dynamic and transient molecular encounters on live cell membranes. nat.
+nanotechnol. 12, 453-459. doi: 10.1038/nnano.2017.23
+
+pubmed abstract | crossref full text | google scholar
+
+zal, t., and gascoigne, n. r. (2004). using live fret imaging to reveal early protein—
+protein interactions during t cell activation. curr. opin. immunol. 16, 418-427. doi
+10.1016/j.coi.2004.05.019
+
+crossref full text | google scholar
+
+zhang, x.. lam, v.q., mou, y., kimura, t., chung, j., chandrasekar, s., et al. (2011). direct
+visualization reveals dynamics of a transient intermediate during protein assembly. proc.
+natl. acad. sci. u.s.a. 108, 6450-6455. doi: 10.1073/pnas.1019051108
+
+pubmed abstract | crossref full text | google scholar
+
+zhao, b., tian, @., bagheri, y., and you, m. (2020). lipid—oligonucleotide conjugates for
+simple and efficient cell membrane engineering and bioanalysis. curr. opin. biomed.
+eng. 13, 76-83. doi: 10.1016/j.cobme.2019.12.006,
+
+pubmed abstract | crossref full text | google scholar
+
+zhou, y., morais-cabral, j. h.. kaufman, a., and mackinnon, r. (2001). chemistry of ion
+coordination and hydration revealed by a k+ channel-fab complex at 2.0 a resolution.
+puomed mbstfact™| cros fut tert googe scrovar
+
+zhou, y., morais-cabral, j. h.. kaufman, a., and mackinnon, r. (2001). chemistry of ion
+coordination and hydration revealed by a k+ channel-fab complex at 2.0 a resolution.
+nature 414, 43-48. doi: 10.1038/35102009
+
+pubmed abstract | crossref full text | google scholar
+references
+the authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+conflict of interest
+funding
+
+the authors gratefully acknowledge nih r35gm133507, sloan research
+
+  
+
+funding
+
+ 
+
+the authors gratefully acknowledge nih r35gm133507, sloan research
+fellowship, a start-up grant from umass amherst, and an ials m2m seed
+grant to my.
+my provided the guidance for the whole project and revised the manuscript.
+yb and aa searched the literature and wrote the manuscript. all the authors
+have reviewed, edited, and approved the manuscript before submission.
+author contributions
+nmr and ms are both almost label-free approaches that can measure
+membrane interactions in their natural forms. however, direct in situ analysis
+in live cell membranes is still difficult for both methods. the recent
+development of sims seems to provide a promising solution for this issue.
+furthermore, it is challenging to apply nmr and ms to study really fast (< ms)
+membrane interactions or conformational changes. indeed, efforts have
+been taken to improve the temporal resolution of ms, for example, by
+conjugating with a flow quenching system (rist et al., 2005; giladi and
+khananshvili, 2020).
+
+nmr provides great spatial resolution for structural studies. in comparison,
+ms and other methods usually suffer from low spatial resolutions. to
+potentially improve their resolution, complementing the experimental data
+with computational simulations can be an effective approach to obtain
+molecular-level structural information (martens et al., 2019).
+
+fluorescence-based methods allow direct and real-time visualization of
+transient interactions in live cell membranes. using commercially available
+microscopes, currently it is easy to precisely measure ms-s range
+
+fluorescence-based methods allow direct and real-time visualization of
+transient interactions in live cell membranes. using commercially available
+microscopes, currently it is easy to precisely measure ms-s range
+membrane interactions. meanwhile, advanced imaging systems have been
+designed and applied for detecting even faster (< ps) interactions (simmons
+and konermann, 2002; rist et al., 2005; honigmann et al., 2014; sezgin et
+al, 2019). we are expecting these advanced systems to be more readily
+available to the broad community of researchers in the future.
+
+with the development of versatile fluorescent membrane probes, advanced
+fluorescence microscopes have genuinely reshaped our perception of
+membrane transient interactions. however, methods that allow high-
+throughput and quantitative analysis are still imited, especially for screening
+compounds that can potentially regulate critical transient interactions in
+diseases. as a result, membrane heterogeneities and cell-to-cell variations of
+these dynamic interactions or so-called membrane “interactome” are largely
+unknown.
+
+even using the same method, contradictory results have been obtained for
+many transient interactions such as in the case of membrane nanodomains.
+this inconsistency may result from the limited precision of the methods, but
+also is likely due to the dynamic nature of these transient interactions. under
+different cellular environment and conditions, the lifetime of membrane
+interactions can be varied dramatically. standard experimental procedure
+
+and statistical data analysis should be established. meanwhile, it will be
+also is likely due to the dynamic nature of these transient interactions. under
+
+different cellular environment and conditions, the lifetime of membrane
+interactions can be varied dramatically. standard experimental procedure
+and statistical data analysis should be established. meanwhile, it will be
+helpful to use more than one method to validate the observed results for
+membrane transient interactions.
+
+a systematic comparison of the accuracy and performance of available
+methods in analyzing membrane transient interactions is highly desired,
+most laboratories chose the methods based on their own experience and
+expertise. one goal of this review is to provide the first step in initiating such
+comparison. we believe once a well-accepted membrane model and
+standard approach were established, versatile functions of transient
+interactions in regulating membrane trafficking and cell signaling can be
+discovered in both healthy and diseased cell conditions.
+
+this review has been focusing on major methods in studying transient
+membrane interactions among individual lipids and proteins. other
+interesting membrane interactions, such as membrane vesicle formation,
+transportation, and fusion, are also critical for various cellular functions such
+as cell growth, hormone secretion, and neurotransmission (novick and
+schekman, 1979; wickner and schekman, 2008; rupert et al., 2017; welsh
+et al, 2017). unfortunately, because of the limited space in this article, we
+are not able to cover all these topics. we would like to refer interested
+audience to those reports mentioned above.
+
+et al,, 2017). unfortunately, because of the limited space in this article, we
+are not able to cover all these topics. we would like to refer interested
+audience to those reports mentioned above.
+
+in short, the introduction of new methodologies has been continuously
+improving our knowledge of transient membrane interactions. it is important
+that researchers with different expertise to collaboratively work together in
+developing more powerful toolkits. we believe that future evolution of
+methods and instrumentations will continue to play a major role in
+advancing our understanding of the dynamic nature of cells and other
+biological system.
+studying cell membrane transient
+interactions.
+table 1. currently available methods for
+studying cell membrane transient
+interactions.
+ 
+membrane transient interactions are important biophysical events for
+membrane trafficking, signal transduction, and cell proliferation (ikonen,
+2008; kraft, 2013; sezgin et al, 2017; martens et al., 2018; yi et al., 2019)
+with fast emergence of new powerful methods and tremendous
+advancement in instrumentations, our understanding of these short-lived
+events has been significantly improved. as shown in table 1, we have
+summarized and compared different properties and applications of these
+variant experimental methods in studying membrane transient interactions.
+we will discuss as follows our view on how to further advance these
+methods, as well as future directions in membrane interaction studies.
+discussion
+fluorescence signals but also avoid membrane interruptions.
+
+ 
+
+    
+dna-based membrane probes
+
+we have recently developed a dna-based approach to image transient
+interactions in live cell membranes (you et al., 2017). in this approach,
+individual membrane lipid-lipid and protein-protein interactions are
+converted into changes in the collective fluorescence signal, which can be
+easily detected by fluorescence microscopes. dna probes can be covalently
+modified onto target membrane lipids without affecting their lateral diffusion
+and domain partition (you et al., 2017; bagheri et al., 2019a). the highly
+precise and controllable dna hybridizations have further allowed
+programmable manipulation and function of these membrane-anchored
+dna probes (baaheri et al. 2019b: zhao et al. 2020)
+
+and domain partition (you et al., 2017; bagheri et al., 2019a). the highly
+precise and controllable dna hybridizations have further allowed
+programmable manipulation and function of these membrane-anchored
+dna probes (bagheri et al., 2019b; zhao et al., 2020).
+
+our dna probe is realized through a toehold-mediated strand displacement
+reaction (figure 5c). to measure membrane transient lipid-lipid interactions,
+two target lipids were modified with a quencher strand (s,) and an
+unmodified anchor strand (sz), respectively. once two lipids are located
+within ~5 nm, a fluorophore-labeled dna probe (w) will translocate from s2
+to s1, resulting in a fluorescence quenching. by monitoring membrane
+fluorescence signal changes, this approach allows live-cell imaging of s-to-
+ms-range lipid-lipid interactions using common fluorescence microscope
+and flow cytometer. similar strategy can also be applied to monitor
+membrane protein-protein interactions using target protein-specific dna
+aptamers (you et al., 2017).
+
+this modular dna-based approach can be easily adopted to different targets
+on the cell membrane. however, it is necessary to carefully evaluate the
+effect of dna modification on the membrane properties and behaviors of
+the target molecules. furthermore, the membrane densities of the dna
+probes should be kept in the minimum possible level to provide enough
+fluorescence signals but also avoid membrane interruptions.
+photoactivatable lipid probes
+
+a powerful method to profile proteome-wide membrane lipid-protein
+
+   
+
+photoactivatable lipid probes
+
+a powerful method to profile proteome-wide membrane lipid-protein
+interactions is based on photoactivatable lipid probes (xia and peng, 2013;
+peng et al., 2014). in this method, after incorporating into the membranes
+and upon light irradiation, photoactivatable lipids can be activated and cross-
+linked with their interacting membrane protein partners (figure 5b)
+transiently formed membrane lipid-protein complexes can thus be
+covalently stabilized. after separation and purification, different approaches
+such as ms, autoradiography, high-performance liquid chromatography, and
+gel electrophoresis can be used to analyze the cross-linked membrane
+complexes.
+
+these photoactivatable lipid probes can be used in both artificial and live cell
+membranes. they have been used to proteome-wide map and identify new
+membrane proteins that can transiently bind target lipids (niphakis et al.,
+2015). without prior knowledge, unlabeled endogenous membrane proteins
+can be directly cross-linked with the photoactivatable lipid probes once an
+interaction happens. meanwhile, with the help of bifunctional lipid probes,
+the binding sites of these lipid-protein complexes can also be determined
+(xia and peng, 2013; peng et al. 2014). in addition to membrane lipid-
+protein interactions, these photoactivatable probes can also be used to map
+dynamic lipid-anchored protein-protein interactions.
+
+on the other hand, by introducing several functional groups in the lipid
+protein interactions, these photoactivatable probes can also be used to map.
+dynamic lipid-anchored protein-protein interactions.
+
+on the other hand, by introducing several functional groups in the lipid
+molecules, the natural interaction pattern of the target lipid may be
+disrupted. in addition, the crosslinking efficiency is highly dependent on the
+activity and position of the functional group. as a result, the choice of bio-
+orthogonal crosslinking moiety and tagging site in lipids is critical in
+developing accurate and efficient photoactivatable probes. a series of
+photoactivatable lipid probes have been developed (xia and peng, 2013).
+with continuous efforts in the characterization and optimization of these
+functional probes, the photo-crosslinking approach can play a critical role in
+profiling membrane transient interactions.
+one major advantage of membrane two-hybrid assay is that it can be used
+for high-throughput screening. for example, using this approach, crkii has
+heen identified as a new adantor nrntein that can dvnamically interact with
+
+one major advantage of membrane two-hybrid assay is that it can be used
+for high-throughput screening. for example, using this approach, crkii has
+been identified as a new adaptor protein that can dynamically interact with
+membrane epidermal growth factor receptor in oncogenic signaling
+(petschnigg et al., 2014). these membrane two-hybrid assays can also
+potentially be useful in discovering drug molecules that can interfere with
+transient protein interactions during membrane signaling.
+
+on the other hand, compared with the reversible fret interactions, these
+membrane two-hybrid assays are normally irreversible and not suitable to
+image the location or dynamics of membrane interactions. the relatively
+high rate of false-positive signals, e.g., from protein overexpression, requires
+careful data analysis and validation. in theory, other methods that can
+convert dynamic interactions into permanent signals, such as in situ
+proximity ligation assay (petschnigg et al., 2014) and bimolecular
+fluorescence complementation (kodama and hu, 2012), may also be useful
+for characterizing membrane transient interactions. however, the interaction
+time required for the proximity-based ligation or reconstitution of
+fluorescent proteins made these methods practically challenging to study
+short-lived membrane interaction events.
+figure 5. artificial membrane probes for
+studying dynamic membrane interactions. (a)
+‘schematic of membrane two-hybrid assays
+for characterizing membrane protein-protein
+interactions based on the formation of
+deubiquitinating enzyme (dub). (b)
+‘schematic of applying photoactivatable lipid
+probes for proteome-wide mapping of
+membrane lipid-protein interactions. (c)
+‘schematic of the toehold-mediated dna
+displacement reaction for monitoring
+membrane lipid-lipid interactions. reprinted
+with permission from you et al. (2017).
+copyright (2017) springer nature limited.
+figure 5
+
+ 
+membrane two-hybrid assays
+
+yeast and mammalian two-hybrid assays have been developed to
+characterize membrane protein-protein interactions, including transient
+ones (snider et al., 2010; petschnigg et al., 2014). in these assays, each half
+of a split ubiquitin is tagged, respectively, to the target membrane protein
+(named as bait and prey). once bait and prey proteins interact, a
+pseudoubiquitin is formed and then cleaved by cytosolic deubiquitinating
+enzymes to release a reporter protein, such as a transcription factor for
+generating fluorescent proteins or luciferases (petschnigg et al., 2014; figure
+5a).
+
+enzymes to release a reporter protein, such as a transcription factor for
+generating fluorescent proteins or luciferases (petschnigg et al., 2014; figure
+5a).
+forster resonance energy transfer
+
+férster resonance energy transfer (fret) is another powerful technique to
+investigate membrane molecular interactions (rao and mayor, 2005; loura
+et al,, 2010; loura and prieto, 2011). by modifying the target membrane
+partner with a donor and acceptor fluorophore, respectively, once two
+
+molecules are in close proximity (<10 nm), the eneray transfer between the
+investigate membrane molecular interactions (rao and mayor, 2005; loura
+
+et al,, 2010; loura and prieto, 2011). by modifying the target membrane
+partner with a donor and acceptor fluorophore, respectively, once two
+molecules are in close proximity (<10 nm), the energy transfer between the
+donor and acceptor results in a strong fret signal. for example, fret has
+been used to discover specific membrane interactions between
+sphingomyelin and the p24 protein (contreras et al., 2012), as well as the
+membrane domain formation during the interactions of n-ras and k-ras4b
+oncoproteins (li et al., 2019),
+
+fret is often combined with fluorescence lifetime imaging microscopy
+(flim) to study membrane transient interactions (lléres et al., 2007; liu et al.
+2012; gagnon et al., 2017). in flim-fret, the energy transfer between the
+fret donor and acceptor results in a fluorescence lifetime decrease of the
+donor fluorophore. compared with fluorescence intensity-based
+measurement, flim-fret is advantageous of being independent of the
+membrane concentration of target molecules (wallrabe and periasamy,
+2005). this feature is critical considering the heterogeneity and diverse
+distribution patterns of lipids and proteins. for example, the effect of various
+mutations and chemical inhibitors in modulating transient interactions
+between membrane-bound antiapoptotic bcl-2 protein and proapoptotic
+bh3 protein has been measured using flim-fret (liu et al., 2012; osterlund
+et al, 2015; figure 4b).
+
+in addition to fret, distance-dependent non-fret quenching has also been
+urestsruteank ascent intaserdansinjivenel ramhwees! valve obabruie
+et al, 2015; figure 4b).
+
+in addition to fret, distance-dependent non-fret quenching has also been
+used to track transient interactions in live cell membranes (artetxe et al.
+2013). for example, fluorophore- and quencher-labeled lipid pairs were used
+to study the impact of head group size of sphingolipids and ceramide on
+their interactions with membrane cholesterols (artetxe et al,, 2013). in these
+fret or quencher approaches, both target molecules are needed to be
+fused with fluorophore or quencher at a specific location to ensure close
+proximity during interactions. meanwhile, the limited signal-to-noise ratio
+has prevented the application of these fret methods for imaging some
+really transient (submillisecond) membrane interactions.
+meanwhile, because normally tirf is performed close to the surface of the
+coverslip, it is mainly capable of studying the surface-attached part of the
+target cells (hell et al., 2015), e.g,, the basal surface of epithelial cells but not
+the apical side. considering that basal and apical cell membrane may have
+different compositions and functions, tirf may only provide partially
+representative information about the whole cell membrane. furthermore,
+close proximity with the glass surface may also induce non-natural
+protein/lipid organization and diffusion patterns.
+figure 4. tirf-based single-molecule
+tracking to investigate membrane transient
+interactions. (a) protein homodimerization
+and lipid-tipid interactions are transient
+process that can be studied with tirf. (b)
+transient interactions between proapoptotic
+bhg protein and membrane-bound
+antiannointicanl? riateins. ca pasidied
+process that can be studied with tirf. (b)
+transient interactions between proapoptotic
+bhg protein and membrane-bound
+antiapoptotic bcl-2 proteins can be studied
+using flim-fret. fret among venus and
+mcherry facilitates venus relaxation and
+lowers its lifetime.
+
+ 
+figure 4
+super-resolution microscopy
+
+fcs and fccs normally operate on a confocal microscope. however, limited
+by the relatively big focal spot (~200 nm in diameter), it is challenging to
+validate if these membrane interactions indeed happen on the molecular
+level, especially in those small nanodomains. stimulated emission depletion
+(sted) microscopy is a super-resolution approach that can be combined
+with fcs to image interactions below the diffraction limit (honigmann et al.,
+2014; saka et al., 2014: sevcsik et al., 2015; sezgin et al., 2019). using sted-
+fcs, a 20-nm focal spot is accessible, which allows a better distinction
+between membrane free diffusion and transient interactions (eggeling et al.,
+2009).
+
+sted-fcs has been used to monitor cholesterol-dependent membrane
+diffusion and colocalization of sphingolipids and
+glycosylphosphatidylinositol (gp!)-anchored proteins in living cells (eggeling
+et al,, 2009; figure 38). these lipid moieties were found to be transiently
+trapped in cholesterol-mediated complexes in a <20-nm-diameter area. in a
+more recent study, the same authors applied scanning sted-fcs to
+
+investigate the spatial distributions of these membrane cholesterol-lipid
+eval, 2uuy, rigure 95). inese upla moreues were found lo be wansienuy.
+
+trapped in cholesterol-mediated complexes in a <20-nm-diameter area. in a
+more recent study, the same authors applied scanning sted-fcs to
+investigate the spatial distributions of these membrane cholesterol-lipid
+interactions. again, transient interaction hotspots across the cell membrane
+were observed (honigmann et al., 2014). dynamic cholesterol-dependent
+multiprotein membrane assemblies can also be visualized with sted-fcs
+(saka et al., 2014).
+
+in addition to sted, other single-molecule imaging and super-resolution
+techniques, such as total internal reflection fluorescence (tirf) microscopy,
+structured illumination microscopy, and photoactivated localization
+microscopy, have also been used to study membrane transient interactions
+(hess et al., 2007; galbraith and galbraith, 2011). considering that the short-
+lived interactions usually do not result in many accumulated signals over a
+large membrane plane, microscopes of high spatial resolution and single-
+molecule sensitivity are useful techniques in our understanding of these
+heterogeneous and transient interactions. however, jis—ms range membrane
+transient interactions are often still too fast to be analyzed based on single-
+molecule imaging or colocalization methods. many super-resolution
+techniques have to sacrifice the temporal resolution to obtain spatially
+resolved information (westphal et al., 2008; galbraith and galbraith, 2011)
+
+with fast image acquisition, high signal-to-noise ratio, and spatial resolution,
+tirf is a popular approach to monitor dynamic motions and interactions in
+live cell (suzuki et al,, 2012; stender et al., 2013). using bright and
+
+with fast image acquisition, high signal-to-noise ratio, and spatial resolution,
+tirf is a popular approach to monitor dynamic motions and interactions in
+live cell (suzuki et al,, 2012; stender et al., 2013). using bright and
+photostable fluorophores, transient colocalization as short as microseconds
+can be detected in tirf. for example, transient homodimerization of gpi-
+anchored proteins was found as critical organization unit for membrane
+domain formation (suzuki et al., 2012; figure 4a). while, interestingly,
+somewhat controversial result was shown in another tirf-based study,
+which indicated that gpi-anchored proteins were not found to partition in
+the membrane domains (sevcsik et al., 2015), this discrepancy may indicate
+that it is still challenging to precisely measure membrane transient
+interactions based on simply monitoring the trajectory of each single
+molecule.
+fcs and fccs are not suitable for monitoring slowly moving membrane
+particles, though. in this case, the number of interactions within the focal
+spot is hardly sufficient to obtain good statistics; meanwhile, the
+fluorophores can be easily bleached before leaving the focal spot (triffo et
+al, 2012). traditional fccs can assess only tiny focal spots rather than the
+whole membrane area. to assess a large membrane, temporal and spatial
+correlation analysis can be combined with scanning fcs/fccs now (ruan et
+alop.ar. fog we
+
+at, 2012). traditional fccs can assess only tiny focal spots rather than the
+whole membrane area. to assess a large membrane, temporal and spatial
+correlation analysis can be combined with scanning fcs/fccs now (ruan et
+al., 2004).
+
+ 
+
+ 
+
+ 
+figure 3. fluorescence correlation
+spectroscopy measures membrane transient
+interactions at the single-molecule level. (a)
+‘schematic of fluorescence cross-correlation
+of correlated and uncorrelated protein
+diffusions in the membrane. increase in
+correlation among targets results in higher
+cross-correlation. (b) sted-fcs provides
+better spatial resolution to distinguish target
+interactions than the conventional confocal
+fcs.
+ 
+
+ 
+figure 3
+cell kinase, knoa, and k-kas proteins (rigure sa; iritto et al,, 2u12).
+fluorescence correlation spectroscopy and cross-correlation
+spectroscopy
+
+the development of fluorescence techniques has revolutionized membrane
+biophysical studies (triffo et al., 2012; martinez-moro et al., 2019).
+fluorescence methods enable the real-time study of dynamic phenomena in
+living cell membranes with high temporal and spatial resolution. here, we
+will discuss some fluorescence spectroscopy and microscopy approaches
+that have been used to study transient interactions in the cell membranes.
+
+the first method is based on fluorescence correlation spectroscopy (fcs).
+fcs can be used to analyze the concentrations, motilities, and interactions
+of membrane fluorescent-labeled compounds (haustein and schwille,
+2003; bacia et al., 2006). it works by measuring fluorescence fluctuations in
+a tiny focal spot. membrane complex formation results in changes in the
+mobility. in order to obtain reliable interaction information in fcs, a large-
+molecular-weight difference (usually >eight-fold) between bound and
+unbound state is needed. to study membrane interactions between
+molecules of similar molecular weight, fluorescence cross-correlation
+cnectrnerany (eccs) can he a nnad antinn eccs meaciirac the flict afinne
+molecular-weight difference (usually >eight-fold) between bound and
+unbound state is needed. to study membrane interactions between
+molecules of similar molecular weight, fluorescence cross-correlation
+spectroscopy (fccs) can be a good option. fccs measures the fluctuations
+and correlations of two fluorescent-labeled partners in the same focal spot
+(bacia et al., 2006; bacia and schwille, 2007). if these two molecules
+interact, even transiently, they will diffuse together and exhibit a positive
+cross-correlation signal.
+
+fccs has become a popular method to study, at the single-molecule level,
+membrane dynamic interactions (bacia et al., 2006; sadamoto and muto,
+2013; ma et al., 2014; martinez-moro et al., 2019). fccs is able to report the
+correlated diffusion and binding stoichiometry over multiple time scales
+(10-7-10+ s) (bacia et al., 2006). for example, fccs has been used to study
+the regulation effect of cardiolipin and phosphatidyiglycerol on the dynamic
+oligomerization of mitochondrial membrane voltage-dependent anion
+channel (betaneli et al., 2012). in another example, snare proteins were
+found to prefer incorporating into disordered membrane domains (bacia et
+al., 2004). as an example for measuring transient protein-protein
+interactions in live cell membranes, pulsed-interleaved excitation fccs was
+used to investigate anchor-mediated dynamic colocalization of lymphocyte
+cell kinase, rhoa, and k-ras proteins (figure 3a; triffo et al., 2012)
+mass spectrometry
+
+mass spectrometry (ms) is another common method to study membrane
+dynamic interactions (konijnenberg et al., 2014; gupta et al., 2017, 2018;
+bolla et al., 2019; frick and schmidt, 2019). ms does not provide high-
+resolution target structure, but it can measure the mass and stoichiometry of
+the complex (pyle et al., 2018; frick and schmidt, 2019). among different
+types of ms, hydrogen-deuterium exchange ms (hdx-ms) has gained much
+attention for studying transient (millisecond range) protein conformational
+changes (rist et al., 2005; giladi and khananshvili, 2020). for example, hdx-
+ms has been used to study how transient lipid-protein interactions can
+induce conformational and functional changes of bacterial leucine
+transporter leut (adhikary et al., 2017), rhomboid protease gipg (reading et
+al, 2017), and various secondary transporters (martens et al., 2018). in hdx-
+ms, labile hydrogens in the protein complex can be exchanged with
+deuterium. the mass uptake at different locations of the complex will then
+be measured and mapped to allow visualization of its structural dynamics
+(figure 2b; martens et al., 2019; giladi and khananshvili, 2020). high-purity
+samples are desirable but not essential, because the contaminants can be
+easily ruled out during data processing (martens et al., 2019).
+
+hdx-ms is still limited with some shortcomings. first, hdx-ms reports the
+changes in the protein uptake of deuterium, not directly the complex
+conformation. for a 50-kda protein, analyzing and converting one set of
+data ta the ranfnrmatinnal channas maw tale 7 dave (martenc at al 2010)
+hdx-ms is still limited with some shortcomings. first, hdx-ms reports the
+changes in the protein uptake of deuterium, not directly the complex
+conformation. for a 50-kda protein, analyzing and converting one set of
+data to the conformational changes may take ~2 days (martens et al., 2019)
+detergents are normally used to extract membrane protein complexes in ms
+studies. however, affected by the choice of detergent, the obtained results
+may not represent the native structure of membrane complexes. membrane-
+mimic lipid nanostructures, such as picodiscs, nanodiscs, styrene maleic acid
+lipid particles, bicelles, and liposomes (grinkova et al., 2010; diirr et al,
+2012; marty et al., 2016; frick and schmidt, 2019), have been developed to
+alleviate this problem, while the effect of these artificial lipid structures
+should be still carefully considered.
+
+secondary ion ms (sims) has been used to image lipid distributions in the cell
+membranes. for example, by metabolically incorporating isotopic form of
+lipids, sims allows the imaging of sphingolipid and cholesterol distributions
+in the membrane domains, with a resolution of <l00 nm (mcquaw et al.,
+2007; he et al, 2017; kraft, 2017). compared to fluorescent labeling as
+mentioned below, such isotope labeling has less impact on the natural
+membrane properties of the target lipids. sims can indirectly verify lipid—lipid
+or lipid—protein interactions by quantifying target lipid distributions and
+transitions upon addition and depletion of the partner lipids or proteins
+(mcquaw et al., 2007; he et al., 2017). however, sims cannot directly assess
+membrane interactions, especially those being transient. in addition, sims is
+
+not suitable for live-cell studies. cells need to be dehydrated first, and the
+transitions upon adaition and depletion of the partner lipids or proteins.
+
+(mcquaw et al., 2007; he et al., 2017). however, sims cannot directly assess
+membrane interactions, especially those being transient. in addition, sims is
+not suitable for live-cell studies. cells need to be dehydrated first, and the
+measurements are performed in vacuum.
+mass spectrometry
+
+mass spectrometry (ms) is another common method to study membrane
+however, it is still difficult to use nmr to characterize structures of large-
+molecular-weight complexes. appropriate kinetic models should also be
+carefully chosen to convert the obtained nmr data into accurate interaction
+parameters (furukawa et al., 2016). in this regard, a relevant strategy based
+on site-directed spin labeling electron paramagnetic resonance (epr)
+spectroscopy can be advantageous for the more direct study of membrane
+transient interactions (subczynski et al., 2010; zhang et al., 2011). however,
+both nmr and epr are still challenging to be directly applied for studying
+interactions in live cell membranes. the differences between real cell
+membrane environment and in vitro conditions have to be considered.
+figure 2. the use of nmr and mass
+spectrometry for studying membrane
+transient interactions. (a) dynamic
+membrane protein structural changes and
+interactions can be analyzed from the
+spectrometry for studying membrane
+transient interactions. (a) dynamic
+membrane protein structural changes and
+interactions can be analyzed from the
+‘observed chemical shifts in 2d nmr
+spectrum. (b) schematic of a general hdx-
+ms workflow to study protein conformation
+changes induced by dynamic lipid-protein
+interactions.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+nuclear magnetic resonance spectroscopy
+
+x-ray crystallography and electron microscopy can provide valuable
+structural information about stable membrane protein-lipid complexes
+(zhou et al., 2001; nooren and thornton, 2003). however, these methods
+are normally not suitable for studying transient interactions or
+conformational changes. in comparison, nuclear magnetic resonance (nmr)
+spectroscopy is better for analyzing structure and dynamics of membrane
+transient complexes (diaz-moreno et al., 2005; dannatt et al., 2016; purslow
+et al,, 2020). thermodynamic information such as the binding affinities of
+membrane partners can also be measured in nmr (purslow et al., 2020).
+nmr is a powerful technique for studying membrane transient interactions,
+especially if atomic-level structural information is needed
+
+chemical shift of proteins is very sensitive to the local electronic
+nm 1s a powertut tecrinique tor studying mernbrarié ‘transient interécuiéns,
+especially if atomic-level structural information is needed
+
+chemical shift of proteins is very sensitive to the local electronic
+environment. as a result, changes in the chemical shift can be used for the
+nmr analysis of protein complex formation and structure (ahuja et al., 2013;
+figure 24). for example, chemical shift perturbation is a suitable method for
+studying transient interactions with 1»m—mm binding affinities (acuner
+ozbabacan et al., 2011). in this method, a ?5n- or ?5c-labeled target protein
+is titrated with different amounts of unlabeled binding partner. changes in
+the two-dimensional (2d) heteronuclear single-quantum coherence spectra
+are then used to calculate the binding affinity and binding site of the protein
+complex. several other nmr-based methods have also been developed to
+study membrane dynamic protein-protein interactions, such as solvent
+paramagnetic relaxation enhancement, residual dipolar coupling, and
+nuclear overhauser effect (vinogradova and qin, 2012; gell et al., 2017;
+larsen et al, 2018).
+methods to study membrane transient interactions
+
+in the past few decades, several computational and experimental methods
+have been developed to study membrane transient interactions (loura et al.,
+2010; smith, 2012; corradi et al., 2019). with significant improvement in the
+computing power and theoretical models, computational approaches can
+now predict and explain many membrane short-lived interactions. dynamic
+simulations have been applied to study various membrane interactions
+(corradi et al., 2019; muller et al., 2019), such as the effect of lipid
+environment on membrane channel functions (gu and de groot, 2020), the
+impact of polyunsaturated fatty acids on lipid raft structure and distribution
+(evental et al 2014) and linid-indticed croce-talle theaninh the laaflatc
+(corradi et al., 2019; muller et al., 2019), such as the effect of lipid
+environment on membrane channel functions (gu and de groot, 2020), the
+impact of polyunsaturated fatty acids on lipid raft structure and distribution
+(levental et al., 2016), and lipid-induced cross-talk through the leaflets
+(bossa et al., 2015). there are several great reviews on using computational
+methods to study membrane dynamic interactions (corradi et al., 2019;
+muller et al., 2019; siebenmorgen and zacharias, 2020). here, we will mainly
+discuss experimental methods that can be used to really detect and analyze
+transient interactions in the cell membranes.
+in addition to these transient protein—protein interactions, lipid-protein and
+lipid—lipid interactions also play a major role in the cell membrane fluidity,
+curvature, and domain formation (leikin et al., 1996; aimon et al., 2014;
+mcmahon and boucrot, 2015). these short-lived and transient lipid-
+mediated interactions provide a mechanism allowing membrane
+compounds to quickly respond to stimuli, yet retain the ability to return to
+their original state. based on the structure and degree of saturation, lipids
+tend to arrange themselves into either ordered or disordered domains (bakht
+et al, 2007; kaiser et al., 2009; figure 18). in the case that a membrane
+compound has similar binding affinities with several binding partners, by
+forming these lipid domains, the high chance of colocalization with a
+particular partner will clearly increase their opportunity of interactions. as a
+result, specific membrane complexes can form because of high local
+concentrations, despite their weak binding affinities.
+
+for example, transient lipid interactions (in the range of sms) have resulted
+in the formation of lipid rafts, i.e., small membrane domains that are usually
+<200 nm in diameter (kolmakov et al, 2010; smith, 2012; sezgin et al.,
+2017; bolmatov et al., 2020). cholesterols, sphingolipids, and various
+proteins participate in these raft-like structures and regulate cellular
+processes such as in immune signaling, host—pathogen interaction, cancer,
+and cardiovascular diseases (lorizate et al., 2013; larsen et al., 2015;
+
+varshney et al., 2016; stone et al., 2017; bolmatov et al., 2020)
+proteins participate in these raft-like structures and regulate cellular
+
+processes such as in immune signaling, host-pathogen interaction, cancer,
+and cardiovascular diseases (lorizate et al, 2013; larsen et al., 2015;
+varshney et al., 2016; stone et al., 2017; bolmatov et al., 2020).
+
+lipids can also directly interact with proteins to define their membrane
+structures and locations (sezgin et al., 2017; bolla et al., 2019). dependent
+on the relative position of lipids to proteins, membrane lipids can be
+categorized into three groups: annular, non-annular, and bulk (figure 1c;
+lee, 2003; contreras et al., 2011; marius et al., 2012). bulk lipids function as
+general membrane composition and usually have minimal interactions with
+membrane proteins (lee, 2004). annular lipids can form a ring-shaped shell
+that non-specifically surrounds membrane proteins (contreras et al., 2011)
+in contrast, non-annular lipids can selectively occupy the cavities of proteins
+and function as specific building blocks or cofactors for the target proteins.
+both annular and non-annular lipid-protein interactions are largely mediated
+by hydrophobic interactions. meanwhile, hydrophilic interactions between
+polar amino acid chains and lipids’ head groups have further increased the
+affinity and specificity of these lipid-protein conjugates (lee, 2004;
+contreras et al., 2011). compared to the transient annular lipid-protein
+interactions, many non-annular lipid-protein interactions are more stable
+and long-lasting (lee, 2011; marius et al., 2012), e.g., as that happens during
+the selective interactions between phosphatidylglycerol and the
+homotetrameric potassium channel kesa (heginbotham et al., 1998;
+valiyaveetil et al., 2002).
+
+the selective interactions between phosphatidylglycerol and the
+homotetrameric potassium channel kesa (heginbotham et al., 1998;
+valiyaveetil et al., 2002).
+
+we can also distinguish membrane lipid-protein interactions based on the
+different categories of membrane proteins (figure 1c). integral membrane
+proteins and lipid-anchored proteins can interact with lipids through
+hydrophobic interactions. while peripheral proteins will normally interact
+with lipids through transient binding with lipids’ head groups, different
+strengths of these interactions can be used to define proteins’ locations and
+functions. for example, proteins that specifically bind glycosphingolipids or
+sphingomyelin can be recruited to the aforementioned membrane
+nanodomains (fantini and yahi, 2010; pontier and schweisguth, 2012;
+sezgin et al., 2017). during t-cell activation, cholesterol can selectively bind
+to the resting tcr and activate the allosteric transition of the tcr complex
+(swamy et al., 2016; figure 1d). meanwhile, the dynamic interactions
+between cd28 and cholesterol or sphingomyelin also help recruit these
+membrane proteins into the same submembrane domains of the tcr
+complex for the efficient t-cell activation (kabouridis et al., 2000; yang et
+al, 2017). these transient lipid-protein interactions are required to prevent
+spurious tcr activation and ensure accurate membrane functions.
+
+membrane lipid domains are also involved in cancer development and
+progression. it has been shown that oncogenic proteins such as mucin 1 and
+urokinase plasminogen activator surface receptor are centered in raft-like
+
+membrane lipid domains are also involved in cancer development and
+progression. it has been shown that oncogenic proteins such as mucin 1 and
+urokinase plasminogen activator surface receptor are centered in raft-like
+domains (staubach et al., 2009). mitogenic signaling is also initiated from cell
+surface receptors in the lipid domains (heldin et al,, 2016; varshney et al.,
+2016). in addition, by disrupting raft-like membrane domains, anticancer
+drugs can be developed (gajate and mollinedo, 2007). similarly, lipid domain
+partitions have also been observed in other health threats such as vascular
+diseases (maguy et al., 2006). membrane transient interactions are indeed
+important cellular events that require better understanding.
+in addition to these transient protein-protein interactions, lipid-protein and
+figure 1. transient interactions control
+membrane functions. (a) during t-cell
+signaling, the mhcp ligand binding induces
+dynamic protein-protein interactions
+between t-cell receptor (tcr) and cd4. (b)
+the strength of lipid-lipid interactions
+regulates membrane phase separation and
+domain formation. white circles represent
+that lipids prefer ordered domain. the darker
+the blue shading of circles, the poorer the
+ability of these disordered phase-preferred
+lipids to pack tightly. (c) the correlation
+between membrane protein location and
+their interactions with lipids. membrane lipids
+can be thus categorized into three groups:
+bulk, annular, and non-annular. (d) dynamic
+cholesterol interaction with tcr regulates its
+activation and prevents non-specific
+responses.
+figure 1
+
+ 
+figure 1
+importance of membrane transient interactions
+
+the first role of membrane transient interactions is to regulate the activation
+or suppression of many membrane protein complexes (ikonen, 2008; larsen
+et al,, 2015; sezgin et al, 2017). these protein complexes or
+oligomerizations cannot function without transient binding and interactions
+(heldin et al,, 1997; james et al., 2006). in membrane signaling network, the
+same protein is often involved in forming more than one complex and need
+to interact with different membrane partners. weak and transient
+interactions will allow these membrane proteins to function in several
+signaling and trafficking pathways simultaneously. in addition, intracellular
+proteins can also be transiently recruited to the membrane to form dynamic
+
+receptor complexes (sezgin et al., 2017; corradi et al., 2019). disruption of
+interactions will allow these membrane proteins to function in several
+
+signaling and trafficking pathways simultaneously. in addition, intracellular
+proteins can also be transiently recruited to the membrane to form dynamic
+receptor complexes (sezgin et al., 2017; corradi et al., 2019). disruption of
+these fine-regulated membrane dynamic network will result in ineffective
+signal transduction and cell damage (wymann and schneiter, 2008).
+
+for example, the oligomerizations and functions of g-proteins and some
+electron transport complexes are controlled by membrane local
+environment (nooren and thornton, 2003; acuner ozbabacan et al., 2011;
+sevesik et al., 2015). g-proteins regulate various metabolic, developmental,
+humoral, and neuronal functions (simon et al., 1991). dependent on gtp
+and gdp levels, g-protein subunits (a, b, y) can switch between stable
+binding and transient interaction to modulate cellular reactions (neer and
+clapham, 1988; ritter and hall, 2009). t-cell receptor (tcr) activation is
+also fundamentally regulated by membrane transient interactions of several
+protein subunits (figure 14). immediately after t-cell engagement to the
+activating antigens, nanometer-sized tcr clusters are formed to function as
+a platform for the recruitment and activation of downstream effectors such
+as lat and slp-76 (bunnell et al., 2002; zal and gascoigne, 2004; yi et al.,
+2019).
+cell membranes are composed of various lipid, protein, and carbohydrate
+compounds. these membrane components dynamically interact with each
+other to regulate cell cycles and communications (lee, 2003; contreras et
+al., 2011; varshney et al., 2016; sezgin et al., 2017). based on the affinity and
+duration of these interactions, there are two types of membrane
+
+interactions: strong/stable and weak/transient. strong/stable interactions last
+for a long time with binding affinities in the range of fm to nm. in contrast,
+weak/transient interactions happen only in the range of microseconds to
+seconds, with a »m—mm binding affinity (de keersmaecker et al., 2018;
+corradi et al. 2019). while it is worth mentioning that there is no absolute
+clear cut between these two types of membrane interactions, many
+membrane stable interactions have been well-studied, whereas in
+comparison, those transient interactions are often more challenging to
+investigate. this is because at any given time, only a small number of
+membrane transient interactions happen. the formed short-lived complexes
+are always under a dynamic equilibrium with monomers that will freely
+diffuse in the membrane. meanwhile, these transient complexes are often
+disrupted or overlooked during in vitro isolation and purification processes.
+
+ 
+
+are always under a dynamic equilibrium with monomers that will freely
+diffuse in the membrane. meanwhile, these transient complexes are often
+disrupted or overlooked during in vitro isolation and purification processes.
+
+in this review, we will first discuss the biological importance of these
+membrane transient interactions in regulating cellular functions. we will then
+focus on available experimental methods that can be used to study these
+transient interactions, especially in living cell membranes. we hope this
+review can provide some useful guidelines for future cell membrane studies.
+introduction
+   
+
+different membrane trafficking and cell signaling events.
+short-lived cell membrane complexes play a key role in regulating
+cell signaling and communication. many of these complexes are
+
+in chemistry sections v articles. research topics editorial board a
+
+cell signaling and communication. many of these complexes are
+formed based on low-affinity and transient interactions among
+various lipids and proteins. new techniques have emerged to study
+these previously overlooked membrane transient interactions.
+exciting functions of these transient interactions have been
+discovered in cellular events such as immune signaling, host
+pathogen interactions, and diseases such as cancer. in this review,
+we have summarized current experimental methods that allow us to
+detect and analyze short-lived cell membrane protein-protein,
+lipid-protein, and lipid-lipid interactions. these methods can
+provide useful information about the strengths, kinetics, and/or
+spatial patterns of membrane transient interactions. however, each
+method also has its own limitations. we hope this review can be
+used as a guideline to help the audience to choose proper
+approaches for studying membrane transient interactions in
+different membrane trafficking and cell signaling events.
+yousef bagheri*
+yousef bagheri* ahsan ausaf alit g mingxu you"
+
+department of chemistry, university of massachusetts, amherst, ma, united states,
+current methods for detecting cell
+membrane transient interactions
+this article is part of the research
+topic
+
+frontiers in chemistry: rising stars
+2020
+
+view all 25 articles >
+review article
+
+front. chem., 07 december 2020
+sec. analytical chemistry
+
+volume 8 - 2020 |
+
+https://doi org/10.3389/fchem.2020.603259
+in chemistry sections v articles. research topics editorial board a
+

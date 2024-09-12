@@ -1,0 +1,1778 @@
+ 
+
+response to: caution needed when interpreting
+muscle activity patterns during extremely low
+pedaling cadence
+
+2021, journal of sport and health science
+cited by (5)
+references
+
+1
+
+rr. neptune, s.a. kautz, m.l. hull
+
+the effect of pedaling rate on coordination in
+cycling
+
+j biomech, 30 (1997), pp. 1051-1058
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+c.c. raasch, fe. zajac, b. ma, ws. levine
+muscle coordination of maximum-speed
+pedaling
+
+j biomech, 30 (1997), pp. 595-602
+
+h view pdf viewarticle view in scopus 7
+
+google scholar 2
+j piotmecn, 30 (1997), pp. 29>-buz
+
+view pdf viewarticle viewin scopus 7
+google scholar 2
+
+h. bahm, s. siebert, m. walsh
+
+effects of short-term training using smartcranks
+on cycle work distribution and power output
+during cycling
+
+eur j appl physiol, 103 (2008), pp. 225-232
+
+crossref 7 viewin scopus 7 google scholar 2
+
+s. bjorgen, j. hoff, v.s. husby, et al.
+
+aerobic high intensity one and two legs interval
+cycling in chronic obstructive pulmonary
+disease: the sum of the parts is greater than the
+whole
+
+eur j appl physiol, 106 (2009), pp. 501-507
+
+crossref 7 viewin scopus 7 google scholar 2
+
+j.n. liang, d.a. brown
+
+foot force direction control during a pedaling
+4 view at publisher 2 “crossref
+
+view in scopus 2 google scholar 7
+
+j.n. liang, d.a. brown
+
+foot force direction control during a pedaling
+task in individuals post-stroke
+
+j neuroeng rehabil, 11 (2014), p. 63,
+10.1186/1743-0003-11-63 7
+
+view in scopus 2 google scholar 7
+
+c. carvalho, c. willén, ks. sunnerhagen
+
+relationship between walking function and one-
+legged bicycling test in subjects in the later stage
+post-stroke
+
+j rehabil med, 40 (2008), pp. 721-726
+
+crossref 7 viewin scopus 7 google scholar 2
+
+sj. elmer, j. mcdaniel, j.c. martin
+
+biomechanics of counterweighted one-legged
+cycling
+
+j appl biomech, 32 (2016), pp. 78-85
+
+sj. elmer, j. mcdaniel, j.c. martin
+
+biomechanics of counterweighted one-legged
+cycling
+
+j appl biomech, 32 (2016), pp. 78-85
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ 
+
+rr. bini, t.c. jacques, fj. lanferdini, m.a. vaz
+comparison of kinetics, kinematics, and
+electromyography during single-leg assisted and
+unassisted cycling
+
+j strength cond res, 29 (2015), pp. 1534-1541
+
+view in scopus 2 google scholar 7
+
+aj. sargeant, ct. davies
+
+forces applied to cranks of a bicycle ergometer
+during one- and two-leg cycling
+
+j appl physiol respir environ exerc physiol, 42 (1977), pp. 514-
+518
+
+crossref 7 viewin scopus 7 google scholar 2
+
+pr rpl muirespas mam pere rriysiut, 42 1977), pp. 244°
+518
+
+view at publisher 7 crossref 2
+
+view in scopus 7 google scholar 2
+
+rr. bini, t.c. jacques, m.a. vaz
+
+joint torques and patellofemoral force during
+single-leg assisted and unassisted cycling
+
+j sport rehabil, 25 (2016), pp. 40-47
+
+crossref 7 viewin scopus 7 google scholar 2
+
+cj. hasson, g.e. caldwell, re. van emmerik
+changes in muscle and joint coordination in
+learning to direct forces
+
+hum mov sci, 27 (2008), pp. 590-609
+
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+f. hug, f. boumier, s. dorel
+
+altered muscle coordination when pedaling with
+independent cranks
+
+erant dhweinl 4/9019) 239 10. 2280/fnhwe 2019 00799 =
+
+f. hug, f. boumier, s. dorel
+
+altered muscle coordination when pedaling with
+independent cranks
+
+front physiol, 4 (2013), p. 232, 10.3389/fphys.2013.00232 7
+
+google scholar 2
+
+lh. ting, c.c. raasch, d.a. brown, s.a. kautz, re. zajac
+sensorimotor state of the contralateral leg
+affects ipsilateral muscle coordination of
+pedaling
+
+j neurophysiol, 80 (1998), pp. 1341-1351
+
+crossref 7 viewin scopus 7 google scholar 2
+
+s. park
+
+changes in muscle control and coordination in
+novel task learning
+
+university of massachusetts amherst, amherst, ma (2018)
+[dissertation]
+
+google scholar 2
+
+j.p. broker, rj. gregor
+[dissertation]
+
+google scholar 2
+
+j.p. broker, rj. gregor
+
+a dual piezoelectric element force pedal for
+kinetic analysis of cycling
+
+int] sport biomech, 6 (1990), pp. 394-403
+
+crossref 7 google scholar 7
+
+hj. hermens, b. freriks, c. disselhorst-klug, g. rau
+development of recommendations for semg
+sensors and sensor placement procedures
+
+j electromyogr kinesiol, 10 (2000), pp. 361-374
+
+view pdf —viewarticle view in scopus
+google scholar 7
+
+f. hug, s. dorel
+
+electromyographic analysis of pedaling: a review
+j electromyogr kinesiol, 19 (2009), pp. 182-198
+
+h view pdf viewarticle view in scopus 7
+
+gooale scholar a
+electromyographic analysis of pedaling: a review
+
+j electromyogr kinesiol, 19 (2009), pp. 182-198
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+torchiano m. effsize: efficient effect size computation.
+available at: https: //cran.r-project.org/package=efisize
+”.. [accessed 29.06.2018].
+
+google scholar 2
+
+r.d. gibbons, d.r. hedeker, j.m. davis
+
+estimation of effect size from a series of
+experiments involving paired comparisons
+j educ stat, 18 (1993), pp. 271-279
+
+google scholar a
+
+j. cohen
+
+statistical power analysis for the behavioral
+sciences
+
+lawrence erlbaum associates inc, hillsdale, nj (1988)
+
+google scholar 2
+sciences
+
+lawrence erlbaum associates inc, hillsdale, nj (1988)
+
+google scholar 2
+
+r development core team. the r project for statistical
+computing. available at: http:|/www.t-project.org/ 7.
+[accessed 25.05.2018].
+
+google scholar 2
+
+l.li, ge. caldwell
+
+muscle coordination in cycling: effect of surface
+incline and posture
+
+j appl physiol, 85 (1998), pp. 927-934
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ap. marsh, pe. martin
+
+the relationship between cadence and lower
+extremity emg in cyclists and noncyclists
+med sci sports exerc, 27 (1995), pp. 217-225
+
+view in scopus 7 google scholar
+
+fe. zaiac
+
+     
+
+med sci sports exerc, 27 (1995), pp. 217-225
+
+view in scopus 7 google scholar
+
+lh. ting, s.a. kautz, d.a. brown, fe. zajac
+contralateral movement and extensor force
+generation alter flexion phase muscle
+coordination in pedaling
+
+j neurophysiol, 83 (2000), pp. 3351-3365
+
+crossref 7 viewin scopus 7 google scholar 2
+
+f. hug, n.a. turpin, a. couturier, s. dorel
+
+consistency of muscle synergies during pedaling
+across different mechanical constraints
+
+j neurophysiol, 106 (2011), pp. 91-103
+
+crossref 7 viewin scopus 7 google scholar 2
+
+m. sharifi, a. shirazi-adl, h. marouane
+
+computational stability of human knee joint at
+early stance in gait: effects of muscle coactivity
+and anterior cruciate ligament deficiency
+
+triamach 62 20171 nn tate
+
+m. sharifi, a. shirazi-adl, h. marouane
+
+computational stability of human knee joint at
+early stance in gait: effects of muscle coactivity
+and anterior cruciate ligament deficiency
+
+j biomech, 63 (2017), pp. 110-116
+
+view pdf —viewarticle view in scopus
+
+google scholar 7
+
+pll. gribble, li. mullin, n. cothros, a. mattar
+role of cocontraction in arm movement accuracy
+j neurophysiol, 89 (2003), pp. 2396-2405
+
+crossref 7 viewin scopus 7 google scholar 2
+
+fo. barroso, d. torricelli, j.c. moreno, et al.
+
+shared muscle synergies in human walking and
+cycling
+
+j neurophysiol, 112 (2014), pp. 1984-1998
+
+crossref 7 viewin scopus 7 google scholar 2
+
+t. masood, j. bojsen-maller, k.k. kalliokoski, et al.
+differential contributions of ankle plantarflexors
+
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+t. masood, j. bojsen-maller, k.k. kalliokoski, et al.
+differential contributions of ankle plantarflexors
+during submaximal isometric muscle action: a
+pet and emg study
+
+j electromyogr kinesiol, 24 (2014), pp. 367-374
+
+h view pdf viewarticle view in scopus 7
+
+google scholar 7
+
+mo. ericson, r. nisell
+
+efficiency of pedal forces during ergometer
+cycling
+
+int] sports med, 9 (1988), pp. 118-122
+
+crossref 7 viewin scopus 7 google scholar 2
+
+c.c. rasch, fe. zajac
+locomotor strategy for pedaling: muscle groups
+and biomechanical functions
+
+j neurophysiol, 82 (1999), pp. 515-525,
+c.c. raasch, fe. zajac
+
+locomotor strategy for pedaling: muscle groups
+and biomechanical functions
+j neurophysiol, 82 (1999), pp. 515-525
+
+crossref 7 viewin scopus 7 google scholar 2
+
+e. ambrosini, c. de marchis, a. pedrocchi, et al.
+neuro-mechanics of recumbent leg cycling in
+ppost-acute stroke patients
+
+‘ann biomed eng, 44 (2016), pp. 3238-3251
+
+crossref 7 viewin scopus 7 google scholar 2
+ 
+appendix. supplementary materials
+competing interest
+
+ 
+
+competing interest
+
+both authors declare that they have no competing interests.
+authors’ contributions
+
+sp contributed to the study conception and design, data
+collection and analysis, and wrote the first draft of the
+manuscript; gec contributed to the study conception and
+design, and revised the manuscript critically. both authors
+have read and approved the final version of the manuscript,
+and agree with the order of the presentation of the authors.
+acknowledgments
+
+this research was supported by the university of
+massachusetts amherst (sp: graduate school fellowship, and
+school of public health and health sciences dean's phd
+summer fellowship; gec: faculty research grant).
+5. conclusion
+
+in this study, we investigated differences in the activity of 10
+leg muscles between 2-legged and 1-legged pedaling. as
+hypothesized, with only 1 leg, the flexion-related muscle
+activities in the upstroke phase increased to produce crank
+torque to compensate for the absence of the contralateral leg.
+in contrast, downstroke crank torque and extension-related
+muscle activities were reduced to satisfy the constant power
+task constraint and to maintain smooth crank motion. the
+observed changes in muscle activities with 1-legged pedaling
+are due to a variety of changes in mechanical aspects of the
+pedaling motion, including altered crank torque patterns
+within the crank cycle, reduced pelvis stability, and the need
+for increased knee and ankle stiffness during the upstroke.
+
+ 
+
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+
+the crank cycle, reduced pelvis stability, and the need
+for increased knee and ankle stiffness during the upstroke.
+
+witl
+4.3. limitations
+
+one limitation of this study was the reduction in overall
+crank torque and power output (about 15%) in one-l, despite
+relatively good participant adherence to the target 180°/s
+average crank velocity. the 1-legged torque and power deficit
+is consistent with findings in a previous 1-legged pedaling
+study.” however, qualitative examination of individual
+participant data demonstrates that muscle activity changes
+is consistent with findings in a previous 1-legged pedaling
+study.” however, qualitative examination of individual
+participant data demonstrates that muscle activity changes
+between two-l and one-l were more distinctly related to
+crank torque and velocity profiles and quadrant-specific
+changes than to differences in average crank mechanics. this
+finding suggests that differences within specific portions of
+the crank cycle were driving muscular responses to a greater
+extent than the average crank demands and are mainly
+responsible for the muscle activity differences between two-
+land one-l.
+
+the results of this study do not necessarily extend to
+muscular control in 1-legged pedaling tasks with different
+mechanical demands; our participants were asked to perform
+pedaling tasks with relatively low crank torque and velocity.
+these low mechanical demands were based on our previous
+work in which participants were able to perform repeated 1-
+legged pedaling trials without significant muscle fatigue.!' at
+faster pedaling rates, participants were unable to pedal
+smoothly with 1 leg due to freewheeling, consistent with a
+leggeu peudiiny urals wiuiuut s1gtiinicanie ifusuie fauigiie.- al
+faster pedaling rates, participants were unable to pedal
+smoothly with 1 leg due to freewheeling, consistent with a
+previous study in which some participants found it difficult
+to produce smooth 1-legged pedaling motion at higher crank
+demands (80 rpm and 120 w).’ based on these observations,
+the relatively low mechanical demands of 30 rpm and 30 w
+were chosen for one-l. for the 2-legged pedaling trial, we
+doubled power output to about 60 w, but kept the pedaling
+rate at 30 rpm, thereby imposing similar mechanical demand
+on the left leg in both two-l and one-l. therefore, muscle
+activities from the left leg are comparable between the two-l
+and one-l conditions, with similar muscle fatigue and
+mechanical demand. although not commonly seen in
+competitive cycling, slow pedaling rates (20-50 rpm) have
+been used to examine impaired control and coordination in
+stroke survivors.*? control of foot force in stroke survivors
+has been examined while the crank arms are moving at 40
+rpm. the relatively low mechanical demands we used
+allowed us to focus on changes in muscle control related
+mainly to the absence of contralateral leg involvement.
+
+tpm.- ine télduvely 1ow mechanical derfianus we used
+allowed us to focus on changes in muscle control related
+mainly to the absence of contralateral leg involvement.
+because of these low demands, our results may be
+informative to clinicians.
+4.2. changes in muscle activity in one-l
+
+the redistribution of crank torque production and angular
+velocity changes over the crank cycle are associated with
+distinct muscle activity changes during one-l. lower crank
+torque and acceleration in the downstroke phase was
+getuury unaiges uver dic gain yur dic asuliateu wiur
+distinct muscle activity changes during one-l. lower crank
+torque and acceleration in the downstroke phase was
+followed by increased torque and acceleration in the upstroke
+phase. starting before bdc and continuing through the
+upstroke, flexion-related muscles tfl, hamstrings, ta, and
+mga significantly increased their activity to actively pull the
+leg to accelerate the crank arm. after tdc, the downstroke
+crank torque was reduced to prevent freewheeling under the
+designated power output constraints, consistent with the
+reduced activities of the extension-related muscles vl, vm,
+sol, and lga, all of which play a major role in producing the
+downstroke crank torque in 2-legged pedaling.2?°
+
+ 
+
+one-legged pedaling also elicited several muscle use
+adaptations that were not tied directly to the changes in
+crank torque patterns, such as increased coactivation of
+agonist and antagonist muscles at the ankle and knee joints
+during the upstroke phase. in q3, the uni-articular knee
+extensors and hamstrings simultaneously increased their
+activity levels, while in q4 triceps surae muscles sol, mga,
+and lga increased their activities together with the
+extensors and hamstrings simultaneously increased their
+activity levels, while in q4 triceps surae muscles sol, mga,
+and lga increased their activities together with the
+dorsiflexor ta. while the reason for this increased
+antagonism in unclear, in the early stages of walking it has
+been suggested that such antagonism increases stability at
+the knee joint and lower leg,° in one-l, the muscular
+coactivation could stiffen and stabilize the knee and ankle to
+assist the active pull-up. with more practice, the antagonist
+coactivation could possibly decrease,’ so future studies
+should address whether this coactivation originates from an
+acute adaptation to the relatively novel task or whether it is a
+feature of 1-legged pedaling itself.
+
+ta muscle activity was greater in early downstroke (q1) in
+one-l, perhaps because of its synergisti tion with tfl
+that would help to stabilize the pelvis; such an increase was
+not shown in pedaling with independent crank arms.'? in our
+data, the 1-legged tfl activity was not significantly greater in
+q1 due to subject variability, although the mean iemg value
+was more than 3 times larger than in two-l. the change in
+data, the 1-legged tfl activity was not significantly greater in
+qi due to subject variability, although the mean iemg value
+was more than 3 times larger than in two-l. the change in
+qu tfl activity pattern from two-l to one-l was similar to
+that of the ta (fig. 2). those 2 muscles have been described
+as synergists that are co-activated from mid-upstroke to early
+downstroke in 2-legged pedaling.2>8 the lack of
+contralateral leg motion in one-l emphasizes the need for
+stabilizing the pelvis during the transition from leg flexion to
+extension around tdc. one possible strategy is to activate the
+tfl/ta synergists at greater amplitudes to keep the pelvis
+steady from q4 into qi.
+
+acti
+
+  
+
+  
+
+ 
+
+the lateral and medial heads of the gastrocnemius showed
+slightly different adaptations to the 1-legged pedaling
+condition, possibly due to lower leg positioning. a previous
+study reported greater relative mga activity compared to lga
+in a unilateral submaximal plantarflexion task with fully
+extended knee.2° in pedaling, the knee is in an extended
+position around bdc,'!° and the bicycle cleat places the foot
+in slight external rotation, suggesting that the mga may be
+cxcénoed sllte. “ur polarmy; ttt ar ss urarrtacabcu,
+position around bdc,'!° and the bicycle cleat places the foot
+in slight external rotation, suggesting that the mga may be
+preferentially activated around the bdc to produce the
+required ankle and knee torques. in one-l, lga activity is
+reduced in q2, consistent with the reduced q2 crank torque.
+in contrast, q2 mga activity was the same in one-l as two-l,
+continuing to generate knee flexion torque with synergistic
+hamstring activity to produce the smooth transition into
+upstroke at bdc.*! mga activity increased in q3 to assist the
+active upstroke pulling, while lga activity increased but not
+significantly compared to two-l.
+
+ 
+
+ 
+
+ 
+4. discussion
+
+all participants were able to produce smooth 1-legged and 2-
+legged pedaling at the designated crank mechanical
+demands. in one-l the absence of the contralateral leg
+altered the profiles of crank torque and angular velocity,
+accompanied by widespread changes in muscle activity
+patterns and magnitudes. as hypothesized, activity levels of
+extension-related muscles were decreased during the
+downstroke, while flexion-related muscles increased activity
+during the upstroke. unexpected findings included greater
+activity in ta during q1, in the uni-articular knee extensors
+during q3, and sol during q4. furthermore, the 2 heads of
+gastrocnemius (mga, lga) demonstrated differing
+adaptations to the use of only 1 leg in pedaling.
+
+4.1. altered crank mechanics in one-l
+
+in one-l without the use of the contralateral leg, crank
+
+torque was reduced in the downstroke and switched from
+4.1. altered crank mechanics in one-l
+
+in one-l without the use of the contralateral leg, crank
+torque was reduced in the downstroke and switched from
+negative to positive in the upstroke. the use of only 1 leg
+resulted in greater fluctuation of the crank angular velocity
+from the designated pedaling rate, consistent with a previous
+report,° with a tendency for increased velocity near bdc and
+a significant decrease in q4 before tdc. in contrast, pedal
+angle profiles were very similar in one-l and two-l. because
+there is minimal pelvis movement in seated 1-legged
+pedaling,” leg joint kinematics were similar in the 1-legged
+and 2-legged pedaling conditions. therefore, the altered
+crank dynamics originated mainly from changes in muscle
+activities and forces rather than postural adaptations.
+
+ 
+4 nisenccian
+
+p=0.038, d=0.78; ta: 103%, p=0.008, d= 1.04) (fig. 3).
+during the one-l upstroke, many muscles displayed greater
+activity, consistent with the increased crank torque. tfl iemg
+amplitudes increased by 515% in q3 (p < 0.001, d=2.05) and
+390% in q4 (p=0.002, d= 1.18), with similar increases for the
+hamstrings bfl (305%, p=0.001, d= 1.24 in q3; 165%,
+d=0.79 in q4) and st (324%, p < 0.001, ; 198%,
+p=0.005, d=1.05 in q4). the uni-articular knee extensors vl
+and vm showed increased one-l activities in q3 (vl: 26%,
+p=0.006, d= 1.01; vm: 70%, p=0.005, d= 1.04), but reduced
+activity in q4 (vl: 45%, p < 0.001, d=-1.27; vm: 40%, p=0.01,
+d=~0.94). below the knee, mga (160%, p=0.018, d=0.87) and
+ta (556%, p=0.005, d= 1.08) activities increased in q3, while
+all 4 muscles showed increased one-l activities in q4 (lga:
+132%, p=0.03, d=0.8; mga: 100%, p=0.007, d= 1.00; sol: 40%,
+p=0.038, d=0.78; ta: 103%, p=0.008, d= 1.04) (fig. 3).
+
+ 
+
+ 
+ta
+one- 88424 27214 34284 14814 12122
+l 2519 = 10.36" 11.98" 7.87 6.85"
+
+ta two- 103.92+ 1842+ 1605+ 1248+ 5696+
+l 2068 823. 951 6.88 8.55
+
+one- 26448+ 40524 2959+ 7997+ 114394
+l 156.50" 2754" 23.26 © 6.81" 55.79"
+
+p< 0.05, compared with two-l.
+
+abbreviations: bfl= biceps femoris long head; lga=lateral
+gastrocnemius; mga=medial gastrocnemius; one-l=1-legged
+pedaling tri
+st=semitendinosus; ta=tibialis anterior; tfl=tensor fasciae
+
+ 
+
+rectus femoris; sol=soleus;
+
+latae; two-l=2-legged pedaling trial; vl=vastus lateralis;
+vm=vastus medialis.
+
+consistent with the alterations in emg_le profiles, many
+muscle iemg changes in one-l were focused on specific
+quadrants of the crank cycle (fig. 3). compared to two-l, the
+consistent with the alterations in emg_le profiles, many
+muscle iemg changes in one-l were focused on specific
+quadrants of the crank cycle (fig. 3). compared to two-l, the
+1-legged downstroke demonstrated decreased activity in
+some muscles (vl, vm, lga, and sol) and increased activity
+in others (bfl, st, and ta). for example, in one-l the qi
+amplitudes were reduced for vl (58%, p < 0.001, d=-3.38),
+vm (63%, p < 0.001, d=-4.53), and sol (36%, p < 0.001, d=-
+1.75), but increased for ta (157%, p=0.034, d=0.83). one-l
+activity amplitudes were also reduced in q2 for sol (37%, p <
+0.001, d=-1.47) and lga (29%, p=0.017, d=-0.88). bfl and st
+amplitudes increased in q2 by 71% (p < 0.001, d= 1.27) and
+66% (p=0.006, d= 1.01), respectively.
+
+ 
+
+ 
+
+ 
+
+baouoe
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (292kb)
+
+download : download full-size image
+
+fig. 3. changes in integrated electromyography (iemg) values
+(mean ¢ sd) from 2-legged pedaling (two-l) to 1-legged
+pedaling (one-l) in (a) q1; (b) q2; (c) q3; (d) 04. positive
+percent values indicate increased iemg values for that
+quadrant in one-l, whereas negative values indicate
+reductions in one-l. *p < 0.05 between two-l and one-l;
+numerals indicate mean change from two-l to one-l. bfl=
+biceps femoris long head; lga=lateral gastrocnemius;
+mga= medial gastrocnemius; rf=rectus femoris;
+sol=soleus; st=semitendinosus; ta=tibialis anterior;
+tfl=tensor fasciae latae; vl=vastus lateralis; vm=vastus
+medialis.
+
+tfl=tensor fasciae latae; vl=vastus lateralis; vm=vastus
+medialis.
+sol.
+vm.
+vm.
+vl
+bfl
+bfl
+
+vl
+
+vm.
+
+vm.
+
+mga.
+
+sol.
+
+two-
+
+one-
+
+two-
+
+one-
+
+two-
+
+one-
+
+two-
+
+one-
+
+two-
+
+two-
+
+one-
+
+two-
+
+one-
+
+two-
+
+one-
+
+two-
+
+one-
+
+95.02 +
+13.49
+
+102.99 +
+3750
+
+118.61 +
+18.69
+
+263.92 +
+108.23°
+
+103.324
+1730
+
+210.342
+71.30"
+
+104.75 +
+11.55
+
+55.78
+18.64"
+
+98.38 +
+18.64"
+98.38 +
+13.92
+
+slit
+19.41°
+
+133.924
+22.45
+
+144.01 +
+61.47
+
+132.17
+28.82
+
+205.30 +
+99,33"
+
+119.32
+14.07
+
+88.42
+25.19"
+
+38.39 +
+8.41
+
+39.11 +
+21.07
+
+15.86 +
+7.90
+
+16.77
+8.65
+
+1257
+442
+
+13.994
+9.45
+
+60.32
+6.26
+
+25.144
+8.34°
+
+59.33 +
+
+8.34°
+
+59.33 +
+5.79
+
+21.90 +
+755°
+
+21.004
+8.14
+
+16.63 +
+8.33
+
+27304
+13.29
+
+25.914
+14.40
+
+42.624
+6.89
+
+272i
+10.36"
+
+780+
+4.00
+
+749+
+3.70
+
+48.47 +
+10.01
+
+82.49 +
+30.60"
+
+55.28 +
+767
+
+90.72 +
+35.33°
+
+19.67 +
+6.46
+
+1441+
+781
+
+16.33
+
+781
+
+16.33
+5.57
+
+13.05 +
+871
+
+5758+
+671
+
+40.45 +
+19.00"
+
+56.38 +
+9.55
+
+t6a7 +
+33.14
+
+55.43 +
+6.66
+
+34.28 +
+11.98"
+
+5.534
+2.63
+
+8.934
+5.80
+
+4187+
+13.63
+
+132.354
+65.79°
+
+rd
+
+2707 +
+11.64
+
+82.314
+34.68"
+
+ans
+1.96
+
+5.95 +
+2.83°
+
+3.61
+
+2.83°
+
+3.61
+1.98
+
+6.06 +
+3.67"
+
+45.46 +
+18.76
+
+65.05 +
+36.96
+
+36.00 +
+12.85
+
+81.044
+51.85°
+
+12.18 +
+6.04
+
+1481+
+787
+
+43.302
+8.64
+
+4746 +
+26.15
+
+1241+
+430
+
+32.30
+26.27"
+
+8.394
+3.59
+
+23.314
+14.67"
+
+20.05 +
+635
+
+10.28
+457°
+
+19.124
+457°
+19.124
+728
+
+10.17 +
+5.87"
+
+988+
+413
+
+21.89 +
+16.18"
+
+12.484
+9.09
+
+22.20
+12.54"
+
+9.09
+5.69
+
+12.124
+6.85"
+in 1-legged pedaling, the modified crank torque profiles were
+accompanied by widespread changes in emg_le patterns and
+statistically significant changes in muscle activity magnitudes
+(fig. 2 and table 2). over the entire crank cycle, one-l muscle
+iemg values were greater for tfl (313.3%, p < 0.001, d=1.26),
+bfl (131%, p < 0.001, d= 1.28), st (115%, p < 0.001, d= 1.05),
+mga (57%, p=0.007, d=0.82), and ta (152%, p=0.002, d= 1.07)
+but lower for vl (~47%, p < 0.001, d=-2.5), vm (-48%, p <
+0.001, d=-2.43), and sol (-25%, p < 0.001, d=-1.15). the only
+muscles that did not show iemg changes between conditions
+were rectus famaris (9% n=nnr,d=n k7\and lca (10%
+0.001, d=-2.43), and sol (-25%, p < 0.001, d=-1.15). the only
+muscles that did not show iemg changes between conditions
+were rectus femoris (9%, p=0.08, d=0.67) and lga (10%,
+p=0.557, d=0.16), although the lga pattern exhibited a phase
+shift in its peak value to later in the crank cycle in one-l (fig.
+2).
+
+ 
+
+ 
+
+ 
+
+table 2. integrated muscle act s (integrated
+electromyography, arbitrary units) of the entire crank cycle
+(overall) and each quadrant in two-l and one-l (mean # sd).
+
+muscle trial overall crank quadrants
+
+a e@ @ u
+
+tfl © two- 102.622 1948+ 1374+ 20364 4904+
+l 18.95 1193 1172-1057 11.05
+
+one- 415562 68514 1416+ 9970+ 233.18
+l 248.66" 8916 1109 3782" 157.17"
+
+re two- 95.02 3839+ 780+ 553+ 4330+
+l 13.49 841 400 2.63 8.64
+-259+
+1.83
+
+212 £1.94"
+anns
+233
+
+4.08 +
+1.98"
+-259+
+anns
+3.1. pedal and crank dynamics
+
+the patterns of pedal and crank dynamics were altered
+significantly when pedaling with 1 leg compared to 2 legs
+(fig. 1 and table 1). over the entire crank cycle, there was a
+small but significant decrease in the average single-leg crank
+torque production in one-l compared to two-l (a=-1.58
+nem, p=0.003, d=-0.92). one-l crank torque was smaller in
+qi (a=-11.98 n-m, p < 0.001, d=-2.22) and q2 (a=-7.83 nm,
+p< 0.001, d=-1.76), but larger in q3 (a=8.79 n-m, p < 0.001,
+d=4.26) and q4(a=4.71 n-m, p< 0.001, d=2.71). overall
+
+ui (a=- 1698 nm, p <u.uu1, @=-2.22) and qz (a=-/.85 nm,
+p< 0.001, d=-1.76), but larger in q3 (a=8.79 n-m, p < 0.001,
+d=4.26) and q4(a=4.71 n-m, p< 0.001, d=2.71). overall
+mean crank angular velocity and pedal angle were not
+significantly different between the 2 conditions. however, in
+4, crank velocity was lower in one-l (a=-14.38 */s,
+p=0.003, d=-1.13) without the contralateral support, but
+there was a tendency for increased velocity in q3 (a=5.76 °/s,
+p=0.066, d=0.7). together, these findings suggest that
+participants altered their normal 2-legged crank mechanics
+when pedaling with 1 leg only.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+table 1. crank torque, crank angular velocity, and pedal angle
+over the entire crank cycle (“overall”) and during each crank
+quadrant in two-l and one-l (mean + sd).
+
+ 
+
+ial overall crank quadrants
+
+a ez @ u
+crank torque (n-m)
+two- 10.79% 23454 2703 -471¢ -2.59
+vanktinue um an an 409
+two- 10.79% 23454 2703 -471¢ -2.59
+l109 462 341 2.33 1.83
+one- 9.21 w47e 19.20 4082 = 2.124194"
+l 138° 283° 4.23" 1.98°
+crank velocity (*/s)
+
+two- 188.05 186.654 188.70 186344  190.49+
+lo 833 9.02 6.88 8.21 o71
+
+one- 185834 181172 19406 192104 176.114
+l 12.33 14.03 13.05 11.79 12.50°
+
+pedal angle (°)
+
+two- 7302512 -411¢ -883+ 1849+ 2363+
+l 6.66 488 5.25 5.74
+
+one- 7354753 -1574 -936+ 1607+ 2419+
+l 8.73 798 10.16 6.63
+
+p< 0.05, compared with two-l.
+
+p< 0.05, compared with two-l.
+
+abbreviations: one-l=1-legged pedaling trial; two-l=2-legged
+pedaling tri
+
+  
+
+3.2. muscle activities
+
+ 
+
+the two-l muscle a¢
+
+ 
+
+ity patterns (fig. 2) were similar to
+those described in other cycling studies.'”27? in two-l, the
+uni-articular knee extensors vm and vl were active from
+about 330° to 135° synergistically with the ankle
+plantarflexor sol (about 0°-180°) to produce crank torque
+during the downstroke. the hip flexor/knee extensor rectus
+femoris was active during q4 and qi (about 270° to 90°), to.
+help with a smooth transition through tdc. the biarticular
+plantarflexor/knee flexor muscles (lga, mga) and hip
+extensor/knee flexor hamstrings (bfl, st) were mainly active
+in q2 and q3, helping to produce a similar smooth transition
+at bdc. finally, the hip abductor/pelvis stabilizer tfl and
+extensor/knee flexor hamstrings (bfl, st) were mainly active
+in q2 and q3, helping to produce a similar smooth transition
+at bdc. finally, the hip abductor/pelvis stabilizer tfl and
+ankle dorsiflexor ta were synergistically active during the
+late upstroke into early downstroke across tdc.
+
+ 
+
+ 
+
+ 
+
+tfl re
+bl 5"
+z = z
+7 4
+see me zro ono
+crank cycle (*) ‘crank cycle (°)
+bfl st
+2
+ie 3
+5 3
+@ @
+7 :
+a m= | wo am
+crank cycle (°) ‘crank cycie (°)
+wu vw
+
+ 
+
+’
+rel to two,
+,
+
+(
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+g 3
+cost sy h zo |s t
+2 4) 2 !
+& é
+° °
+rr er  )
+crank eye () crank oycle ()
+lga. mga
+4 2|
+gs 3
+boa 3
+° °.
+0° ~c«m#sca cr
+crank eye () crank eyce
+1 ta
+505
+é -
+90 180, 270 360 "0 90 180 270 360
+crank cycle (*) crank cycle (*)
+
+download : download high-res image (600k8)
+
+download : download full-size image
+
+fig. 2. comparison of mean activity electromyography linear
+envelope profiles for the 2-legged pedaling condition (two-l;
+
+fig. 2. comparison of mean activity electromyography linear
+envelope profiles for the 2-legged pedaling condition (two-l;
+dotted line, light gray + sd) and the 1-legged pedaling
+condition (one-l; solid line, dark gray + sd). bfl = biceps
+femoris long head; lga-=lateral gastrocnemius; mga=medial
+gastrocnemius; rf=rectus femoris; sol=soleus;
+st=semitendinosus; ta=tibialis anterior; tfl=tensor fasciae
+latae; vl=vastus lateralis; vm =vastus medialis.
+3. results
+(eq. 1)
+aiemg
+((hemg (quadrant, one-l) ~ emg quadrant, two-l)) /iemg
+taney
+aiemg
+= ((emg (auadrant, one-l) ~ temg (quadrant, two-l)) /iemg
+x 100%
+
+ 
+
+ot
+
+ 
+
+all statistical analyses were performed in r software (version
+3.5.0; r core team, vienna, austria) with a critical alpha level
+of p < 0.05, using bonferroni adjustments as appropriate.”!
+2.4. statistical analysis
+
+multiple paired tests were performed on overall (complete
+crank cycle) and quadrant-specific crank torque, crank
+angular velocity, and pedal angle values to ascertain changes
+multiple paired t tests were performed on overall (complete
+crank cycle) and quadrant-specific crank torque, crank
+angular velocity, and pedal angle values to ascertain changes
+in pedaling kinematics and kinetics between the two-l and
+one-l conditions. paired t tests were performed with overall
+and quadrant-specific integrated emg (iemg) values for each
+muscle to help understand the related muscle activity
+changes between the two-l and one-l. ta emg from 1
+participant was corrupt due to an electrode malfunction, so
+ta n=14,
+
+cohen's effect size (d) was computed for each paired t test 18,
+19, 20 to gauge the strength of differences (low: <0.2,
+medium: 0.2-<0.5, and strong: 0.5-<0.8). differences in iemg
+(aiemg; eq. 1) and effect size values were represented
+
+ 
+
+relative to the two-l, with positive values representing
+increases in the one-l (eq. 1).
+>
+o
+
+ 
+
+a 4
+
+20
+
+pedal angal (°)
+
+ 
+
+ 
+
+a 180 270 «360
+crank eycle crank eycle(*)
+
+ 
+
+°
+9
+
+ 
+
+ 
+
+torque (nm)
+
+ 
+
+crank torque (nm)
+
+ 
+
+ 
+
+  
+
+ 
+
+    
+
+80 180-270 360 “oo 90 180-270 360
+‘crank cycle (*) crank cycle (°)
+download : download high-res image (349k8)
+
+download : download full-size image
+
+fig. 1. (a) crank cycle; (b) comparison of mean + sd pedal
+angle; (c) crank angular velocity; (d) crank torque between
+2-legged pedaling (two-l; dashed line, light gray + 1 sd) and
+1legged pedaling (one-l; solid line, dark gray 1 sd) trials.
+for pedal angle, positive angles indicate the toe pointed
+downward, with 0° indicating a horizontal pedal.
+
+ 
+2.1. participants
+
+fifteen right-leg dominant healthy adults (11 males, 4
+; age=25.8 + 4.5 years; height= 1.72 + 0.09 m;
+
+77.2. # 9.8 kg; mean + sd) with no previous
+professional or 1-legged pedaling experience participated in
+this study. they were free of cardiac, orthopedic, or
+neurologic disorders. participants signed an informed written
+professional or 1-legged pedaling experience participated in
+this study. they were free of cardiac, orthopedic, or
+neurologic disorders. participants signed an informed written
+consent form approved by the institutional review board at
+the university of massachusetts amherst. the data presented
+here are part of a larger study on learning to direct pedal
+forces during 1-legged pedaling."
+
+    
+
+2.2. experimental task
+
+two-legged and 1-legged pedaling trials were performed on
+a standard road bicycle attached to a computerized
+ergometer (velodyne; schwinn bicycle, chicago, il, usa). the
+bicycle seat was adjusted to about 95% of hip-pedal distance
+in the lowest pedal position. participants wore bicycle shoes
+with look delta cleats to securely connect the feet and
+pedals, with enough practice at attachment and detachment
+to become comfortable with their use.
+
+ 
+
+participants first stretched and completed a 2-min, 2-legged
+warm-up pedaling session at 60 rpm and about 60 w. after a
+1-min break, each participant performed a 2-min, 2-legged
+participants first stretched and completed a 2-min, 2-legged
+warm-up pedaling session at 60 rpm and about 60 w. after a
+1-min break, each participant performed a 2-min, 2-legged
+pedaling trial (labeled as “two-l") at 30 rpm and about 60 w.
+two-l was followed by four 45-s, 1-legged pedaling trials at
+30 rpm and about 30 w separated by 1-min rest intervals,
+with 30 w chosen to match the single-leg output of the 60 w
+two-l condition. each 1-legged trial was initiated by 2-
+legged pedaling for about 15 s to achieve the designated
+pedaling rate, followed by about 30 s of pedaling only with
+their left leg. at about 13 s, participants detached and placed
+their right leg on a nearby high-friction nonslip support
+where it would not interfere with crank rotation or invoke
+pelvis misalignment. participants were instructed to maintain
+a constant crank angular velocity at 30 rpm, which required a
+mean crank torque of about 9.5 n-m. this resulted in crank
+power output at about 30 w, a load at which crank
+“freewheeling” (no rear wheel resistance) and hip flexor
+muscle fatigue are minimized." in each trial, only the last 25
+s of data were analyzed to exclude the 2-legged to 1-legged
+pedaling transition. the 4th trial was labeled as “one-l” for
+muscle fatigue are minimized." in each trial, only the last 25
+s of data were analyzed to exclude the 2-legged to 1-legged
+pedaling transition. the 4th trial was labeled as “one-l” for
+comparison with two-l real-time visual feedback of crank
+speed was provided to participants on a computer screen to
+help them maintain the specified target velocity.
+
+ 
+
+2.3. data collection and analysis
+
+applied left pedal forces were measured with kistler
+piezoelectric load washers." digital optical encoders
+(resolution=0.35°, ls7184; us digital, vancouver, wa, usa)
+were used to measure left crank arm and pedal angular
+positions. surface bipolar emg electrodes (delsys trigno
+wireless system; delsys inc., natick, ma, usa) were placed
+according to the surface electromyography for the non-
+invasive assessment of muscles guidelines'® on 10 muscles of
+the left leg (after proper skin cleaning by shaving and alcohol
+wipe): tensor fasciae latae (tfl), rectus femoris, biceps
+femoris long head (bfl), semitendinosus (st), vastus lateralis
+(vl), vastus medialis (vm), lateral gastrocnemius (lga),
+wept! castor masmic moa) op leeds mond, shies
+femoris long head (bfl), semitendinosus (st), vastus lateralis
+(vl), vastus medialis (vm), lateral gastrocnemius (lga),
+medial gastrocnemius (mga), soleus (sol), and tibialis
+anterior (ta). all force, angle, and emg data were collected
+synchronously at 1000 hz with an a/d convertor (usb-6259;
+national instruments, austin, tx, usa) connected to a
+desktop computer running a customized labview program
+(labview 2012; labview, national instruments).
+
+  
+
+force and angle data were smoothed with a fourth-order,
+low-pass, zero-lag butterworth digital filter (matlab,
+mathworks, natick, ma, usa), using 1-hz (crank angle) and
+4-hz (pedal force and angle data) cutoff frequencies." crank
+angular velocity was computed from the filtered angle data
+by the central difference method. pedal angles were
+computed relative to horizontal (0°), with positive angles
+representing toe down pedal positions. the pedal forces were
+projected from the pedal coordinate system into the global
+coordinate system, with anterior and vertical downward
+pedal forces considered positive. emg data were de-trended,
+band-pass filtered (20-450 hz), and rectified before low-pass
+coordinate system, with anterior and vertical downward
+pedal forces considered positive. emg data were de-trended,
+band-pass filtered (20-450 hz), and rectified before low-pass
+filtering at 6 hz” with a 4th-order, 0-lag butterworth digital
+filter to produce emg linear envelopes (emg_les). crank
+angular velocity, pedal forces, and emg_les were expressed
+in 1° crank angle intervals (360 points per crank cycle) using
+cubic spline interpolation. after interpolation, the pedal force
+vector component perpendicular to the crank arm was
+calculated and multiplied by the crank arm length (0.17 m) to
+compute crank torque from the left leg pedal force (single-leg
+crank torque).
+
+the number of complete crank revolutions varied between
+trials, with a minimum of 7 across all trials and participants.
+therefore, for each trial the last 7 consecutive crank cycles
+were used to compute mean pedal angle, crank angular
+velocity, crank torque, and emg curves. each muscle emg_le
+was normalized by the mean of the two-l trial peak
+amplitudes to facilitate comparisons of muscle activity
+amplitudes between trials. crank angular velocity and torque
+was normalized by the mean of the two-l trial peak
+amplitudes to facilitate comparisons of muscle activity
+amplitudes between trials. crank angular velocity and torque
+data were integrated over each complete crank cycle and
+quadrant (qu: 0°-90°; q2: 90°-180°; q3: 180°-270°; q4:
+270°-360°; fig. 1) to evaluate mechanical demand, while the
+emg_le data were integrated to quantify muscle activity
+(iemg). the terms “top-dead-center” (tdc) and “bottom-
+dead-center” (bdc) refer to the 0° and 180° crank positions,
+respectively.
+
+a
+a oy
+
+.o
+
+gan
+2
+pedal angal (°)
+
+a os
+
+8
+
+a 180 270 «360
+
+crank eycle crank eycle(*)
+
+o
+3
+2. methods
+1. introduction
+
+during normal bicycle pedaling with 2 legs, crank torque is
+generated mainly during the downstroke phase of each leg
+when the leg extensor muscles are active in the first half of
+the 360° crank cycle.! in the subsequent upstroke phase that
+completes the crank cycle, the majority of the crank torque is
+produced by the simultaneous contralateral leg downstroke,
+with only a small contribution from ipsilateral flexor
+muscles.’ for training and rehabilitation purposes, riders
+sometimes engage in 1-legged pedaling with crank torque
+generated onlv bv 1 leg. emphasizing.the need for ipsilateral
+muscles.’ for training and rehabilitation purposes, riders
+sometimes engage in 1-legged pedaling with crank torque
+generated only by 1 leg, emphasizing the need for ipsilateral
+upstroke flexor activity to generate crank torque and produce
+smooth pedaling motion over the entire crank cycle.
+therefore, 1-legged pedaling requires cyclists to alter how
+they control multiple extensor and flexor leg muscles during
+the crank cycle. as such, 1-legged pedaling has been
+suggested as a training tool to improve pedaling
+performance? and is used in clinical settings for
+rehabilitation.‘ it has been suggested that 1-legged pedaling
+is a good tool for evaluating stroke patients in pedal force
+production’ and for evaluating leg strength and endurance.
+
+the few studies that have compared 1-legged and 2-legged
+pedaling have found differences in both kinetics and
+kinematics.7, 8, 9 for example, with 1-legged pedaling the
+proportion of mechanical work is lower in the downstroke
+and higher in the upstroke compared to 2-legged pedaling.”
+others report that 1-legged pedaling has smaller peak hip
+extensor torques but larger peak knee flexor and ankle
+
+and higher in the upstroke compared to 2-legged pedaling.’
+others report that 1-legged pedaling has smaller peak hip
+extensor torques but larger peak knee flexor and ankle
+dorsiflexor torques, which is associated with a larger flexion
+angle of the knee joint at the bottom of the crank cycle.'°
+these kinetic changes are accompanied by greater variation
+in crank angular velocity throughout the crank cycle in 1-
+legged pedaling (-30% to 20% of the mean) than in 2-legged
+pedaling (-10% to 10%),° with crank speed ranging from about
+35 to 60 revolutions per minute (rpm) at the start and end of
+leg extension during 1-legged pedaling.
+
+the modified joint and crank dynamics in 1-legged pedaling
+are accompanied by alterations in muscular control as
+measured by electromyography (emg). one study found
+increased overall activity in 5 major leg muscles in 1-legged
+pedaling compared to 2-legged.® changes in activity of
+specific muscles have been shown after learning to direct
+pedal forces in a 1-legged pedaling task," but this study did
+not include a 2-legged condition, with direct comparisons
+only between 1-legged pedaling before and after practice in
+petianored fina mreggiar pedaling tasi;--ouchas-sctray’ ari"
+not include a 2-legged condition, with direct comparisons
+only between 1-legged pedaling before and after practice in
+their pedal force directing task. furthermore, these studies®!
+examined activity from only 6 leg muscles, thus limiting their
+view of the extent of the adaptation. a related study on
+single-leg pedaling’ investigated activity in more leg
+muscles (n=10), but these participants pedaled with 2 legs
+using mechanically independent crank arms. in true 1-legged
+pedaling, the leg motions are distinctly asymmetrical, with
+the contralateral leg providing little mechanical support for
+the pelvis while the ipsilateral leg produces crank torque. the
+protocol with independent crank arms involves less
+kinematic and kinetic asymmetry between legs and better
+pelvis support during ipsilateral crank torque production.
+furthermore, it has been shown that sensory feedback from
+the contralateral leg may affect muscle activities of the
+ipsilateral leg in 1-legged pedaling.
+
+ 
+
+therefore, the aim of this study was to examine and compare
+activity in 10 leg muscles while participants performed both
+2egged and 1-legsed pedaling, participants were asked to
+therefore, the aim of this study was to examine and compare
+activity in 10 leg muscles while participants performed both
+2egged and 1-legged pedaling, participants were asked to
+perform 2-legged pedaling with crank dynamics of 30 rpm
+and about 60 watt (w), and equivalent 1-legged pedaling at
+30 rpm and about 30 w. based on previous studies, we
+hypothesized that 1-legged pedaling would exhibit greater
+upstroke activity in the hip, knee, and ankle flexor muscles,
+while downstroke extensor muscle activities would be
+reduced in magnitude.
+keywords
+electromyography; muscle activity; one-leg; pedaling
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+graphical abstract
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (102kb)
+
+download : download full-size image
+results
+
+overall, the prescribed constant power requirements led to
+reduced downstroke crank torque and extension-related
+muscle activities (vastus lateralis, vastus medialis, and
+soleus) in 1-legged pedaling. flexion-related muscle activities
+(biceps femoris long head, semitendinosus, lateral
+gastrocnemius, medial gastrocnemius, tensor fasciae latae,
+and tibialis anterior) in the upstroke phase increased to
+compensate for the absence of contralateral leg crank torque.
+during the upstroke,
+hamstrings and uni-articular knee extensors, and in the ankle
+plantarflexors and dorsiflexors. at the top of the crank cycle,
+greater hip flexor activity stabilized the pelvis.
+
+    
+
+ 
+
+jultaneous increases were seen in the
+
+ 
+
+conclusion
+
+  
+
+the observed changes in muscle activities are due to a variety
+
+of changes in mechanical acnectc af the nedaling motinn
+conclusion
+
+the observed changes in muscle activities are due to a variety
+of changes in mechanical aspects of the pedaling motion
+when pedaling with only 1 leg, including altered crank torque
+patterns without the contralateral leg, reduced pelvis
+stability, and increased knee and ankle stiffness during the
+upstroke.
+
+ 
+background
+
+one-legged pedaling is of interest to elite cyclists and
+clinicians. however, muscular usage in 1-legged vs. 2-legged
+pedaling is not fully understood. thus, the study was aimed
+to examine changes in leg muscle activation patterns
+between 2-legged and 1-legged pedaling.
+
+ 
+
+methods
+
+fifteen healthy young recreational cyclists performed both 1-
+legged and 2-legged pedaling trials at about 30 watt per leg.
+surface electromyography electrodes were placed on 10
+major muscles of the left leg. linear envelope
+electromyography data were integrated to quantify muscle
+activities for each crank cycle quadrant to evaluate muscle
+activation changes.
+
+cxcuumyogiapy waa were hegiacu wo quantiy huse
+activities for each crank cycle quadrant to evaluate muscle
+activation changes.
+abstract
+highlights
+
++ two-legged pedaling crank torque pattern altered
+when pedaling with 1 leg only.
+
++ reduced downstroke crank torque led to reduced
+extension-related leg muscle activities.
+
++ greater flexion-related muscle activities
+explained larger upstroke crank torque.
+
++ inthe upstroke, 1-legged pedaling would require
+greater joint stiffness.
+
++ atthe top of the crank cycle, greater hip flexor
+activity would stabilize the pelvis.
+© open access
+under a creative commons license 7
+original article
+
+muscular activity patterns in
+1-legged vs. 2-legged pedaling
+sangsoo park © =, graham e. caldwell
+
+show more v
+
++ addtomendeley « share 55 cite
+
+https://dol.org/10.1016/} jshs.2020.01.003 2 get rights and content 7
+
+under a creative commons license a © open access
+download full issue
+
+ 
+
+eee journal of sport and health
+*
+3 science
+tisevier
+
+ 
+
+volume 10, issue 2, january 2021, pages 99-106 i
+

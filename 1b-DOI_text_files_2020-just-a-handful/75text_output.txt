@@ -1,0 +1,695 @@
+ 
+3.4. size characterization based on raman
+intensity
+
+we also analyzed the raman intensities of the map collected
+from all the particles. at 0.04gl"!, we established a positive
+linear correlation between the raman intensity and the
+reference particle size with the coefficient of regression
+12=0.946 (fig. 5 (a)). however, for lower concentrations such
+as 0.004 and 0.0004gl"", no linear correlation was observed.
+here, we noticed that 173nm particles produced significantly
+higher raman intensity than the nanosized particles but no
+statistical difference was observed between the signal
+intensities of 93,41 and 8nm particles. as the raman
+intensity is dependent on the mass of the particles under the
+focal area of the laser, at the concentration of 0.04gl"! where
+s of 93,41 and 8nm particles. as the raman
+intensity is dependent on the mass of the particles under the
+focal area of the laser, at the concentration of 0.04gl"! where
+the particles saturated and stacked on the membrane, the
+larger sized particles resulted in a higher mass under the
+focal area of the laser, resulting in statistically lower raman
+intensity as the particle size decreased from 173 to 8nm. at
+lower concentrations, the particles were well distributed
+across the membrane however, as the particle size decreased,
+the hydrodynamic diameter increased. this may have
+resulted in similar mass under the focal area of the laser for
+the particles between 93 and 8nm, resulting in statistically
+indifferent results.
+
+ 
+
+inten:
+ 
+
+“a 200
+
+ 
+
+130 300
+= z
+= 100 aw &
+z 4
+zo wo 3
+o 0
+‘ sas
+
+ 
+
+     
+
+3 4
+°% map area covered by particles
++ tem size # dls size—linear (tem size)= « linear (dls size)
+
+ 
+
+ 
+
+200
+b que p= 0.9925
+
+‘tem size (nm)
+
+ 
+
+° 20 40 oo 80 100
+% map area covered by particles
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (309k8)
+
+download : download full-size image
+
+fig. 4. (a) correlation of % map area covered by 0.0004 g/l
+particles to particle size obtained by tem and the
+hydrodynamic diameter from dls (b) correlation of % map
+fig. 4. (a) correlation of % map area covered by 0.0004 g/l
+particles to particle size obtained by tem and the
+hydrodynamic diameter from dls (b) correlation of % map
+area covered by 0.004 g/l particles to particle size obtained
+by tem.
+
+ 
+41
+ 
+
+particle cle concentration (g/l)
+
+size (nm) 0.04 0.004 0.0004
+
+ 
+
+ 
+
+fig. 3. raman maps tio; particles of different sizes and
+concentrations.
+ 
+
+particle je concentration (g/l)
+
+the membrane.
+we also examined the influence of different objective lens on
+the raman intensity of the tio2 peak at 137cm"!. we did not
+find any significant differences in the peak intensity of either
+samples.ata higher concenuation (0.0491! when analyzed
+the raman intensity of the tio2 peak at 137cm"!. we did not
+find any significant differences in the peak intensity of either
+samples at a higher concentration (0.04gl~') when analyzed
+at different magnifications (fig. 2 (c)). however, as seen in
+fig. 2 (d), a significant increase in the peak intensity for both
+particles was observed at 0.0004gl"! concentration with
+100xmagnification. this could be again due to the different
+illumination profiles of both objectives. these results
+demonstrated that the 100xmagnification is more efficient in
+analyzing lower sizes and concentrations of tio, particles,
+which is valuable for the analysis of nps in food and
+environment application. hence, the raman map was
+collected using the 100xobjectives in the rest of the study.
+
+ 
+
+3.3. size characterization based on the map area
+
+the raman maps for the particle standards (8, 41, 93, 173nm)
+were collected at three different concentrations using the 100
+x objective, as shown in fig. 3. as the concentration
+decreased from 0.04 to 0.004gl"', the map area occupied by
+the red pixels was found to be decreased. we then looked at
+x objective, as shown in fig. 3. as the concentration
+decreased from 0.04 to 0.004gl"', the map area occupied by
+the red pixels was found to be decreased. we then looked at
+the correlations between the map area covered by the red
+pixels presenting particles, the reference particle size
+obtained from electron microscopy, and the hydrodynamic
+diameter obtained from dls measurements. we noticed a
+positive linear correlation (12=0.998) between the area
+occupied by the particles (%) and the corresponding reference
+particle size, and, a negative correlation (r2=0.994) between
+the area occupied by the particles and the hydrodynamic
+diameter for concentrations at 0.0004gl"! (fig. 4 (a)). similar
+linear correlation between the map area and size (12=0.993)
+was also found at 0.004gl" (fig. 4 (b). although no such
+correlation was found at 0.04gl™! which could be because
+the higher concentration may have saturated the particles on
+the membrane resulting in particle stacking. at lower
+concentrations, particles were well distributed throughout
+the membrane.
+3.2.2. compatibility of the objective lenses
+
+for mapping under the raman imagining microscope, the
+sample is required to be in focus to achieve optimum distance
+for the laser to interact with the analyte. laser illumination
+and light collection from the sample in raman spectrometer
+involves components such as mirrors, fiber-optic probes,
+detector, and microscopic objectives. in addition to the
+acquisition time and laser power, the performance of raman
+measurement depends on optical parameters such as the
+
+um angle of collection and optical throughput [32]. the
+
+   
+ 
+
+measurement depends on optical parameters such as the
+optimum angle of collection and optical throughput [32]. the
+light collection efficiency of the microscope is directly related
+to the numeric aperture (na) of the objective, which
+determines the size of the conical beam of the light passing
+through the lens [33]. hence, we firstly examined the two
+objective lenses, 20x(na=0.40) and 100x(na=0.90), to
+analyze 173nm and 8nm particles at three concentrations
+(0.04, 0.004, and 0.0004gl"'). the raw images are shown in
+fig. s2. the results demonstrated that 173nm particles
+covered almost entire map area at 0.04 and 0.004gl'.
+however, at 0.0004gl"! concentration, the map area with
+particles obtained from the 100xobjective was significantly
+higher than that from the 20x, suggesting the 100xobjective
+was more efficient in detecting particles at lower
+concentrations (fig. 2 (a)). similarly, for the 8nm particles, no
+difference was observed between two different objectives at
+the highest concentration examined (fig. 2 (b)). but at
+0.004gl" concentration, the map area of particles detected
+from the 100xobjective was significantly higher than that
+
+ 
+
+e highest concentration exannned (rie
+0.004gl" concentration, the map area of pa
+from the 100xobjective was significantly higher than that
+from the 20x. no particles were detected by the 20xobjective
+at 0.0004gl"", while the 100xobjective was still able to
+detect the particles. the reason that the 100 x objective
+works better than the 20xfor the smaller particles and lower
+concentrations (8nm and 0.0004gl”), is due to its higher na
+as a result of better focus and illumination profile.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+download : download high-res image (582kb)
+
+download : download full-size image
+
+fig. 2. percentage of raman map covered by (a) 173 nm and
+(b) 8 nm tio2 particles analyzed using 20x and 100x
+magnification for concentrations at 0.04, 0.004 and 0.0004
+g/l. raman intensity of peak at 137 cmv for 173 nm and 8 nm.
+tio2 particles analyzed using 20 and 100x magnification for
+concentrations (c) 0.04 g/l and (d) 0.0004 gil.
+alphabets on each bar means no significant difference in the
+raman intensity (p>0.05).
+
+ 
+
+ilar
+3.1. initial size characterization using electron
+microscopy and dls
+
+figure $1 shows the sem and tem images of tio particles
+and table 1 summarizes the data obtained from the supplier,
+electron microscopy analysis, and dls measurements. all the
+samples were evaluated using sem except snm particles
+which were too small to capture a high-resolution image.
+therefore, the snm sample was analyzed using tem. mean
+data obtained from electron microscopy were more or
+
+ 
+
+  
+
+esotmttont tae.
+therefore, the snm sample was analyzed using tem. mean
+size data obtained from electron microscopy were more or
+less consistent with supplier specifications except for 800nm
+particles which was found to be 173nm. the dls data
+indicated the hydrodynamic diameter number significantly
+higher than the actual particle size, clearly indicating
+agglomeration. the hydrodynamic diameter increased as the
+particle size decreased from 173nm to 8nm suggesting
+increases in the agglomeration with the decrease in the
+particle size.
+
+ 
+
+table 1. size characterization using electron microscopy and
+dls. different alphabets show the statistical difference
+between them (p<0.05).
+
+supplier size claim sem/tem analysis dls measurements
+
+(nm) (nm) (nm)
+
+5 822 360267
+40 4147 32528”
+40 4147 32528”
+100 92228 28921¢
+
+800 173266 192244
+
+3.2. raman mapping of tio} particles
+
+3.2.1. raman characterization of anatase tio on
+a ptfe filter membrane
+
+fig. 1 shows the map of the ptee filter membrane with and
+without 93nm particles (0.04gl™! concentration) and their
+corresponding raman spectra. for maps obtained in this
+study, the blue color represents the absence of tio, particles
+and red represents the presence based on the peak analyzed.
+the intensity threshold was set 3 times of the signal to noise
+ratio to include any tio, peak obtained during the analysis
+but exclude noises. the map of negative control shows
+characteristic signals of ptfe membrane at 285, 382, 731, and
+tadz corn ad absenne of to? deak both to ahd eer —
+but exclude noises. the map of negative control shows
+characteristic signals of ptfe membrane at 285, 382, 731, and
+1377cm™ and absence of tio peak. both ti0z and
+membrane peak can be observed in the positive control
+spectra. the signature peak of the tio was observed at
+137cm”, which was found to be a bit shifted from 144cm™
+that is reported by other researchers [30,31]. this could be
+because of a different raman instrument used in this study.
+instrument component such as optical modules which is
+responsible for the laser illumi
+scattered photons could result in minor peak deviations [32].
+
+download : download high-res image (317kb)
+
+ 
+
+ 
+
+‘ion and collection of raman
+
+ 
+
+ 
+
+download : download high-res image (317kb)
+
+download : download full-size image
+
+fig. 1. raman map and corresponding raman spectra of
+negative control and are 93 nm, 0.04 g/l ti02-nps. the blue
+map represents the absence, and the red map represents the
+presence of the signature tio peak at 137 cm.
+
+ 
+3. results and discussion
+2.4. raman mapping and data analysis
+
+the samples filtered on a filter membrane were analyzed on a
+raman imaging microscope (dxrxi, thermo scientific,
+waltham, ma) equipped with a 780nm laser. each sample
+was first properly focused in such a way that the collected
+mosaic area was completely in focus. unfocused areas
+produced low or no signal intensity therefore, the membrane
+was carefully placed on to the double-sided tape such that
+the surface was leveled, and the wrinkles were minimized.
+the analysis was performed using 20 and 100xmicroscope
+lens, and 10.0mw laser power. the slit aperture and
+acquisition time was set at 50um and 0.05s respectively. the
+map was collected for approximately 400-450,m of the area.
+the data was collected and analyzed using omnicxi and
+omnic 9.7 software (thermo scientific). the mapping image
+tiiap was conlected tor approximately 400-450 jim of the area.
+the data was collected and analyzed using omnicxi and
+omnic 9.7 software (thermo scientific). the mapping image
+was analyzed using the peak height tool and by adjusting the
+intensity threshold bar in the analysis mode on the omnicxi
+software. discriminant analysis on tq analyst 9.7 software
+(thermo scientific) was performed to average the spectra and
+to obtain the statistical spectrum.
+2.3. preparation of ti02-nps for sers mapping
+
+titanium dioxide suspensions, 0.4gl"", were prepared in
+0.005m spp solution made in ultrapure water. the samples
+were first sonicated in a bath sonicator [branson 2000,
+branson ultrasonic, danbury, ct] for smin to initially
+
+isperse the particles by breaking large agglomerates. to
+obtain the uniform particle dispersion with the smallest
+hydrodynamic diameter, the tio, suspension was then
+sonicated using a probe sonicator (fisher scientific, waltham,
+ma) for 10min at 75% amplitude. for raman measurements,
+sample dilutions of desired concentrations (0.04, 0.004 and
+0.0004gl"') were prepared with 0.005m spp solutions. one
+milliliter of each sample was then filtered at negative 50kpa
+pressure on 0.1m ptfe filter membrane using the filtration
+system (millipore sigma, burlington, ma) equipped with a
+chemical duty vacuum pump (model wp6111560, millipore
+gma, burlington, ma). the filter was then allowed to air-dry
+for 10-15min and was fixed on a glass slide using doubl
+
+chemical duty vacuum pump (model wp6111560, millipore
+sigma, burlington, ma). the filter was then allowed to air-dry
+for 10-15min and was fixed on a glass slide using double-
+sided tape for the analysis under raman microscope.
+
+ 
+
+ 
+
+  
+
+ 
+test in microsoft excel. the error in the measurements was
+
+reported as standard deviation.
+2.1. materials and chemicals
+
+titanium dioxide anatase powder samples of particle sizes 5,
+40, 100, and 800nm (nominal size provided by the supplier)
+were purchased from us research nanomaterials inc.
+(houston, tx) and mk nano (mississauga, on). sodium
+pyrophosphate (na4p 07) (spp) and hydrochloric acid (hcl)
+were purchased ‘st. louis, mo). all the
+(houston, tx) and mk nano (mississauga, on). sodium
+pyrophosphate (na4p 07) (spp) and hydrochloric acid (hcl)
+were purchased sigma aldrich (st. louis, mo). all the
+chemicals and reagents were prepared with ultrapure water
+(18.2mocm) from barnstand smart2pure water purification
+system (thermo scientific, waltham, ma). hydrophilic
+polytetrafluoroethylene (ptfe) filter membrane with 0.1 ym
+pore size and 25mm diameter was purchased from millipore
+igma (burlington, ma).
+
+  
+
+ 
+
+ 
+
+ 
+
+2.2. size characterization of tio particles using
+electron microscopy and dls
+
+the confirmation of the particle size specifications provided
+by the supplier was performed using scanning electron
+microscopy (sem) (jeol jsm-6320f) and transmission
+electron microscopy (tem) (jeol jem-2000fx). for the sem
+analysis, the standards were directly placed on a silicon base
+and placed in the instrument chamber. whereas, for the tem
+analysis, the particles first dispersed in ultrapure water and
+dropped (0.2gl", ph 2, adjusted by hcl) on to the copper
+
+ 
+ 
+
+ 
+
+and placed in the instrument chamber. whereas, for the tem
+analysis, the particles first dispersed in ultrapure water and
+dropped (0.2gl"1, ph 2, adjusted by hcl) on to the copper
+grid coated by carbon grid. the grid was allowed to dry
+overnight at room temperature. three high-resolution images
+were capture for each analysis and the size distribution
+analysis was conducted by counting at least 30 particles
+using image] software. the samples for all the dynamic light
+scattering (dls) measurements were prepared using the
+sample preparation protocol for the rama analysis described
+in the next section. all the samples were diluted
+appropriately to achieve the attenuation number between 6
+and 8 in order to obtain accurate measurements. about 1ml
+of the sample was analyzed with nano-zs zetasizer (malvern
+instruments, malvern, uk) and the measurements were
+recorded. each analysis was performed in triplicates and
+mean values were reported. the statistical analysis of the
+data was performed by analysis of variance (anova) or t-
+test in microsoft excel. the error in the measurements was
+reported as standard deviation.
+
+ 
+2. materials and methods
+1. introduction
+
+titanium dioxide (tio) is a tasteless and odorless white
+compound that occurs naturally. pure tio; is assembled in
+three polymorphs i.e. rutile, anatase, and brookite from
+which rutile and anatase are widely used in different
+applications [1]. rutile is used as a white pigment in paints,
+plastic, rubber, and paper, as a sun blocking agent, for air and
+water purification, and in medical applications [2]. whereas
+anatase is also used as a white pigment but in consumer
+products such as pharmaceuticals, foods, and cosmetics.
+anatase is considered generally recognized as safe (gras)
+and used in foods under food additive category and
+classification as e171. it is frequently used as a whitening
+agent in toothpaste, non-dairy coffee creamers, chewing
+gums, and candies. however, the particle size
+characterization data of the food-grade tio, from numerous
+studies have revealed that about 17-36% particles were
+nanosized (smaller than 100nm) [[2}, [3], [4]. [5}. (6) [7] a
+characterization data of the food-grade tio, from numerous
+studies have revealed that about 17-36% particles were
+nanosized (smaller than 100nm) [[2}. [3], [4]. [5} (6). [7] a
+number of recent studies have investigated the toxicological
+effects of titanium dioxide, especially pertaining to its
+nanoparticles (ti0)-nps), and have demonstrated its
+carcinogenic activity, cytotoxicity, and genotoxicity in animal
+models [{8], [9], {10}, [11], [12], [13], [14]. however, these
+effects were assessed in specific experimental conditions and
+attributed to certain particle size and concentration.
+therefore, the quantification and size characterization of the
+tioy-nps is necessary to better assess its toxicological effects.
+
+ 
+
+ 
+
+size characterization of inorganic nps such as ti02-nps poses
+distinctive challenges due to its unique properties. many
+studies have attempted characterizing the size of the ti0)-
+nps from food and environment using different analytical
+techniques [[ 15], [16], [17], [18], [19}, (20), [21]}. the current
+technologies used for size characterization of ti02-nps
+include microscopic, light scattering, flow fractionation, and
+spectrometry-based methods [22]. dynamic light scattering
+féclinologies used tor sizé characterization of tio7-nps
+include microscopic, light scattering, flow fractionation, and
+spectrometry-based methods [22]. dynamic light scattering
+(dls) and flow-field fractionation (fff) are the commonly
+used rapid measurement technique. whereas scanning
+electron microscopy (sem) and transmission electron
+microscopy (tem) are advanced technologies that provide
+high-resolution images that can be utilized to determine the
+particle shape and size. however, tio) is typically insoluble in
+most solvents including water [23], and agglomeration in
+aqueous solution is a characteristic of inorganic nps because
+of its small size and strong particle-particle interactions.
+additionally, size characterization using any of these
+techniques requires uniform particle dispersion for accurate
+measurement. currently used particle dispersion techniques
+that modify the particle charge or provides the electrostatic
+stabilization, may greatly improve the dispersion but not up
+toa single particle level. larger agglomerates often cause an
+error in dls measurement and sem images of agglomerated
+particles are difficult to analyze [24].
+
+ 
+
+dls measurement and sem images of agglomerate
+particles are difficult to analyze [24].
+
+error
+
+the objective of this study is to develop and evaluate a
+filtration-based raman mapping technique for the size
+characterization of anatase tioz-nps. raman mapping is an
+advanced che! aging technique where thousands of
+spectra are collected for every pixel of a defined sample area
+and integrated to generate the colorimetric image for a
+designated peak of an analyte [25,26]. this approach provides
+an advantage over point measurement technique, where the
+spectra are collected at points scattered throughout the
+sample which may result in larger variation in signal
+intensities. raman mapping has been extensively applied in
+cell imaging and chemical distribution [27,28]. combining
+with membrane filtration, raman mapping has also been
+used for the concentration and detection of chemicals,
+nanoparticles, and microorganisms [28]. in this study, we
+demonstrated two size characterization approaches using
+this technique: based on the filter surface area covered by the
+particles and raman intensity of the particles. before
+
+ 
+
+  
+
+ 
+
+ 
+
+this technique: based on the filter surface area covered by the
+particles and raman intensity of the particles. before
+filtration, tio; particles were dispersed using spp and probe
+sonication [29]. their tem and dls size characterizations
+were conducted to investigate the correlations with the map
+surface area and raman intensity, respectively. to the best of
+our knowledge, no similar study has reported a similar type
+of work. the information obtained from this study will
+greatly facilitate the application of this approach for further
+applications in real-world samples.
+
+ 
+keywords
+
+titanium dioxide; nanoparticle; anatase; raman.
+spectroscopy; characterization
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+graphical abstract
+
+ 
+
+.
+~~
+
+ 
+
+ 
+
+download : download high-res image (255k8)
+
+download : download full-size image
+abstract
+
+characterization of titanium dioxide nanoparticles (tio2-nps)
+is of significant importance in the production quality control,
+applications and study of their toxicological effects. in this
+study, we developed a filtration-based raman mapping
+technique as a rapid approach for the analysis of different
+
+izes and concentrations of anatase ti02-nps. four different
+sizes of tio, standards: 173, 93, 41, and 8nm measured by
+electron microscopy techniques were dispersed using a probe
+sonicator with sodium pyrophosphate as a dispersing agent.
+the resulting hydrodynamic diameter measured by dynamic
+light scattering (dls) was stabilized at 192, 289, 325, and
+360nm respectively as a negative correlation with the ones
+by tem. these nps were then collected on a 0.1 ym (pore size)
+filter membrane with a vacuum pump and scanned using a
+raman imaging microscope. the result shows that the
+100xobjective lens was more capable of detecting the
+
+ 
+
+ 
+
+raman imaging microscope. the result shows that the
+100xobjective lens was more capable of detecting the
+smallest size particles (nm) and lowest concentration
+(0.0004gl~) evaluated than the 20x objective lens. moreover,
+at low concentrations (i.e. 0.0004 and 0.004gl~), we
+established a linear correlation between the map area
+covered by the particles and the particle size measured by
+tem. while at higher concentration (i.e. 0.04gl™), a positive
+correlation was established between the particle size and its
+corresponding raman intensity. these results demonstrated a
+successful application of raman mapping technique in rapid
+characterization of the size of anatase ti0)-nps as small as
+8nm, which will facilaite the ti0)-nps research, production,
+and applications.
+
+ 
+
+ 
+highlights
+
+raman mapping can rapidly characterize the size
+of titanium dioxide nanoparticles.
+
+100 x objective was capable of detecting particle
+size of snmat 0.0004gl™ concentration.
+
+map area model can predict the particle size and
+hydrodynamic diameter of particles.
+
+raman intensity model can differentiate between
+nano and micro-sized particles.
+an innovative filtration based
+raman mapping technique for
+the size characterization of
+anatase titanium dioxide
+nanoparticles
+
+janam k. pandya, haochen dai, lilihe 9%
+
+ 
+
+show more v
+
++ addtomendeley « share 55 cite
+
+showmoe vo —o—os—ooosoossssss
++ addtomendeley « share 55 cite
+
+https://dol.org/10.1016/jtalanta.2020.121836 7 __get rights and content
+talanta
+volume 224, 1 march 2021, 121836
+download full issue view open mant
+
+talanta
+volume 224, 1 march 2021, 121836
+
+  
+

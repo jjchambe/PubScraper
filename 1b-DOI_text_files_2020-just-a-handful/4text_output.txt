@@ -1,0 +1,2732 @@
+multi-omics inference of differential breast cancer-
+related transcriptional regulatory network gene hubs
+between young black and white patients
+
+2023, cancer genetics
+
+citation excerpt :
+...black women have a higher incidence rate prior to 40 years, and a
+lower incidence rate after 50 years, relative to white women [6].
+‘there is a poorer prognosis in black women relative to white
+women 50 years of age or younger and at stage il [7]. the molecular
+underpinnings that govern this disparity remains unclear....
+
+chew aheteact <p
+cited by (3)
+references
+
+afghahi et al., 2016 a. afghahi, m.l. telli, aw. kurian
+genetics of triple-negative breast cancer:
+implications for patient care
+curr. probl. cancer, 40 (2) (2016), pp. 130-140
+h view pdf viewarticle view in scopus 7
+rn pircatrons tor parent care
+curr. probl. cancer, 40 (2) (2016), pp. 130-140
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+alluri and newman, 2014 p. alluri, la. newman
+basal-like and triple-negative breast cancers:
+searching for positives among many negatives
+surg. oncol. clin. n. am., 23 (3) (2014), pp. 567-577,
+10.1016/j.s0c.2014.03.003 a
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+alvarez et al., 2016 mj. alvarez, y. shen, em. giorgi, a. lachmann,
+b.b. ding, b.h. ye, a. califano
+functional characterization of somatic mutations
+in cancer using network-based inference of
+protein activity
+nat. genet., 48 (2016), pp. 838-847
+
+crossref 7 viewin scopus 7 google scholar 2
+
+ 
+
+h view at publisher 7 crossref 7
+view in scopus 7 google scholar
+
+andey et al., 2013 t. andey, a. patel, t. jackson, s. safe, m. singh
+1, 1-bis (3'-indolyl)-1-(p-substitutedphenyl)
+methane compounds inhibit lung cancer cell and
+tumor growth in a metastasis model
+eur. j. pharm. sci., 50 (2) (2013), pp. 227-241
+view pdf —viewarticle view in scopus
+google scholar 7
+
+andey et al,, 2014 t. andey, s. marepally, a. patel, t. jackson, s.
+sarkar, m. o'connell, .., m. singh
+cationic lipid guided short-hairpin rna
+interference of annexin a2 attenuates tumor
+growth and metastasis in a mouse lung cancer
+stem cell model
+journal of controlled release, 184 (2014), pp. 67-78
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+journal of controlled release, 184(2014), pp.67-78
+h view pdf viewarticle view in scopus 7
+google scholar a
+
+ashburner et al., 2000 m. ashburner, c.a. ball, j.a. blake, d.
+botstein, h. butler, j.m. cherry, ..., g. sherlock
+gene ontology: tool for the unification of
+biology. the gene ontology consortium
+nature genetics, 25 (1) (2000), pp. 25-29, 10.1038/75556 7
+
+view in scopus 7 google scholar
+
+bauer et al., 2007 k.r. bauer, m. brown, r.d. cress, c.a. parise, v.
+caggiano
+descriptive analysis of estrogen receptor (er)-
+negative, progesterone receptor (pr)-negative,
+and her2-negative invasive breast cancer, the
+so-called triple-negative phenotype
+cancer, 109 (9) (2007), pp. 1721-1728
+
+crossref 7 viewin scopus 7 google scholar 2
+
+benjamini and hochberg, 1995. y. benjamini, y. hochberg
+
+ 
+
+‘cancer, 109 (9) (2007), pp. 1721-1728
+h view at publisher 7 crossref 7
+
+view in scopus 7 google scholar
+
+benjamini and hochberg, 1995. y. benjamini, y. hochberg
+controlling the false discovery rate: a practical
+and powerful approach to multiple testing
+j.r. stat. soc. ser. b methodol. (1995), pp. 289-300
+crossref 7 google scholar 7
+
+brewster et al., 2014 a.m. brewster, m. chavez-macgregor, p.
+brown
+epidemiology, biology, and treatment of triple-
+negative breast cancer in women of african
+ancestry
+lancet oncol., 15 (13) (2014), pp. €625-e634
+h view pdf —viewarticle view in scopus
+google scholar 7
+
+burgess et al., 2016 j. burgess, e. bolderson, j.m. saunus, s.-d.
+
+zhang, l.e. reid, a.m. mcnicol richard
+
+—__sach1 moadinrtac cancitivity of hrarct concar colle |
+google scholar 2
+
+ 
+
+burgess et al., 2016 j. burgess, e. bolderson, j.m. saunus, s.-d.
+zhang, le. reid, a.m. mcnicol, .... dj. richard
+sash1 mediates sensitivity of breast cancer cells
+to chloropyramine and is associated with
+prognosis in breast cancer
+oncotarget, 7 (45) (2016), article 72807
+
+crossref 7 viewin scopus 7 google scholar 2
+
+chavez-macgregor et al., 2014 m. chavez-macgregor, s. liu, d. de
+melo-gagliato, h. chen, k.a. do, l. pusztai, ..., am.
+gonzalez-angulo
+differences in gene and protein expression and
+the effects of race/ethnicity on breast cancer
+subtypes
+cancer epidemiol. biomarkers prev., 23 (2) (2014), pp. 316-
+323, 10.1158/1055-9965.epi-13-0929 2
+
+ 
+
+view in scopus 2 google scholar 7
+
+ciocca and calderwood, 2005. d.r. ciocca, s.k. calderwood
+
+ 
+
++323, 10.1158/105:
+
+view at publisher 7 view in scopus 7
+google scholar 7
+
+ciocca and calderwood, 2005 d.r. ciocca, s.k. calderwood
+heat shock proteins in cancer: diagnostic,
+prognostic, predictive, and treatment
+implications
+cell stress chaperones, 10 (2) (2005), pp. 86-103
+
+view in scopus 2 google scholar 7
+
+creighton et al., 2008 cj. creighton, s. massarweh, s. huang, a.
+tsimelzon, s.g. hilsenbeck, c.k. osborne, ..., r. schiff
+development of resistance to targeted therapies
+transforms the clinically associated molecular
+profile subtype of breast tumor xenografts
+cancer research, 68 (18) (2008), pp. 7493-7501
+
+ 
+
+view in scopus 2 google scholar 7
+
+dairkee et al., 2007 s.h. dairkee, m. nicolau, a. sayeed, s.
+champion, y. ji, d.h. moore, ..., s.s. jeffrey
+cael i :
+
+dairkee et al., 2007 s.h. dairkee, m. nicolau, a. sayeed, s.
+champion, y. ji, d.h. moore, ..., s.s. jeffrey
+oxidative stress pathways highlighted in tumor
+cell immortalization: association with breast
+cancer outcome
+‘oncogene, 26 (43) (2007), pp. 6269-6279
+
+crossref 7 viewin scopus 7 google scholar 2
+
+fedele et al., 2017 m. fedele, l. cerchia, g. chiappetta
+the epithelial-to-mesenchymal transition in
+breast cancer: focus on basal-like carcinomas
+cancers, 9 (10) (2017), p. 134
+
+crossref 7 viewin scopus 7 google scholar 2
+
+gendoo et al., 2016 d.m. gendoo, n. ratanasirigulchai, m.s.
+schroder, l. pare, j.s. parker, a. prat, b. haibe-kains
+genefu: an r/bioconductor package for
+computation of gene expression-based
+signatures in breast cancer
+bioinformatics, 32 (7) (2016), pp. 1097-1099,
+
+senrowet, l-pute, fs: potrey, a pot, boers
+genefu: an r/bioconductor package for
+computation of gene expression-based
+signatures in breast cancer
+bioinformatics, 32 (7) (2016), pp. 1097-1099,
+10.1093/bioinformatics/btv693 7
+
+view in scopus 2 google scholar 7
+
+gukas et al., 2006 ld. gukas, b.a. jennings, b.m. mandong, a.n.
+manasseh, i. harvey, sj. leinster
+a comparison of the pattern of occurrence of
+breast cancer in nigerian and british women
+breast, 15 (1) (2006), pp. 90-95
+
+ 
+
+view pdf viewarticle viewin scopus 7
+google scholar 2
+
+themelandu et al., 2007 c.u. inemelandu, l.d. leffall, r.l. dewitty,
+tj. naab, h.m. mezghebe, k.h. makambi, ..., w.a. frederick
+molecular breast cancer subtypes in
+premenopausal and postmenopausal african-
+american women: age-specific prevalence and
+
+ 
+
+ 
+
+molecular breast cancer subtypes in
+premenopausal and postmenopausal african-
+american women: age-specific prevalence and
+survival
+
+journal of surgical research, 143 (1) (2007), pp. 109-118
+
+view pdf viewarticle viewin scopus 7
+google scholar 2
+
+irizarry et al., 2003 r. irizarry, l. gautier, l. cope
+an r package for analyses of affymetrix
+oligonucleotide arrays
+the analysis of gene expression data (2003), pp. 102-119
+crossref 7 google scholar 7
+
+irizarry et al., 2003b r.a. irizarry, b. hobbs, f. collin, y.d. beazer-
+barclay, kj. antonellis, u. scherf, t.2. speed
+exploration, normalization, and summaries of
+high density oligonucleotide array probe level
+data
+biostatistics (oxford, england), 4 (2) (2003), pp. 249-264,
+
+ex piora ott, totmtanzauion, atty sunmmttattes ul
+high density oligonucleotide array probe level
+data
+biostatistics (oxford, england), 4 (2) (2003), pp. 249-264,
+10.1093/biostatistics/4.2.249 7
+
+view in scopus 7 google scholar
+
+jones et al,, 2004 e.l jones, mj. zhao, m.a. stevenson, s.k.
+calderwood
+the 70kilodalton heat shock protein is an
+inhibitor of apoptosis in prostate cancer
+int. j. hyperth., 20 (8) (2004), pp. 835-849
+
+crossref 7 viewin scopus 7 google scholar 2
+
+keenan et al., 2015 t. keenan, b. moy, e.a. mroz, k. ross, a.
+niemierko, j.w. rocco, ..., a. bardia
+comparison of the genomic landscape between
+primary breast cancer in african american
+versus white women and the association of
+
+ 
+
+racial differences with tumor recurrence
+
+journal of clinical oncology: official journal of the american
+comm partsuit uf te genomic lanastape detweett—
+
+primary breast cancer in african american
+
+versus white women and the association of
+
+racial differences with tumor recurrence
+
+journal of clinical oncology: official journal of the american
+
+society of clinical oncology, 33 (31) (2015), pp. 3621-3627,
+
+10.1200/jco.2015.62.2126 7
+
+view in scopus 7 google scholar
+
+khattar et al., 2016 €. khattar, p. kumar, cy. liu, s.c. akincilar, a.
+raju, m. lakshmanan, ..., ey. tan
+telomerase reverse transcriptase promotes
+cancer cell proliferation by augmenting trna
+expression
+the journal of clinical investigation, 126 (10) (2016), pp.
+4045-4060
+
+view in scopus 7 google scholar
+koh et al,, 2015 c.m. koh, e. khattar, s.c. leow, c
+
+wx. ang,
+telomerase regulates myc-driven oncogenesis
+
+ 
+
+e. guccione
+
+ 
+
+ 
+
+koh et al., 2015 c.m. koh, e. khattar, s.c. leow, cy. liu, j. muller,
+wx. ang,
+telomerase regulates myc-driven oncogenesis
+independent of its reverse transcriptase activity
+the journal of clinical investigation, 125 (5) (2015), pp. 2109-
+222
+
+ 
+
+, e. guccione
+
+view in scopus 7 google scholar
+
+lachmann et al. 2016 a. lachmann, fm. giorgi, g. lopez, a.
+califano
+aracne-ap: gene network reverse engineering
+through adaptive partitioning inference of
+mutual information
+bioinformatics, 32 (14) (2016), pp. 2233-2235,
+10.1093/bioinformatics/btw216 7
+
+view in scopus 7 google scholar
+
+lozaridis et al., 2019 g. lazaridis, v. kotoula, e. vrettou, i.
+kostopoulos, k. manousou, k. papadopoutlou, ..., g.
+pentheroudakis
+
+____danocite decamoctiolnnsctof cinele dtem lace
+
+lozaridis et al., 2019 g. lazaridis, v. kotoula, e. vrettou, i.
+kostopoulos, k. manousou, k. papadopoutlou, ..., g.
+pentheroudakis
+opposite prognostic impact of single pten-loss
+and pik3ca mutations in early high-risk breast
+cancer
+cancer genom. proteom., 16 (3) (2019), pp. 195-206
+
+crossref 7 viewin scopus 7 google scholar 2
+
+liand dewey, 2011 b. li, c.n. dewey
+rsem: accurate transcript quantification from
+rna-seq data with or without a reference
+genome
+bmc bioinformatics, 12 (1) (2011), p. 1
+th view pdf viewaarticle google scholar 7
+
+lietal, 2014 y. li, c. liang, h. ma, q. zhao, y. lu, z. xiang, ..., w.c.
+cho
+mir-221/222 promotes s-phase entry and
+cellular migration in control of basal-like breast
+
+ 
+
+cho
+
+mir-221/222 promotes s-phase entry and
+cellular migration in control of basal-like breast
+cancer
+
+molecules, 19 (6) (2014), pp. 7122-7137
+
+crossref 7 viewin scopus 7 google scholar 2
+
+mayakonda and koeffler, 2016 a. mayakonda, h.p. koeffler
+maftools: efficient analysis, visualization and
+summarization of maf files from large-scale
+cohort based cancer studies
+biorxiv (2016), p. 52662
+google scholar 7
+
+mclendon et al., 2008 r. mclendon, a. friedman, d. bigner, e.g.
+van meir, dj. brat, g.m. mastrogianakis, ..., k. aldape
+comprehensive genomic characterization
+defines human glioblastoma genes and core
+pathways
+nature, 455 (7216) (2008), pp. 1061-1068
+
+~ comprehensive genomic characterization —
+defines human glioblastoma genes and core
+pathways
+nature, 455 (7216) (2008), pp. 1061-1068
+google scholar 7
+
+merikhian et al., 2017 p. merikhian, r. ghadirian, l. farahmand, s.
+mansouri, k. majidzadeh-a
+muc1 induces tamoxifen resistance in estrogen
+receptor-positive breast cancer
+expert. rev. anticancer. ther., 17 (7) (2017), pp. 607-613
+
+crossref 7 viewin scopus 7 google scholar 2
+
+mvila et al., 2015 g.l. mvila, d. batalansi, m. praet, g. marchal, a.
+laenen, m.-r. christiaens, ..., c. van ongeval
+prognostic features of breast cancer differ
+between women in the democratic republic of
+congo and belgium
+the breast, 24 (5) (2015), pp. 642-648
+google scholar 7
+
+congo and belgium
+the breast, 24 (5) (2015), pp. 642-648
+google scholar 7
+
+park et al., 2009 j.-1. park, a.s. venteicher, jy. hong, j. choi, s. jun,
+m. shkreli, .., h.ji
+telomerase modulates wnt signalling by
+association with target gene chromatin
+nature, 460 (7251) (2009), p. 66
+google scholar 7
+
+parker et al., 2009 j.s. parker, m. mullins, m.c. cheang, s. leung, d.
+vodue, t. vickery, .... bs. bernard
+supervised risk predictor of breast cancer based
+on intrinsic subtypes
+journal of clinical oncology: official journal of the american
+society of clinical oncology, 27 (8) (2009), pp. 1160-1167,
+10.1200/jco.2008.18.1370 7
+
+ 
+
+google scholar 2
+
+patel et al., 2010 t.a. patel, g. colon-otero, c. bueno hume, .a.
+—eenland ted 2a dasa
+view at publisher 7 google scholar 2
+
+patel et al., 2010 t.a. patel, g. colon-otero, c. bueno hume, j.a.
+copland 3rd, e.a. perez
+breast cancer in latinas: gene expression,
+differential response to treatments, and
+differential toxicities in latinas compared with
+other population groups
+oncologist, 15 (5) (2010), pp. 466-475,
+10.1634/theoncologist.2010-0004 7
+
+view in scopus 2 google scholar 7
+
+pellatt et al., 2013 aj. pellatt, r.k. wolff, g. torres-mejia, em. john,
+j.s. herrick, a. lundgren, ..., l. fejerman
+telomere length, telomere-related genes, and
+breast cancer risk: the breast cancer health
+disparities study
+genes, chromosomes and cancer, 52 (7) (2013), pp. 595-609
+
+crossref 7 viewin scopus 7 google scholar 2
+
+prat et al., 2013 a. prat, b. adamo, m.c. cheang, c.k. anders, l.a.
+
+genes, chromosomes and cancer, 52 (7) (2013), pp. 595-609
+
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+prat et al., 2013 a. prat, b. adamo, m.c. cheang, c.k. anders, la.
+carey, c.m. perou
+molecular characterization of basal-like and
+non-basal-like triple-negative breast cancer
+oncologist, 18 (2) (2013), pp. 123-133
+
+crossref 7 viewin scopus 7 google scholar 2
+
+resmini et al., 2017 g. resmini, s. rizzo, c. franchin, r. zanin, c.
+penzo, s. pegoraro, ..., r. sgarra
+hmga1 regulates the plasminogen activation
+system in the secretome of breast cancer cells
+scientific reports, 7 (1) (2017), article 11768
+
+view in scopus 2 google scholar 7
+
+sarrio et al., 2008 d. sarrio, s.m. rodriguez-pinilla, d. hardisson,
+a. cano, g. moreno-bueno, j. palacios
+epithelial-mesenchymal transition in breast
+
+ 
+
+google scholar 7
+
+sarrio et al., 2008 d. sarrio, s.m. rodriguez-pinilla, d. hardisson,
+a. cano, g. moreno-bueno, j. palacios
+epithelial-mesenchymal transition in breast
+cancer relates to the basal-like phenotype
+cancer res., 68 (4) (2008), pp. 989-997,
+10.1158/0008-5472.can-07-2017 7
+
+view in scopus 2 google scholar 7
+
+schwender, 2012 h. schwender
+siggenes: multiple testing using sam and
+efron’s empirical bayes approaches. r package
+version, 1(0)
+
+(2012), p. 57
+google scholar 7
+
+schwender et al., n.d schwender, h., schwender, m. h., sam,
+m., multiplecomparisons, m., geneexpression, s. n. p.,
+& exonarray, d. package ‘siggenes’.
+google scholar 2
+
+scte eto tscm ttet ti scttwettet wi sat —
+m., multiplecomparisons, m., geneexpression, s. n.
+& exonarray, d. package ‘siggenes’.
+google scholar 2
+
+  
+
+shah et al., 2013 $.n. shah, l. cope, w. poh, a. belton, s. roy, c.c.
+lms. resar
+
+master regulator of tumor
+progression in triple-negative breast cancer cells
+plos one, 8 (5) (2013), article 63419
+
+ 
+ 
+
+crossref 7 viewin scopus 7 google scholar 2
+
+song et al. 2015 m.-a. song, t.m. brasky, c. marian, dy. weng, c.
+taslim, r.g. dumitrescu, ..., bg. shields
+racial differences in genome-wide methylation
+profiling and gene expression in breast tissues
+from healthy women
+epigenetics, 10 (12) (2015), pp. 1177-1187
+
+ 
+
+crossref 7 viewin scopus 7 google scholar 2
+
+spears and barnes, 2003 p.a. spears, j.a. barnes
+
+hsp70 enhances mcf-7 cell growth and estrogen
+
+h view at publisher 7 — crossref 7
+view in scopus 7 google scholar 2
+
+spears and barnes, 2003 p.a. spears, j.a. barnes
+hsp70 enhances mcf-7 cell growth and estrogen
+receptor activity
+paper presented at the proc ist int cong stress responses
+biol med (2003), p. 2003
+google scholar 7
+
+subramanian et al., 2005 a. subramanian, p. tamayo, v.k. mootha,
+s. mukherjee, b.l. ebert, ma. gillette,
+gene set enrichment analysis: a knowledge-
+based approach for interpreting genome-wide
+expression profiles
+proceedings of the national academy of sciences of the
+united states of america, 102 (43) (2005), pp. 15545-15550,
+10.1073/pnas.0506580102 7
+
+.p. mesirov
+
+ 
+
+view in scopus 2 google scholar 7
+
+ 
+
+view at publisher 7 view in scopus 7
+
+google scholar 2
+
+tang et al., 2016 b. tang, r. xie, y. qin, y.f. xiao, x. yong, l. zheng,
+omy s.m. yang
+human telomerase reverse transcriptase (htert)
+promotes gastric cancer invasion through
+cooperating with c-myc to upregulate
+heparanase expression
+oncotarget, 7 (10) (2016), pp. 11364-11379,
+10.18632/oncotarget.6575 7
+
+view in scopus 2 google scholar 7
+
+wang et al., 2009 j. wang, m. lu, c. qiu, q. cui
+transmir: a transcription factor-microrna.
+regulation database
+nucleic acids res., 38 (suppl_1) (2009), pp. d119-d122
+
+ 
+
+google scholar 2
+
+wang et al., 2014 x. wang, g. lu, l. li). yi, k. yan, ¥. wang, .., s.
+
+zhang
+
+google scholar 2
+
+wang et al., 2014 x. wang, g. lu, l. li, j. yi, k. yan, y. wang, ..., s.
+zhang
+huwe1 interacts with brca1 and promotes its
+degradation in the ubiquitin-proteasome
+pathway
+biochemical and biophysical research communications, 444
+(3) (2014), pp. 290-295
+h view pdf viewarticle view in scopus 7
+google scholar 7
+
+wang et al., 2015 b. wang, c.-w. lee, a. witt, a. thakkar, t.a. ince
+heat shock factor 1 induces cancer stem cell
+phenotype in breast cancer cell lines
+breast cancer res. treat., 153 (1) (2015), pp. 57-66
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zeller et al., 2003 c. zeller, b. hinzmann, s. seitz, h. prokoph, e.
+burkhard-goettges,
+
+sash1: a candidate tumor suppressor gene on
+frew i scope geugte sou ee on cops joogle scnotar
+zeller et al., 2003 c. zeller, b. hinzmann, s. seitz, h. prokoph, e.
+
+burkhard-goettges, j. fischer, .... s. scherneck
+
+sash1: a candidate tumor suppressor gene on
+
+chromosome 6q24. 3 is downregulated in breast
+
+cancer
+
+ 
+
+ischer, .. s. scherneck
+
+oncogene, 22 (19) (2003), p. 2972
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zhang et al., 2015 y. zhang, y. wang, y. guo, z. liao, r. xu, z. ruan
+mir-135b promotes the invasion and metastasis
+of hepatocellular carcinoma cells
+xi bao yu fen zi mian yi xue za zhi = chinese journal of
+cellular and molecular immunology, 31 (10) (2015), pp. 1316-
+1321
+
+view in scopus 2 google scholar 7
+
+zhao et al., 2014 s. zhao, w.-p. fung-leung, a. bittner, k. ngo, x.
+liu
+comparison of rna-seq and microarray in
+transcriptome profiling of activated t cells
+zhao et al., 2014 s. zhao, w.-p. fung-leung, a. bittner, k. ngo, x.
+liu
+comparison of rna-seq and microarray in
+transcriptome profiling of activated t cells
+plos one, 9 (1) (2014), p. e78644
+
+crossref 7 viewin scopus 7 google scholar 2
+
+zhong et al., 2017 j. zhong, c. liu, q-h. zhang, l. chen, y.-y. shen,
+y.-j. chen, ..., r-x. cao
+tgf-b1 induces hmga1 expressio!
+hmga1 in thyroid cancer proliferation and
+invasion
+
+he role of
+
+ 
+
+international journal of oncology, 50 (5) (2017), pp. 1567-1578
+
+crossref 7 google scholar 7
+
+zhuetal., 2014 y. zhu, p. qiu, y. ji
+tcga-assembler: open-source software for
+retrieving and processing tcga data
+nat. methods, 11 (6) (2014), pp. 599-600
+
+crossref 7 viewin scopus 7 google scholar 2
+
+tcga-assembler: open-source software for
+retrieving and processing tcga data
+nat. methods, 11 (6) (2014), pp. 599-600
+
+crossref 7 viewin scopus 7 google scholar 2
+acknowledgements
+
+as indicated under “methods” above, the findings of this
+study are based in whole or in part upon data generated by
+the tcga research network: http://cancergenome.nih.gov] 7.
+this work has been supported by the resources of
+massachusetts college of pharmacy & health sciences
+(mcphs university).
+declaration of competing interest
+
+the authors declare that they have no known competing
+financial interests or personal relationships that could have
+the authors declare that they have no known competing
+financial interests or personal relationships that could have
+appeared to influence the work reported in this paper.
+credit authorship contribution statement
+
+terrick andey: conceptualization, formal analysis,
+
+credit authorship contribution statement
+
+terrick andey: conceptualization, formal analysis,
+investigation, methodology, supervision, validation,
+
+ 
+
+editing. michael m. attah: formal analysis, investigation,
+writing - original draft, writing - review & editing. nana
+adwoa akwaaba-reynolds: investigation, writing - original
+draft, writing - review & editing. sana cheema: formal
+analysis, investigation, visualization, writing - original draft,
+writing - review & editing. sara parvin-nejad: formal
+analysis, investigation, visualization, writing - original draft,
+writing - review & editing. george k. acquaah-mensah:
+conceptualization, formal analysis, investigation,
+supervision, validation, visualization, writing - original draft,
+writing - review & editing.
+financial disclosure
+
+study was carried out with support from mcphs university.
+© download : download word document (30k8)
+supplementary table 3. gene expression differences between
+b/aaso patients with huwe1 missense mutations and w50
+patients with missense pik3ca mutations.
+© download : download word document (15kb)
+
+supplementary table 2. reverse phase protein array: up-
+regulated (10% fdr) in black/african-american patients at
+stage iii top 25 over-represented pathways.
+2.11.2. micrornas
+
+transmir is a database of experimentally-validated
+transcription factor-microrna regulations (wang et al.,
+2009), as micrornas regulate the expression of their target__
+transmir is a database of experimentally-validated
+transcription factor-microrna regulations (wang et al.,
+2009). as micrornas regulate the expression of their target
+genes post-transcriptionally, changes in activity of
+transcription factors regulating micrornas can have
+consequences on the expressions or activities of the genes
+regulated by those micrornas. mir- 15a, mir-17, mir- 18a,
+mir- 19a, mir-20a, mir-93, mir-106b, mir-141, mir-221, and
+mir-429 are among those with increased expression in blacks
+relative to whites (fig. 5b). as an example, increased
+expression of mir-221, an oncomir that facilitates entry into
+the s-phase and promotes the emt (li et al., 2014), is
+regulated by myc (which, as noted above, has increased
+expression in blacks) (fig. 5b). also, the cell migration and
+invasion promoting mirna, mir-135b (zhang et al., 2015), has
+increased expression in b/aa compared to caucasian cancer
+patients and is regulated by the transcription factors foxm1
+and stat3 in our transcriptional regulatory network (figure
+not shown); foxm1 has increased expression among b/aa.
+patients, while stat3 has decreased expression.
+ee
+not shown); foxmi has increased expression among b/aa
+patients, while stat3 has decreased expression.
+
+ 
+
+in conclusion, the more aggressive breast cancer biology
+reported in b/aa patients likely involves enhanced entry into
+the s-phase, and immortalization. a number of likely
+molecular participants have been identified here and include
+hsf1, tert, hmga1, pqbp1, foxe3, drapi, tafg, ire3,
+znf396, creb1, dennd4a, sp1, bdp1, thrb, arid4a, rb1,
+and ar. furthermore, the basal-like/tnbc and her2-enriched
+molecular subtypes are more common in b/aa patient
+samples than in white patient samples. moreover, a number
+of genes associated with diminished response to endocrine
+therapy (such as sash1, fzd4, kif138, tcf4, ili3ra1, spred1.
+cpeb2, epas1, and thes1) have lower expression levels even
+among non-responding b/aa patients compared to non-
+responding white patients. we observe that prognosis is
+poorer in stage ii b/aa patients diagnosed at age 5oyears or
+younger. however, enthusiasm is assuaged by the fact that
+this observation is based on only three stage i bja and
+eleven white patients 5oyears or younger at diagnosis, for
+
+ 
+
+ 
+
+younger. however, enthusiasm is assuaged by the fact that
+this observation is based on only three stage i bja and
+eleven white patients 5oyears or younger at diagnosis, for
+whom survival data is available. missense mutations in the
+e3 ubiquitin ligase gene huwet occur more frequently in
+stage ii bja patients 50years old or younger at diagnosis,
+and are associated with pten expression loss (which is, itself,
+associated with poor prognosis). indeed, the gene expression
+profile in this group is distinctly different from that in white
+stage ii patients soyears or younger at diagnosis in whom
+missense pik3ca mutations occurred more frequently.
+several pathways identified here will be examined in future
+studies.
+
+  
+
+the following are the supplementary data related to this
+article.
+
+© download : download word document (15kb)
+
+supplementary table 1. reverse phase protein array: top diff
+expressed proteins between white and black|african-
+american (b/aa) patients at stage iii
+
+supplementary table t. reverse phase proteim array: top dill —
+expressed proteins between white and black|african-
+american (b/aa) patients at stage iii
+regarding over-represented pathways, samples from b/aa
+patients and patients with tnbc have differentially expressed
+genes participating in some of the same pathways and
+biological processes. this is evident in the triple-negative
+brca phenotypes from the cancer genome atlas (tcga), and
+the gene expression omnibus gse479947 dataset. for
+example in both datasets, and both phenotypes (b/aa and
+tnbc), genes associated with the cell cycle and proliferation
+have increased expression, while genes associated with pi3k
+signaling in cancer and negative regulation of the pi3k network
+
+ 
+
+have increased expression, while genes associated with pi3k
+signaling in cancer and negative regulation of the pi3k network
+have suppressed expression (table 4a, table 4b).
+
+table 4a. some pathways over-represented among genes
+differentially expressed between white and black/african
+american (b/aa) patients.
+
+ 
+
+stage i (all) stage ii(upto stage ill (all)
+age 50)
+
+up- cell cycle, cell cycle, cell cycle, mitotic;
+
+regulated mitotic; g1/s___ mitotic; s synthesis of dna;
+
+in bjaa transition; phase; dna —_g2/m checkpoints;
+mitotic g2-g2/m_ replication; g2/m transition;
+phases; dna replication g1/s transitio
+irelalpha pre-initiation; _ p53-independent
+activates separation of | g1/s dna damage
+chaperones; sister checkpoint; p53-
+interleukin-1 chromatids; __ independent dna
+family signaling; switching of damage response;
+chaperones; sister checkpoint; p53-
+interleukin-1 chromatids; __ independent dna
+
+family signaling; switching of damage response;
+tlr3 cascade; originstoa_——_g2/m checkpoints;
+‘trif-mediated _post-replicative ubiquitin mediated
+tlr4 signaling; state; m phase; degradation of
+
+mydss- mjci phosphorylated
+independent _ transition; g1/s._cdc25a;
+tlr4 cascade; transition; degradation dvl;
+
+xbp1(s) activates degradation of _ regulation of apc/c
+chaperone genes; beta-catenin by activators between
+activation of the destruction g1/s and early
+
+e2f1 target genes complex; anaphase;
+atgi/s;tnfr2 —pcp/ce apc/c:cah1
+non-canonical pathway; mediated
+
+ne-xb pathway; apc/c:cdh1__—_ degradation of
+unfolded protein mediated cdc20 and other
+response; degradation of apc/c:cah1
+signaling by rho cdc20 and targeted proteins in
+gtpases; tki apc/c:cdh1__late mitosisjearly
+activates nfkb by targeted gl;
+
+signaling by rho cdc20 and targeted proteins in
+gtpases; tki apc/c:cdh1__late mitosisjearly
+activates nfkb by targeted gl;
+
+phosphorylation proteins in late autodegradation of
+and activation of mitosisjearly cah by
+ikks complex; g1; assembly cdh1:apc/c;
+
+fgfr2 alternative of pre- regulation of apc/c
+splicing replication _activators between
+complex; g1/s and early
+
+autoregulation anaphase;
+ofcdhi by apc/c:cde20
+cdh1:apc/c; mediated
+apc/c:cdc20 degradation of
+
+mediated securin
+degradation of
+securin
+down- signaling by sumoylation; negative regulation
+regulated notchi in sumo e3 of the pi3k/akt
+in baa cancer; signaling ligases network;
+by wnt in sumoylate constitutive
+
+ 
+
+ 
+
+in baa cancer; signaling ligases
+
+    
+
+by wnt in sumoylate constitutive
+cancer; circadian target proteins; signaling by
+clock; tlr9 myd88- aberrant pi3k in
+cascade; independent cancer; signaling by
+downregulation tlr4 cascade; erbb4;
+of erbb2 myd8s ‘sumoylation of
+signaling; pip3 dependent _intracellular
+activates akt cascade receptors; sumo e3
+signaling; initiated on _ligases sumoylate
+inhibition of | endosome; —_target proteins;
+replication myd88 cascade circadian clock;
+jation of initiated on _signaling by tgf-
+damaged dna by plasma beta family
+rb1/e2f1; membrane; members; rho
+regulation of _—signalingby gtpase cycle;
+tp53 tgf-beta family tlr1:tlr2
+degradation; members; cascade;tlr6:tlr2
+antigen signaling by cascade; tlr9
+
+processil igfr1; nuclear cascade; pisp, pp2a
+
+and jer3 regulate
+
+    
+
+ubiquitination signalil
+antigen signaling by cascade; tlr9
+igfr1; nuclear cascade; pisp, pp2a
+ubiquitination signaling by and ier3 regulate
+
+processit
+
+ 
+
+and proteasome — erbb4; pi3k/akt signaling;
+degradation; rho signaling by myd88: mal
+gtpase cycle; vegf; tlr5 _—_cascade initiated on
+
+cascade; tlr 10 plasma membrane;
+cascade; rho traf6 mediated
+gtpase cycle; induction of nfkb
+tlr 7/8 and map kinases
+cascade; tlr9 upon tlr7/8 or 9
+cascade; trif- activation
+mediated tlr4
+
+signaling;
+
+traf6
+
+mediated
+
+induction of
+
+nfkb and map
+
+kinases upon
+
+tlr7/8 or 9
+
+ac
+
+ 
+
+d.
+kinases upon
+tlr7/8 or 9
+activation
+
+table 4b. some pathways over-represented among genes
+differentially expressed between non-triple-negative breast
+cancer (non-tnbc) and tnbc patients using gene expression
+data from the cancer genome atlas (tcga) and the gene
+expression omnibus (gse479947).
+
+tcga gse479942
+
+up- cell cycle, mitotic; g1/s cell cycle, mitotic; cell
+
+regulated transition; separation of cycle; mitotic g1-g1/s
+
+in tnbc sister chromatids; mitotic phases; m phase; g1/s
+anaphase; mitotic transition; cell cycle
+metaphase and anaphase; checkpoints; processing of
+mitotic prometaphase; m capped intron-containing
+phase; mitoticg1-g1/s__pre-mrna; cellular
+phases; interferon gamma _ responses to stress; mitotic
+
+g2-g2/m phases:
+
+ 
+
+aday
+
+   
+
+phase; mitoticg1-g1/s__pre-mrna; cellular
+phases; interferon gamma _ responses to stress; mitotic
+
+  
+
+signaling; adaptive g2-g2/m phases;
+immune system; tcr metabolism of rna; s
+signaling; signaling by rho phase; cellular responses to
+gtpases; er-phagosome _ external stimuli; dna
+pathway; antigen replication; g2/m
+processing-cross transition; g2/m
+presentation; m phase; checkpoints; mrna
+antigen presentation: splicing - major pathway;
+folding, assembly and mitotic prometaphase;
+
+peptide loading of class! transcriptional regulation
+mhc; endosomalvacuolar_ by small rnas; mitotic
+pathway prophase; mitotic
+anaphase; apoptosis;
+mitotic metaphase and
+anaphase; programmed cell
+death; mrna splicing; dna
+replication pre-initiation
+down- _ negative regulation of the negative regulation of the
+ttt eer
+replication pre-initiation
+
+down- _ negative regulation of the negative regulation of the
+
+regulated pi3k/akt network; pibk network; estrogen-
+
+in tnbc signaling by erbb2; dependent gene expression;
+nuclear signaling by esr-mediated signaling;
+erbb4; signaling by pibk/akt signaling in
+receptor tyrosine kinases; cancer; post-translational
+pisp, ppa2 and ier3 protein phosphorylation;
+regulate pi3k/akt ‘tfap2 (ap-2) family
+signaling; rab regulates transcription of
+
+geranylgeranylation; pip3 growth factors and their
+activates akt signaling; receptors; sumoylation of
+
+pi3k/akt signaling in intracellular receptors; pisp,
+cancer; mtor signaling; pp2a and ier3 regulate
+signaling by insulin pibk; regulation of insulin-
+receptor; esr-mediated _like growth factor (igf)
+signaling; estrogen- transport and uptake by
+dependent gene insulin-like growth factor
+
+expression; regulation of binding proteins (igfbps);
+tp53 activity; signaling by semadd induced cell
+
+ 
+
+dependent gene insulin-like growth factor
+expression; regulation of binding proteins (igfbps);
+tp53 activity; signaling by semadd induced cell
+
+ptkg; raf/map kinase _ migration and growth-cone
+cascade; mapk1/mapk3 collapse; signaling by
+
+signaling; intrinsic nuclear receptors; the
+pathway for apoptosis; _activation of arylsulfatases;
+bh3-only proteins erbb2 activates ptk6
+associate with and signaling; molecules
+
+inactivate anti-apoptotic associated with elastic
+
+bcl-2 members fibres; integrin cell surface
+interactions;
+downregulation of erbb4
+signaling; raf-independent
+mapk activation; erbb2
+regulates cell motility;
+semadd in semaphorin
+signaling; grb2 events in
+erbb2 signaling;
+peroxisomal protein import;
+activation of gene
+erbb2 signalin;
+peroxisomal protein import;
+
+ 
+
+activation of gene
+expression by srebf
+(srebp): elastic fibre
+formation
+
+2.11. discussion
+
+the results suggest that a major factor in understanding why
+breast cancer among b/aa patients tends to be aggressive is
+the intrinsic breast cancer subtypes represented. breast
+cancer, in reality, has a set of diverse molecular and cellular
+presentations and outcomes. the basal-like intrinsic subtype,
+in particular, is a more aggressive presentation (alluri and
+newman, 2014). her2-enriched breast cancers are also
+associated with poor prognoses (brewster et al., 2014). the
+intrinsic breast cancer subtype predictor algorithm used in
+this study, pamso, has been demonstrated to be a
+
+particularly robust and predictive algorithm (parker et al.,
+2009). these results indicate that b/aa patients are more
+
+this study, pamso, has been demonstrated to be a
+
+particularly robust and predictive algorithm (parker et al.,
+2009). these results indicate that b/aa patients are more
+
+than two times as likely to harbor the basal-like, and just
+about twice as likely as caucasian patients to harbor the
+her2-enriched molecular subtype (table 1). the results are
+consistent with prior findings showing that the incidence of
+triple-negative breast cancers, most of which are basal-like,
+high in individuals with african ancestry (afghahi et al., 2016;
+bauer et al., 2007).
+
+ 
+
+the immortalization gene signature identified by dairkee et
+al. (2007) is enriched in b/aa patients (fig. 3) (dairkee et al.,
+2007), ie. they are among the most highly expressed (highly
+ranked by expression level) genes in samples derived from
+b/aa patients. these genes, among which are oxidoreductase
+and cell-proliferation pathway genes, have increased
+expression upon the transduction of the catalytic subunit of
+telomerase (htert). of note, their expression is inversely
+correlated with patient survival (dairkee et al., 2007). in line
+with this, this key immortalization marker gene, tert, has
+correlated with patient survival (dairkee et al., 2007). in line
+with this, this key immortalization marker gene, tert, has
+increased expression in b/aa patients relative to white
+patients (fig. 2a), and is among the leading drivers of the
+differences in gene expression between the two phenotypes
+(fig. 4). among b/aa patients, the immortalization gene
+signature is enriched in tumor samples relative to normal
+samples (data not shown).
+
+ 
+
+the transition from the typical epithelial phenotype to the
+mesenchymal phenotype is associated with an increased
+propensity towards metastasis, invasiveness and
+aggressiveness (fedele et al., 2017). sarrio et al. (2008)
+generated a gene signature associated with the epithelial-
+mesenchymal transition (emt) (sarrio et al., 2008).
+specifically they showed that the basal-like phenotype,
+which has relatively high incidence among b/aa patients in
+the tcga data (table 1), was associated with the emt.
+
+as described above, the relative expressions, in b/aa patients,
+of rbi, hsa-let-7a, e2f1, c-myc, tert, and others cooperate to
+etc ce toto ft assoc wto tc eve
+as described above, the relative expressions, in b/aa patients,
+of rbi, hsa-let-7a, e2f1, c-myc, tert, and others cooperate to
+facilitate entry into the s-phase of the cell cycle (fig. 2d) and,
+in part, explains the aggressiveness of cancer in blacks. also
+of note, tert and rb1 are differentially expressed
+transcriptional factors and master regulators/drivers of
+regulons (including differentially expressed targets) within
+the transcriptional regulatory network generated (fig. 4).
+these help explain the relative aggressiveness of brca in
+blacks and are briefly described:
+
+2.11.1. master regulators
+
+a number of top master regulators (ie. differentially active
+(between b/aa and white patients) trans
+regulators) were identified in this study (fig. 4). among them
+is hse1, which has increased expression in brca samples
+from baa patients relative to white patients. increased
+expression of hsf1 worsens breast cancer by promoting
+cancer cell survival and metastasis. hsf1 has a role in
+
+tional
+
+ 
+
+ 
+
+expression of hsf1 worsens breast cancer by promoting
+cancer cell survival and metastasis. hsf1 has a role in
+regulating cell stress and heat shock proteins (hsps). of note,
+increased hsf1 expression is associated with resistance to
+chemotherapeutic drugs, and with the emergence of the
+cancer stem cell phenotype (wang et al., 2015). several hsps
+like hsp70 and hsp90 have been associated with breast
+cancer. hsp70 has been associated with poor tumor
+differentiation, increased tumor growth, lack of programmed
+cell death (jones et al., 2004), lymph node metastasis as well
+as p53 mutations in breast cancer cells (ciocca and
+calderwood, 2005). hsp70 has also been linked to increased
+era transcriptional activity and growth in mcf-7 breast
+cancer cells (spears and barnes, 2003). hsp90 serves as a
+shield to her-2/neu and the mutated p53 by preventing the
+proteasome from degrading them, which leads to increased
+tumor growth in breast cancer (ciocca and calderwood,
+2005).
+
+hmgai was also identified as being a master regulator in
+
+b/aa patient brca samples (fig. 4). this affirms the hi
+zt fo
+
+   
+
+hmgai was also identified as being a master regulator in
+b/aa patient brca samples (fig. 4). this affirms the high
+relative incidence of tnbc among b/aa patients as hmga1 is
+a known master regulator in tnbc cells (shah et al., 2013)
+(table 2). hmga1 directly controls the urokinase
+plasminogen activator system whi
+pathways in cancer metastasis (resmini et al., 2017). the
+urokinase pathway is involved in biological processes such as
+inflammation, angiogenesis, remodeling and metastasis,
+hence its role in cancer cell migration. there is increasing
+evidence that hmga1 plays a role in breast cancer by
+inducing emt and metastasis (shah et al., 2013; zhong et al.,
+2017), emt is considered to be an essential contributor of the
+invasive behavior of tumors during cancer progression
+(zhong et al., 2017).
+
+ 
+
+one of the hallmark
+
+ 
+
+ 
+
+also among the master regulators is tert, which has
+increased expression in brca samples from baa patients
+relative to white patients (fig. 4). one way tert contributes
+to cancer cell proliferation is by directly regulating protein
+
+ 
+
+relative to white patients (fig. 4). one way tert contributes
+to cancer cell proliferation is by directly regulating protein
+synthesis (khattar et al., 2016). an increase in tert leads to
+increased trna expression and this is a mechanism by which
+tert contributes to cancer development (khattar et al.,
+2016). tert promoter mutations also contribute to tumor
+development and have been used as a biomarker for
+detection and monitoring of certain cancers (pellatt et al.,
+2013). multiple tert single nucleotide polymorphisms
+(snps) have been found to be linked directly or inversely to
+breast cancer risk because of tert's involvement in the
+activation of telomerase (pellatt et al., 2013). the importance
+of tert in promoting the proliferative state in breast cancer
+was demonstrated by tert crispr/cas9 knockout in mda-
+mb-231 cells with resultant inhibition of cell viability and
+induction of apoptosis (fig. 5a, b). tert has a positive
+reciprocal signaling effect on wnt, which is facilitated by
+interaction of tert with the b-catenin-interacting protein
+brgi (also referred to as smarcaa). notably, induction of
+tert expression in the absence of brg1 failed to stimulate b-
+
+ 
+
+interaction of tert with the b-catenin-interacting protein
+brgi (also referred to as smarcaa). notably, induction of
+tert expression in the absence of brg1 failed to stimulate b-
+catenin activity which was restored by upregulating brg1
+(park et al., 2009). moreover, myc and its transcriptional
+target, tert, are involved in a feed-forward oncogenic
+process facilitated via the regulation of degradation and
+chromatin stabilization of myc by tert (koh et al., 2015). of
+significance is the observation that a marginal decrease in
+tert expression resulted in analogous and significant
+reduction in the expression of oncoproteins c-myc and
+wnti11 in mda-mb-231 and mda-mb-468 cells (fig. 5c-j).
+this observation was consistent with studies that highlighted
+a co-operative transcriptional relationship between tert and
+myc in promoting and sustaining the proliferative state in
+tumors (koh et al., 2015; tang et al., 2016).
+
+ 
+also of note, several of these genes (such as sash, fzd4,
+kif138, tcf4, il 13ra1, spred1icpeb2, epas1, and thes1) have
+suppressed expression in caucasian non-responders
+compared to caucasian responders (figure not shown). as an
+example, sash1 is a tumor suppressor whose expression is
+linked to breast cancer prognosis (burgess et al., 2016; zeller
+et al., 2003), and it is note-worthy that it is suppressed in
+non-responding b/aa patients, compared to non-responding
+white patients (fig. 8). further muci, which increases
+resistance to tamoxifen therapy in estrogen-positive breast
+cancer (merikhian et al., 2017), has lower expression in non-
+responding b/aa patients, compared to non-responding
+white patients (fig. 8).
+
+ 
+
+ 
+
+an examination of the somatic mutation data of all patients
+red with the two response to endocrine drug
+
+ 
+
+an examination of the somatic mutation data of all patients
+associated with the two response to endocrine drug
+phenotypes (ice. responders and non-responders) identi
+no differentially mutated genes between them. however, the
+topmost mutated genes among responders include pik3ca,
+cdh1, cdh4, neb, zfhx4 and dhah17, while those among
+non-responders include ttn, pik3ca, muci6, and f8.
+
+ 
+
+ 
+
+2.10.4. bjaa and tnbc
+
+the july 2016 tcga data indicates there is a 56% incidence
+rate of tnbc in b/aa patients, compared to 44% in asian
+patients, and 29% in caucasian patients (table 2). conversely,
+there is a high incidence rate of non-tnbc (71%) in white
+patients, compared to 44% in b/aa patients, and 10% in
+asians. these observations i.e. that b/aa patients are twice as
+likely to present with tnbc than caucasian patients, are
+reflected in mutation and gene expression patterns within
+those groups.
+
+regarding mutation patterns, there are similarities of
+those groups.
+
+regarding mutation patterns, there are similarities of
+differential mutations that occur between b/aa and white
+patients on the one hand, and tnbc and non-tnbc patients
+on the other. pik3ca mutations (mostly missense mutations)
+occur more frequently in white stage iii patients (32%) than
+in b/aa stage iii patients (20%); they also occur more
+frequently in non-tnbc patients (37%), than in tnbc patients
+(8%) (fig. 9). at least 75% of all patients with pik3ca
+mutations were white and non-tnbc; 9% were b/aa and
+non-tnbc. conversely, a variety of tp53 mutations occur
+more frequently in stage iii b/aa patients (48%), than in stage
+ill white patients (23%); they occur more frequently in tnbc
+(73%), than in non-tnbc patients (20%). further among all
+patients with tp53 mutations, b/aa patients or tnbc patients
+are over-represented. thus, the occurrence of these
+frequently mutated genes is a reflection of the high incidence
+rates of tnbc among b/aa patients, and high incidence rates
+of non-tnbc among white patients (table 2).
+
+ 
+
+rates of tnbc among b/aa patients, and high incidence rates
+of non-tnbc among white patients (table 2).
+
+ 
+
+download : download high-res image (562kb)
+
+download : download full-size image
+
+fig. 9. patterns of frequently mutated genes reflect
+dominance of triple-negative breast cancer (tnbc) among
+black/african-american (b/aa) patients. most mutated genes
+among a) stage ill b/aa and white caucasian brca patients,
+ients (tcga. july 2016)
+
+  
+   
+
+black/african-american (b/aa) patients. most mutated genes
+among a) stage iii b/aa and white caucasian brca patients,
+and b) tnbc and non-tnbc patients (tcga, july 2016).
+pik3ca mutations (mostly missense mutations), as an
+example, occur more frequently in white stage iii patients
+(32%) than in b/aa stage iii patients (20%); they also occur
+more frequently in non-tnbc patients (37%), than in tnbc
+patients (8%). tnbc patients were identified by way of
+immunohistochemistry (tcga, july 2016).
+ 
+
+ 
+
+download : download high-res image (4498)
+
+download : download high-res image (4498)
+
+download : download full-size image
+
+fig. 8. gene sets associated with breast cancer resistance to
+endocrine therapy are expressed differently between
+black/african-american (b/aa) and white patients. pooled
+gene expression profiles of responders and non-responders to
+
+ 
+
+therapy with endocrine drugs (tamoxifen, fulvestrant,
+anastrozole, letrozole, exemestane, goserelin, or leuprolide).
+responders to these therapies were associated with complete
+response; non-responders were associated with
+stable/progressive disease. a) the two gene sets from a study
+by creighton et al. (2008) in which two mouse xenograft
+models of estrogen receptor-positive breast cancer, one with
+her2 expansion (“creighton 3”) and another without her2
+expansion (“creighton 5”). leading edge “creighton 3”
+(creighton et al., 2008) genes are suppressed in b/aa non-
+responders relative to white non-responders. b) leading
+edge “creighton 5” (creighton et al., 2008) genes are
+suppressed in b/aa non-responders relative to white non-
+
+ 
+
+responders relative to white non-responders. b) leading
+edge “creighton 5” (creighton et al., 2008) genes are
+suppressed in b/aa non-responders relative to white non-
+responders.
+2.10.3. response to endocrine therapy
+
+a subset of the expression data was selected for patients who
+were on endocrine therapy, identified as re
+a combination of the following drugs: tamoxifen, fulvestrant,
+anastrozole, letrozole, exemestane, goserelin, or leuprolide.
+represented on this list are selective estrogen receptor
+modulators (tamoxifen), selective estrogen receptor down-
+regulators (fulvestrant), gonadotropin releasing hormone
+agonists (goserelin, leuprolide), and aromatase inhibitors
+(anastrozole, letrozole, exemestane). patient samples were
+grouped according to response status with “responders”
+iated with complete response, and “non-responders”
+associated with clinical progressive disease or stable disease. of
+note, carcinogens such as 2, 3, 7, 8-tetrachlorodibenzodioxin
+(tcdd) and benzo(a)pyrene are known to act as ligands to
+the aryl hydrocarbon receptor (ahr) and its dimerization
+the ahr nuclear receptor (arnt). these two genes
+
+ 
+
+ents of one or
+
+ 
+
+ 
+
+  
+
+ 
+
+tne
+
+  
+
+(tcdd) and benzo(a)pyrene are known to act as ligands to
+the aryl hydrocarbon receptor (ahr) and its dimerization
+partner, the ahr nuclear receptor (arnt). these two genes
+were found in our studies to be significantly suppressed
+among b/aa patients relative to white/caucasians. thus, this
+distinction was probed further.
+
+ 
+
+along with the expression data, gene sets associated with
+ahr in the molecular signatures database (msigdb) were
+used for a gene set enrichment analysis (gsea). a number of
+gene sets were enriched in b/aa and caucasian responders
+and non-responders. of particular interest are two gene sets
+from a study by creighton et al. (2008) in which two mouse
+xenograft models of estrogen receptor-positive breast cancer,
+one with her2 expansion (“creighton 3”) and another
+without her2 expansion (“creighton 5”), acquired resistance
+to endocrine therapies. among non-responders, leading edge
+creighton 3 and creighton 5 gene set members had
+suppressed expression in b/aa patients relative to caucasian
+patients (fig. 8). as a collection these genes (captured in fig.
+8), which are associated with signaling by interleukins,
+patients (fig. 8). as a collection these genes (captured in fig.
+8), which are associated with signaling by interleukins,
+circadian clock, regulation of lipid metabolism by ppara,
+‘sumoylation of intracellular receptors, foxo-mediated
+transcription, regulation of tp53 degradation, etc., are
+expressed less in non-responding b/aa patients than in non-
+responding caucasian patients.
+
+ 
+in the subset of patients 5oyears old or younger at diagnosis
+with stage ii, the set of master regulators driving the gene
+expression differences, as determined using the viper
+algorithm (alvarez et al., 2016), overlapped with that
+determined across all ages, but also had its unique elements.
+in both analyses, pqbp1, hes4, and drap1 were among the
+top 20 master regulators with increased expression in b/aa
+patients, and creb1, rb1, sp1, arid4a and bdp1 among those
+with suppressed expression. unique to those patients with
+stage ii brca diagnosed at soyears old or younger, taf6l,
+patients, and creb1, rb1, sp1, arid4a and bdp1 among those
+with suppressed expression. unique to those patients with
+stage ii brca diagnosed at soyears old or younger, taf6l,
+ddit3, eefid, e4f1, and znf628 were master regulators with
+increased expression among b/aa patients, while ddx3x,
+ccnt1, rbpj, gabpa, and gtf2a1 had suppressed expression.
+
+ 
+
+ 
+
+regarding missense mutations, the gene encoding e3
+ubiquitin ligase, huwe!, which binds to the brca1 tumor
+suppressor and promotes its degradation via the ubiquitin
+proteasome pathway (wang et al., 2014), is significantly more
+frequently mutated in the b/aaso compared to the wso
+group (fig. 7b), and brca1 gene expression is lower in stage ii
+b/aa patients. on the other hand, mutations of the pik3ca
+gene which are known to counter the poor-prognosis
+associated with loss of the tumor suppressor gene pten
+(lazaridis et al., 2019), occur significantly more frequently in
+the w50 group compared to the b/aaso group. in those
+b/aaso patients with huwe1 missense mutations,
+expression of the pten gene is severely suppressed compared
+to those w50 patients with pik3ca missense mutations
+b]aaso patients with huwet missense mutations,
+expression of the pten gene is severely suppressed compared
+to those w50 patients with pik3ca missense mutations
+(supplementary table 3) ie. b/aa5o patients with these
+huwel mutations lack the pik3ca mutations which would
+otherwise have countered this lack of pten expression.
+further, among b/aaso patients with huwe! missense
+mutations, master regulators pqbp1, drapi, and taf6l have
+higher gene expression, while sp1, arid4a, and ccnt1 have
+lower gene expression compared to those w50 patients with
+pik3ca missense mutations (supplementary table 3). in
+addition, genes encoding upstream mitogen-activated
+kinases, the oncogene eras, ras-association domain family
+of tumor suppressor proteins rassfi and rassfs, as well as
+rasai, and rasef are all dysregulated in b/aaso patients
+with huwei missense mutations compared to those w50
+patients with pik3ca missense mutations (supplementary
+table 3). these findings suggest participatory roles for
+huwe! mutations and the pi3 kinase/akt pathways in events
+associated with poorer prognosis in younger black breast
+cancer patients.
+
+huwet mutations and the pis kinase/akt pathways
+associated with poorer prognosis in younger black breast
+cancer patients.
+
+ 
+
+ 
+
+ 
+
+events
+
+ 
+ 
+
+download : download high-res image (104kb)
+
+download : download full-size image
+
+fig. 7. (a) kaplan-meier (survival) plot capturing the
+ichotomy in survival between three black/african-american
+(bjaa5o) and eleven white (w50) patients at stage ii breast
+coprarmreret (airvivany proc esptarntg tie
+otomy in survival between three black/african-american
+(bjaa5o) and eleven white (w50) patients at stage ii breast
+invasive carcinoma and 5oyears old or younger at diagnosis
+(tcga, july 2016). the time on the horizontal axis represents
+the number of days to death. survival among b/aa patients is
+significantly short-lived (p<0.0001). (b) huwei and pik3ca
+are differentially mutated between b/aaso and w50. huwei
+is frequently mutated in b/aaso; pik3ca is frequently
+mutated in w50.
+
+ 
+
+   
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ima /b/iic
+/a/b
+ima /b/iic
+/a/b
+2.10.2. stage ii b/aa brca patients of age 50 and
+younger
+
+out of 39 b/aa and 121 white patients s0years old or
+younger at diagnosis with stage il brca, there were three
+younge.
+out of 39 b/aa and 121 white patients s0years old or
+younger at diagnosis with stage il brca, there were three
+bj/aa and eleven white patients whose survival data was
+available in the july 2016 brca data from tcga (table 3a,
+table 3b). a majority of the samples from these patients were
+in stage il.
+
+table 3a. number of patients up to age 50 at diagnosis in
+dataset (tcga, july 2016) at different stages of brca.
+
+black or african-american
+
+brca stage white
+(%) (%)
+wia/ib u 33
+(16.7%) (15.1%)
+/a/b 39 121
+(59.1%) (55.5%)
+myma/b/ic 14 62
+(21.2%) (28.4%)
+v 2 2
+timta/mb/ic «14 62
+(21.2%) (28.4%)
+v 2 2
+(0.9%)
+
+(3.0%)
+
+table 3b. number of patients of all ages at diagnosis in dataset
+
+ 
+
+ 
+
+at different stages of brca.
+
+brca, black or afi wi
+(%) (%)
+
+wia/ib 32 142
+(18.0%) (19.1%)
+
+/a/b 106 415
+(59.6%) (55.8%)
+
+myma/b/ic = 35 176
+(19.7%) (23.7%)
+
+v 5 u
+(2.8%) (1.5%)
+
+v 5 u
+
+(15%)
+
+(2.8%)
+
+prognosis was decidedly poorer for black/african-american
+stage ii breast invasive carcinoma patients diagnosed at age
+soyears or younger (b/aaso), compared to white patients of
+similar age (w50). survival among the three b/aaso patients
+for whom survival data was available was highly significantly
+(p<0.001) of shorter duration than those in the eleven w50
+patients for whom survival data was available (fig. 7a). in
+patients 60 or older at diagnosis, the difference loses its
+statistical significance.
+
+strata — race=black_or_african_american — race=white
+
+ 
+
+|
+2.10312. tert interference inhibits cel viability and downregulates oncoprotein
+expression in tnbc ces
+
+rna interference of tert using knockout crispr/cas9
+plasmid resulted in a significant decrease in mda-mb-231
+cell viability (77.39+3.87%) and induction of apoptosis (fig.
+5a and b). crispr/cas9-mediated activation and knockout of
+tert resulted in a significant upregulation and a marginal
+downregulation of tert proteins in mda-mb-231
+(148.43+0.54% and 96.98+0.79% respectively) compared to
+control (100+3.92%) (fig. 5c and d). tert activation was
+
+: son.af pemye (1393741212
+
+(148.43+0.54% and 96.98+0.79% respectively) compared to
+control (100+3.92%) (fig. 5c and d). tert activation was
+concomitant with upregulation of c-myc (139.37£1.21%) and
+wnt11 (152.49+4.19%), compared to control (100+1.96% and
+100+0.67% respectively). similarly, downregulation of tert
+was accompanied by decreased expression of c-myc
+(53.11£0184%), and a slight increase in wnt11 expression
+(106.60+0.62%) (fig. 5c, e and f). in mda-mb-468 cells, a
+marginal activation of tert was achieved (101.56+2.06%),
+resulting in a corresponding expression of wnt11
+(100.71+1.86%), versus a significant upregulation of c-myc
+(149.22+0.54%) (fig. 5g-]). however, significant
+downregulation of tert (36.47+ 1.72%) was associated with
+corresponding significant decreased expression of c-myc
+(17.3420.66%) and wnt (46.02+1.21%).
+
+ 
+ 
+
+download : download high-res image (156k8)
+
+download : download full-size image
+
+fig. 6. the impact of increased c-myc expression on
+microrna expression. differential (between black/african-
+american and white breast cancer patients) microrna
+expression data was superposed on a transcriptional
+regulatory network excerpted from transmir, a database for
+transcription factor-microrna regulations (wang et al.,
+2009). c-myc targets micrornas, such as mir-221, which
+a
+
+   
+
+transcription factor-microrna regulations (wang et al.,
+2009). c-myc targets micrornas, such as mir-221, which
+have regulatory influence on the cancer phenotype. white
+
+ 
+
+nodes represent micrornas with increased expression in
+blacks, brown nodes represent micrornas with suppressed
+expression in blacks. (for interpretation of the references to
+colour in this figure legend, the reader is referred to the web
+version of this article.)
+a ox avorrosis staining
+
+ibeme-casencons _comlcispa/ced_tertkoarspr/cas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+   
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+download : download high-res image (424kb)
+
+download : download full-size image
+
+download : download high-res image (424kb)
+
+download : download full-size image
+
+fig. 5. tert knockout inhibits cell viability and oncoprotein
+expression, and induces apoptosis tnbc cells. mda-mb-231
+cells were treated with control and tert knockout
+crispr/cas9 plasmids for 72h and assayed for (a) cell
+viability and (b) apoptosis induction (red-purple cell nuclei).
+(c) mda-mb-231 and (g) mda-mb-468 cells were treated
+with control, tert activation crispr/cas9 plasmids, and
+tert knockout crispr/cas9 for 72h. cell lysates were
+immunoblotted for expression of (d, h) tert, (e, 1) c-myc,
+and (f, j) wnt11 proteins. statistical analysis: unpaired t-test
+(*p<0.05, **p<0.01; ***p<0.001; and ****p<0.0001). (for
+interpretation of the references to colour in this figure
+legend, the reader is referred to the web version of this
+article.)
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prvalue set 205
+al waa “
+: ma pm
+fie danas tg tot re
+1 test :
+tope te 7 tet ross »
+vt 3
+: th ona os
+- ines a
+peer i “| 2306 ws
+err ‘nent ™
+po eon =
+as n
+ae te. =
+fr ee 3
+i acco a
+ari =
+r aon ™
+soe ft im *
+so aan o
+
+ 
+
+download : download high-res image (284k8)
+
+download : download full-size image
+
+fig. 4. the top twenty differentially active transcription
+regulators along with their corresponding regulons enriched
+(aggregated at the ends of the list of genes ranked by their
+levels of expression) in black/african-american (b/aa)
+patients and caucasian patients. hmga1, tert, atf4, tcf3,
+hesf4, hsf1, pqbp1, foxe3, drap1, taf6 and irf3 have
+increased expression and inferred activity in b/aa patients;
+znf396, creb1, dennd4a, sp1, bdp1, thrb, arid4a, rb1,
+and ar have decreased expression and activity in b/aa
+patients. in the second column, the genes are rank-sorted
+(left to right) from the most downregulated in b/aa patients
+(relative to caucasians) to the most upregulated, and vertical
+bars represent targets of the transcription regulators (named
+in the third column) in the transcriptional regulatory
+
+  
+
+(relative to caucasians) to the most upregulated, and vertical
+bars represent targets of the transcription regulators (named
+in the third column) in the transcriptional regulatory
+network. blue bars and boxes represent suppressed
+expression; red bars and boxes represent increased
+expression. the fourth and fifth columns represent inferred
+differential protein activity and gene expression respectively.
+the numbers in the rightmost column are the respective
+positions of the master regulators on the ranked gene lists.
+[act. -. activity; exp. expression]. (for interpretation of the
+references to colour in this figure legend, the reader is
+referred to the web version of this article.)
+
+ 
+furthermore, an examination of stage ill patients for the
+purpose of identifying master regulators accounting for the
+differential expression between b/aa and white patients,
+identified tert, drap1, pqbp1 (all among the
+immortalization gene set described above) among the main
+drivers with increased expression and activity (fig. 4).
+indeed, tert knockout in the triple-negative human breast
+cancer cell line, mda-mb-231, induces apoptosis and
+diminishes cell viability (fig. 5). it also diminishes onco-
+
+ 
+
+ 
+
+cancer cell line, mda-mb-231, induces apoptosis and
+diminishes cell viability (fig. 5). it also diminishes onco-
+
+ 
+
+protein expression i.e. c-myc and beta-catenin protein
+expression (fig. 5). c-myc, which happens to be part of the
+immortalization gene set described above, targets a set of
+micrornas including mir-15a,-mir-17, mir-18a, mir -19a,
+‘mir-20a, mir-93, mir- 106b, mir-141, mir-221, and mir-429,
+all with increased expression in b/aa patients relative to
+white patients (fig. 6).
+
+ 
+
+ 
+   
+
+ 
+
+download : download high-res image (532k8)
+
+download : download full-size image
+
+fig. 3. an immortalization signature gene set and differences
+between breast invasive carcinoma samples from black or
+african-american (b/aa) patients and white patients. using
+the gene expression data from 925 white patients and 189
+black patients described, a gsea was performed using
+msigdb database gene sets associated with the oxidative
+stress response regulator, nfe2l2. nfe2l2 has suppressed
+expression in b/aa patients. (a) an enrichment plot showing
+a notable cross-section (leading edge) of an immortalization
+gene set (dairkee et al., 2007) aggregates at the top (right side
+of figure has aggregation of bars) of a ranked list of genes in
+b/aa patients (but not white patients). (b) a heatmap
+showing the expression of the immortalization gene set, a
+
+of figure has aggregation of bars) of a ranked list of genes in
+b/aa patients (but not white patients). (b) a heatmap
+showing the expression of the immortalization gene set. a
+notable cross-section of this gene set captured in the brown
+“box” on the heatmap has increased expression in black
+patient samples. blue boxes represent genes with suppressed
+expression; red boxes represent genes with increased
+expression. (for interpretation of the references to colour in
+this figure legend, the reader is referred to the web version of
+this article.)
+ 
+
+ 
+
+download : download high-res image (316k8)
+
+download : download full-size image
+
+fig. 2. differential expression of oncogenic and tumor
+suppressor gene markers in breast invasive carcinoma
+samples from white patients and black or african-american
+patients (b/aa), tcga 2016. (a) immortalization gene,
+telomerase reverse transcriptase gene (tert), has increased
+expression in brca samples derived from b/aa (n=179)
+relative to white (caucasian) patients (n=935). (b) rb1
+protein expression is reduced among b/aa patients. the
+normalized reverse phase protein array data was derived
+from 677 white patients and 139 b/aa patients. rb1 was
+detected using the rb-m-e antibody. the red boxplot
+hotmanzea revetse phase potent attay gas was ative
+from 677 white patients and 139 b/aa patients. rb1 was
+detected using the rb-m-e antibody. the red boxplot
+represents normalized expression levels from caucasian
+patients; the blue boxplot represents normalized expression
+levels from b/aa patients. (c) microrna hsa-let-7a expression
+is decreased in breast invasive carcinoma samples from b/aa
+relative to caucasian patients. the mirna-seq data was
+derived from 849 white patients and 188 b/aa patients. three
+human let-7-a precursors (hsa-let-7a-1, hsa-let-7a-2, and hsa-
+let-7a-3) all have suppressed expression in b/aa patients. the
+red boxplot represents normalized expression levels from
+white patients; the blue boxplot represents normalized
+expression levels from black patients. (d) impact of
+differences in microrna and gene expression between
+caucasian and b/aa patients on entrance into s phase of cell
+cycle. rb1 binds to e2f proteins to prevent entry into the s
+phase of the cell cycle. as there is decreased rb1 expression
+in b/aa patients, there is less constraint on e2f proteins and
+entry into the s phase is facilitated. expression of tumor
+‘suppressor, microrna hsa-let-7a, a negative regulator of c-
+
+ 
+
+ 
+
+ 
+
+ 
+
+i ban patients, there 1 tess constraint on e2f proteins am
+entry into the s phase is facilitated. expression of tumor
+suppressor, microrna hsa-let-7a, a negative regulator of c-
+mycis suppressed in b/aa patients. expression of proto-
+oncogene c-myc, which positively regulates tert, is up in
+b/aa patients as is e2f1 whose targets are needed for the cell
+cycle $ phase. thus, the differences in expression of these
+appear to confederate to facilitate entrance into the $ phase
+of the cell cycle in b/aa patients. (for interpretation of the
+references to colour in this figure legend, the reader is
+referred to the web version of this article.)
+
+ 
+ 
+
+tea
+2.10.1.1. higher incidence of basal-like molecular subtype
+among b/aa
+
+the pamso algorithm was used to predict the incidence of
+the various molecular subtypes of brca, based on tcga july
+2016 rnaseq version 2 data. the incidence of the aggressive
+basal-like molecular subtype in b/aa subjects was 34.9%,
+compared to 16.4% in the general population, and 13.8%
+among white patients (table 1). further the her2-enriched
+subtype, which has poor prognosis, occurred at a rate of 9.5%
+among b/aa patients, compared to 6.3% in the general
+population and 5.1% among white patients (table 1).
+sudlype, witt as pout piopmusis, occuiten at a tale of ti
+among b/aa patients, compared to 6.3% in the general
+population and 5.1% among white patients (table 1).
+
+table 1. incidence of brca molecular subtypes based on
+pamso predictions-tcga 2016.
+
+basal- her2-  luminal luminal normal-
+like enriched b a like
+
+allsubjects 16.4% 6.3% 498% 181% 9.3%
+
+(n=1213) (n=199) (n=77)  (n=604) (n=220) (n=113)
+white subjects 138% 51% 48.1% 209% 12%
+(n=864) (n=119) (n=44)  (n=416) (n=181) (n=104)
+blackjafrican- 349% 95% 429% 10% 2.6%
+american (n=66) (n=18) (n=81) (n=19) _(n=5)
+subjects
+
+(n=189)
+
+a similar pattern was observed, based on incidence of the
+triple-negative phenotype (tnbc), as determined by
+
+asimilar pattern was observed, based on incidence of the
+triple-negative phenotype (tnbc), as determined by
+immunohistochemistry. tnbc is aggressive, and can be basal-
+like or not (prat et al., 2013). whereas tnbc occurs at a rate of
+35% in the general population, it was found at a rate of 56% in
+the b/aa population (and 44% in the asian population),
+compared to 29% in the caucasian/white patient population
+(table 2).
+
+ 
+
+table 2. incidence of the
+
+ 
+
+iple-negative phenotype, based on
+immunohistochemistry-tcga 2016.
+
+ 
+
+all b/aa white asian other
+(n=358) (n=75) — (n=235)_— (n=18) ~—(n=30)
+
+tnbc 126 (35%) 42(56%) 69(29%)  8(n=44%) 7 (23)
+
+   
+
+non- 232 (64%) 33(44%) 166 10 23
+tinbc (n=71%)  (n=56%) —_(n=77%)
+
+tbc - triple-negative breast cancer; b/aa —- black or african
+america
+
+ 
+
+ 
+
+tbc - triple-negative breast cancer; b/aa —- black or african
+american.
+
+2104.14. immortalization signature
+
+a set of analyses indicates that genes participating in
+pathways associated with proliferation have increased
+expression in b/aa patients (fig. 2). notable among these is
+the immortalization gene, tert, whose expression is
+increased (fig. 2a), and tumor suppressors rb1 and hsa-let-
+7a, whose expressions are suppressed in b/aa patients (fig.
+2b, c). along with increased expression of e2f1, and proto-
+oncogene c-myc in b/aa patients, the differences in gene,
+protein, and mir expressions suggests a concerted facilitation
+of entry into the cell cycle s-phase in b/aa patients,
+compared to caucasian patients (fig. 2d). also, the rppa data
+shows processes such as “mitotic g1-g1/s phases”, “s phase”,
+“cyclind-associated events in g1”, “g1 phase”, “cyclin
+a:cdk2-associated events at s phase entry”, and “cell cycle,
+mitotic” are over-represented among proteins
+
+ 
+
+ 
+
+increased
+“cyclind-associated events in g1”, “g1 phase”, “cyclin
+a:cdk2-associated events at s phase entry”, and “cell cycle,
+mitotic” are over-represented among proteins with increased
+expression in b/aa patients (supplementary table 1,
+supplementary table 2).
+
+moreover, gsea results include an enrichment of an
+immortalization gene signature, which includes tert (fig. 3).
+using the rna-seq data from 925 white patients, and 189
+black patients, at a normalized enrichment score of -1.77 (as
+described by (subramanian et al., 2005)), and a nominal p-
+value of 0.009, an immortalization gene set (dairkee et al.,
+2007) was enriched in b/aa patients in contrast to white
+patients. members of this gene set were up-regulated in
+breast cancer tumor cultures in which telomerase reverse
+transcriptase (tert) expression was induced via a retroviral
+vector (dairkee et al., 2007). the leading edge genes for this
+gene set as enriched in b/aa patients are ppp2r2d, arhgef9,
+dnmti, pitpnm1, nedd8, dap3, hdac6, rab40c, cdkn2c,
+rin1, fam83d, telo2, arpc3, spns2, nprl3, gstp1, pebp1,
+myc, rab4b, rhot2, vrk1, adrbk1, atp6vod1, arpcia,
+pitpnmt, nedds, dap3, hdacg, rab40c, cdkn2c
+rin1, fam83d, telo2, arpc3, spns2, nprl3, gstp1, pebp1,
+myc, rab4b, rhot2, vrk1, adrbk1, atp6vod1, arpcia,
+glrx2, arhgef4, chmp4b, cks2, cntrob, apopt!, drap1,
+polr2e, cdc25c, ccs, taf6, tert, aip, sh2b2, psmd13,
+ndufai3, slc26a6, map2k7, pin1, gnb2, cdc25b, ppp4c,
+rexank, emd, siva1, ssna1, kif2c, ebp, arpc4, ikbkg, rnf126,
+stoml2, pqbp1, lyge, cnpy3, nfkbili, ogfr, pttg1, nup93,
+sharpin, birc5, cdc34, bax, pfn1, and fams8a. the overall
+gene set has several members associated with redox and
+proliferative processes. moreover of note, increased
+expression of these genes was inversely correlated with
+patient survival (dairkee et al., 2007).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+2.10. statistics
+results were computed with graphpad prism (version 7) and
+
+2.10. statistics
+
+results were computed with graphpad prism (version 7) and
+ifferences were analyzed using the student unpaired t-test
+with 95% confidence interval where p value<0.05 is
+considered significant.
+
+ 
+
+2.10.1. results
+2.9.3. effect of tert knockout on apoptosis
+induction
+
+mda-mb-231 and mda-mb-468 cells (4x 105 cells/well) were
+seeded in a 6-well plate format and incubated overnight
+followed by transfection with control, tert activation and
+tert knockout crispr/cas9 plasmids as described by
+manufacturer's protocol (santa cruz biotechnology, dallas,
+tx). cells were stained for apoptosis induction with acridine
+orange and ethidium bromide as previously described (andey
+et al., 2013), results were presented as qualitative
+fluorescence micrographs showing apoptotic cells (red to
+purple staining) compared to live cells (green staining).
+
+ 
+
+2.9.4. effect of tert knockout on oncoprotein
+expression
+
+mda-mb-231 cells and mda-mb-468 (4 10° cells/well) were
+seeded in a 6-well plate format and incubated overnight
+followed by transfection with control, tert activation and
+mda-mb-23t cells and mda-mb-468 (4* 10” cells/well) were
+seeded in a 6-well plate format and incubated overnight
+followed by transfection with control, tert activation and
+tert knockout crispr/cas9 plasmids as described by
+manufacturer's protocol (santa cruz biotechnology, dallas,
+tx). cells were expanded following transfection and lysates
+were prepared and subjected to sds-page as previously
+described (andey et al., 2014), proteins were immunoblotted
+onto a nitrocellulose membrane and probed with primary
+antibodies for tert, c-myc, wnt11, and f-actin (internal
+control) and anti-rabbit secondary antibodies (cell signaling
+technology, danvers, ma). band detection was performed
+using imagequant las4000 (ge healthcare bio-sciences,
+pittsburgh, pa). measurement of protein bands was done by
+densitometry, using the image] software (national institute of
+health, bethesda, md). the density of target protein bands
+were normalized with f-actin and the results expressed as
+percent mean with standard deviation.
+2.9.3. effect of tert knockout on apoptosis
+
+leviation vs treatment.
+2.9. virtual inference of protein activity by
+enriched regulon analysis (viper)
+
+a transcriptional regulatory network (trn) was reverse-
+engineered from the gene expression compendium using the
+algorithm for the reconstruction of accurate cellular
+networks (aracne) (lachmann et al., 2016). regulons were
+identified using the trn and a relevant function within the
+viper package (alvarez et al., 2016). using the regulons, and a
+ignature generated based on the gene expression profile,
+taare usiiig the trc anid a relevant ranction within me —
+viper package (alvarez et al., 2016). using the regulons, and a
+signature generated based on the gene expression profile,
+viper was further applied to identify master regulators of
+regulons driving the differences in breast cancer between
+caucasian and b/aa patients as well as to infer concomitant
+aberrant protein activity (fig. 1).
+
+   
+
+2.9.1. cell lines, reagents and plasmids
+
+triple-negative breast cancer (mda-mb-231 and mda-mb-
+468) cell monolayers (american type cell culture, manassas,
+va) were established in vitro using dmem-f12 media
+supplemented with 10% fetal bovine serum (fbs) and 2%
+penicillin-streptomycin-neomycin cocktail (psn) (life
+technologies, grand island, ny). cells were maintained under
+standard cell culture conditions of 95% air and 5% carbon
+dioxide at 37°c. control crispr/cas9 plasmid (sense:
+ccaggaccgcgcttcccacg), tert knockout crispr/cas9
+plasmids consisting of a pool of three guide rna (grna)
+sequences (sense: aacatgcgtcgcaaactctt; sense:
+
+ 
+
+ 
+
+plasmids consisting of a pool of three guide rna (grna)
+sequences (sense: aacatgcgtcgcaaactctt; sense:
+aggtgcagagcgactactcc; and sense:
+gccagtctcaccttcaaccg) and tert activation crispr/cas9
+plasmids consisting of a pool of two grna sequences (sense:
+ccaggaccgcgcttcccacg; and sense:
+ccgcgcggaggaggcggagc) were procured from santa cruz
+biotechnology (dallas, tx). ultracruz® transfection reagent
+and plasmid transfection medium were obtained from santa
+cruz biotechnology (dallas, tx). primary antibodies for tert,
+-myc, wnt11, and b-actin and anti-rabbit secondary
+antibodies were purchased from cell signaling technology
+(danvers, ma).
+
+2.9.2. effect of tert knockout on human breast
+adenocarcinoma cell viability
+
+mda-mb-231 cells were seeded in a 96-well format (1.0« 104
+cells|well) in a 100-l volume of complete growth media
+comprising dmem-f12 supplemented with 10% fbs and 2%
+psn for 24h. control and tert knockout crispr/cas9
+eensnienftita vordihe or connprete stor nents
+comprising dmem-f12 supplemented with 10% fbs and 2%
+psn for 24h. control and tert knockout crispr/cas9
+plasmids (0.2yg/y1l) were diluted in transfection reagent to a
+final volume of 150pl (0.0133 pg/l). transfection reagent
+(10pl) was diluted up to 150yl with plasmid transfection
+medium and incubated for smin at room temperature (rt).
+the plasmid solution was added drop-wise to the
+transfection reagent-medium mixture under vortex and
+incubated for 30min at rt. cells were refreshed with
+antibiotic-free growth media and 18.75yl of plasmid mixture
+added drop-wise followed by incubation at 37°c for 24h.
+transfection was verified by detection of green fluorescent
+protein. cells were refreshed with media and incubated for
+48h. mda-mb-231 cell viability 72h post-transfection was
+determined using alamarblue® according to manufacturer's
+protocol (thermo fisher scientific, waltham, ma). results
+were expressed as percent mean cell viability with standard
+deviation vs treatment.
+
+ 
+
+  
+
+ 
+
+  
+2.8. pams0
+
+the proportion of breast cancer molecular subtypes (i.e.
+basal-like, her2-enriched, luminal a, luminal b, or normal-
+like) was determined via the pam50 method (fig. 1), using
+the rnaseq data and the bioconductor package genefu
+(gendoo et al., 2016; parker et al., 2009). the luminal types
+like) was determined via the pam50 method (fig. 1), using
+the rnaseq data and the bioconductor package genefu
+(gendoo et al., 2016; parker et al., 2009). the luminal types
+are estrogen receptor- (er-) positive; the her2-enriched type
+which has an expanded expression of the human epidermal
+growth factor receptor 2; the basal-like types which are
+largely triple-negative (i.e. lacking estrogen receptors,
+progesterone receptors and her2). the proportion of each
+subtype identified in each phenotype was subsequently
+computed.
+2.7. gsea
+
+‘subsequently (as shown in fig. 1), a gene set enrichment
+
+ 
+
+2.7. gsea
+
+subsequently (as shown in fig. 1), a gene set enrichment
+analysis (gsea) was performed using rnaseq version 2 data
+and curated human gene sets associated with the ahr and
+nfe212 in the molecular signatures database, msigdb
+(subramanian et al., 2005). both ahr and nfe2l2 have
+suppressed expression in black/african-american (b/aa)
+patients, relative to white patients. among the phenotypes of
+focus were “white” and “b/aa” patients, as well as triple-
+negative and non-triple brca samples. the signal to noise
+metric was used for ranking genes, and default settings were
+used for this analysis. the gene expression compendium
+consisting of 5999 genes described above was used.
+2.5. protein array data
+
+as shown in fig. 1, reverse phase protein array (rppa) data
+derived from 937 samples from the tcga, were processed
+using the tcga assembler (mclendon et al., 2008). the
+normalized data obtained consisted of proteins associated
+with 227 unique antibodies applied to 937 samples, including
+165 white patients in stage 3 and 26 black patients in stage 3.
+the normalization process involves first subtracting the
+median expression value of each protein (across all samples)
+from each expression value for the given protein, and then
+subtracting the median expression value for each sample
+median expression value of each protein (across all samples)
+from each expression value for the given protein, and then
+subtracting the median expression value for each sample
+(across all proteins) from each expression value for the given
+sample.
+
+2.6. differential expression
+
+the package, siggenes, was used to identify genes
+differentially expressed between the various phenotypes
+examined. these include white patients (not hispanic or
+latino) and black or african-american (not hispanic or
+latino) (schwender et al.). the false discovery rate used for
+the rnaseq data was 0.1%; for the rppa data, it was 5%
+(benjamini and hochberg, 1995). in the case of the rpa data,
+11 proteins (linked with unique antibodies) with at least one
+missing expression value from across the 937 samples were
+not included in the analysis.
+
+ 
+2.4, microarrays
+
+a breast tumor gene expression dataset deposited in the
+gene expression omnibus, gse47994 », was also analyzed.
+the arrays were on the affymetrix human genome u219
+
+ 
+
+gene expression omnibus, gse47994 , was also analyzed.
+the arrays were on the affymetrix human genome u219
+array platform. the robust multi-array average (rma)
+procedure was used for background correction, data
+normalization, and log-transformation (irizarry et al., 2003a;
+irizarry et al., 2003b). based on associated annotation data,
+samples with the triple-negative and non-triple-negative
+phenotypes were identified.
+2.3. mutation
+
+downloaded brca mutation annotation format text files from
+tcga were processed using functions from the maftools
+package (mayakonda and koeffler, 2016). differentially
+mutated genes i.e. genes with mutations occurring at
+different rates between the race- or receptor expression-
+based phenotypes of interest, were identified.
+
+ 
+2.2. mirseq
+
+a transcriptional regulatory network was excerpted from
+transmir, a database for transcription factor-microrna
+regulations (wang et al., 2009). from tcga (july 2016),
+microrna expressed at different levels between b/aa and
+
+ 
+
+regulations (wang et al., 2009). from tcga (july 2016),
+microrna expressed at different levels between b/aa and
+caucasian patients were identified using the siggenes
+package (schwender, 2012). the differential microrna
+expression data was then superposed on the excerpted
+regulatory network.
+tcga
+
+rnaseq-v2 rppa —-mirseq mutation
+prenotype ert
+prenctpentieton penctype entiation phenotype ertston
+l t ‘ | de de pe
+de sea trn.-—- molecular
+sub-typing
+
+master regulators
+identified
+‘sub-typing
+
+master regulators
+identified
+
+download : download high-res image (78kb)
+
+download : download full-size image
+
+fig. 1. a schematic laying out the steps taken in the studies in
+this report. rnaseq, reverse phase protein array (rppa),
+mirna-seq, and mutation data examined were from the
+cancer genome atlas, july 2016. specifically, the samples
+were from subjects diagnosed with breast invasive
+carcinoma. [de — differential expression; gsea ~ gene set
+enrichment analysis; trn — transcriptional regulatory
+network; dm -- differential mutation].
+
+ 
+2.1. rnaseq
+
+rnaseq version 2 data derived from brca samples were
+obtained from the cancer genome atlas (tgca) (mclendon
+et al., 2008). the tcga-assembler (zhu et al., 2014) was used
+to download and process the data as described. gene
+expression data (rna-seq version 2) were obtained from
+tcga, july 2016 (fig. 1). processing was via the tcga-
+assembler. for each sample, six files were generated,
+including normalized gene expression values (computed via
+the rna-seq by expectation maximization [rsem] algorithm)
+(li and dewey, 2011). the normalized count values were
+subsequently extracted. ultimately, the resulting gene
+expression compendium consisted of 20,531 genes and 1213
+samples. using the gene ontology (go), subsets of the table
+
+ 
+
+expression compendium consisted of 20,531 genes and 1213
+samples. using the gene ontology (go), subsets of the table
+consisting of relevant samples and 5999 human genes
+
+poptosis”, “senescence”
+cycle”, “oxidative stress”, or “signal transduction”, along with
+transcriptional regulators (genes associated with
+“transcription factor activity” and “dna-binding”) was
+selected (ashburner et al., 2000), based on available clinical
+data, the samples were mostly obtained from 935 white (not
+hispanic or latino), and 179 black or african-american (not
+hispanic or latino) patients at various stages and with
+various phenotypes of the disease.
+
+  
+
+associated with “cancer’ “cell
+
+ 
+2. materials and methods
+1. introduction
+frican-ameri ; ,
+
+1. introduction
+
+african-americans with breast cancer have more aggressive
+tumor biology (ihemelandu et al., 2007). hispanic and black
+patients tend to have higher tumor sizes and higher mortality
+rates than caucasians (patel et al., 2010). compared to
+caucasian women from norfolk (united kingdom), black
+african patients from jos (nigeria) were found to present
+with breast cancer at an earlier age (64 compared to
+
+43.1 years, respectively) (gukas et al., 2006). in a study
+comparing breast cancer in black african women from
+kinshasa (democratic republic of congo) and caucasian
+women from leuven (belgium), black patients tended to have
+the more aggressive cancers (i.e. estrogen receptor-negative
+and her2/neu-positive) (mvila et al., 2015).
+
+at the molecular level, examples of differences previously
+noted include more tp53 mutations and fewer pik3ca
+mutations in blacks (keenan et al., 2015). a previous study
+using microarrays and reverse phase protein array analysis
+(rppa) found no differences in expression in breast cancer
+mutations in blacks (keenan et al., 2015). a previous study
+using microarrays and reverse phase protein array analysis
+(rppa) found no differences in expression in breast cancer
+among the racial groups examined (chavez-macgregor et al.,
+2014), however, next-generation sequencing technologies
+have distinct advantages over microarrays in detecting
+transcript abundance; for instance, they are superior in
+measuring low-abundance transcripts and detecting the
+presence of variants and isoforms (zhao et al., 2014).
+furthermore, a study of breast tissues among healthy
+european americans and african americans, found
+differences in both gene expression and epigenetics (dna
+methylation) between the two groups (song et al., 2015).
+
+this work further examines and characterizes the genomic
+differences associated with the trait differences already
+noted, with a focus on driver genes regulating those
+differences. the results from breast invasive carcinoma
+(brca) samples presented here are based on next-generation
+sequencing technologies (rna-seq version 2 and mirseq) and
+protein arrays.
+
+brca) samples presented here are based on next-generation
+sequencing technologies (rna-seq version 2 and mirseq) and
+protein arrays.
+
+ 
+keywords
+
+race; breast invasive carcinoma; immortalization; african;
+triple-negative breast cancer; molecular subtype
+abbreviations
+
+aracne, algorithm for the reconstruction of accurate
+cellular networks; b/aa, black/african-american breast
+cancer patients; b/aaso, black/african-american stage ii
+breast invasive carcinoma patients diagnosed at age soyears
+or younger; brca, breast invasive carcinoma; de, differential
+
+ 
+
+  
+
+cancer patient
+breast invasive cai
+
+frican-american stage
+oma patients diagnosed at age soyears
+or younger; brca, breast invasive carcinoma; de, differential
+expression; dm, differential mutation; emt, epithelial-
+mesenchymal transition; gsea, gene set enrichment
+analysis; rma, robust multi-array average; rppa, reverse
+phase protein array; tcga, the cancer genome atlas; tnbc,
+triple-negative breast cancer; trn, transcriptional regulatory
+network; viper, virtual inference of protein activity by
+enriched regulon analysis; w50, white stage ii breast
+invasive carcinoma patients diagnosed at age 5oyears or
+younger
+
+ 
+
+ 
+next article
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+previous article
+abstract
+
+black/african-american (b/aa) breast cancer patients tend to
+have more aggressive tumor biology compared to
+white/caucasians. in this study, a variety of breast tumor
+molecular expression profiles of patients derived from the
+two racial groupings were investigated. breast invasive
+carcinoma sample data (rnaseq version 2, reverse phase
+protein array, mutation, and mirseq data) from the cancer
+genome atlas were examined. the results affirm that b/aa
+
+ 
+
+protein array, mutation, and mirseq data) from the cancer
+genome atlas were examined. the results affirm that b/aa
+patients are more likely than caucasian patients to harbor the
+aggressive basal-like or the poor prognosis-associated her2-
+enriched molecular subtypes of breast cancer. there is also a
+higher incidence of the triple-negative breast cancer (tnbc)
+among b/aa patients than the general population, a fact
+reflected in the mutation patterns of genes such as pik3ca
+and 7p53. furthermore, an immortalization signature gene
+set, is enriched in samples from b/aa patients. among stage
+ill patients, tert, drap1, and pqbp1, all members of the
+immortalization gene signature set, are among master-
+regulators with increased activity in b/aa patients. master
+regulators driving differences in expression profiles between
+the two groups include immortalization markers, senescence
+markers, and immune response and redox gene products.
+differences in expression, between b/aa and caucasian
+patients, of rbi, hsa-let-7a, e2f1, c-myc, tert, and other
+biomolecules appear to cooperate to enhance entry into the
+s-phase of the cell cycle in b/aa patients. higher expression
+
+ 
+
+ 
+
+ 
+
+    
+ 
+
+iomolecules appear to cooperate to enhance entry into the
+s-phase of the cell cycle in b/aa patients. higher expression
+of mir-221, an oncomir that facilitates entry into the cell
+cycle s-phase, is regulated by c-myc, which is expressed
+more in breast cancer samples from b/aa patients.
+furthermore, the cell migration- and invasion-promoting
+mirna, mir- 135b, has increased relative expression in b/aa
+patients. knock down of the immortalization marker tert
+inhibited triple-negative breast cancer cell lines (mda-mb-
+231 and mda-mb-468) cell viability and decreased
+expression of tert, myc and wnt11. for those patients with
+available survival data, prognosis of stage il patients soyears
+of age or younger at diagnosis, was distinctly poorer in b/aa
+patients. also associated with this subset of b/aa patients are
+missense mutations in huwei and pten expression loss.
+relative to caucasian non-responders to endocrine therapy,
+b/aa non-responders show suppressed expression of a
+
+ 
+
+ 
+
+ 
+
+signature gene set on which biological processes including
+signaling by interleukins, circadian clock, regulation of lipid
+metabolism by ppara, foxo-mediated transcription, and
+
+ 
+
+ 
+
+signaling by interleukins, circadian clock, regulation of lipid
+metabolism by ppara, foxo-mediated transcription, and
+regulation of tp53 degradation are over-represented. thus, we
+identify molecular expression patterns suggesting
+diminished response to oxidative stress, changes in
+regulation of tumor suppressors/facilitators, and enhanced
+immortalization in b/aa patients are likely important in
+defining the more aggressive molecular tumor phenotype
+reported in b/aa patients.
+
+ 
+research paper
+
+enhanced immortalization,
+huwe1 mutations and other
+biological drivers of breast
+invasive carcinoma in
+black/african american
+patients >
+
+terrick andey °+, michael m. attah >,
+nana adwoa akwaaba-reynolds °, sana cheema°,
+
+ 
+
+terrick andey °+, michael m. attah >,
+
+nana adwoa akwaaba-reynolds °, sana cheema
+sara parvin-nejad *, george k. acquaah-mensah*? 9 5
+
+show more v
++ addtomendeley « share 55 cite
+
+https://dol.org/10.1016/).gene.2020.100030 7 get rights and content 7
+
+under a creative commons license 7 © open access
+ld download full issue
+
+gene
+
+volume 763, supplement, december 2020, 100030
+
+ 
+
+elsevier
+
+“gene
+

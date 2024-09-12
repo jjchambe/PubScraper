@@ -1,0 +1,747 @@
+piumx
+eyes
+yeu
+
+elsevier
+
+about sciencedirect 7
+remote access
+skip to main contentskip to article
+lpielsevier logosciencedirect’
+
+* journals & books
+
+rer |
++ asearch
+
+ 
+
+amy account
+
+| at]
+
+‘ou have institutional access via university of massachusetts amherst
+
+  
+ 
+
+ 
+
+.
+
+* access through another institution
+
+search sciencebire sec scenes]
+[a]
+
+-®
+university of massachusetts amherst does not subscribe to this content on sciencedirect.
+j
+
+article preview
+
+© abstract
+
+« section snippets
+« references (131) e
+2)
+
+article preview
+
+© abstract
+
+ 
+
+[elsevier
+
+ 
+
+international review of neurobiology
+
+volume 158, 2021, pages 57-82
+
+ 
+
+  
+
+chapter three - integration of value and action in medial prefrontal neural systems
+
+“jessica p. caballero ® || david e, moorman 2». |
+
+ 
+
+ 
+
+author links open overlay panel| beata kaminska
+
+[ snow morey’ |
+| +,dd to mendetey |
+[3
+
+ef
+
+ 
+
+  
+
+‘jessica p. caballero ® || david e, moorman 2°. ei
+
+ 
+
+author links open overlay panel| beata kaminska ®
+| show morey’ |
+
+| +,dd to mendetey |
+
+[share
+
+ 
+
+ 
+
+| eicite
+hutps://doi.org/10.1016/bs.im.2020.11.007 7 get rights and content 7
+
+ 
+
+ 
+
+abstract
+
+the rodent medial prefrontal cortex (mpfc) plays a key role in regulating cognition, emotion, and behavior. mpfc neurons are activated in
+
+experimental paradigms, raising the questions of whether there are specific task elements or dimensions encoded by mpfc neurons, and whi
+encoded parameters are selective to neurons in particular mpfc subregions or networks. here, we consider the role of mpfc neurons in pro
+and aversive cues, outcomes, and related behaviors. mpfc neurons are strongly activated in tasks probing value and outcome-associated act
+responses vary across experimental paradigms. can we identify specific categories of responses (e.g., positive or negative value), or do mpf
+response properties that are too heterogeneous/complex to cluster into distinct conceptual groups? based on a review of relevant studies, we
+been done and what needs to be further explored in order to address these questions.
+
+ 
+
+section snippets
+
+rodent medial prefrontal cortex
+
+the prefrontal cortex (pfc) plays important roles in cognition, motivation, and behavior control (cassaday, nelson, & pezze, 2014; dalley,
+robbins, 2004; euston, gruber, & mcnaughton, 2012; miller & cohen, 2001). however, the specifics and extent of what is being encoded i
+activity remain unclear. the pfc is highly interconnected with structures throughout the brain, and the resulting integrations produce compl
+the circuit level. although progress has
+
+medial prefrontal neuronal representations of value and motivation e
+
+the prefrontal cortex (pfc) plays important roles in cognition, motivation, and behavior control (cassaday, nelson, & pezze, 2014; dalley,
+robbins, 2004; euston, gruber, & mcnaughton, 2012; miller & cohen, 2001). however, the specifics and extent of what is being encoded i
+activity remain unclear. the pfc is highly interconnected with structures throughout the brain, and the resulting integrations produce compl
+the circuit level. although progress has
+
+medial prefrontal neuronal representations of value and motivation
+
+here, we consider mpfc neural correlates of positive and negative value and how these signals interact with motivated action. there is clea
+between mpfc neural function and outcome value as shown by the studies described below. representations of outcomes, cues predicting 0
+actions needed to approach or avoid outcomes, are fundamental to almost all behaviors associated with mpfc function. underlying cognitio
+the need for a motivated action.
+
+negative value: punishment, fear, and aversion
+
+early studies of rodent mpfc neural activity described correlates of aversive learning (peterson, 1986), supporting even earlier studies of ca
+mpfc, e.g., (gabriel & orona, 1982). there has since been significant interest in mpfc activity related to learning and behaviors associated
+outcomes (gilmartin, balderston, & helmstetter, 2014; giustino & maren, 2015; grunfeld & likhtik, 2018; maren & quirk, 2004; rozeske
+sotres-bayon & quirk, 2010). this has
+
+ 
+
+positive value: reward and approach
+
+the mpec has also been well-characterized as a key brain region in signaling appetitive value and regulating appetitively-motivated behavic
+duncan, xu, & northoff, 2014). appetitive signals in rodent mpfc have been described since at least the 1970s. early reports demonstrated
+delivered rewards (ito & olds, 1971) and cues conditioned to predict rewards (olds, distethoft, segal, komnblith, & hirsh, 1972; pirch & pe
+interestingly, mpfc neurons responded to
+
+drugs of abuse
+
+mpfc responses during drug seeking are also diverse (moorman, james, mcglinchey, & aston-jones, 2015). early studies of cocaine an]
+ariminisjtation characterized anyicipatnry resngnses tvnically follawing a nredictive ce or leadina to.the lever nress..9s yell.acnast-cn
+delivered rewards (ito & olds, 1971) and cues conditioned to predict rewards (olds, distethoft, segal, komnblith, & hirsh, 1972; pirch & pe
+interestingly, mpfc neurons responded to
+
+drugs of abuse
+
+mpfc responses during drug seeking are also diverse (moorman, james, mcglinchey, & aston-jones, 2015). early studies of cocaine and h
+administration characterized anticipatory responses, typically following a predictive cue or leading to the lever press, as well as post-drug de
+(chang et al., 1998, chang et al., 2000; chang, sawyer, paris, kirillov, & woodward, 1997; chang, zhang, janak, & woodward, 1997; rebi
+sun & rebec, 2006). activity in
+
+comparisons of positive and negative value
+
+most studies characterize either appetitive or aversive signaling by mpfc neurons in isolation, raising the question of whether mpfc neurot
+selectivity when these outcomes are compared. in a small number of experiments, the same mpfc neurons have been recorded during prese!
+positive and negative cues and/or outcomes. during presentation of sucrose- or shock-predicting cues, rat pl neurons exhibited diverse resp\
+encoding most combinations of excitation
+
+integration of value and action
+
+not included above are numerous studies with goals beyond understanding direct relationships between mpfc neuronal activity and value. 7
+studies such as those related to cognition, action control and social behavior. reward or outcome related signals have been described in man
+e.g., (del arco et al., 2017; gruber et al., 2010), indicating that mpfc neurons encode some aspect of value, even when this is not the main :
+experiment,
+
+this highlights the point
+summary and conclusions: value, actions, both, or neither?
+
+as is clear from the extensive studies described above, neuronal activity in mpfc appears to be strongly influenced by both positive and ne
+value representations include responses to outcomes (e.g., food rewards, shocks), cues that predict outcomes, actions associated with acqt
+
+pnitramac and cambinatiane af all nf theca bacad an tha frannancy af #
+
+this highlights the point
+
+ 
+
+jr nhcarvatinne it caame lnnical ta ranchide that walna cianale
+
+summary and conclusions: value, actions, both, or neither?
+
+as is clear from the extensive studies described above, neuronal activity in mpfc appears to be strongly influenced by both positive and nes
+value representations include responses to outcomes (e.g., food rewards, shocks), cues that predict outcomes, actions associated with acquiri
+outcomes, and combinations of all of these. based on the frequency of their observations, it seems logical to conclude that value signals mak
+predominant component of mpfc
+
+[volume chapters | recommended aricies |
+
+references (131)
+
+a. adhikari et al.
+
+neuron
+
+(2010)
+a. adhikari et al.
+
+single units in the medial prefrontal cortex with anxiety-related firing patterns are preferentially influenced
+
+ 
+
+(2011)
++ e barthas et al.
+
+neuron
+
+(2011)
++ e barthas et al.
+
+secondary motor cortex: where ‘sensory’ meets 'motor' in the rodent frontal cortex
+trends in neurosciences
+
+(2017)
+v.j. brown et al.
+
+rodent models of prefrontal cortical function
+
+trends in neurosciences
+
+(2002)
+lly. chang et al.
+
+ 
+
+neuroscience
+
+(2000)
+lly. chang et al.
+
+ 
+
+neuronal responses in prefrontal cortex and nucleus accumbens duri
+
+neuroscience
+
+(2000)
+lly. chang et al.
+
+brain research
+
+(1997)
+« j. courtin etal.
+
+medial prefrontal cortex neuronal circuits in fear behavior
+neuroscience
+
+(2013)
+iw. dalley et al.
+
+prefrontal executive and cognitive functions in rodents: neural and neurochemical substrates
+neuroscience and biobehavioral reviews
+
+(2004)
+j.c. erlich et al.
+
+acortical substrate for memory-guided orienting in the rat
+
+ 
+
+neuron
+
+(2011) e
+
+j.c. erlich et al.
+
+acortic.
+
+ 
+
+substrate for memory-guided orienting in the rat
+neuron
+
+(2011)
+d.r. euston et al.
+
+the role of medial prefrontal cortex in memory and decision making
+neuron
+
+(2012)
+
+y
+
+fusi et al.
+
+ 
+
+current opinion in neurobiology
+
+(2016)
++ m. gabriel et al.
+
+parallel and serial processes of the prefrontal and cingulate cortical systems during behavioral learning
+brain research bulletin
+
+(1982)
++ mr. gilmartin et al.
+
+parallel‘and sériai procésées ot tiie pretrontal and cingulate cortical systems during behavioral learning
+brain research bulletin
+
+(1982)
++ mr. gilmartin et al.
+
+prefrontal cortical regulation of fear learning
+trends in neurosciences
+
+(2014)
++ ls. grunfeld et al.
+
+mixed selectivity encoding and action selection in the prefrontal cortex during threat assessment
+current opinion in neurobiology
+
+(2018)
++ lr. halladay et al.
+
+prefrontal regulation of punished ethanol self-administration
+biological psychiatry
+
+(2020)
++ d.j. hayes et al.
+
+neuroscience and biobehavioral reviews e
+
+(2020)
++ d.j. hayes et al.
+
+neuroscience and biobehavioral reviews
+
+(2014)
++ ca. heidbreder et al.
+
+the medial prefrontal cortex in the rat: evidence for a dorso-ventral distinction based upon functional and anatc
+characteristics
+
+neuroscience and biobehavioral reviews
+
+(2003)
++ s.r. heilbronner et al.
+
+circuit-based corticostriatal homologies between rat and primate
+biological psychiatry
+
+(2016)
++ rp. kesner et al.
+
+an analysis of rat prefrontal cortex in mediating executive function
+
+neurobiology of learning and memory
+
+(2011) e
+
++ rpkesnereral. *
+an analysis of rat prefrontal cortex in mediating executive function
+
+neurobiology of learning and memory
+
+(2011)
++ a.m. mccane et al.
+
+differential comt expression and behavioral effects of comt inhibition in male and female wistar and alcohol
+rats
+
+alcohol
+
+(2018)
++ d.e. moorman et al.
+
+differential roles of medial prefrontal subregions in the regulation of drug seeking
+
+brain research
+
+(2015)
+* ab. mulder et al.
+
+learning-related changes in response patterns of prefrontal neurons during instrumental conditioning
+behavioural brain research
+
+(2003)
++n. padilla-coreano et al.
+
+learning-related changes in response patterns of prefrontal neurons during instrumental conditioning
+behavioural brain research
+
+(2003)
++n. padilla-coreano et al.
+
+neuron
+
+(2016)
++ l.m, amarante et al.
+
+medial frontal theta is entrained to rewarded actions
+the journal of neuroscience
+
+(2017)
++ eh. baeg etal.
+
+fast spiking and regular spiking neural correlates of fear conditioning in the medial prefrontal cortex of the rat
+cerebral cortex
+
+(2001)
++ 1m. barker et al.
+
+habitual behavior is mediated by a shift in response-outcome encoding by infralimbic cortex
+eneuro e
+
+(2001)
++ 1m. barker et al.
+
+habitual behavior is mediated by a shift in response-outcome encoding by infralimbic cortex
+eneuro
+
+(2017)
++ g.b. bissonette et al.
+
+impact of appetitive and aversive outcomes on brain responses: linking the animal and human literatures
+frontiers in systems neuroscience
+
+(2014)
++s. bouret et al.
+
+reward expectation, orientation of attention and locus coeruleus-medial frontal cortex interplay during learning
+the european journal of neuroscience
+
+(2004)
++ a. burgos-robles et al.
+
+prelimbic and infralimbic neurons signal distinct aspects of appetitive instrumental behavior
+
+plos one
+
+(2013)
+* a. burgos-robles etal. e
+prelimbic and infralimbic neurons signal distinct aspects of appetitive instrumental behavior
+
+plos one
+
+(2013)
+* a. burgos-robles et al.
+
+amygdala inputs to prefrontal cortex guide behavior amid conflicting cues of reward and punishment
+nature neuroscience
+
+(2017)
+* a. burgos-robles et al.
+
+sustained conditioned responses in prelimbic prefrontal neurons are correlated with fear expression and extincti
+the journal of neuroscience
+
+(2009)
+© g. buzsaki
+
+the brain-cognitive behavior problem: a retrospective
+eneuro
+
+(2020)
++ cm. cameron et al.
+
+increased cocaine motivation is associated with degraded spatial and temporal representations in il-nac neo
+
+eneuro
+
+(2020)
++ cm. cameron et al.
+
+increased cocaine motivation is associated with degraded spatial and temporal representations in il-nac neuron
+neuron
+
+(2019)
++ b.e caracheo et al.
+
+persistent valence representations by ensembles of anterior cingulate cortex neurons
+frontiers in systems neuroscience
+
+(2018)
++ hj. cassaday et al.
+
+from attention to memory along the dorsal-ventral axis of the medial prefrontal cortex: some methodological co
+frontiers in systems neuroscience
+
+(2014)
++ ch. chang et al.
+
+single-unit activity in the medial prefrontal cortex during immediate and delayed extinction of fear in rats
+
+plos one
+
+(2010) e
+
+© c.h. chang et al.
+single-unit activity in the medial prefrontal cortex during immediate and delayed extinction of fear in rats
+plos one
+
+(2010)
++ 4.y.chang etal.
+
+comparison of mesocorticolimbic neuronal responses during cocaine and heroin self-administration in freely mo
+the journal of neuroscience
+
+(1998)
++ 4y.chang etal.
+
+single neuronal responses in medial prefrontal cortex during cocaine self-administration in freely moving rats
+
+synapse
+
+(1997)
++ pm. churchland
+
+eliminative materialism and propositional attitudes
+journal of philosophy
+
+(1981)
++ j.courtin et al.
+
+prefrontal parvalbumin interneurons shape neuronal activity to drive fear expression e
+
+journal of philosophy
+
+(1981)
++ j.courtin et al.
+
+prefrontal parvalbumin interneurons shape neuronal activity to drive fear expression
+nature
+
+(2014)
++ ka. cummings er al.
+
+prefrontal somatostatin interneurons encode fear memory
+nature neuroscience
+
+(2020)
++ r.de haan eral.
+
+neural representation of motor output, context and behavioral adaptation in rat medial prefrontal cortex during
+behavior
+
+frontiers in neural circuits
+
+(2018)
++ c. dejean et al.
+
+prefrontal neuronal assemblies temporally control fear behaviour
+nature e
+
+(2018)
++ c. dejean et al.
+
+prefrontal neuronal assemblies temporally control fear behaviour
+nature
+
+(2016)
+* a. del arco et al.
+
+unanticipated stressful and rewarding experiences engage the same prefrontal cortex and ventral tegmental area
+populations
+
+eneuro
+
+(2020)
+* a. del arco et al.
+
+adaptive encoding of outcome prediction by prefrontal cortex ensembles supports behavioral flexibility
+the journal of neuroscience
+
+(2017)
+* mm. diehl etal.
+
+active avoidance requires inhibitory signaling in the rodent prelimbic prefrontal cortex
+
+elife
+
+(2018) e
+
+« mm. diehl et al.
+active avoidance requires inhibitory signaling in the rodent prelimbic prefrontal cortex
+elife
+
+(2018)
+* cl. ebbesen et al.
+
+more than just a "motor”: recent surprises from the frontal cortex
+the journal of neuroscience
+
+(2018)
++ lp. fadok et al.
+
+a competitive inhibitory circuit for selection of active and passive fear responses
+nature
+
+(2017)
++ pj. fitzgerald et al.
+
+noradrenergic blockade stabilizes prefrontal activity and enables fear extinction under stress
+proceedings of the national academy of sciences of the united states of america
+
+(2015)
++ pl. gabbott et al.
+
+prefrontal cortex in the rat: projections to subcortical autonomic, motor, and limbic centers e
+
+proceedings of the national academy of sciences of the united states of america
+
+(2015)
++ pl. gabbott et al.
+
+prefrontal cortex in the rat: projections to subcortical autonomic, motor, and limbic centers
+
+the journal of comparative neurology
+(2005)
+
+eee
+
+cited by (4)
+
+abstraction of reward context facilitates relative reward coding in neural populations of the macaque a
+cingulate cortex 7
+
+2023, journal of neuroscience
+
+social circuits and their dysfunction in autism spectrum disorder 7
+
+2023, molecular psychiatry
+
+prelimbic and infralimbic medial prefrontal cortex neuron activity signals cocaine seeking variables across
+aa
+imesc
+
+  
+
+2023, psychopharmacology
+
+prelimbic and infralimbic medial prefrontal cortex neuron activity signals cocaine seeking variables across 1
+timescales 7
+
+2u23, molecular psychiatry
+
+2023, psychopharmacology
+
+optogenetic stimulation in the medial prefrontal cortex modulates stimulus valence from rewarding and ave
+neutral states 7
+2023, frontiers in psychiatry
+view full text
+copyright © 2021 elsevier inc. all rights reserved.
+part of volume
+
+v
+what does medial frontal cortex signal during behavior? insights from behavioral neurophysiology
+edited by
+adam t. brockett, linda m. amarante, mark laubach, matthew r. roesch
+
+ 
+
+recommended articles
+
+vv
+
+comparison of small molecules and oligonucleotides that target a toxic, non-coding rna
+
+bioorganic & medicinal chemistry letters, volume 26, issue 11, 2016, pp. 2605-2609
+matthew g. costales, ..., matthew d. disney e
+
+vv
+
+comparison of small molecules and oligonucleotides that target a toxic, non-coding rna
+
+bioorganic & medicinal chemistry letters, volume 26, issue 11, 2016, pp. 2605-2609
+‘matthew g. costales, ..., matthew d. disney
+
+ 
+
+oscillations as a window into neuronal mechanisms underlying dorsal anterior cingulate cortex function
+
+international review of neurobiology, volume 158, 2021, pp. 311-335,
+benjamin voloh, ..., jan zimmermann
+
+ 
+
+international review of neurobiology, volume 158, 2021, pp. 443-470
+jen-hau yang, alex c. kwan
+
+preface
+
+international review of neurobiology, volume 158, 2021, pp. xv-xviii
+adam t. brockett, ..., matthew r. roesch
+
+anterior cingulate cortex and adaptive control of brain and behavior
+
+international review of neurobiology, volume 158, 2021, pp. 283-309
+adam t. brockett, matthew r. roesch
+
+the midcingulate cortex and temporal integration
+
+international review of neurobiology, volume 158, 2021, pp. 395-419
+emmanuel procyk, ..., charles r.e. wilson e
+
+international review of neurobiology, volume 158, 2021, pp. 283-309
+adam t. brockett, matthew r. roesch
+
+the midcingulate cortex and temporal integration
+
+international review of neurobiology, volume 158, 2021, pp. 395-419
+emmanuel procyk, ..., charles r.e. wilson
+
+ 
+
+| show 3 more artciesy
+
+article metrics
+
+vv
+
+citations
+
+ 
+
+citation indexes:
+
+captures
+
+ 
+
+readers:
+

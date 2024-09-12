@@ -1,0 +1,1977 @@
+pnd aa moa
+ply
+
+ca sloy
+sua
+
+ke
+de et
+neco ainy
+
+mt ne cus
+iara ae
+
+dae eso}
+
+paes
+eatery
+sue aks
+
+pee aaa
+
+ey
+sed a neo
+
+net kee
+cea
+
+ 
+
+wajtr rw
+supporting information
+
+references
+
+ 
+
+‘the same field experiment was used in boudreau et al. (2017) to investigate the effect
+of search costs on collaborations in the immediate aftermath of the experiment. it did
+not include long-run knowledge production outcomes or leverage the sociometric badge
+data, described in section 3.3.
+
+2 compared to the entire harvard medical school (hms) population (n = 22,625),
+participants were more likely to be phds, had more prior publications on average and
+were more likely to be instructors, assistant or associate professors relative to the overall
+distribution at hms. these differences are consistent with the academic research setting
+of the symposium and the pilot grant funding opportunity. see table a1 for summary
+statistics between participants and the hms population.
+
+3 badges were randomly assigned to all symposium attendees. 26% of badges
+malfunctioned and did not record face-to-face interaction data; participants were not
+aware of whether they were assigned a working or faulty badge. for each symposium
+night, the sociometric badges recorded interactions for 64.4, 68.2, and 90.4% of the
+
+sbaubes were tariubtiny shen ts ant syinipwusitnn dees. zo ot baabes
+malfunctioned and did not record face-to-face interaction data; participants were not
+aware of whether they were assigned a working or faulty badge. for each symposium
+night, the sociometric badges recorded interactions for 64.4, 68.2, and 90.4% of the
+participants (table a2). we conducted balance checks on all available scientist covariates
+between the complete and observed sample and found no differences between the
+samples (table a3). as robustness, we also perform the main ols regression analyses
+for each knowledge production outcome on the full sample of participants to verify that
+the results are directionally consistent across the full sample and the observed badge
+sample.
+
+4 in the postsymposium period, each scientist has m = 172.57 (sd = 142.61) mesh
+keywords and m = 6.85 (sd = 4.28) mesh keywords per publication.
+
+5 a journal was coded as an advanced imaging if the journal title included any of the
+three technologies featured at the symposium (physiological magnetic resonance,
+positron emission tomography, and optical imaging). there were 48 unique journals for
+same room versus 169 unique journals for the different room pairs.
+
+© there were a total of 149 (same room) and 415 (different room) forward citations for
+pairs with low/moderate field overlap, respectively. a publication title was coded as
+advanced imaging if it included any of the three technologies featured at the symposium
+(physiological magnetic resonance, positron emission tomography, and optical imaging).
+
+felt -a mee lac
+
+ 
+5 discussion
+
+the ability to produce and manage knowledge is a critical source of competitive
+advantage for organizations of all types (argote, 2012; hargadon & sutton, 1997).
+yet the knowledge production process is both time-intensive and uncertain
+(maggitti, smith, & katila, 2013). to address this issue, the premise of this article is
+based on the notion that “engineering serendipity” can promote greater
+knowledge sharing and more efficient knowledge production. we systematically
+examine how the degree of field and intellectual similarity between knowledge
+sharing partners affects the likelihood that engineered encounters affects three
+knowledge production outcomes: knowledge transfer, creation, and diffusion.
+
+ 
+
+we find both cooperative and competitive effects of serendipitous knowledge
+sharing on knowledge production. on the one hand, knowledge sharing leads to
+greater knowledge transfer and creation when people share some overlapping
+research interests: knowledge sharing partners are more likely to transfer and
+
+mash lavainrde fram qne annthar whan thay alraary have coma
+
+sharing on knowledge production. on the one hand, knowledge sharing leads to
+greater knowledge transfer and creation when people share some overlapping
+research interests: knowledge sharing partners are more likely to transfer and
+acquire mesh keywords from one another when they already have some
+intellectual overlap and more likely to copublish when they share field overlap,
+with field similarity being more critical to collaborations in the near-term than
+over longer horizons. on the other hand, knowledge sharing appears to have little
+benefit for pairs with low knowledge similarity and reduces knowledge diffusion
+between people from the same field: we observe that pairs from the same field
+are less likely to cite each other after interacting.
+
+ 
+
+these findings make a number of contributions to the literature. first, we
+contribute to the literature on search costs and information frictions associated
+with knowledge production (agrawal & goldfarb, 2008; boudreau et al., 2017;
+catalini, 2018; hansen, 1999; szulanski, 1996), by focusing on the extent that
+“engineered serendipity” can mitigate some of these barriers. engineered,
+serendipitous encounters differ from traditional knowledge production
+mechanisms because they give people a common time and space to meet,
+thereby removing some of the search costs associated with finding suitable
+knowledge sharing partners. our work suggests that engineered serendipity
+creates opportunities for synergistic collaborations over the long-run that have
+the potential to broaden collaboration networks and reshape research
+trajectories. consistent with the information frictions explanation, knowledge
+
+creates opportunities for synergistic collaborations over the long-run that have
+the potential to broaden collaboration networks and reshape research
+trajectories. consistent with the information frictions explanation, knowledge
+overlap is a greater constraint on near-term than long-term knowledge creation.
+knowledge similarity can be a catalyzing force for near-term research activities
+because there are fewer start-up costs and uncertainties associated with initiating
+collaborations with similar others, such as people working in the same field. in
+boudreau et al. (2017), we found that the knowledge sharing intervention's effect
+on grant coapplications was most beneficial for pairs from the same field. this
+suggests that in the short-term, opportunity and discretion remain important
+factors driving knowledge production (dahlander & mcfarland, 2013). we expand
+on these findings to show that while field overlap remains a difficult hurdle to
+overcome in the near-term, over time, scientists place smaller premiums on
+knowledge similarity, instead emphasizing synergistic collaborations where
+partners have both common knowledge and divergent expertise. this shift may
+be due to the time and repeated interactions needed to develop an initial
+encounter into a multiplex relationship (ingram & mortis, 2007; uzzi, 1997), or the
+evolving expectations from collaborators as projects move from exploratory
+research to joint execution of research ideas. they also suggest that homophilous
+collaborations (dahlander & mcfarland, 2013) can be attributed in part to search
+costs and information costs.
+
+ 
+
+ 
+
+ 
+
+second, this study advances understanding of how opportunities for temporary
+collavorauons (wariariuer ec wicrar lati, zu 15) call de alt iduleu itt part ww sear cit
+costs and information costs.
+
+second, this study advances understanding of how opportunities for temporary
+colocation, offered by conferences, symposia and similar events potentially
+impact the direction and quality of scientific knowledge production. although
+prior research suggests that temporary colocation is critical to knowledge
+production (campos et al., 2018; catalini, 2018; catalini et al., 2020; chai &
+freeman, 2019), it has typically inferred face-to-face interaction from
+observational data, rather than actual acts of knowledge sharing. we suggest that
+one attractive aspect of conferences over informal serendipitous encounters (e.g.
+in hallways, watercoolers) is that they have a focusing effect on the topic of
+knowledge sharing and idea exchange. this may be why even brief, highly
+structured, information-rich interventions can have long-term consequences on
+knowledge production, most notably by promoting research activities on the
+conference's topics of inquiry. it is important to note that the effects of these
+events go beyond monetary incentives, which may be an early catalyst to attract
+participants but the effects are more widespread and longer lasting.
+
+ 
+
+ 
+
+third, we make empirical and methodological contributions by designing a
+prospective study that amalgamates multiple sources and uses of data, namely a
+natural field experiment, direct observations of face-to-face communications and
+archival publication data to study long-run knowledge production outcomes. this
+careful combination of data sources enables us to investigate the causal
+
+prospocescowuay tier arta gurriancrtnanproacurees are amcote racer
+natural field experiment, direct observations of face-to-face communications and
+archival publication data to study long-run knowledge production outcomes. this
+careful combination of data sources enables us to investigate the causal
+relationships between knowledge sharing and knowledge production over
+different time horizons, which are not possible with archival data (fleming et al.,
+2007). given the rise in field experiments in innovation research (chatterji,
+delecourt, hasan, & koning, 2019), research designs that at the outset plan for
+short- and long-term time horizons may yield deeper insights that can help to
+offset the costs associated with multiple forms of data collection. in addition, our
+research design can be used as a template for future experiments with multiterm
+horizons, in terms of learning from its features and its potential shortcomings.
+
+ 
+
+tst
+
+in this research, we have made a thorough effort to analyze how knowledge
+sharing leads to knowledge production in science. however, our study has some
+empirical limitations. first, our study focused on an interdisciplinary setting in a
+large, highly selective university. therefore, it may be interpreted as a best-case
+scenario in fostering knowledge production, as we must draw a boundary around
+the network and incentives under consideration. the symposium was highly
+structured to facilitate knowledge sharing, while knowledge production is a core
+activity for academics. second, the geographic proximity of scientists may have
+facilitated scheduled or serendipitous encounters with greater ease (catalit
+2018). third, our focus on the life sciences also draws upon a specific population,
+
+where intragroup competition is normative (haas & park. 2010). in part due to the
+activity tor academics. sécona, the geograpnic proximity or scientists may nave
+
+facilitated scheduled or serendipitous encounters with greater ease (catalit
+2018). third, our focus on the life sciences also draws upon a specific population,
+where intragroup competition is normative (haas & park, 2010), in part due to the
+“winner-takes-all” model of rewards and recognition (stephan, 1996). we
+recognize that other settings may feature greater geographic dispersion or
+promote more openness and cooperation; a promising future direction would be
+to extend this research to different settings.
+
+  
+
+  
+
+ 
+
+we also focused most heavily on archival data (e.g., public trace data from
+publications) to examine long-term knowledge production outcomes, which
+provided greater insights into the scientists’ behaviors rather than the reasons
+behind the observed patterns. although we made efforts to qualify these findings
+by examining the content of the knowledge transfer, publications, and citations,
+future research can seek to supplement archival data with alternative methods
+(eg., surveys, interviews) that continue to track the scientists’ interaction
+patterns, as well as the invisible track of “failed” knowledge production. such
+complementary data sources will ultimately provide deeper insights on how
+engineered serendipitous encounters between people can be cultivated into
+productive relationships over time. this future work would facilitate a deeper
+performative assessment of how knowledge sharing can be “serendipitously
+engineered’ to shape the quality of knowledge outcomes.
+
+overall, this study takes a critical step towards identifying the processes that
+performative assessment of how knowledge sharing can be “serendipitously
+
+engineered’ to shape the quality of knowledge outcomes.
+
+overall, this study takes a critical step towards identifying the processes that
+explain when serendipitous encounters shape knowledge production outcomes
+among innovating individuals. we show that brief, information-rich interactions
+between people with some overlapping knowledge interests can have a
+productive effect on knowledge transfer, creation and diffusion.
+
+acknowledgements
+
+this work was conducted with support from harvard catalyst/the harvard
+clinical and translational science center (national center for advancing
+translational sciences, national institutes of health awards ul1troo1102,
+ul1troo0170, ul1rro25758-02s4, and ul1tr002541), laboratory for innovation
+science at harvard university, harvard business school division of research and
+faculty development, and financial contributions from harvard university and its
+affiliated academic health care centers. the authors also acknowledge harvard
+catalyst infrastructure for support and cooperation in implementing the
+experiment and providing new data for this analysis. the authors are thankful to
+charles ayoubi, ethan bernstein, linus dahlander, giada di stefano, adam
+kleinbaum, rory mcdonald, siobhan o'mahony, ryan raffaelli, misha teplitskiy,
+and the review team at sm] for comments on earlier drafts. the authors would
+
+ 
+
+charles ayoubi, ethan bernstein, linus dahlander, giada di stefano, adam
+kleinbaum, rory mcdonald, siobhan o'mahony, ryan raffaelli, misha teplitskiy,
+and the review team at sm] for comments on earlier drafts. the authors would
+also like to thank ruihan wang for help with data collection.
+hypotheses (h3a) and (h3b) predict that knowledge sharing partners are less
+likely to diffuse knowledge as their field and intellectual similarity increase,
+respectively. models 3 and 4 show that increasing field similarity reduced
+knowledge diffusion among same room pairs (low: 0.366, p = .024; moderate:
+1.003, p = .098) and communicating pairs (low: 2.823, p = .033; moderate: 6.603, p
+.050). models 5 and 6 show that there is no evidence that high intellectual
+similarity lowered knowledge diffusion among same room (low: -0.0487, p = .739;
+moderate: -0.003, p = .986) or communicating pairs (low: -0.426, p = .712;
+moderate: -0.091, p = .936). the results are consistent in models 7 and 8, which
+include both knowledge similarity interaction terms.
+
+ 
+
+ 
+
+figure 3c plots the change in knowledge diffusion (forward citations) between
+moderate: -0.091, p = .936). the results are consistent in models 7 and 8, which
+
+include both knowledge similarity interaction terms.
+
+figure 3c plots the change in knowledge diffusion (forward citations) between
+communicating and noncommunicating pairs from model 4, with 95% cls. we
+observe that while communication did alter forward citation trends for pairs with
+low field overlap, and led to a small increase of 3.521 [-1.465, 8.508] citations for
+pairs with moderate field overlap, we observe a large decrease from 0.874 [0.347,
+1.402] to -2.207 [-4.326, -0.088] for same field pairs, corresponding to a
+reduction of about 3.082 citations per pair.
+
+to generate greater insight into the types of publications being cited among the
+low and moderate field overlap pairs, we compared the publication titles of cited
+papers for pairs assigned to the same versus different rooms. we observe that
+the same room pairs were more likely to cite papers using advanced imaging
+technologies (e.g., sample paper titles included: “massively parallel mri detector
+arrays”; “an fmri study of facial emotion processing patients with schizophrenia’).
+overall, there was a greater use of advanced imaging technologies in the
+publication titles of same room pairs: 42.6% for same room pairs versus 31.3%
+for different room pairs (t= 2.406, p =.017). ° this suggests that the knowledge
+sharing intervention enabled pairs from different fields to learn about “outside”
+work, which they subsequently integrated into their own future research. in
+contrast, the knowledge sharing intervention may have led to a crowding out
+
+effact amana hiahly cimilar naire in cimmany saa find avidanca far camnatitiva
+
+sharing intervention enabled pairs from different fields to learn about “outside”
+work, which they subsequently integrated into their own future research. in
+contrast, the knowledge sharing intervention may have led to a crowding out
+effect among highly similar pairs. in summary, we find evidence for competitive
+effects of field similarity on knowledge diffusion, which confirms hypothesis
+(h3a).
+‘note: multiway, robust ses in parentheses. significance stars (*) are omitted.
+2.823
+(1.324)
+0.00251
+(0.145)
+0.00251
+(0.145)
+0.0487
+(0.146)
+1.003
+(0.605)
+0.391
+(1.115)
+ 
+
+f2f
+communication
+
+same room x
+low field
+similarity
+
+same room x
+moderate field
+similarity
+
+same room x
+low intellectual
+similarity
+
+same room x
+low intellectual
+similarity
+
+same room x
+low intellectual
+similarity
+
+f2f x low field
+similarity
+0.0540
+(0.150)
+0.0687
+(0.0710)
+
+0.537
+(0.551)
+
+0.399
+(0.165)
+3.082
+(1.331)
+0.366
+
+(0.162)
+same room
+variables
+hypotheses (h2a) and (h2b) predict that field and intellectual similarity have an
+inverted u-shaped effect on the relationship between knowledge sharing and
+knowledge creation, respectively, while hypotheses (h2c) and (h2d) predict that
+
+knowledge sharing partners who start an elemental collaboration are more likelv
+ypotneses (ha) and (h2b) predict tnat rela ana intellectual similarity nave an
+
+inverted u-shaped effect on the relationship between knowledge sharing and
+knowledge creation, respectively, while hypotheses (h2c) and (h2d) predict that
+knowledge sharing partners who start an elemental collaboration are more likely
+to copublish when they share greater field and intellectual overlap, respectively.
+models 3 and 4 show that compared to same field pairs, moderate field similarity
+has a strong positive relationship with knowledge creation among same room
+pairs (0.329, p = .047) and communicating pairs (2.159, p = .036). there is also a
+smaller, positive association between low field similarity and knowledge creation
+among same room pairs (0.133, p = .092) and communicating pairs (1.040, p =
+-101). turning to intellectual similarity, models 5 and 6 show there is no
+meaningful association between moderate intellectual similarity and knowledge
+creation among same room pairs (0.0409, p = .257) and communicating pairs
+(0.333, p= .234). the results are consistent in models 7 and 8, which includes both
+interaction terms.
+
+ 
+
+figure 3b plots the change in copublications between communicating and
+noncommunicating pairs and field similarity, with 95% cls from model 3, and
+illustrates the estimated inverted u-shaped relationship. we observe that while
+communication did not meaningfully benefit pairs with low field overlap,
+communication led to an increase of 1.174 [-0.207, 2.556] copublications among
+pairs with moderate field overlap, and -0.984 [-1.731, -0.237] fewer
+copublications among pairs with high field overlap. the patterns suggest that
+
+iatinn radvicad tha earech cacte
+
+cation led to an increase of 1.174 [-0.207, 2.556] copublications among
+pairs with moderate field overlap, and -0.984 [-1.731, -0.237] fewer
+copublications among pairs with high field overlap. the patterns suggest that
+communication reduced the search costs of identifying synergistic collaborations
+with scientists sharing some field interests, resulting in a reallocation of resources
+away from pairs with high field overlap.
+
+ 
+
+i eumaraictic callsharatinne
+
+ 
+
+we also examined the extent that the knowledge sharing intervention impacted
+the scientists’ overall research portfolios. turning to the scientists’
+postsymposium publications, each scientist had an average of m = 32.394 (sd =
+35.412) peer-reviewed research articles; the increase of 1.174 publications among
+pairs with moderate field overlap corresponds to about 7% of a scientist's,
+publications, which is of considerable magnitude from a 90 min intervention.
+turning to changes in research direction, we also note that same room pairs were
+more likely to publish in advanced imaging journals (e.g., magnetic resonance in
+medicine, nmr in biomedicine): 21% for same room versus 6% for different room
+pairs (t= 2.302, p =.0249). ° this suggests that the knowledge sharing treatment
+not only reduced search costs of finding collaborators but also potentially
+reshaped the pairs’ research trajectories.
+
+ 
+
+turning to hypothesis (h2c), model 9 shows that controlling for grant awardee,
+grant coapplicants are more likely to copublish when they are from the same field
+(low: -2.427, p = .189; moderate: 3.303, p = .042). finally, turning to h2d, model
+
+10 inglicates that intellactial cimilarity ic not a meaningful nredictar nf alamantal
+turning to hypothesis (h2c), model 9 shows that controlling for grant awardee,
+
+grant coapplicants are more likely to copublish when they are from the same field
+(low: -2.427, p = .189; moderate: 3.303, p = .042). finally, turning to h2d, model
+10 indicates that intellectual similarity is not a meaningful predictor of elemental
+tie persistence (low: -0.639, p =.759; moderate: -1.083, p = .465). the results
+remain consistent in model 11, which includes both interaction terms. this
+suggests that although strong field overlap is a catalyzing force for initiating early-
+stage collaborations, these requirements may dissipate over the long-run as
+these ties persist into copublications. thus, our results show support for
+hypotheses (h2a) and (h2c).
+
+ 
+
+ 
+
+ 
+
+4.3 knowledge diffusion
+
+we present the ols and iv knowledge diffusion regression results in table 5. the
+dependent variable is the number of forward citations between scientist-pair {i}.
+models 1 and 2 present the baseline models with main effects only; models 3 and
+4 add the field similarity interaction terms; models 5 and 6 add the intellectual
+similarity interaction terms; models 7 and 8 show the full results with both
+interaction terms.
+
+table 5. regression models of knowledge diffusion—# of forward citations
+between scientist-pair {i,j}; n = 15,817
+
+2.| models | model4 | models | models |
+lowielige eiitusioreew ur ware chations
+
+5,817
+
+1 | moa
+juels ut
+
+  
+
+variables mode
+table 9. rey! essiuitt
+
+between scientist-pair {i,j};
+
+     
+
+ 
+
+variables model1 | model2 | model3 | model4 | model5 | model 6
+ols vv ols vv ols vv
+‘note: multiway robust ses in parentheses. significance stars (*) are omitted.
+1.040
+(0.634)
+
+2150
+0.0409
+(0.0361)
+0.0306
+(0.0378)
+ 
+
+4
+
+f2f
+communication
+
+same room x
+low field sim.
+
+same room x
+mod. field sim.
+low field sim.
+
+same room x
+mod. field sim.
+
+same room x
+low intellectual
+sim.
+
+same room x
+mod.
+intellectual
+sim.
+
+f2f x low field
+sim.
+
+f2exmod field
+0.00683
+(0.0144)
+
+0.0535
+(0.111)
+
+0.127
+(0.0769)
+
+0.0294
+(0.0360)
+
+0.984
+(0.616)
+
+0.221
+(0.268)
+
+0.133
+(0.0788)
+
+0.329
+(0.165)
+(0.0788)
+
+0.329
+(0.165)
+same room
+ 
+
+ 
+
+model 1
+ols
+
+ 
+
+model 2
+
+ 
+
+model 3
+ols
+
+ 
+
+model 4
+
+ 
+
+model 5
+ols
+
+ 
+
+model 6
+
+ 
+
+ 
+4.2 knowledge creation
+
+we present the ols and iv knowledge creation regression results in table 4. the
+dependent variable is the number of copublications between scientist-pair {i}.
+models 1 and 2 present the baseline models with main effects only; models 3 and
+4 add the field similarity interaction terms; models 5 and 6 add the intellectual
+
+similarity interaction terms; models 7 and 8 show the full results with both
+gepengent variable is une tiumber of copudiicalons dewweer! scienust-pall i}.
+
+models 1 and 2 present the baseline models with main effects only; models 3 and
+4 add the field similarity interaction terms; models 5 and 6 add the intellectual
+similarity interaction terms; models 7 and 8 show the full results with both
+
+jodel 9-11 adds grant coapplicant, followed by the field and
+intellectual similarity interaction terms, as well as both interaction terms, and
+controls for grant awardee.
+
+ 
+
+ 
+
+table 4. regression models of knowledge creation—# of copublications between
+scientist-pair {i,j}; n = 15,817
+
+variables model 1
+
+ 
+
+model 2 model 3
+
+ 
+
+model 4 model 5
+
+ 
+
+model 6
+figure 3 open in figure viewer | ¥powerpoint
+
+change in (a) knowledge transfer, (b) knowledge creation, and (c) knowledge diffusion and
+
+knowledge similarity for communicating and noncommunicating pairs
+ 
+hypotheses (h1a) and (h11b) suggest that field and intellectual similarity have an
+inverted u-shaped effect on the relationship between knowledge sharing and
+knowledge transfer, respectively. models 3 and 4 indicate that there is no
+meaningful association between moderate field similarity and knowledge transfer
+among same room pairs (0.712, p = .132) and communicating pairs (4.088, p =
+-197). models 5 and 6 show that compared to pairs with high intellectual overlap,
+scientists with moderate intellectual similarity transferred a higher percentage of
+mesh keywords for both same room pairs (0.362, p = .042) and communicating
+pairs (3.348, p = .032), respectively. these results are consistent in models 7 and
+8, which include both interaction terms.
+
+ 
+
+ 
+
+figure 3a shows the change in knowledge transfer among communicating versus
+noncommunicating pairs and intellectual similarity from model 4, with 95% cls,
+and illustrates the inverted u-shaped relationship. while communication did not
+meaningfully impact knowledge transfer among pairs with low field overlap, it led
+to an increase of 3.581% among pairs with moderate intellectual overlap from
+4.085% [3.795%, 4.376%] to 7.666% [4.995%, 10.338%] percent, a nearly twofold
+increase, compared to a 0.233% [-1.239%, 1.705%] increase for high intellectual
+overlap pairs. the percentage increase among moderately overlapping pairs
+corresponds to about six new mesh keywords per scientist, roughly equivalent to
+
+ser o lt eoe py ont wooo duet sue pt cchngt eti cnis
+increase, compared to a 0.233% [-1.239%, 1.705%] increase for high intellectual
+overlap pairs. the percentage increase among moderately overlapping pairs
+corresponds to about six new mesh keywords per scientist, roughly equivalent to
+the average number of mesh keywords in one publication. * this result supports
+hypothesis (h1b) by showing cooperative effects of knowledge transfer for pairs
+with moderate intellectual similarity.
+
+ 
+‘note: multiway, robust ses in parentheses. significance stars (*) are omitted.
+‘note: multiway, robust ses in parentheses. significance stars (*) are omitted.
+0.621
+0.361
+(0.177
+0.362
+(0.177)
+0.17"
+(0.218
+0.175
+(0.218)
+0.681
+(0.468
+0.712
+(0.471)
+ 
+
+f2f
+communication
+
+same room x
+f2f
+communication
+
+same room x
+low field
+similarity
+
+same room x
+moderate field
+similarity
+
+same room x
+low intellectual
+similarity
+
+same room x
+moderate
+intellectual
+similarity
+
+f2f x low field
+0.107
+(0.0979)
+
+0.838
+(0.763)
+
+0.838
+(0.763)
+
+0.0344
+(0.144)
+
+0.0707
+
+0.0707
+(0.150)
+
+0.214
+(1.108)
+
+0.214
+(1.108)
+
+0.0336
+(0.138)
+
+0.233
+(1.025)
+
+0.233
+(1.025)
+
+0.03;
+(0.172
+
+0.0686
+
+0.068
+(0.150
+same room
+variables
+next, we present our main regression results in subsections, beginning with
+knowledge transfer, then creation, and finally, diffusion. we note that the f-
+statistics for the iv regressions are all above the threshold of 10 for strong
+instruments (table a5, supporting information), and that our results are robust to
+the inclusion of all scientist-pair covariates (table a6, supporting information) and
+the reduced form (ols) models for the full sample of participants (tables a7-a9,
+supporting information).
+
+4.1 knowledge transfer results
+supporting information).
+
+4.1 knowledge transfer results
+
+we present the ols and iv regression knowledge transfer results in table 3. the
+dependent variable is the percentage of scientist-pair {i's mesh postsymposium
+keywords that were transferred between i and j, with 0% being no transfer, and
+100% being complete transfer. models 1 and 2 present the baseline models with
+main effects only; models 3 and 4 add the field similarity interaction terms;
+models 5 and 6 add the intellectual similarity interaction terms; and models 7 and
+8 show the full results with both interaction terms.
+
+table 3. regression models of knowledge transfer—% of mesh keywords
+transferred between scientist-pair {i,j}; n= 15,817
+
+variables model1 | model | model | model | model | model | model
+ols 2 30ls | 41v sols | 6iv ols
+figure 2 open in figure viewer | ¥powerpoint
+
+yearly trend in copublication (left) and forward citation (right) rates between same room
+
+(treatment) and different room (control) pairs with 95% cis,
+ 
+figure 2 shows the yearly trend in copublication (left) and forward citation (right)
+rates between different room (n = 11,611) and same room (n = 4,206) pairs by
+year, in the 6 years to and since the symposium, with 95% cls. the plots show
+that there were no differences between the same room and different room pairs
+before the knowledge sharing intervention. after the intervention, we observe an
+
+ 
+
+year, in the 6 years to and since the symposium, with 95% cis. the plots show
+that there were no differences between the same room and different room pairs
+before the knowledge sharing intervention. after the intervention, we observe an
+increase in copublication and citation rates for the same room pairs.
+
+ 
+
+   
+|
+
+‘note: intellectual and field similarity are categorical variables with the following distributions: intellectual
+(low: 32.4%, moderate: 32.7%, high: 35.0%) and field (low: 85.5, 1.9, and 12.6%).
+0.002 0.044 0.004 0.097 0.027
+0.002 0.044 0.004 0.097 0.027
+ 
+
+mesh keyword
+transfer
+
+copublications
+
+forward
+citations
+
+grant
+coapplicant
+
+grant
+coapplicant
+
+same room
+
+f2f
+communication
+
+intellectual
+similarity
+
+field similarity
+
+3.693
+
+0.031
+
+0.265
+
+0.002
+
+0.002
+
+0.266
+
+0.078
+
+1.076
+
+0.272
+
+3.709
+
+1.004
+
+2.497
+
+0.044
+
+0.044
+
+0.442
+
+0.268
+
+0.810
+
+0.673
+
+0.010
+
+0.019
+
+0.004
+
+0.004
+
+0.024
+
+0.003
+
+0.005
+
+0.437
+
+0.479
+
+0.097
+
+0.097
+
+0.004
+
+0.047
+
+0.037
+
+0.029
+
+0.027
+
+0.027
+
+-0.001 0.006
+
+0.039 0.067 :0.198
+
+0.043 0.037 -0.002
+
+0.074 0.017 -0.008
+
+ 
+ 
+
+variable
+
+ 
+
+ 
+4 results
+
+in this section, we begin by presenting descriptives of the main variables. table 2
+presents the means, standard deviations, and correlations of the main variables.
+we also note that the summary statistics of the covariates for same room versus
+different room pairs indicate that the randomization achieved balance across
+covariates (see table a4, supporting information).
+
+table 2. correlation between main variables (n = 15,817)
+4 rfsiii
+
+canleron, gewadh, anu winer zur ana imnprerrented tor state ir cus_riway-auu
+
+(kleinbaum et al., 2013).
+shortly after the symposia, all participants received an e-mail invitation to submit
+applications for the pilot grants or concept awards by the deadline of march 8,
+2012. at this time, they also received pdf booklets with the contact information
+and posters of all participants so that all researchers had identical information
+apart from the knowledge acquired in the breakout rooms.
+
+3.3 data collection and variables
+
+we tested our hypotheses using data from a variety of resources from the
+advanced imaging symposium and the 6 years of publication records from 2013
+to 2018 on the attendees. in the analyses, we did not include the year 2012 to.
+remove potential research topics or ideas that were in progress prior to the
+symposium. we used data from the scientists’ registration form for the
+symposium, which contained information about their institution, department,
+
+remove potential research topics or ideas that were in progress prior to the
+symposium. we used data from the scientists’ registration form for the
+symposium, which contained information about their institution, department,
+academic position, self-identity as an imager or clinician, and statements of
+interest. the sociometric badges automatically recorded their face-to-face
+encounters when two badges were facing each other with a direct line of sight
+within a 30° cone of 1 m. we verified that all recorded interactions were within 10
+m using bluetooth proximity data (kim et al., 2012) and required that two badges
+be in contact with each other over a span of at least 1 min (ingram & mortis,
+2007). we collected face-to-face interaction data for 306 (74%) scientists who
+attended the symposium, and the subsequent analyses are based on these
+scientists. * after the symposium, we collected information on the coapplicants
+and the awardees of the advanced imaging grants and used the scopus database
+to collect scientists’ publication records.
+
+3.3.1 dependent variables
+
+knowledge transfer
+
+we base our knowledge transfer measure on the mesh lexicon. in the life
+sciences, the u.s. national library of medicine (nlm) uses a controlled mesh
+taxonomy of keywords to index biomedical and health-related information for
+articles appearing in medline/pubmed, the nlm catalog, and other nlm
+databases. each article is associated with a set of mesh keywords that describe
+
+taxonomy of keywords to index biomedical and health-related information for
+articles appearing in medline/pubmed, the nlm catalog, and other nlm
+databases. each article is associated with a set of mesh keywords that describe
+the content of the citation. mesh keywords are assigned by professional science
+librarians and computer algorithms to ensure global and consistent assignment
+of keywords across the life sciences (coletti & bleich, 2001). we extracted the
+unique mesh keywords associated with each scientist's publications to create two
+vectors of mesh keywords: the first with all mesh keywords prior to the advanced
+imaging symposium (i.e., pre-2012), and the second with all mesh keywords after
+the symposium (i.e., 2013-2018). for each scientist-pair {i}, we then counted the
+number of mesh terms that j transferred to /and the number of mesh terms that
+transferred to j by taking the intersection of mesh keywords between /'s pre-
+2012 vector and j's post-2012 vector and between j's pre-2012 vector and /’s post-
+2012 vector, excluding any mesh terms that were common to both i and jin their
+pre-2012 mesh vectors. our resulting knowledge transfer measure, mesh
+keyword transfer is the count of “transferred” mesh keywords between pair {i,),
+normalized by the total number of mesh keywords in scientists / and j's post-2012
+mesh vectors, expressed as a percentage. the resulting measure ranges from 0
+to 100% to and is interpreted as the percentage of postsymposium mesh
+keywords that were transferred between scientist-pair {i}, with 0% representing
+no transferred mesh keywords and 100% representing complete transfer.
+
+ 
+
+knowledge creation
+keywords that were transterred between scientist-pair {i}, with 0% representing
+no transferred mesh keywords and 100% representing complete transfer.
+
+knowledge creation
+
+we measure knowledge creation as the postsymposium (2013-2018) count of
+copublications between scientist-pair {i,} in peer-reviewed journals, conference
+proceedings, and book chapters.
+
+knowledge diffusion
+
+we measure knowledge diffusion as the postsymposium (2013-2018) count of
+noncoauthored forward citations between scientist-pair {i,} in peer-reviewed
+journals, conference proceedings, and book chapters.
+
+3.3.2 independent variables
+
+knowledge sharing
+
+we use two alternative variables to capture knowledge sharing. first, we use the
+dummy variable, same room, to measure whether scientist-pair {i, j} was
+randomly assigned to the same room (treatment pairs) or different breakout
+rooms (control pairs). second, we use the dummy variable, f2f (face-to-face)
+communication to measure whether scientist-pair {i, j} engaged in least 1 min of
+interaction, recorded using sociometric badges.
+
+ 
+
+   
+
+communication to measure whether scientist-pair {i, j} engaged in least 1 min of
+interaction, recorded using sociometric badges.
+
+ 
+
+knowledge similarity
+
+knowledge similarity is comprised of field and intellectual similarity. we measure
+field similarity using clinical areas (third-party coded from the scientists’
+statements of interest), which pertain to the primary area of responsibility for
+“bedside” patient care. there were a total of 24 unique clinical areas (e.g.,
+oncology, neurology, immunology), and some statements of interests (4.24%)
+spanned two clinical areas, such as neurology/endocrinology. we then use a
+categorical variable to indicate whether scientist-pair {/, j} shared low, moderate or
+high field similarity depending on whether their clinical areas shared no (85.5%),
+partial (1.9%), or complete (12.6%) overlap, respectively.
+
+we measure intellectual similarity using the count of common mesh keywords
+shared by scientist-pair {i, } prior to 2012 and dichotomize the distribution into
+three equal-sized groups, to indicate whether scientist-pair {i, } had low,
+moderate, or a high number of common mesh keywords prior to the 2012
+symposium. low intellectual similarity corresponds to 0-2 common keywords,
+moderate intellectual similarity corresponds to 3-11 common keywords, and high
+intellectual similarity corresponds to more than 11 common keywords.
+
+elemental collaboration
+moderate intellectual similarity corresponds to 3-11 common keywords, and high
+intellectual similarity corresponds to more than 11 common keywords.
+
+elemental collaboration
+
+we use grant coapplicant to measure an elemental collaboration, which captured
+whether scientist-pair {i, } coapplied on the grant following the symposium.
+
+3.3.3 other variables
+
+the analysis strategy relies most critically on the research design's randomization.
+we use dummy variables for each symposium night and room (i.e., fixed effects)
+to control for unobserved night and room characteristics. to test hypotheses
+(h2c) and (h2d), we use the dummy variable, grant awardee to capture whether
+scientist-pair {i} included a grant recipient. among the 306 scientists, 13 pilot
+grant proposals were awarded funding, comprising 6.54% of pairs with grant
+awardees.
+
+3.4 estimation approach
+
+we wish to estimate the effects of field and intellectual similarity between
+knowledge sharing partners on knowledge production outcomes. the unit of
+analysis is the scientist-pair(i,}, and pairs are considered to be “at risk” if they
+attended the same night of the symposium—a total of 15,817 pairs. first, we
+analyze the effect of being in the same (treatment) versus different (control)
+
+  
+
+analysis is the scientist-pair(i,}, and pairs are considered to be “at risk” if they
+attended the same night of the symposium—a total of 15,817 pairs. first, we
+analyze the effect of being in the same (treatment) versus different (control)
+breakout rooms on knowledge production outcomes using ordinary least squares
+(ols) regression. we then interact same room with field similarity, and same room
+with intellectual similarity to examine knowledge similarity effects. second, we
+analyze the effect of face-to-face communication on knowledge production
+outcomes using instrumental variable (iv) regression. we use an iv approach to
+account for the common endogeneity issue in pairwise interaction data. we
+exploit exogenous variation in the likelihood of interaction between scientists
+who are assigned to the same versus different breakout rooms by using same
+room as an instrument for f2f communication in the first stage, and the estimates
+for f2f communication in the second stage. we then interact f2f communication
+with field similarity, and f2f communication with intellectual similarity to examine
+knowledge similarity effects.
+
+ 
+
+ 
+
+we address the nonindependence, common-person problem of dyadic
+regressions by estimating robust ses that are simultaneously clustered on both
+members of the dyad, using multiway clustering, developed theoretically by
+cameron, gelbach, and miller (2011) and implemented for stata in clus_nway.ado
+(kleinbaum et al., 2013).
+figure 1 open in figure viewer | ¥powerpoint
+
+randomization of participants by night, room, group, and poster location
+ 
+le2details are in the caption following the image
+
+ 
+2.2 two knowledge bases of similarity: field specialty and
+intellectual specialty
+
+field specialties are developed through an individual's educational background,
+skills and training (bechky, 2011; bourdieu, 1984; haas & park, 2010). in
+biomedical research, which is our focal context of study, there are multiple
+
+ical field ties, such as neurol diol logy that f
+
+or ee
+
+skills and training (bechky, 2011; bourdieu, 1984; haas & park, 2010). in
+biomedical research, which is our focal context of study, there are multiple
+medical field specialties, such as neurology, radiology or oncology that focus on
+investigations of the biological process and the causes of specific diseases.
+organizations often structure their departmental and divisional memberships
+around field specialties (biancani et al., 2014). in universities and academia, this
+means that field specialties are often the primary channels through which
+resources, such as salaries, funding, tenure, offices and laboratory space, are
+apportioned to faculty (biancani, dahlander, mcfarland, & smith, 2018). for these
+reasons, field specialties provide professional reference groups (haas & park,
+2010) for members to identify appropriate behavior, rigor of scholarship, career
+goals and aspirations (abbott, 2001). in contrast, intellectual specialties are closely
+aligned to personal interests and passions that evolve over time. individuals can
+have memberships in multiple intellectual specialties depending on their current
+pursuits and priorities (caza et al., 2018). for example, in biomedical research,
+intellectual specialties include research topics such as aging, addictions,
+alzheimer's disease, brain injury, sleep, and stem cells; each of these intellectual
+specialties is associated with memberships in professional reference groups
+(haas & park, 2010) for people motivated by common problems, methods, trends,
+and processes. these intellectual interests can be specific to a field's research
+topics, such as alzheimer's disease, which is typically studied by neurologists, or
+span different fields, such as stem cell research.
+
+       
+   
+
+            
+
+ 
+
+and processes. these intellectual interests can be specific to a field's research
+topics, such as alzheimer's disease, which is typically studied by neurologists, or
+span different fields, such as stem cell research.
+
+in short, field and intellectual specialties shape people's identities, language,
+tastes and affiliations through professional memberships (haas & park, 2010).
+individuals will likely adopt multiple professional identities depending on their
+field and intellectual memberships: this means that people from different field
+specialties can share overlapping intellectual interests, while individuals from the
+same field specialty can have divergent intellectual interests, because field and
+intellectual interests are two distinct dimensions of individuals’ knowledge
+constructs.
+
+in distinguishing how field and intellectual overlap shape knowledge production,
+knowledge similarity describes the distance between the field specialties and
+intellectual specialties of two knowledge sharing partners. individuals are more
+likely to recognize and absorb new ideas when they already have some existing
+expertise and find it more difficult when the ideas are outside their realm of
+expertise (carlile, 2004; cohen & levinthal, 1990). put differently, even though
+distant knowledge tends to be novel and valuable (jeppesen & lakhani, 2010;
+leahey et al., 2017), people are more likely to experience challenges
+communicating with one another, and may not recognize the value of external
+information (cohen & levinthal, 1990; grant, 1996). for example, two
+
+nanraladicte ara lace likaly ta avnarianra rhallanaac cammunicatina
+
+leahey et al., 2017), people are more likely to experience challenges
+communicating with one another, and may not recognize the value of external
+information (cohen & levinthal, 1990; grant, 1996). for example, two
+neurologists are less likely to experience challenges communicating with each
+other than a neurologist and oncologist pair because they share more similar
+educational backgrounds, training and clinical expertise. however, there may be
+greater opportunities for knowledge production between the neurologist and
+oncologist pair because their field specialties are more distant. similarly, although
+two sleep researchers may communicate and comprehend each other with
+relative ease because they read and conduct similar research (dahlander &
+mcfarland, 2013), there is greater potential for knowledge production between an
+aging and a sleep researcher, who may offer greater utility and value to one
+another to solve problems related to both sleep and aging processes—provided
+that they have sufficient common knowledge (bechky, 2011; grant, 1996). this
+suggests that there is an inherent trade-off between the greater ease of
+conversing and absorbing ideas locally from individuals with many overlapping
+interests and the greater potential opportunities for novel ideas and knowledge
+transfer, creation, and diffusion from sharing and assessing the knowledge of
+those with more distant interests.
+
+ 
+
+ 
+
+ith each
+
+ 
+
+2.3 knowledge transfer and knowledge similarity
+
+ 
+
+knowledge transfer is a two-sided process because it depends on the efforts of a
+
+ 
+
+2.3 knowledge transfer and knowledge similarity
+
+knowledge transfer is a two-sided process because it depends on the efforts of a
+source to share knowledge with a recipient and the recipient's efforts and
+capacity to acquire, absorb, and learn it (argote, 2012). because of greater
+common knowledge, local knowledge found within groups of similar individuals
+tends to be more easily transferred than distant knowledge spanning group
+boundaries (carlile, 2004; kogut & zander, 1992; rosenkopf & almeida, 2003).
+that said, more distant knowledge may present nonredundant ideas that benefit
+learning and acquiring new concepts. consequently, during serendipitous idea
+exchanges, we would expect that partners from dissimilar field and intellectual
+specialties offer each other more novel ideas and opportunities to learn (leahey
+et al,, 2017; lee, 2019). divergent interests create a wider pool of knowledge to
+draw upon, which allows for multiple perspectives and problem-solving
+approaches that increase the likelihood of new discoveries (boudreau, guinan,
+lakhani, & riedl, 2016)—provided that the partners share sufficient common
+knowledge to make sense of each other's knowledge dissimilarities. based on
+these reasons, we expect that pairs with less field or intellectual overlap have a
+greater potential pool of ideas for knowledge transfer, up until a threshold of
+dissimilarity, after which they will lack sufficient common interests to benefit from
+knowledge transfer.
+
+ 
+
+hypothesis (h1a). field similarity has an inverted u-shaped effect on the relationship
+
+   
+
+lainey) gree ws
+
+knowledge transfer.
+
+ 
+
+hypothesis (h1a). field similarity has an inverted u-shaped effect on the relationship
+between knowledge sharing and knowledge transfer.
+
+hypothesis (h1b). intellectual similarity has an inverted u-shaped effect on the
+relationship between knowledge sharing and knowledge transfer.
+
+2.4 knowledge creation and knowledge similarity
+
+there is a growing view among innovation scholars that specialization has created
+a "knowledge burden” hypothesis that makes collaborative work combining the
+increasingly narrow niches of specialization imperative to moving the knowledge
+frontier forward (jones, 2009; uzzi et al., 2013). scientific discovery is a process
+that combines individually focused tasks—such as reading, experimentation, and
+writing—with social interactions through joint sense-making with others that can
+spark new discoveries (boudreau et al., 2016; latour & woolgar, 2013).
+
+that said, collaborations tend to be constrained by social processes, such as
+preferences for others with shared attributes, as well as search costs that stifle
+attempts to identify suitable collaborators. first, principles of homophily suggest
+that people are attracted to others who hold similar values because their
+interactions are more rewarding and less uncertain (mcpherson & smith-lovin,
+1987), as a result of the benefits of security and mutual attraction (dahlander &
+
+acer pes co tosttay sura ie congdotagot ss rit st; phimciples- ut homtopry subeest
+that people are attracted to others who hold similar values because their
+interactions are more rewarding and less uncertain (mcpherson & smith-lovin,
+1987), as a result of the benefits of security and mutual attraction (dahlander &
+mcfarland, 2013). moreover, joint knowledge creation is a long-term investment
+in a multiplex relationship (uzzi, 1997), where partners engage in joint problem-
+solving and spend time together discussing, reflecting and interacting to achieve
+mutual benefit (mcfadyen & cannella jr, 2004). due to these reasons,
+collaborations are more likely to form among individuals who share overlapping
+field and intellectual interests (biancani et al., 2014; dahlander & mcfarland,
+2013).
+
+ 
+
+ 
+
+second, there is a growing view that search costs and resulting information
+frictions tend to constrain people's collaboration patterns (boudreau et al., 2017;
+catalini, 2018). engineered, serendipitous interactions can mitigate some of these
+frictions by providing people the opportunity to exchange information and
+develop intellectual links with others they would not otherwise interact with. such
+interactions may enable diverse partners to discover the potential
+complementarities they offer each other, leading to new collaborations. however,
+to the extent that serendipitous knowledge sharing leads to joint knowledge
+creation will also likely require that potential partners share some field or
+intellectual overlap; otherwise their interests may be too disparate to establish
+synergies in incentives (e.g., publication or tenure requirements) or research
+
+interests. accordingly. we exnect that increasing field and intellectual similarity
+creation will aiso likely require that potential partners snare some tield or
+
+intellectual overlap; otherwise their interests may be too disparate to establish
+synergies in incentives (e.g., publication or tenure requirements) or research
+interests. accordingly, we expect that increasing field and intellectual similarity
+should benefit knowledge creation up to a threshold, over which there are
+decreasing marginal returns on greater levels of knowledge similarity.
+
+hypothesis (h2a). field similarity has an inverted u-shaped effect on the relationship
+between knowledge sharing and knowledge creation.
+
+hypothesis (h2b). intellectual similarity has an inverted u-shaped effect on the
+relationship between knowledge sharing and knowledge creation.
+
+another pathway that may lead to joint knowledge creation relies on prior
+collaborations and tie persistence (hasan & koning, 2019; ingram & morris, 2007;
+zhang & guler, 2020). we examine a specific type of tie persistence, namely the
+likelihood that an elemental collaboration persists into a complete knowledge
+product. in science, grant coapplications and copublications represent two
+essential but opposing ends of knowledge creation, from idea-generation to final
+output (mcfadyen & cannella jr, 2004). both are also essential to scientists’
+research productivity and often used as evaluative criteria for important
+decisions, such as promotion, tenure, awards and recognition (dahlander &
+mcfarland, 2013; stephan, 1996). the knowledge similarity requirements that
+improve the likelihood that elemental collaborations persist into copublications
+
+decisions, such as promotion, tenure, awards and recognition (dahlander &
+mcfarland, 2013; stephan, 1996). the knowledge similarity requirements that
+improve the likelihood that elemental collaborations persist into copublications
+may differ from the processes that shape long-term collaborations on peer-
+reviewed research publications. in addition to being at the open end of research
+inquiry, grant applications tend to have finite submission deadlines and these can
+impose resource, attention, coordination and other constraints on potential
+partners (dahlander, o'mahony, & gann, 2016). although serendipitous
+knowledge exchanges can reduce information search costs and expose people to
+promising new contacts, multiplex relationships require repeated interactions
+(ingram & morris, 2007). in the short-term, potential partners may turn to other
+individuals with whom they share significant knowledge overlap, due to fewer
+frictions and relational uncertainties (e.g., priorities, personalities, scheduling
+constraints) associated with similar partners. due to these reasons, common
+knowledge may be even more critical to shaping elemental collaborations. we
+thereby expect that elemental collaborations are more likely to persist into a final
+product of knowledge creation when knowledge sharing partners have significant
+knowledge overlap in terms of their field and intellectual interests.
+
+ 
+
+hypothesis (h2c). an elemental collaboration is more likely to result in knowledge
+creation as the field similarity between two individuals increases.
+
+hypothesis (h2d). an elemental collaboration is more likely to result in knowledge
+ope
+creation as the field similarity between two individuals increases.
+
+ 
+
+ 
+
+ 
+
+er i riir ore rine co resocat rt
+
+ 
+
+hypothesis (h2d). an elemental collaboration is more likely to result in knowledge
+creation as the intellectual similarity between two individuals increases.
+
+2.5 knowledge diffusion and knowledge similarity
+
+among research scientists, forward citations to others’ publications are a primary
+means for diffusing knowledge. beyond knowledge diffusion, forward citations
+constitute a critical means of social recognition for acknowledging the
+contributions of predecessors (merton, 1973) and tracing the path of scientific
+discovery and diffusion (stephan, 1996). some scholars argue that the number of
+citations a publication has received is perhaps the most common way to measure
+the importance of an individual's contribution to science (stephan, 1996).
+consistent with this view, citations are a critical currency of scientific credit
+(latour & woolgar, 2013), both driving research impact and constituting the basis
+of reward systems in science, including promotion, status, funding, peer esteem,
+honors, and awards (boudreau & lakhani, 2015).
+
+there are generally two views of how knowledge is diffused in science: openness
+and secrecy. according to the mertonian norms of communalism or “openness,”
+publication enables scientists to establish priority of discovery and allows them to
+be the first to communicate an advance in knowledge and allow others to freely
+
+hice it (martan 1072) thc nithlicatinn nramoatac tha anan diffiician af criantifie
+
+and secrecy. according to the mertonian norms of communalism or “openness,”
+publication enables scientists to establish priority of discovery and allows them to
+be the first to communicate an advance in knowledge and allow others to freely
+use it (merton, 1973). thus, publication promotes the open diffusion of scientific
+knowledge, as long as scientists’ own internal agents (i.e., other scientists)
+appropriately recognize and diffuse their work (boudreau & lakhani, 2015). on
+the other hand, social recognition is a discretionary act among scientists, and
+strong evidence points to the existence of counter-norms promoting secrecy,
+competition, and information withholding (haas & park, 2010; haeussler, jiang,
+thursby, & thursby, 2014). scientists often compete for similar resources,
+funding, and recognition. given limited resources, scientists need to be assured
+that they will be appropriately remunerated for openly diffusing others’
+knowledge (hagstrom, 1974; murray & o'mahony, 2007; reschke, azoulay, &
+stuart, 2018).
+
+on balance, the evidence suggests that scientists do not unequivocally diffuse
+each other's publications. among scientists with greater knowledge overlap,
+serendipitous idea sharing may heighten the competition effect, particularly as
+information exchange can introduce people to novel work they cannot discover
+on their own via publications or other publicly available sources. these new
+projects may be similar to their own undertakings, risking duplication of efforts.
+because scientists compete for priority (merton, 1973), recognition (hagstrom,
+1974; reskin, 1977), and funding (stephan, 1996), partners with highly
+
+projects may be similar to their own undertakings, risking duplication of efforts.
+because scientists compete for priority (merton, 1973), recognition (hagstrom,
+1974; reskin, 1977), and funding (stephan, 1996), partners with highly
+overlapping interests may discover a need to differentiate themselves from one
+another. social recognition of highly similar peers would not only highlight
+redundancies but may also detract attention and resources away from one's own
+work (campanario & acedo, 2007). we expect that partners sharing high field or
+intellectual similarity may refrain from citing each other's research to outperform
+their peers.
+
+hypothesis (h3a). knowledge sharing is less likely to lead to knowledge diffusion as
+the field similarity between individuals increases.
+
+hypothesis (h3b). knowledge sharing is less likely to lead to knowledge diffusion as
+the intellectual similarity between individuals increases.
+
+3 experimental methods
+
+in an ideal setting, all of the prior interactions and efforts that go into knowledge
+production would be fully observable to scholars to theorize and validate through
+empirical observations. the reality, however, is that the vast majority of prior
+scholarly work concerned with how knowledge is produced has primarily focused
+on observed outcomes—e.g., papers, funding, patents, citations, team structure,
+
+and so forth—to draw inferences ahaut the mechanisms tinderlving the
+empirical observations. ihe reality, however, is that the vast majority of prior
+
+scholarly work concerned with how knowledge is produced has primarily focused
+on observed outcomes—e.g., papers, funding, patents, citations, team structure,
+and so forth—to draw inferences about the mechanisms underlying the
+knowledge production process (dahlander & mcfarland, 2013; fleming et al.,
+2007; staw & epstein, 2000). for example, research on scientists will include the
+papers they publish, the collaborators they have worked with, and the knowledge
+that they have developed and have diffused through citations. however, a
+concern with relying on published trace data is that it masks all of the work and
+activities that occurred prior to knowledge production, such as the entire risk set
+of alters an individual may have interacted with prior to settling on a particular
+team. the empirical shortcomings of not being able to directly observe
+knowledge sharing and the drivers of knowledge production may insert biases in
+our inferences, such as self-selection and survivor bias. some work aims to
+address these concerns by extending the risk set to unsuccessful collaborations
+(e.g., non-awarded grant applications) to examine quality-adjusted research
+output of published (i.e., visible) trace data (arora & gambardella, 2005; ayoubi,
+pezzonii, & visentin, 2019; ganguli, 2017). that said, unobserved heterogeneity
+between the two groups remains a persistent challenge.
+
+a feasible alternative is to design a field experiment that enables the capture of
+data around interactions between scientists and overcomes concerns around
+endogeneity of affiliation, team formation, and knowledge exposure by
+
+a feasible alternative is to design a field experiment that enables the capture of
+data around interactions between scientists and overcomes concerns around
+endogeneity of affiliation, team formation, and knowledge exposure by
+randomizing the encounters that the scientists have with each other. the benefit
+of this approach is that it can provide causal explanations about the factors that
+impact knowledge production, weighed against the challenges of drawing
+inferences with smaller sample sizes in an experiment as opposed to relying on
+all observed data of many more scientists.
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+3.1 setting and research design
+
+we carried out our study in the context of a medical symposium for research on
+advanced imaging, which is used to detect diseases and other health conditions
+early, to allow health care practitioners to direct patients to the health care
+services that they need. we collaborated with the administrators of a large u.s.
+medical school to layer the medical symposium onto the university’s clinical and
+translational science center pilot grant program, which provides seed funding in
+the form of pilot grants to support nascent research efforts that are awarded
+competitively to faculty within the university. ' the purpose of the grant
+opportunity was to solicit proposals to improve methods for using advanced
+imaging technologies to address unmet clinical needs, and offered $50,000 per
+award for up to 15 pilot grants. a major challenge in the field of advanced
+imaging is that furthering the knowledge frontier requires expertise in the latest
+
+  
+
+ 
+
+    
+
+ 
+
+ 
+
+imaging technologies to address unmet clinical needs, and offered $50,000 per
+award for up to 15 pilot grants. a major challenge in the field of advanced
+imaging is that furthering the knowledge frontier requires expertise in the latest
+imaging tools and technologies and a deep understanding of the health problems
+to which they could be applied. these different types of knowledge are typically
+held by people from distinct disciplinary backgrounds, which makes advanced
+imaging an ideal setting for our research.
+
+  
+
+ 
+
+ 
+
+in november 2011, we invited all life sciences faculty and researchers at the
+university to a medical research symposium for the unique grant funding
+opportunity. our field experiment involved faculty and researchers at the
+university and its affiliated hospitals and institutions, which are independently
+owned and managed, with each appearing as a separate entity in hospital
+rankings and lists of national institutes of health (nih) grant recipients. we
+communicated to applicants that eligibility to submit a grant application was
+conditional on attending the symposium. in the first stage, investigators
+interested in applying for the grants submitted a statement of interest in which
+they briefly described a specific medical problem that advanced imaging
+techniques could potentially address. we collected basic biographical information
+(eg., degree, institution, department appointment) at this stage.
+
+3.2 participants and randomization of knowledge-sharing
+partners
+3.2 participants and randomization of knowledge-sharing
+partners
+
+the symposia were held on january 31, february 1, and february 2, 2012, at one
+of the university's innovation labs. figure 1 summarizes the key details of the
+randomization: 402 unique participants were randomly assigned to one of three
+nights of the symposium, one of four breakout rooms, one of two groups, as well
+as a poster location to stand next to around the perimeter of the room.
+participants were provided an electronic device, called a “sociometric badge” to
+automatically record their face-to-face interactions during the symposium (kim et
+al., 2012). each of the three nights featured a 30-min welcome address, followed
+by two 45-min poster sessions in breakout rooms, with a 15-min social break in
+between the poster sessions. within each breakout room, scientists were
+randomly assigned to a poster location and either the first or second poster
+group. the scientists presented and exchanged ideas with one another during the
+poster sessions. the grant administrators prepared the posters to be a standard
+size and in a standard format, based on each participant's statements of interest.
+thus, treatment pairs assigned to the same breakout rooms had more
+opportunities for knowledge sharing than control pairs.
+
+ 
+
+ 
+the dimension of knowledge
+similarity that emerges from the
+overlap between two individual's
+field
+similarity
+cohen & levinthal, 1990;
+carlile, 2004; dahlander &
+mcfarland, 2013; leahey,
+beckman, & stanko, 2017
+
+bechky, 2011; carlile,
+2004; bourdieu, 198
+haas & park, 2010
+
+ 
+knowledge
+similarity
+knowledge
+diffusion
+knowledge
+creation
+knowledge
+creation
+knowledge
+transfer
+a multicomponent process that
+involves knowledge transfer,
+creation, and diffusion.
+
+the movement of facts, relationships,
+and insights from one setting to
+another
+
+the generation of facts, relationships,
+and insights to solve problems that
+are new to the knowledge frontier
+
+the generation of facts, relationships,
+and insights to solve problems that
+are new to the knowledge frontier
+
+the dissemination of facts,
+relationships, and insights that are
+subsequently used by others
+
+the degree of common knowledge
+between two individuals’ field of
+study and intellectual interests
+
+grant, 1996; kogut &
+zander, 1992; nonaka,
+1994; spender, 1996
+
+argote, 2012; hansen,
+1999; szulanski, 1996
+
+arrow 1962; boudreau &
+lakhani, 2015; nonaka,
+1994
+
+ 
+
+arrow 1962; boudreau &
+lakhani, 2015; nonaka,
+1994
+
+fleming & singh, 2010;
+singh, 2005
+
+cohen & levinthal, 1990;
+
+carlile, 2004; dahlander &
+mcfarland, 2013; leahey,
+rerkman & ctankn 9017
+knowledge
+production
+citations
+knowledge
+construct
+1 introduction
+
+in 2013, cell biologist william earnshaw of the university of edinburgh happened
+
+1 introduction
+
+in 2013, cell biologist william earnshaw of the university of edinburgh happened
+to attend the same academic conference as systems biologist job dekker of the
+university of massachusetts medical school and computational biologist leonid
+mirny from the massachusetts institute of technology. by chance, earnshaw
+attended a presentation by dekker and mirny about their joint work on mitotic
+chromosomes, during which he became convinced that his lab could provide
+bench methods to improve dekker and mirny's computational models. earnshaw
+approached dekker and mirny after the talk; their conversation evolved into a
+three-lab collaboration and a 2018 publication in science (pain, 2018).
+
+this anecdotal example suggests that serendipitous encounters can play a role in
+innovation, perhaps by exposing individuals to people that they would not
+otherwise have a chance to meet, and to unfamiliar sources of information that
+can be combined with their own knowledge stock and lead to new discoveries
+(fleming, mingo, & chen, 2007; uzzi, mukherjee, stringer, & jones, 2013).
+however, the likelihood that serendipitous encounters lead to successful
+knowledge production remains poorly understood often because the process is
+uncertain, complex and relatively understudied. in particular, even if an
+encounter eventually produces new knowledge, this process may occur slowly
+and only emerge after a number of years (catalini, 2018; fleming, 2001). a
+
+significant degree of knowledge within organizations is tacit and is not easily.
+uncertain, cormpiex arid relauvely unlgerstuaied. in parucuidr, even i arr
+
+encounter eventually produces new knowledge, this process may occur slowly
+and only emerge after a number of years (catalini, 2018; fleming, 2001). a
+significant degree of knowledge within organizations is tacit and is not easily
+transferred (hansen, 1999; nonaka, 1994). knowledge creation via new
+collaborations can be costly (boudreau et al., 2017; dahlander & mcfarland,
+2013), requiring coordinated effort, alignment of incentives, establishment of
+trust, generation of creative synergy, and “matching” criteria, such as personality
+and scheduling compatibility (azoulay, ding, & stuart, 2007; catalini, 2018). even if
+knowledge transfer or creation is successful, knowledge tends to diffuse slowly
+through interpersonal networks (fleming et al., 2007; singh, 2005). the question
+thus arises of when serendipitous encounters are more likely to facilitate useful
+idea exchange and knowledge production. previous literature tends to focus on
+the factors that may increase the amount or intensity of short-term
+communication and interaction between individuals, rather than the implications
+of serendipitous encounters on knowledge production (allen, 1977; kleinbaum,
+stuart, & tushman, 2013). given that geographic proximity increases the
+likelihood of serendipitous encounters (catalini, 2018), recent research has begun
+to examine the effects of organizational redesign on knowledge production
+(catalini, 2018; fang, lee, & schilling, 2010; lee, 2019). although it is possible that
+organizational redesign and greater geographic proximity between individuals
+can increase knowledge production, most studies do not directly address how
+knowledge sharing between two individuals affects the path-dependent nature of
+
+ 
+
+organizational redesign and greater geographic proximity between individuals
+can increase knowledge production, most studies do not directly address how
+knowledge sharing between two individuals affects the path-dependent nature of
+the knowledge production process.
+
+since prior work tends to focus on a single knowledge production outcome
+(phelps, heidl, & wadhwa, 2012), often on the factors that impede knowledge
+transfer (carlile, 2004; hansen, 1999; szulanski, 1996; uzzi, 1997), it is unclear how
+knowledge sharing may also affect knowledge creation and diffusion. hence, we
+know relatively little about whether serendipitous encounters actually lead to
+meaningful idea exchange that can be applied to one’s own tasks, or whether
+these interactions can spark new collaborations and broader diffusion of ideas
+over time. the goal of our work is to address this gap in literature by examining to
+what extent a systematic relationship exists between serendipitous encounters
+and knowledge production outcomes.
+
+we posit that an effective encounter hinges not just on the serendipity of the
+interaction but also on the existence of common knowledge that individuals use
+to make sense of each other's specialized knowledge and connect it to what they
+already know. common knowledge enhances the ability for new knowledge to be
+assimilated into the concepts, objects and patterns that are already present in
+people's cognitive structures (bower & hilgard, 1981; cohen & levinthal, 1990).
+when new information is related to prior knowledge constructs, itis more readily
+
+  
+
+assimilated into the concepts, objects and patterns ‘that are already present in
+people's cognitive structures (bower & hilgard, 1981; cohen & levinthal, 1990).
+when new information is related to prior knowledge constructs, it is more readily
+absorbed, integrated, and applied in new settings (carlile, 2004; kogut & zander,
+1992) without sufficient prior knowledge, individuals may have difficulty
+integrating new knowledge (rosenkopf & almeida, 2003). in this article, we argue
+that there are two essential characteristics to people's common knowledge: field
+similarity in their educational backgrounds and training, and intellectual similarity
+in their interests, passions and pursuits. serendipitous encounters are more likely
+to be effective when people share some knowledge similarity in both their field
+and intellectual interests.
+
+to systematically investigate the relationships between serendipitous encounters
+and knowledge production requires a rich longitudinal dataset that directly
+observes exogenous face-to-face knowledge sharing between two individuals and
+subsequent knowledge production outcomes. to draw causal inferences, we
+designed and executed a field experiment at a research symposium on advanced
+imaging in early 2012 at a leading academic medical center. we chose this setting
+due to the centrality of knowledge production to their organizational and
+individual performance goals and the prevalence of knowledge sharing norms
+(dahlander & mcfarland, 2013). we created exogenous variation in opportunities
+for information-rich, face-to-face encounters between cross-disciplinary scientists
+interested in applying for an internal grant program promoting the development
+
+(dahlander & mcfarland, 2013). we created exogenous variation in opportunities,
+for information-rich, face-to-face encounters between cross-disciplinary scientists
+interested in applying for an internal grant program promoting the development
+of advanced imaging solutions to address an unmet clinical need. using electronic
+sociometric badges (kim, mcfee, olguin, waber, & pentland, 2012), we collected a
+unique dataset of fine-grained, live interactions between pairs of scientists who
+were randomly assigned to be in the same symposium room for knowledge
+sharing. we then combined this with a rich longitudinal dataset on long-run
+knowledge production outcomes from the scientists’ written publications over a
+six-year period, where we linked scientists’ pairwise keywords, collaborations and
+forward citations to examine the extent that the encounters led to knowledge
+transfer, creation and diffusion, respectively. this design enabled us to causally
+and systematically identify the relationships between knowledge sharing and
+knowledge production to explain why some serendipitous encounters resulted in
+knowledge production while others did not.
+
+ 
+
+ 
+
+we find both cooperative and competitive effects of serendipitous knowledge
+sharing encounters on knowledge production. on the one hand, knowledge
+sharing led to greater knowledge transfer and knowledge creation when people
+had some overlapping intellectual and field interests, respectively. although
+knowledge sharing had limited impact on knowledge transfer among pairs with
+either few or many overlapping interests, we observe a twofold increase in
+knowledge transfer (of medical subject headings or mesh keywords) for
+
+taw woneorerepphy
+knowledge sharing had limited impact on knowledge transfer among pairs with
+either few or many overlapping interests, we observe a twofold increase in
+knowledge transfer (of medical subject headings or mesh keywords) for
+moderately similar pairs, suggesting an inverted u-shaped relationship between
+knowledge overlap and knowledge transfer. similarly, we find that knowledge
+sharing between pairs with some common interests led to 1.2 more coauthored
+peer-reviewed publications, compared to a 0.98 decrease in copublications
+among pairs in the same field, which suggests that the knowledge sharing
+intervention reduced the search costs associated with forming synergistic
+collaborations. by comparing the knowledge drivers of near-term collaborations
+and long-term collaborations, we find that common knowledge is more critical for
+the former. on the other hand, knowledge sharing reduces knowledge diffusion
+between people from the same field, with interacting pairs citing each other
+between 2.8 and 6.7 times less than noninteracting pairs from more distant
+fields.
+
+ 
+
+jccgut uh hehe hire cty fes pecuv ey: hour
+
+we aim to make several contributions to the literature. first, we contribute to the
+literature on search costs and information frictions associated with the
+knowledge production process (agrawal & goldfarb, 2008; boudreau et al., 2017;
+catalini, 2018; hansen, 1999; hansen & haas, 2001), by focusing on the extent
+that “engineered serendipity” can mitigate some of these costs. we emphasize
+the role of knowledge similarity in shaping different components of knowledge
+
+production. and over different time horizons. most prior research has
+catalin, 2018; hansen, 1999; hansen & haas, zu), by tocusing on tne extent
+
+that “engineered serendipity” can mitigate some of these costs. we emphasize
+the role of knowledge similarity in shaping different components of knowledge
+production, and over different time horizons. most prior research has
+predominantly focused on one component or a single time frame (adams, black,
+clemmons, & stephan, 2005; boudreau et al., 2017; dahlander & mcfarland,
+2013; szulanski, 1996). this work is unique because it extends the findings from
+boudreau et al. (2017) on search costs and short-term collaborations using the
+same field experiment, to show how engineered serendipity may alter the role of
+knowledge similarity in knowledge production over time. our findings suggest
+that the magnitude of these frictions is likely to be more difficult to overcome in
+the short-run compared to the long-run.
+
+second, we make contributions to the literature on temporary colocation, and the
+value of conferences, symposia and similar events on the direction of inventive
+activity on the knowledge frontier and the emergent patterns of collaborative
+activity (biancani, mcfarland, & dahlander, 2014; boudreau et al., 2017; campos,
+leon, & mcquillin, 2018; catalini, fons-rosen, & gaulé, 2020; chai & freeman,
+2019). prior research has been limited in its ability to observe actual acts of
+knowledge sharing between pairs, and its implications on knowledge production.
+our study indicates that even brief, information-rich encounters at conferences
+can benefit knowledge production, with the potential to alter people's research
+directions and collaboration networks.
+
+our study indicates that even brief, information-rich encounters at conferences
+can benefit knowledge production, with the potential to alter people's research
+directions and collaboration networks.
+
+third, we make methodological contributions by highlighting the benefits of long-
+term studies that amalgamate multiple forms and uses of data. prospective
+experiments can support multiple lines of investigation involving both near-term
+and long-term outcomes that may not be possible in retrospective, archival
+studies and suggests the use of multiple sources of data for unpacking the
+dynamics of knowledge production.
+
+2 theory and hypotheses
+2.1 knowledge production and knowledge sharing
+
+according to the knowledge-based view of the firm, knowledge production is a
+multicomponent process that involves the transfer, creation and diffusion of
+knowledge (grant, 1996; kogut & zander, 1992; nonaka, 1994). knowledge
+transfer involves the movement of facts, relationships, and insights from one
+setting to another, and becomes evident when the experience acquired by an
+individual, group or organization in one setting is applied in another setting
+(argote, 2012; hansen, 1999; szulanski, 1996). knowledge creation refers to the
+generation of facts, relationships and insights to solve new problems (nonaka,
+
+1994). the emphasis on new knowledge is what distinguishes the process of.
+laiviual, group of organizauior in one seung is applied in anotner selunz
+
+(argote, 2012; hansen, 1999; szulanski, 1996). knowledge creation refers to the
+generation of facts, relationships and insights to solve new problems (nonaka,
+1994). the emphasis on new knowledge is what distinguishes the process of
+knowledge transfer from creation. because new knowledge is not held by anyone
+prior to its creation, it cannot be transferred and applied directly (mcfadyen &
+cannella jr, 2004). conversely, knowledge diffusion refers to the process through
+which transferred or newly created knowledge is disseminated and used by other
+individuals, groups and organizations (fleming et al., 2007; singh, 2005).
+knowledge diffusion is a critical component of the knowledge production process
+because it reduces duplication of effort and promotes efficiency by demarcating
+what is known from what is yet to be explored on the knowledge frontier
+(boudreau & lakhani, 2015).
+
+ 
+
+  
+
+critical to the efficiency of knowledge production is the process of knowledge
+sharing between individuals possessing different types of knowledge (grant,
+1996; kogut & zander, 1992; nonaka, 1994), and their ability to learn from these
+interactions (levinthal & march, 1993; simon, 1991). common knowledge
+between partners is important because it enables individuals to absorb the
+aspects of their knowledge sets that they do not hold in common, or that are
+unique to each individual (carlile, 2004; cohen & levinthal, 1990; maurer & ebers,
+2006). building on prior work, we propose that there are at least two separate
+pathways through which people develop their knowledge bases: their field and
+
+intallactiial enaci raratica nf the nath-danandant natiira of inqwladaa
+
+unique to each individual (carlile, 2004; cohen & levinthal, 1990; maurer & ebers,
+2006). building on prior work, we propose that there are at least two separate
+pathways through which people develop their knowledge bases: their field and
+intellectual specialties. because of the path-dependent nature of knowledge
+(hargadon & sutton, 1997), the overlap in two individuals’ field and intellectual
+specialties may have different implications on knowledge production. table 1
+provides a summary of our knowledge constructs.
+
+ 
+ 
+
+table 1. summary of knowledge constructs
+
+knowledge definition citations
+
+ 
+research summary
+
+we investigate how knowledge similarity between two individuals is
+systematically related to the likelihood that a serendipitous encounter results
+in knowledge production. we conduct a field experiment at a medical research
+symposium, where we exogenously varied opportunities for face-to-face
+encounters among 15,817 scientist-pairs. our data include direct observations
+of interaction patterns collected using sociometric badges, and detailed,
+longitudinal data of the scientists’ postsymposium publication records over 6
+years. we find that interacting scientists acquire more knowledge and
+coauthor 1.2 more papers when they share some overlapping interests, but
+
+ 
+
+ 
+
+longitudinal data of the scientists’ postsymposium publication records over 6
+years. we find that interacting scientists acquire more knowledge and
+coauthor 1.2 more papers when they share some overlapping interests, but
+cite each other's work between three and seven times less when they are from
+the same field. our findings reveal both collaborative and competitive effects
+of knowledge similarity on knowledge production outcomes.
+
+managerial summary
+
+managers often try to stimulate innovation by encouraging serendipitous
+interactions between employees, for example by using office space redesigns,
+conferences and similar events. are such interventions effective? this article
+proposes that an effective encounter depends on the degree of common
+knowledge shared by the individuals. we find that scientists who attend the
+same conference are more likely to learn from each other and collaborate
+effectively when they have some common interests, but may view each other
+competitively when they work in the same field. hence, when designing
+opportunities for face-to-face interactions, managers should consider
+knowledge similarity as a criteria for fostering more productive exchanges.
+abstract
+ 
+
+sections
+st pof a tools < share
+research article | openaccess © @®
+
+engineering serendipity: when does knowledge sharing
+lead to knowledge production?
+
+jacqueline n. lane sg, ina ganguli, patrick gaule, eva guinan, karim r. lakhani
+
+first published: 15 november 2020 | https://doi.org/10.1002/smj.3256 | citations: 30
+
+be
+
+https://www.youtube.com/watch?v=c7gcutybodq
+funding information: harvard catalyst; laboratory for innovation science at harvard
+
+ 
+
+https://www.youtube.com/watch?v=c7gcutybodq
+
+ 
+
+funding information: harvard catalyst; laboratory for innovation science at harvard
+university; nih clinical center, grant/award numbers: ul1rr025758-0254, ul1tro00170,
+ul1troo1 102, ul1troo2541; harvard business school division of research and faculty
+development
+j sms | strategic management journal
+ 
+    
+ 
+
+servicenow. pivot quickly to face te
+peet bee
+vr rar emts ret oey
+

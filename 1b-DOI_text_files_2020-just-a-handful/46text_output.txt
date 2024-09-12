@@ -1,0 +1,1440 @@
+lostread latest
+
+dvances in single-cell long-read sequencing
+-chnologies
+
+-quadruplex propensity in h.
+eanderthalensis, h. sapiens and denisovans
+iitochondrial genomes
+
+tructural dynamics of therapeutic nucleic
+cids with phosphorothioate backbone
+rodifications
+
+iralflow v1.0—a computational workflow for
+ 
+
+‘ing articles via
+leb of science (7)
+
+oogle scholar
+owered by trend)
+tecommended
+
+olubility-weighted index: fast and accurate
+rediction of protein solubility
+sh k bhandari et al., bioinformatics, 2020
+
+  
+
+ 
+
+inearpartition: linear-time approximation of
+na folding partition function and base-pairing
+robabilities
+
+e zhang et al., bioinformatics, 2020
+
+for rna structure
+
+sio ss dos pl
+
+   
+
+je zhang et al, bioinformatics, 2020
+
+lachine learning a model for rna structure
+rediction
+
+cola calonaci et al., nar genomics and
+informatics, 2020
+
+ 
+
+jetarnn: differentiating rare pathogenic and
+are benign missense snvs and indels using
+eep learning
+
+hang liet al., genome med, 2022
+
+silico methods for predicting functional
+
+ynonymous variants
+ian c. lin et al,, genome biol, 2023,
+
+ 
+
+sing noninvasive anthropometric indices to
+evelop and validate a predictive model for
+retabolic syndrome in chinese adults: a
+ationwide study
+
+ian xu et al., bmc endocr disord, 2022
+
+owered by trend) a
+receive exclusive offers and updates
+from oxford academic
+email alerts
+article activity alert
+new issue alert
+
+in progress issue alert
+email alerts
+
+article activity alert
+citations views ——altmetric
+7 \ >
+
+ss //
+
+@ more metrics information
+fotstatty
+
+browse the
+of nar molecular medicine
+
+nord
+
+ 
+(qaa057_supplemental_file - pdf file
+supplementary data
+(© the author(s) 2019. published by oxford university press on behalf of nar genomics and bioinformat
+
+this is an open access article distributed under the terms of the creative commons attribution non-
+commercial license (http: //creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial
+use, distribution, and reproduction in any medium, provided the original work is properly cited. for
+commercial re-use, please contact journals.permissions@oup.com
+53.
+
+linnstaedt s.d. , riker k.d., rueckeis c.a., kutchko k.m., lackey l., mccarthy k.r., tsai y.h., parker j
+kurz m.c., hendry p.l.et al. .a functional ribosnitch in the 3’ untranslated region of fkbps alters
+
+microrna-320a binding efficiency and mediates vulnerability to chronic post-traumatic pain. j.
+monieneri 2m 8: 22-rant_8ain
+
+. linnstaedt s.d. , riker k.d., rueckeis c.a., kutchko k.m., lackey l., mccarthy k.r., tsai y.h., parker j
+
+kurz m.c., hendry p.l.et al. .a functional ribosnitch in the 3’ untranslated region of fkbps alters
+microrna-320a binding efficiency and mediates vulnerability to chronic post-traumatic pain. j.
+neurosci.2018; 38:8407-8420.
+
+google scholar pubmed —findinmylibrary worldcat
+52. ouyang z. , snyder m.p., chang hy. seqfold: genome-scale reconstruction of rna secondary struct
+integrating high-throughput sequencing data. genome res.2013; 23:377-387.
+googlescholar. pubmed —findinmylibrary worldcat
+51. zouc. , ouyang z. joint modeling of rnase footprint sequencing profiles for genome-wide inferenc
+rna structure. nucleic acids res.2015; 43:9187-9197.
+
+google scholar pubmed —findinmylibrary worldcat
+50. wan. , qu k., ouyang z., chang hy. genome-wide mapping of rna structure using nuclease digest
+and high-throughput sequencing, nat. protoc. 2013; 8:849-869.
+google scholar pubmed —findinmylibrary worldcat
+49, wan. , qu k., ouyang z., kertesz m., li j., tibshirani r., makino d.l, nutter r.c., segal e., chang h)
+genome-wide measurement of rna folding energies. mol. cell. 2012; 48:169-181.
+google scholar pubmed —findinmylibrary worldcat
+rna secondary structure in yeast. nature. 2010; 467:103-107.
+google scholar pubmed —findinmylibrary worldcat
+48. kertesz m.,wan y., mazor e., rinn j.l., nutter r.c., chang hy., segal e. genome-wide measurement
+rna secondary structure in yeast. nature. 2010; 467:103-107.
+google scholar pubmed —findinmylibrary worldcat
+47. ding’. , chan cy., lawrence c.e. rna secondary structure prediction by centroids in a boltzmann
+weighted ensemble. rna. 2005; 11:1157-1166.
+googlescholar. pubmed —findinmylibrary worldcat
+46. aguet f. , brown a., castel s.gtex consortium, laboratory data analysis & coordinating center (ld/
+analysis working group, statistical methods groups-analysis working group, enhancing gtex (egt
+groups, nih common fund, nih/nci, nih/nhgrlet al. . genetic effects on gene expression across
+human tissues. nature. 2017; 550:204-213.
+
+google scholar pubmed —findinmylibrary worldcat
+findin my library worldcat
+45, naccarati a. , rosa f., vymetalkova v., barone e., jiraskova k., di gaetano c., novotny j., levy m.,
+vodickova l., gemignani f.et al. . double-strand break repair and colorectal cancer: gene variants i
+3! utrs and micrornas binding as modulators of cancer risk and clinical outcome. oncotarget. 201
+7:23156-23169.
+google scholar pubmed —findinmylibrary worldcat
+45. naccarati a. , rosa f., vymetalkova v., barone e., jiraskova k., di gaetano c., novotny j., levy m.,
+cancer family registry (bcfr). cancer causes control.2013; 24:215 (-2168,
+
+google scholar pubmed —findinmylibrary worldcat
+44, wu h.c. , delgado-cruzata l., machella n., wang q., santella r.m., terry m.b. dna double-strand bre
+repair genotype and phenotype and breast cancer risk within sisters from the new york site of the b
+cancer family registry (bcfr). cancer causes control.2013; 24:2157-2168.
+
+google scholar pubmed —findinmylibrary worldcat
+43, mao f. xiao l., lix., liang j., teng h., cai w., sun z.s, rbp-var: a database of functional variants
+involved in regulation mediated by rna-binding proteins. nucleic acids res.2016; 44:d154-d163.
+googlescholar. pubmed —findinmylibrary worldcat
+42, woods ci. , laederach a. classification of rna structure change by ‘gazing’ at experimental data.
+bioinformatics. 2017; 33:1647-1655.
+
+google scholar pubmed —findinmylibrary worldcat
+41, sherry st. , ward m.h., kholodov m., baker j., phan l., smigielski e.m., sirotkin k. dbsnp: the ncbi
+database of genetic variation. nucleic acids res.2001; 29:308-311.
+google scholar pubmed —findinmylibrary worldcat
+40. consortium gt. the genotype-tissue expression (gtex) project. nat. genet.2013; 45:580-585.
+google scholar pubmed —findinmylibrary worldcat
+40. consortium gt. the genotype-tissue expression (gtex) project. nat. genet. 2013; 45:580-585.
+
+gonela scholar dithmad ind in mwtihrans worldcat
+google scholar pubmed ~—findinmylibrary worldcat
+39. zhengy. , nie p., peng d., he z., liu m., xie y,, miao ¥., zuo z., ren j. m6avar: a database of functiona
+variants involved in m6a modification. nucleic acids res.2018; 46:d139-d145.
+
+google scholar pubmed —findinmylibrary worldcat
+38. zhu. ,xug., yangyt., xu z., chen x., shi b., xie d., lu z.j., wang p. postar2: deciphering the post.
+transcriptional regulatory logics. nucleic acids res.2019; 47:d203-d211.
+google scholar crossref. findinmylibrary pubmed worldcat
+worldcat
+37. lorenz r. , bernhart s.h., honer zu siederdissen c., tafer h., flamm c., stadler pf., hofacker ll.
+viennarna package 2.0. algorithms mol. biol.2011; 6:26.
+google scholar crossref. findinmylibrary pubmed worldcat
+36. karolchik d. , hinrichs a.s., furey t.s., roskin k.m., sugnet c.w., haussler d., kent w.j. the ucsc ta
+browser data retrieval tool. nucleic acids res.2004; 32:0493-d496.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+worldcat
+35.
+
+burdon k.p. , sharma s., chen c.s., dimasi d.p., mackey d.a., craig j.e. a novel deletion in the ftl g
+causes hereditary hyperferritinemia cataract syndrome (hhcs) by alteration of the transcription st
+site. hum, mutat.2007; 28:742.
+
+gnnalaschaler croceraf cindi ever duthmad —— warlacat
+
+ 
+
+. burdon kp. , sharma s., chen c.s., dimasi d.p., mackey d.a., craig j.e. a novel deletion in the ftl g
+
+causes hereditary hyperferritinemia cataract syndrome (hhcs) by alteration of the transcription st
+site. hum, mutat.2007; 28:742.
+google scholar crossref. findinmylibrary pubmed worldcat
+34, sanchez m. , galy b., dandekar t,, bengert p,, vainshtein y,, stolte j., muckenthaler m.u., hentze m.\
+iron regulation and the cell cycle: identification of an iron-responsive elementin the 3'-untranslate
+region of human cell division cycle 14a mrna by a refined microarray-based screening strategy. j. £
+chem.2006; 281:22865-22874.
+
+google scholar crossref. findinmylibrary pubmed worldcat
+find in my library
+worldcat
+pubmed
+33. cremonesil. , paroni., foglieni b., galbiati s., fermo i., soriani n., belloli s., ruggeri g., biasiotto |
+cazzola m.et al. . scanning mutations of the 5'utr regulatory sequence of lerritin by denaturing h
+performance liquid chromatography: identification of new mutations. br. j. haematol.2003;
+121:173-179.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+32, ferrari . , foglieni b., arosio p., camaschella c., daraio f., levis., garcia erce j.a., beaumont c., cai
+m., ferrari m.et al . microelectronic dna chip for hereditary hyperfertitinemia cataract syndrome, a
+model for large-scale analysis of disorders of iron metabolism. hum, mutat.2006; 27:201-208.
+google scholar crossref. findinmylibrary pubmed worldcat
+32, ferrari. , foglieni b., arosio p., camaschella c., daraio f,, levis., garcia erce j.a., beaumont c., cai
+iz1:4099-4001
+
+google scholar crossref find inmylibrary pubmed = worldcat
+find in my library
+worldcat
+31. wilkinson k.a. , merino e.j., weeks k.m. rna shape chemistry reveals nonhierarchical interactions
+dominate equilibrium structural transitions in trna(asp) transcripts. j. am. chem. soc.2005;
+127:4659-4667.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+30. robin x. , turck n., hainard a., tiberti n., lisacek f., sanchez j.c., muller m. proc: an open-source
+package for r and s+ to analyze and compare roc curves. bmc bioinformatics. 2011; 12:77.
+google scholar crossref. findinmylibrary pubmed worldcat
+worldcat
+29. xiao y. , hsiao th., suresh u., chen h.l., wu x., wolf s.e., chen y, a novel significance score for gene
+selection and ranking. bioinformatics, 2014; 30:801-807.
+google scholar crossref. findinmylibrary pubmed worldcat
+find in my library
+worldcat
+pubmed
+28. markham n.r. , zuker m. unafold: software for nucleic acid folding and hybridization. methods mol.
+biol.2008; 453:3-31.
+google scholar crossref find inmylibrary pubmed = worldcat
+find in my library
+21.
+
+landrum mj. , lee j.m., riley g.r., jang w., rubinstein w.s., church d.m., maglott d.r. clinvar: pub
+archive of relationships among sequence variation and human phenotype. nucleic acids res.2014;
+42:d980-d985.
+
+google scholar__crossref__find inmvlibrarv__ pubmed _ worldcat
+
+ 
+
+. landrum m.j. , lee j.m., riley g.r., jang w., rubinstein w.s., church d.m., maglott d.r. clinvar: pub
+
+archive of relationships among sequence variation and human phenotype. nucleic acids res.2014;
+42:d980-d985.
+google scholar crossref. findinmylibrary pubmed worldcat
+find in my library
+worldcat
+26. salari r. , kimchi-sarfaty c., gottesman m.m., przytycka t.m. sensitive measurement of single-nucle
+polymorphism-induced changes of rna conformation: application to disease studies. nucleic acids
+res.2013; 41:44-53.
+
+google scholar crossref. findinmylibrary pubmed worldcat
+worldcat
+pubmed
+25. reuter j.s. , mathews d.h. rnastructure: software for rna secondary structure prediction and anal
+bmc bioinformatics. 2010; 11:129.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+worldcat
+pubmed
+24, mccaskill js. the equilibrium partition function and base pair binding probabilities for rna secon
+structure. biopolymers. 1990; 29:1105-1119,
+google scholar crossref. findinmylibrary pubmed worldcat
+23. corley m. , solem a., qu k., chang hy., laederach a, detecting ribosnitches with rna folding algori
+a genome-wide benchmark. nucleic acids res.2015; 43:1859-1868.
+google scholar crossref. findinmylibrary pubmed worldcat
+23. corley m. , solem a., qu k., chang h.
+
+ 
+
+laederach a. detecting ribosnitches with rna folding algori
+
+google scholar crossref find inmylibrary pubmed = worldcat
+
+ 
+find in my library
+pubmed
+22, wan¥.,quk., zhang q.c., flynn ra, manor o., ouyang z., zhang j., spitale r.c., snyder m.p,, sega
+al. . landscape and variation of rna secondary structure across the human transcriptome. nature.
+505:706-709.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+worldcat
+pubmed
+21, ritz j. , martin j.s., laederach a. evaluating our ability to predict the structural disruption of rna by
+snps. bmc genomics. 2012; 13:56,
+
+google scholar crossref find inmylibrary pubmed = worldcat
+worldcat
+20. solem a.c. , halvorsen m., ramos s.b., laederach a. the potential of the ribosnitch in personalizec
+medicine. wiley interdiscip. rev. rna. 2015; 6:517-532.
+google scholar crossref find inmylibrary pubmed = worldcat
+19. sabarinathan r. , tafer h., seemann s.e., hofacker |.l., stadler pf., gorodkin j. rnasnp: efficient
+detection of local rna secondary structure changes induced by snps. hum. mutat.2013; 34:546-55¢
+google scholar crossref find inmylibrary pubmed = worldcat
+18. martin j.s. , halvorsen m., davis-neulander l., ritz j., gopinath c., beauregard a., laederach a.
+structural effects of linkage disequilibrium on the transcriptome. rna. 2012; 18:77-87.
+google scholar crossref. findinmylibrary pubmed worldcat
+
+18. martin j.s. , halvorsen m., davis-neulander l., ritz j., gopinath c., beauregard a., laederach a.
+structural effects of linkage disequilibrium on the transcriptome. rna. 2012; 18:77-87.
+google scholar crossref. findinmylibrary pubmed worldcat
+worldcat
+pubmed
+17. halvorsen m. , martin j.s., broadaway s., laederach a. disease-associated mutations that alter the
+structural ensemble. plos genet.2010; 6:e1001074,
+google scholar crossref find inmylibrary pubmed = worldcat
+16. naslavsky m.s. ,crovella s., lima filho j.l., rocha c.r. the sound of silence: human beta-defensin-
+gene untranslated snps change the predicted mrna secondary structure in a length-dependent
+manner. immunol. lett.2010; 129:53-55.
+
+google scholar crossref. findinmylibrary pubmed worldcat
+15. meplan c. , crosley l.k., nicol f., horgan g.w., mathers j.c., arthur j.r., hesketh j.e. functional effe
+a common single-nucleotide polymorphism (gpx4c718t) in the glutathione peroxidase 4 gene:
+interaction with sex. am. j. clin, nutr-2008; 87:1019-1027.
+
+googlescholar crossref find inmylibrary pubmed ~— worldcat,
+find in my library
+worldcat
+pubmed
+14, chatterjee s. , pal j.k. role of 5'- and 3'-untranslated regions of mrnas in human diseases. biol.
+cell, 2009; 101:251-262.
+google scholar crossref find inmylibrary pubmed = worldcat
+14, chatterjee s. , pal j.k. role of 5'- and 3'-untranslated regions of mrnas in human diseases. biol.
+
+cell, 2009; 101:251-262.
+‘googie scholar —crossrer-— find in mylubrary ——- pudmea~—- wortalat
+worldcat
+13. shen lx. , basilion j,p., stanton v.p.jr single-nucleotide polymorphisms can cause different struct.
+folds of mrna. proc. natl. acad. sci. u.s.a.1999; 96:7871-7876.
+
+google scholar crossref find inmylibrary pubmed = worldcat
+12, nackley a.g. , shabalina s.a, tchivileva .e., satterfield k., korchynskyi 0., makarov s.s., maixner w
+diatchenko l. human catechol-o-methyltransferase haplotypes modulate protein expression by alt
+mrna secondary structure. science. 2006; 314:1930-1933.
+
+google scholar crossref. findinmylibrary pubmed worldcat
+11. bartoszewski r.a. , jablonsky m., bartoszewska s., stevenson l., dai q., kappes j. collawn lf, bet
+asynonymous single nucleotide polymorphism in deltaf508 cftr alters the secondary structure o
+mrna and the expression of the mutant protein. j. biol. chem.2010; 285:28741-28748.
+
+google scholar crossref. findinmylibrary pubmed worldcat
+find in my library
+10. gong j. , tong, zhang h.m., wang k., hu t., shan g., sun j., guo ay. genome-wide identification ¢
+‘snps in microrna genes and the snp effects on microrna target binding and biogenesis. hum.
+mutat. 2012; 33:254-263,
+
+google scholar crossref. findinmylibrary pubmed worldcat
+10. gong j. , tong, zhang h.m., wang k., hu t., shan g., sun j., guo ay. genome-wide identification ¢
+
+cnde in micrnpmia aanac and tha gnd affarte an mirrndma taraat hindina and hinaanacie lim
+
+google scholar crossref findinmylibrary pubmed ~— worldcat
+find in my library
+pubmed — worldcat
+9. thomas l-f. , saito t., saetrom p. inferring causative variants in microrna target sites. nucleic acids
+res.2011; 39:e109.
+google scholar crossref findinmylibrary pubmed ~— worldcat
+8. hariharan m. , scaria v., brahmachari s.k. dbsmr: a novel resource of genome-wide snps affecting
+microrna mediated regulation. bmc bioinformatics. 2009; 10:108.
+google scholar crossref findinmylibrary pubmed ~— worldcat
+pubmed — worldcat
+7. yarham j.w. , elson j.l., blakely e.l., mcfarland r., taylor rw. mitochondrial trna mutations and
+disease. wiley interdiscip. rev. rna. 2010; 1:304-324.
+google scholar crossref ~—findinmylibrary pubmed worldcat
+
+ 
+pubmed — worldcat
+6. wittenhagen lm. , kelley s.o. impact of disease-related mitochondrial mutations on trna structure
+function, trends biochem. sci.2003; 28:605-611.
+
+google scholar crossref findinmylibrary pubmed ~— worldcat
+5. tellam j. smith c., rist m., webb n., cooper l., vuocolo t,, connolly g., tscharke d.c., devoy m.p,,
+khanna r. regulation of protein translation through mrna structure influences mhc class | loading
+callrecognition proc natl acad. si us.a.2008;105:9219-9324
+
+5. tellam j. smith c,, rist m., webb n., cooper l., vuocolo t., connolly g., tscharke d.c., devoy m.p.,
+khanna r. regulation of protein translation through mrna structure influences mhc class i loading
+cell recognition. proc. natl. acad. sci. u.s.a.2008; 105:9319-9324
+google scholar crossref ~—findinmylibrary pubmed worldcat
+
+ 
+
+ 
+4, duan j. , wainwright m.s., comeron j.m., saitou n., sanders a.r., gelernter j., gejman pv. synonym:
+mutations in the human dopamine receptor d2 (drd2) affect mrna stability and synthesis of the
+receptor. hum, mol. genet.2003; 12:205-216.
+
+google scholar crossref ~—findinmylibrary pubmed worldcat
+3. de smit m.h. , van duin j. secondary structure of the ribosome binding site determines translational
+efficiency: a quantitative analysis. proc, natl. acad, sci. u.s.a.1990; 87:7668-7672.
+google scholar crossref findinmylibrary pubmed ~— worldcat
+find in my library
+pubmed — worldcat
+2. churkin a. barash d. rnamute: rna secondary structure mutation analysis tool. bmc bioinformatic
+2006; 7:21.
+googlescholar crossref. findinmylibrary pubmed — worldcat
+find in my library
+pubmed — worldcat
+1. buratti e. ,baralle f.e. influence of rna secondary structure on the pre-mrna splicing process. mol.
+biol.2004; 24:10505-10514.
+
+google scholar crossref findinmylibrary pubmed ~— worldcat
+1. buratti e. ,baralle f.e. influence of rna secondary structure on the pre-mrna splicing process. mol.
+
+references
+references
+nigms [r35gm124998 to z.0.]; university of connecticut, faculty research excellence
+program award (to y.z.).
+
+conflict of interest statement. none declared.
+funding
+z.0. thanks elissa chesler, brenton graveley and members of the ouyang lab for
+discussions. the authors thank the anonymous reviewers for their useful suggestions w
+improve the manuscript.
+acknowledgements
+supplementary data are available at nargab online.
+supplementary data are available at nargab online.
+supplementary data
+riprap was implemented in python (version 2.7.10). the source code of riprap can be fr
+downloaded at http: //people.umass.edu/ouyanglab/riprap or http://github.com/ouyans
+lab/riprap. the database ribosnitchdb can be freely accessed at
+http://people.umass.edu/ouyanglab/ribosnitchdb.
+data availability
+we have developed riprap, a new method for identifying rna structural disruption ind
+by snvs. riprap maximizes a novel structural disruption score over alll possible local
+regions around an snv. we compared riprap with existing computational methods on
+established ribosnitch benchmark datasets. we demonstrated improved performance o
+riprap on identifying known ribosnitches. in addition, we showed that riprap can dete
+the focal regions of structural disruption by applying riprap to the dataset of human cc
+haplotypes.
+
+riprap provides a novel metric by combining the magnitude and statistical significance
+structural differences, which detects the consistent changes of bpps in focal regions. w
+showed that measuring the consistent structural alterations of consecutive bases
+outperforms summarizing the differences of individual bases as did in other existing
+
+methods. although the pars benchmarks were constructed bv comparing the pars sco!
+suuctufdl aliferences, wnicn getecrs tne consistent changes of bpps in local regions. w
+
+showed that measuring the consistent structural alterations of consecutive bases
+outperforms summarizing the differences of individual bases as did in other existing
+methods. although the pars benchmarks were constructed by comparing the pars sco
+5 nt around the snvs (22), we found the performance of riprap is robust at different
+minimum window size settings. even though the difference of the accuracies for riprap
+simple and rnasnp on the ‘validated’ and ‘symmetric’ ribosnitches is not as high as th
+on the ‘probed’ ribosnitches, the fact that the difference follows the rigorousness of th
+benchmark datasets demonstrates the ability of riprap on identifying high-confident
+ribosnitches. in the current version of riprap, we implemented the score cutoff determ
+in the dataset that includes the most rigorously validated ribosnitches (‘probed’ datase
+pars data) as the threshold to call a ribosnitch. the performance of riprap with the sc«
+cutoff is similar to that with the threshold determined by the method of corley et al. (23
+both ‘validated’ and ‘symmetric’ ribosnitches (supplementary table $1), which indicat
+the robustness of the score cutoff.
+
+the structural disruption scores and regions outputted by riprap are consistent for
+computationally and experimentally derived base pairing measurements. it suggests th
+riprap may be used to leverage existing rna folding algorithms (e.g. rnafold, unafolk
+(28), rnastructure (25) and sfold (47), etc.), as well as experimental measurements
+(e.g. shape (21), pars (22,48) and their derivatives (/,9,50)) to detect ribosnitches and
+structurally disrupted regions. in addition, reconstructed rna structures from high-
+
+ 
+
+ 
+
+   
+
+(28) ] rnastructure (25) and sfold (47), ete. iv as well as experimental measurements
+(e.g. shape (21), pars (22,48) and their derivatives (4.9,50)) to detect ribosnitches and
+structurally disrupted regions. in addition, reconstructed rna structures from high-
+throughput experimental assays (51,52) can be incorporated into riprap to further imp:
+the identification of ribosnitches.
+
+riprap focuses on detecting the focal regions around ribosnitches that disrupt rna
+structures, some ribosnitches may cause long-range changes in rna structure. for
+example, a newly discovered, clinically relevant ribosnitch in the 3' utr of ekbp5 was
+reported to alter the structure and the efficiency of microrna binding located at ~140 b
+upstream regions (53). the current implementation of riprap is designed to detect the
+region of structural disruption using scanning windows that include the snv position. 1
+design scheme will likely decrease the disruption score of a long-distance structure cha
+by including the unchanged regions between the region and the snv site. we will exten
+riprap to accurately detect distantly located structure alteration regions related toa
+ribosnitch in future studies.
+
+riprap can be applied to analyze snvs genome-wide. in addition, riprap can be used to
+snvs with rna functions, such as stability, degradation, translation or splicing. riprap
+also be incorporated into gwas studies to provide functional annotation, interpretation
+and prioritization of genetic variants associated with diseases, behaviors, and other
+
+phenotypes. our database, ribosnitchdb, consists of both experimentally validated an
+
+avihacnitahan which ae aeris data
+also be incorporated into gwas studies to provide functional annotation, interpretatior
+
+and prioritization of genetic variants associated with diseases, behaviors, and other
+phenotypes. our database, ribosnitchdb, consists of both experimentally validated an
+predicted ribosnitches, which is a comprehensive resource for future study in rna
+secondary structure. we will keep updating our database when new public ribosnitch
+datasets are available and include further large-scale applications of riprap to the snv:
+different species.
+
+     
+discussion
+vacation
+
+rep.
+‘binding peaks of
+all available reps
+from postar2
+
+rna modification
+‘¢ m®a modification
+site from m6avar
+
+‘microrna. disease association
+
+‘© microrna target © snv disease
+site from ucsc table annotation
+browser from clinvar
+
+ 
+
+7_dihncnitch datahace ranctriictinn
+
+'* microrna target °snv disease
+
+site from ucsc table annotation
+browser
+
+ 
+      
+
+from clinvar
+
+   
+
+figure 7. ribosnitch database construction.
+
+openinnewtab || download slide
+
+ 
+database of ribosnitches with annotation and visualization
+
+based on our knowledge, even though certain ribosnitch prediction web server exists (1
+there is no such an existing database consisting of both the experimentally validated an
+precisely predicted ribosnitches with annotation and visualization functions. for exam
+rbp-var (4,3) only contains ribosnitches that are predicted by rnasnp (19). to fill this,
+we constructed a comprehensive database, ribosnitchdb, for the inquiry, annotation a
+visualization of ribosnitches (figure 7). ribosnitchdb includes all the examined
+ribosnitches in this study as well as tens-of-thousands of predicted ribosnitches by
+riprap. we included the information of rbps’ binding peaks, microrna (mirna) target
+sites, m6a rna methylation sites, and the disease association as the annotation for eac
+deposited ribosnitch (supplementary table $3). these annotations can reveal the poter
+consequences of the disrupted rna structure by the ribosnitches and the disease-relat
+
+annatatinn ala makes it availahla ta ctw hiiman diceasac from a rna corandary strc
+sites, m6a rna methylation sites, and the disease association as the annotation for eac
+
+deposited ribosnitch (supplementary table $3). these annotations can reveal the poter
+consequences of the disrupted rna structure by the ribosnitches and the disease-relaté
+annotation also makes it available to study human diseases from a rna secondary struc
+perspective. for example, rs1051677 is detected as a ribosnitch in pars, and it is associ:
+with radiation complications and rectal cancer (4./,,4.5). we show that there are 35 distin
+rbps in 12 different cell lines that bind within upstream 100 nt to downstream 100 nt
+around the position of rs1051677 (supplementary figure $5a), which reveals the possibi
+that this ribosnitch affects the rbp binding via altering the structure. users can also
+visualize the nucleotide sequence, bppm and the mfe structure of both the wt and mut
+sequence, as well as the structure-disrupted region (supplementary figure $5b—d). in
+addition to the ribosnitches detected experimentally, we also included the predicted
+ribosnitches that are associated with gene expression. to identify them, we used ripra,
+44.170 transcriptomic eqtls from the gtex (/,6) database (see ‘materials and methods
+section). with the aforementioned riprap score cutoff, we identified 24 629 ribosnitch¢
+major (56%) subset of transcriptomic eqtls. by including eqls with their riprap scor
+ribosnitchdb provides a comprehensive resource of not only the known ribosnitches b
+also the ribosnitch candidates that are potential targets in the future study. ribosnitch
+also provides the searching function via snp id and genomic location for the users who
+their interested ribosnitches to investigate. in sum, we constructed the first database tl
+associates experimentally and computationally predicted ribosnitches with the
+information of gene expression regulation, rbp binding, mirna targeting, m6a
+
+fisy proviuies ule searching lancuioh vidolwe 1a gila belhollg 1ycauue tul bike usels wiku
+their interested ribosnitches to investigate. in sum, we constructed the first database t
+associates experimentally and computationally predicted ribosnitches with the
+information of gene expression regulation, rbp binding, mirna targeting, m6a
+modification and clinical significance together by a large-scale application of riprap, w
+will be helpful for interpreting the genetic variants from a novel perspective.
+
+ 
+mu wu
+hh
+ 
+ 
+
+   
+
+ 
+
+figure 6. riprap detects the ribosnitch in comt haplotypes. (a) a schematic diagram showing comt g
+and snv positions. (b) barplot of the riprap scores gained by rs4633, rs4818 and rs4680. y-axis is the rip
+score, n=2 (riprap scores in mb-comt and s-comt) for each snv and the error bars are indicated in the
+plots. *p<0.05 in one-sided student's t-test. (c) bpp curves of rs4633, rs4818 and rs4680 in mb-comt. ti
+
+axis renresents the nucleotide nasition an the mrna the v-avis renresents the rpps the hliie curve is f
+
+and snv positions. (b) barplot of the riprap scores gained by rs4633, rs4818 and rs4680. y-axis is the rip
+=2 (riprap scores in mb-comt and s-comt) for each snv and the error bars are indicated in the
+plots. *p<0.05 in one-sided student's t-test. (c) bpp curves of rs4633, rs4818 and rs4680 in mb-comt. ti
+axis represents the nucleotide position on the mrna. the y-axis represents the bpps. the blue curve is f
+the wt rna, while the red curveis for the mutant rna. the snv position is highlighted by a red star and
+black vertical line. the finally selected region by riprap is highlighted in gray.
+
+ 
+
+     
+
+score,
+
+ 
+
+openinnewtab || download slide
+roman 81g
+ne se cae
+riprap identifies functional ribosnitch in human catechol-o-
+methyltransferase haplotypes
+
+nackley et al. reported that human comt haplotypes, associated with pain sensitivity,
+regulate protein expression by altering mrna secondary structure (12). the authors fou
+there are two synonymous (rs4633 and rs4818), and one non-synonymous (rs4680) sn
+
+that canteihite ta nain cancitinitty nhanatmac her madnlatina tha comt anzum atic acti:
+
+nackley et al. reported that human comt haplotypes, associated with pain sensitivity,
+regulate protein expression by altering mrna secondary structure (12). the authors fou
+there are two synonymous (rs4633 and rs4818), and one non-synonymous (rs4680) sn
+that contribute to pain sensitivity phenotypes by modulating the comt enzymatic activ
+and protein expression. specifically, rs4818, one of the synonymous snvs that can alter
+mrnas’ secondary structure, results in the largest reduction among the haplotypes in t
+enzymatic activity and protein expression. this study encouraged us to evaluate riprap
+differentiating these well-studied snvs. we applied riprap to the three snvs within tw:
+comt mrnas that encodes two distinct proteins: s-comt and mb-comt (figure 6a, s
+details in ‘materials and methods’ section). we found that rs4818 obtained significantly
+higher riprap score compared to rs4633 and rs4680, with p-value equal to 0.04 and 0.0
+respectively (figure 6b), which shows that riprap successfully captured this
+experimentally-validated ribosnitch. in addition, riprap identifies that the structural
+disruption region of rs4818 is from the 635th to the 699th nucleotide and from the 2nd
+the 490th nucleotide in mb-comt and $-comt, respectively (figure 6c and
+supplementary figure $4). nackley et al. experimentally demonstrated that the critical
+region whose secondary structure contributes to the largest difference in comt haploty
+is from the 625th to the 701st nucleotide and from the 403rd to the 479th nucleotide in
+comt and s-comt, respectively (12), which significantly overlap with those reported b
+riprap (hypergeometric test p-value equal to 2.1e-114 and 1.6e-50 for mb-comt and s-
+comt, respectively). these results not only validate riprap's predictions experimental
+but also indicate that riprap is potentially applicable to detecting pathogenic ribosnitc!
+
+cunll alu o“ gull, lespecuvely (12), wlici sizilicalily uveliap will lhus lepulleu u
+riprap (hypergeometric test p-value equal to 2.1e-114 and 1.6e-50 for mb-comt and s-
+comt, respectively). these results not only validate riprap's predictions experimental
+but also indicate that riprap is potentially applicable to detecting pathogenic ribosnitc!
+in the human genome.
+furthermore, we applied riprap to two snvs that were associated with the
+hyperferritinemia-cataract syndrome and were probed by shape (21) (figure 5b and c)
+the two snvs are located in the 5' utr of the ftl gene close to the known iron respons'
+element (ire). strikingly, although the coordinates of both snvs do not overlap with th
+ire, the structurally disrupted regions predicted by riprap for both snvs covered and
+centered on the ire (figure 5b and c). as a negative control, we also applied riprap to
+another snv which was demonstrated to have no structural change effect on ftl (20). \
+found that this mutation is predicted as a non-ribosnitch by riprap, which is validated
+the similar profiles between the wt and mutant sequences in terms of both shape
+reactivities and bpps (figure 5d). this analysis supported a proposed mechanism that
+mutations outside of the ire may disrupt its structure and subsequent interaction with
+ire-binding protein (20).
+furthermore, we applied riprap to two snvs that were associated with the
+
+ 
+
+| openinnewtab || download slide |
+ 
+ 
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+~| psdc vs esdc
+°| — ps vw es
+35] -
+z 3) >
+3
+10 50 100 150 200
+number of top ranked snps
+fils! utr|
+boe-
+ds
+gs
+a3
+ry
+dz
+2
+c
+d
+
+ 
+
+no structure disruption on
+
+ 
+
+position on sequence
+
+figure 5. comparisons between the local metric riprap score s and the global metric sdc and assessn
+on shape data. (a) auc values of roc analysis on the top and bottom n snvs ranked by esdc and es scc
+respectively. the red solid curve and blue dashed curve represent the aucs of psdc on esdc, and ps on
+respectively. (b) the shape reactivities and the ‘1-bpp’ signals for the wt and mutant rnas for the snv
+in the human ftl5' utr. the x-axis represents the position on the sequence. the wt rnais highlighted
+blue and the mutant rna is highlighted with red. the finally selected region of structural disruption by r
+is highlighted with a gray box. a vertical black line highlights the position of the snv on the sequence. (€
+plots similar to (b) for the snv asgu in the human ftl 5' utr. (d) plots similar to (b) for the snv g4a in t
+human ftl5' utr, which shows no structure change from the mutation. no vertical black line was show
+the snv position because the snv is outside the boundary of this visualization. the schematic diagram ¢
+human ftl5' utr with the ire indicated in blue is above the plots. bpp: base pairing probability.
+
+openinnewtab || download slide
+riprap shows advantages to evaluate the structure disruption in
+shape data
+
+to further demonstrate the practical merit of our method, we compared riprap with sd
+437 snvs with shape reactivity data (31). sdc is a global approach based on whole sequ
+correlations between the wt and mutant structural profiles (21) (described in ‘material
+and methods’ section), which cannot determine the boundaries of structurally disrupte
+
+437 snvs with shape reactivity data (31). sdc is a global approach based on whole sequ
+correlations between the wt and mutant structural profiles (21) (described in ‘material
+and methods’ section), which cannot determine the boundaries of structurally disrupte
+regions. we calculated the esdc score and predicted sdc score (psdc) (21), as well as th
+experimental riprap score (eriprap) and predicted riprap score (priprap) for these snv
+(described in ‘materials and methods’ section). the esdc and eriprap scores of these 43
+snvs served as the benchmarks for their psdc and priprap scores, respectively. we first
+specified experimentally true positive and true negative sets with equal size of n based
+esdc and eriprap scores for sdc and riprap, respectively. we then generated rocs usin;
+psdc and priprap scores. next, we calculated the corresponding aucs for multiple choic
+n. as shown in figure 5a, the prediction performance of priprap on eriprap increases as
+decreases, suggesting the higher validity of the top ribosnitches measured by eriprap.
+pattern is expected when priprap is consistent with eriprap. however, the aucs of psdc
+fluctuate when n increases, suggesting that psdc is less consistent with esdc (figure 5!
+addition, priprap has much better prediction accuracy on eriprap than psdc on esdc for
+top ribosnitches (figure 5a), which shows the advantage of measuring snv-induced
+structural disruption by local metrics embedded in riprap. as stated by corley et al. (23)
+local predictors of structural changes perform in general better than global approaches
+therefore, to further investigate the performance of sdc, we constructed a local sdc m
+(described in ‘materials and methods’ section) to measure the structure disruption. as
+expected, we found that the local psdc has much worse prediction accuracy on the loca
+
+esnc (sunnlementarv figure $2) comnared to the global nsnc on esdc (figure 5a) noss
+‘theretore, to further investigate the performance ot sul, we constructed a local svc mi:
+
+(described in ‘materials and methods’ section) to measure the structure disruption. as
+expected, we found that the local psdc has much worse prediction accuracy on the loca
+esdc (supplementary figure $3) compared to the global psdc on esdc (figure 5a) poss
+due to deviation from of its original design. these results confirm again the advantage
+the riprap score as a local structure disruption metric.
+to test the robustness of riprap, we then examined different parameters used in ripray
+first, we tested whether it affects the performance to use different minimum window si
+in riprap. the consistently good performance of riprap with various minimum window
+sizes demonstrated the robustness of riprap score (figure /.b). in addition, we assesse¢
+performance of riprap when given bppms from different rna folding algorithms as iny
+we named the riprap algorithm applied on the bppms from rnafold (version 2.1.6),
+
+sizes demonstrated the robustness of riprap score (figure 4b). in addition, we assesse¢
+performance of riprap when given bppms from different rna folding algorithms as iny
+we named the riprap algorithm applied on the bppms from rnafold (version 2.1.6),
+unafold (version 3.8) and rnastructure (version 5.4) as riprap-rnafold, riprap-una
+and riprap-rnastructure, respectively. the auc values of the roc curves consistently
+increase with the rigorousness of the benchmark dataset in the order of ‘symmetric’,
+‘validated’ and ‘probed’ ribosnitches for all three methods (supplementary figure $2a-
+riprap-rnafold achieved relatively better performance compared to riprap-unafold a
+rnastructure in the ‘probed’ ribosnitches (supplementary figure $2a) while gained si
+performance in the other benchmark datasets (supplementary figure $2b and c), which
+resembles the patterns of performance from using these rna folding algorithms as
+reported in corley et al. (23). thus, we make rnafold as the default folding algorithm in
+riprap program and we recommend selecting rnafold in the riprap usage.
+minimum window size
+ 
+
+ 
+auc
+
+ 
+
+ 
+
+ 
+
+= seed — aks — oe
+
+ 
+
+ 
+
+minimum window size
+
+ 
+ 
+
+auc
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ ¢ : minimum window size
+€ ¢ : minimum window size
+
+figure 4, auc of roc barplots in riprap with magnitude or significance only and auc of roc line chart
+riprap using different minimum window size. (a) shown are the barplot of the auc values of roc analys
+riprap, riprap-fc and riprap-p applied to ‘probed, ‘validated’, ‘symmetric, ‘asymmetric’ and ‘all’ datasé
+respectively. the corresponding roc curves for riprap, riprap-fc and riprap-p are indicated by red, blu
+green bars, respectively. (b) shown are the line chart of the auc values of roc analysis for riprap with
+different minimum spanning window size. the x-axis is the minimum window size and the y-axis is the a
+value of roc analysis. riprap applied to ‘probed’, ‘validated’ and ‘symmetric’ are highlighted by red, blu
+green, respectively. riprap-fc, score based on the fold change of median bpps. riprap-p, score based or
+significance test.
+
+openinnewtab || download slide
+assessing the robustness of riprap
+
+to further assess the advantage of combining the magnitude and the statistical signific
+of structural disruption, we applied the two components to the benchmark datasets
+individually. we found that neither of them can achieve as high aucs as the combined
+riprap score (figure ,a). interestingly, we found that using the riprap's statistical
+significance of structural disruption alone outperforms rnasnp in the ‘probed’ dataset
+assessing the robustness of riprap
+jt
+
+  
+ce
+a bran rnase
+
+   
+
+ 
+
+ 
+
+ 
+
+sk wemel =
+ve =
+cx —
+coe === 3,
+“ok _—
+ae =
+vo =
+a | —————
+ll 1,
+e # = |
+sal file wl biles i ‘el bike
+cel aaa mm slo aapa ot a af
+
+ 
+
+figure 3. riprap identifies the focal regions of structurally disrupted by ribosnitches. (a) shown are th
+barplot of the structural disrupted regions predicted by riprap and rnasnp on ‘probed’ ribosnitches. tt
+axis shows the relative position of the region boundaries to the snv sites; the y-axis shows the ids of the
+‘probed’ ribosnitches. disrupted region predicted by riprap and rnasnp are highlighted in red and blue
+respectively. the predictions made by riprap and rnasnp are listed at the left side of the barplot, where
+tick and a cross means prediction as a ribosnitch and a non-ribosnitch, respectively. (b) rs1050818. (c)
+
+151047993, (d) rs1051677. the x-axis represents the relative position to the identified ribosnitch, where
+negative numbers indicate the positions at the 5' direction of the ribosnitch, and positive numbers indic
+the positions at the 3' direction. the y-axis represents the bpps. the blue curve is for the wt rna, while
+
+red curve is for the mutant rna. the finally selected region by riprap is highlighted in gray.
+
+openinnewtab || download slide
+as expected, riprap and rnasnp, taking advantage of the local measurement, both
+outperform the other methods on the most rigorously validated benchmark dataset. th
+better performance of riprap compared to rnasnp presumably results from the
+combination of both the magnitude and the statistical significance in the differential
+analysis, which is shown in supplementary figure si. we then investigated why riprap
+achieves better performance than rnasnp as a local measurement by dissecting the
+identified regions by riprap and rnasnp. to call ribosnitches, we established a cutoff
+similar to corley et al. (23). specifically, we used the point closest to the top left corner ¢
+the roc curve for the ‘probed’ dataset. if the calculated riprap score is not less than the
+cutoff, we report the corresponding snv as a ribosnitch. we compared the false negativ
+(ens) and false positives (fps) of riprap with those of rnasnp. riprap has only one fn.
+two eps, which were also wrongly predicted by rnasnp. as comparison, rnasnp has th
+more fns and one more fps than riprap (figure 34). one can see that riprap identified
+three-base region around 81050818, indicating its ability to detect the structurally
+disrupted regions of ribosnitches at base resolution (figure 3b). in rs1047993 and
+151051677, although the magnitudes of the structural change are subtle, they were capt
+by riprap as the significance test p-values of the regional structural change were small
+(3.0e-3 and 8.1e~7) (figure 3c and d). it indicates the advantage of taking both the
+magnitude and statistical significance into consideration for ribosnitch detection.
+furthermore, the disrupted regions called by riprap are generally more focal than thos
+
+ 
+
+g. oe-3 and 8.1e- 7) (figure 3c and d) it t indicates: the advantage of taking both ‘the
+magnitude and statistical significance into consideration for ribosnitch detection.
+furthermore, the disrupted regions called by riprap are generally more focal than thos¢
+rnasnp, especially on those missed by rnasnp (figure 34). a focal region would be mo
+informative than a relatively larger one in guiding the study of the consequences induce
+aribosnitch. in sum, riprap's improvement confirms that local measurement and distz
+metric design are two essential factors in the ribosnitch detection.
+as expected, riprap and rnasnp, taking advantage of the local measurement, both
+outperform the other methods on the most rigorously validated benchmark dataset. th
+b. validated ©. symmetric
+
+‘bb oe
+
+&
+
+   
+
+02
+
+ 
+
+specity
+
+ 
+
+figure 2. roc analysis of riprap, rnasnp (dmax), simple and classsnitch on ribosnitch benchmarks.
+shown are roc curves for riprap, rnasnp, simple and classsnitch on ‘probed, ‘validated’ and ‘symmet
+ribosnitches, respectively. the roc curves for riprap are highlighted as solid lines, those for rnasnp ar
+highlighted as dashed lines, those for simple are highlighted as dotted lines and those for classsnitch ai
+highlighted by dotdash lines. the colors of the curves represent the significance of the test; the null
+hypothesis of the test is that the auc equals to 0.5. according to the color bars of p-values in the plots, t
+warmer the color is, the more significantly different the auc is from 0.5.
+
+openinnewtab || download slide
+©. symmetric
+
+ 
+a. probed b. validated
+“the values for the methods were directly extracted from corley et al. (23).
+
+**the lower performance may result from the fact that classsnitch was trained on the experimental sh/
+data instead of bpp profiles.
+symmetric
+0.585
+0.579
+0.568
+0.571
+0.542
+0.543
+
+0.571
+validated
+
+0.642
+
+0.596
+
+0.583
+
+0.593
+
+0.504
+
+0.557
+
+0.581
+probed
+
+0.868
+
+0.686
+
+0.777
+
+0.769
+
+0.347
+
+0.736
+
+0.703
+method
+
+riprap
+
+simple
+
+rnasnp p-value
+rnasnp dmax
+classsnitch"*
+remurnat
+
+snpfold*
+symmetric
+validated
+probed
+method
+riprap improves the accuracy and resolution of ribosnitch
+detection
+
+we evaluated the performance of riprap on three benchmark datasets collected from th
+pars study (22) (see the ‘datasets collection’ subsection in the ‘materials and methods
+section for detailed description): ‘probed?, ‘validated? and ‘symmetric’ ribosnitches. e
+of the datasets contains a ‘non-ribosnitch’ set of matched size (23). we chose rnafold
+(version 2.1.6 in the viennarna package 2.0) (37), which is the default folding algorithr
+
+section for detailed description): ‘probed?, ‘validated? and ‘symmetric’ ribosnitches. e
+of the datasets contains a ‘non-ribosnitch’ set of matched size (23). we chose rnafold
+(version 2.1.6 in the viennarna package 2.0) (37), which is the default folding algorithr
+riprap, to generate the input bppms of the wt and mutant mrna sequences in these
+datasets, we compared riprap with five other existing methods for ribosnitch
+identification. the first method we considered is based on the simple euclidean distance
+the bppms, denoted by ‘simple’. the second method we considered is rnasnp (19) (ver
+1.1), which is based on the largest euclidean distance of the bpps of all regions that are
+larger than 10 bases (we used -1 10). to accurately measure the structure disruption, we
+used the dmax output of rnasnp (19) as the score to be compared. the third method is
+classsnitch (4,2) (version 1.0), which builds a classifier based on training data from sha
+datasets using features that imitate the judgement of human beings on structural chan;
+the fourth and fifth methods are remurna (26) and snpfold (17) (version 1.01) tested i
+corley et al, (23). we listed the commands for each method in supplementary table $2."
+applied the proposed riprap approach and the five existing methods to aforementioned
+benchmark datasets. we generated the roc curves and calculated the area under curve
+(auc) values for the six methods being compared on the three datasets (table 1). one cz
+see that riprap has the highest auc values among all the methods being compared ona
+the three benchmark datasets. the aucs of riprap differentiate the benchmark dataset:
+with increased values in the order of ‘symmetric’, ‘validated? and ‘probed’ ribosnitche:
+which are consistent with the increasing levels of rigorousness in constructing these
+
+ 
+
+ 
+
+the three benchmark datasets. the aucs of riprap differentiate the benchmark dataset:
+with increased values in the order of ‘symmetric’, ‘validated? and ‘probed’ ribosnitche:
+which are consistent with the increasing levels of rigorousness in constructing these
+benchmark datasets (23). to test whether the prediction performances are better than
+random guessing (auc = 0.5), we employed the mann-whitney test for statistical
+significance. the aucs of riprap on the ‘probed? (0.868), ‘validated? (0.642) and
+‘symmetric’ (0.585) datasets are significantly higher than 0.5 with much lower p-value
+compared to those of simple, rnasnp and classsnitch (figure 2a~c). since rnasnp als
+outputs an empirical p-value for the distance score, we examined the performance of tt
+value as well. we found that riprap outperforms rnasnp no matter which metric in rn.
+was used (table 1). if we apply the conventional p-value cutoff 0.05 to rnasnp for the
+ribosnitch detection, the method fails to detect any ribosnitch in the ‘probed’ dataset
+(supplementary table $1), which suggests that it might not be a good strategy to call
+ribosnitches based on the p-value provided by rnasnp. to note, classsnitch was origir
+designed for analyzing shape data instead of the bpp profiles, so it is as expected that
+have observed the lower performance in classsnitch on this dataset.
+
+table 1. the aucs of the roc curves for the prediction of ribosnitches by different | openin new
+methods
+results
+ribosnitch database
+
+we design a database for ribosnitch annotation and visualization, called ribosnitchdb
+which can be accessed via http: //people.umass.edu/ouyanglab/ribosnitchdb/. ribosnite
+includes not only all the experimentally validated ribosnitches presented in this study,
+also the in silico predicted ribosnitches in human eqil datasets. we collect the annotat
+of the deposited ribosnitches based on the following databases: rbp binding sites
+downloaded from postar2 (38) (http: //lulab.life.tsinghua.edu.en/postar/), mirna
+targeting sites downloaded from ucsc table browser (https://genome.ucsc.edu/cgi-
+bin/hgtables), n°-methyladenosine (m°a) modification sites downloaded from m6ava
+(39) (http://m6avar.renlab.org/), and clinical significance downloaded from clinvar (2’
+(https: //www.ncbi.nlm.nih.gov/clinvar/).
+
+to detect ribosnitches in eqtls, we download the eqtl datasets from the genotype-ti
+(39) (http://moavar.renlab.org/), and clinical signiticance downloaded trom clinvar (27
+(https: //www.ncbinlm.nih.gov/clinvar/).
+
+to detect ribosnitches in eqtls, we download the eqtl datasets from the genotype-ti
+expression (gtex) database (/,0) (hnttps://www.gtexportal.org/home/) and the hg1g re
+annotation from the ucsc table browser (https://genome.ucsc.edu/cgi-bin/hgtables).
+after excluding snvs with multiple substitutions, we filter out the eqtls in intronic an
+intergenic regions and keep those eqtls that are located in mrnas, which result in 44
+eqtls in total. we download the genomic region annotation of the snvs from the dbsn
+database (41) (https: //www.ncbi.nlm.nih.gov/projects/snp/).
+the experimental disruption score and the predicted disruption
+score
+
+the structural disruption coefficient (sdc) was proposed to measure the global struct
+disruption of an snv on the entire rna sequence (21). the experimental sdc (esdc),
+calculated from the shape probing reactivities of the entire rna sequence, has been us
+evaluate the ability of existing rna folding algorithms for detecting ribosnitches. it is
+shown that the predicted sdc (psdc), based on in silico bpps of the entire rna sequenc
+has insufficient accuracy of predicting esdcs (21).
+
+here, we define the experimental score (eriprap) as the structural disruption score of
+riprap applied to shape probing reactivities, and the predicted score (priprap) as the
+structural disruption score of riprap applied to in silico bpps. we calculate the priprap a
+psdc scores using the same predicted bpps from the rna folding algorithm rnafold in
+viennarna package 2.0 (37). similarly, we use the same shape reactivity dataset as
+
+ 
+
+pe
+psdc scores using the same predicted bpps from the rna folding algorithm rnafold in
+viennarna package 2.0 (37). similarly, we use the same shape reactivity dataset as
+described above to calculate the eriprap and esdc scores.
+
+ 
+
+to modify sdc for measuring the structure disruption locally, we calculated the local es
+and the local psdc as the largest esdc and psdc value among those of all the subsequen
+of the input sequence, respectively.
+datasets collection
+
+we evaluate the prediction performance of riprap and other existing algorithms using
+benchmarks from the pars (22) and the shape (31) studies. the pars study includes a
+dataset of non-redundant ribosnitches and non-ribosnitches compiled by corley et al.
+ina family trio of human lymphoblastoid cell lines (22). the pars dataset contains
+rigorously validated subsets of 11 ‘probed’, 63 ‘validated’ and 223 ‘symmetric’ ribosnit
+the ‘probed’ subset contains the most rigorously validated ribosnitches that were
+confirmed using chemical probing, an orthogonal rna structure mapping method. the
+‘validated’ subset includes those validated by allele-specific mapping of the family trio.
+‘symmetric’ subset represents those congruously detected as ribosnitches in each of th
+pairwise comparisons between the father, the mother and the child in the family trio. t
+dataset also contains 835 ‘asymmetric’ ribosnitches that are differently indicated as
+ribosnitches in each of the pairwise comparison between the father, the mother and th
+child, we don’t use ‘asymmetric’ ribosnitches in our study because of this contradictor
+result. the equal numbers of top ranked non-ribosnitches are used as the negative con
+sets, for each ofthe snvs studied, we extract the sequence of 50 bases upstream and
+
+   
+
+child. we don’t use ‘asymmetric’ ribosnitches in our study because of this contradictor
+result. the equal numbers of top ranked non-ribosnitches are used as the negative con
+sets. for each of the snvs studied, we extract the sequence of 50 bases upstream and
+downstream of the snv site as the input sequence. no extracted sequences contain mul
+snvs. we used the hgi9 assembly as the annotation in our analysis
+
+the shape dataset is composed of snvs in five rnas (the human ferritin light chain (f’
+the vibrio vulnificus adenine riboswitch, the vibrio cholera glycine riboswitch, the cyclic
+dimeric guanosine monophosphate riboswitch and the p4p6 domain of the tetrahymen:
+thermopile group i intron) compiled by ritz et al. (21). in total, the dataset includes 462
+sequences, each of which contains a single-point mutation. in particular, two sequence
+contain two snvs (nucleotide u to gat position 22 and nucleotide a to u at position 56)
+are within the 5' utr of the ftl mrna are associated with the hyperferritinemia catara
+syndrome (17,32—33). it was proposed that the two snvs disrupt the structure of the iro
+response element and then affect the binding of the iron response protein, which cause:
+abnormal regulation of ftl (34,35).
+
+we collect the comt dataset from the study of nackley et al. (12). the major human con
+haplotypes are formed by four snvs: rs6269, 14,633, rs4818 and rs4,680. 186269 does n
+contribute to pain phenotype, so we remove it from the dataset. comt gene has four
+transcript isoforms, among which one transcript encodes soluble comt (s-comt) prot
+and the other three encode membrane-bound comt (mb-comt) protein. we use the
+
+ 
+
+ 
+
+contribute to pain phenotype, so we remove it from the dataset. comt gene has four
+transcript isoforms, among which one transcript encodes soluble comt (s-comt) prot
+and the other three encode membrane-bound comt (mb-comt) protein. we use the
+longest transcript, nm_000754 in hgi9 refseq annotation downloaded from the ucsc
+table browser (36), among the three mb-comt transcripts in our analysis.
+
+ 
+receiver operating characteristic (roc) analysis
+
+the roc analysis is performed with the r package proc version 1.16.1 (30). we followed
+work by corley et al. (23) to define the roc curve's ‘best’ point as the point closest to th
+left corner of the graph. based on the threshold yielding the best point, we report the
+accuracy, specificity, and sensitivity values in supplementary table st.
+
+ 
+
+ 
+
+work by corley et al. (23) to define the roc curve's ‘best’ point as the point closest to th
+left corner of the graph. based on the threshold yielding the best point, we report the
+accuracy, specificity, and sensitivity values in supplementary table $1.
+
+ 
+specifically, we first search the wt and mutant rnas with scanning windows of varyin,
+lengths (ranging from three bases to the full length of the sequence) covering the snv,
+where the minimal scanning window size is adjustable. then, we identify the rna regio
+with the maximal structural disruption score at the single nucleotide resolution. the ri
+algorithm does not need training datasets or contain tuning parameters.
+[opts dope] = argmax, 5 [a,b] .
+selection of the focal region of structural disruption induced by |
+snv
+
+fora specific snv, the riprap algorithm is designed to report a region with the maximu
+structural disruption score (or riprap score) over all possible local regions covering the
+snv:
+selection of the focal region of structural disruption induced by |
+snv
+corley et al. (23) stated that designing the metric used to measure structure differences
+the key to ribosnitch prediction algorithms. so we aim to construct an effective score tc
+measure the difference. the combination of the magnitude and significance of the
+measured difference has been demonstrated to be robust in selecting differentially
+expressed genes by the work of xiao et al. (29). so, we borrow the idea from xiao et al. to
+
+construct the score shown in equation (3). the above structural disruption score can be
+measured for any local region
+sia,8] = fc(a,6)- (—log,o(pla,4))).
+where m{a, ] is the median p; within the local region (a, b]. the median bpp provides a
+robust measurement of the structural accessibility of a local region, thus, fc[a,5j meast
+the magnitude of structural disruption in terms of the change in structural accessibility
+the local region [a,b]. second, we define the statistical significance pja, | of structural
+
+disruption as the p-value of the kolmogorov-smimov test of the bpps defined in equat
+
+(1) of the wt and mutant rnas in the local region fa, bl. the kolmogorov—smirnov test
+the magnitude of structural disruption in terms of the change in structural accessibility
+
+the local region [a,b]. second, we define the statistical significance pja, | of structural
+disruption as the p-value of the kolmogorov-smimov test of the bpps defined in equat
+(1) of the wt and mutant rnas in the local region [a, b]. the kolmogorov—smirnov test
+robust approach to assessing whether two samples come from the same population wit!
+assuming the distributions of the datasets. third, we develop a summarizing score by
+combining the magnitude and the statistical significance of the structural disruption of
+local region:
+ 
+
+ 
+
+fc (a,b) = max ( mpa, b] mn ea),
+
+m™ [a,b] ” ma, 8]
+the magnitude and statistical significance of structural disruptic
+of a local region
+
+in riprap, we propose a robust measurement for characterizing structural disruption of
+local region. without loss of generality, the coordinate of the snv site is assumed to be ¢
+for a given region (a, 6] (a < —1,b > 1) that covers the snv, we assess the structural
+disruption by comparing the bpps of the wt and mutant rnas. specifically, we employ
+following steps. first, we calculate the magnitude of structural disruption defined as th
+fold change of the median bpps of the wt and mutant rnas in the local region:
+where p,; denotes the probability that the ith base is paired with the jth base (the value c
+the ith row and the jth column in the bppm), and n is the length of the sequence. we
+generate the vectors of bpps for both the wt and mutant rnas, respectively.
+
+where py wehules ure provavily wee lie ht uase 1s pumleu whtie uie juht buse (uie velue v
+the ith row and the jth column in the bppm), and n is the length of the sequence. we
+generate the vectors of bpps for both the wt and mutant rnas, respectively.
+ 
+
+calculation of base pairing probabilities
+
+we calculate the bpps for individual bases in both the wt and mutant rnas from the bi
+matrices (bppms) produced by general rna folding algorithms, e.g. rnafold (24),
+rnastructure (25) and unafold (28). for a specific base i in an rna sequence, its bpp is
+given by:
+input rna sequence pair
+wt ...tgacctttaatggctttacggcaaag...
+
+ 
+
+input rna sequence pair
+... tgacctttaatggctttacggcaaag...
+gacctttaatgactttacggcaaag.
+
+select one rna folding algorithm
+rnafold, unafold, rnastructure, etc.
+
+utput structure disruption score and regio
+. o65 ~
+region ‘seore t = selected region
+
+left boundary
+
+ 
+
+figure 1. flowchart of the riprap program for a pair of wt and mutant sequences differing by an snv.
+
+     
+
+right boundary position relative to sn
+
+   
+
+figure 1. flowchart of the riprap program for a pair of wt and mutant sequences differing by an snv.
+heatmap indicates the riprap score of structural disruption in all possible regions that contain the snv.
+structurally disrupted region selected by riprap is highlighted in gray.
+
+openinnewtab || download slide
+overview of the riprap framework
+
+riprap contains three steps for ribosnitch identification (figure 1): first, we employ ger
+rna folding algorithms to generate bpps representing rna conformation profiles of a
+given pair of wt and mutant rnas that differ by an snv. the rna folding algorithms w
+use include rnafold (24), rnastructure (25) and unafold (28). riprap provides the opt
+for users to select one of the three aforementioned folding algorithms in calculating the
+bpps. second, we perform differential analyses of the bps between the wt and mutant
+rnas for all possible local regions around the snv. the local regions we consider are fr
+window of three bases to the full sequence length, where the minimum size of the wind
+is adjustable. third, we derive structural disruption scores (named as riprap scores) ba
+on the differential analyses, and report the largest score and the corresponding local re
+the detailed workflow is described in the following subsections. the riprap software is
+implemented in python (2.7) andis freely available at
+
+http: //people.umass.edu/ouyanglab/riprap and http: //github.com/ouyang-lab/riprap.
+2 fab et ek
+
+materials and methods |
+materials and methods
+ribosnitch, an snv located in an rna that alters its secondary structure, has the potent
+to influence rna biogenesis and regulation (1~5). ribosnitch exists in diverse types of
+sequences, including trnas (6,7), micrornas (8-10), coding sequences (11-13), as well
+5! and 3' untranslated regions (utrs) (14,18). ribosnitch is also emerging in genome-
+association studies (gwas) (17,19) or expression quantitative trait loci (eqtl) studies (
+to uncover the locations and roles of ribosnitches in the human genome, it is importan
+develop a systematic method to identify and annotate them.
+
+while experimental approaches to identifying ribosnitches (21,22) are time-consuminy
+
+computational prediction of ribosnitches is still challenging (23). the general rna fold
+develop a systematic method to identify and annotate them.
+
+while experimental approaches to identifying ribosnitches (21,22) are time-consuminy
+computational prediction of ribosnitches is still challenging (23). the general rna fold
+algorithms, such as rnafold (24) and rnastructure (25), combined with a dissimilarity
+metric, can be applied to measure the structural difference between two rna sequences
+(23). in the dissimilarity calculation, it has been reported that utilizing the base pairing
+probabilities (bpps) of rna structure ensembles rather than the binary output of paire¢
+unpaired states from minimum free energy rna structures can achieve better performa
+in ribosnitch prediction (19,23). recently developed algorithms that intrinsically comp
+rna structures between two rna sequences improve the ribosnitch detection accuracy
+(23). in particular, snpfold (17) calculates the pearson correlation coefficient; remurnt
+(26) compares the relative entropies; and rnasnp (19) provides both euclidian distance
+pearson's correlation measurement. in general, algorithms that consider local instead
+global structural change perform better in the prediction (23). even though algorithms
+designed specifically for predicting ribosnitches outperform general rna folding
+algorithms, the accuracy of ribosnitch prediction is far from perfect (23). in addition, it
+been reported that the design of the metric used to measure rna structural variation is
+reason of the better performance of the specialized methods (23).
+
+we introduce a novel method for ribosnitch identification, named ribosnitch predicto
+based on robust analysis of pairing probabilities (riprap), which performs differential
+
+an alucie af iacal otriptiral can fiemratians hatunan wild tma (wit) and mutant dma
+
+we introduce a novel method for ribosnitch identification, named ribosnitch predicto
+based on robust analysis of pairing probabilities (riprap), which performs differential
+analysis of local structural configurations between wild-type (wt) and mutant rna
+sequences. to demonstrate its advantage, we systematically compare riprap with other
+existing methods on established experimental benchmarks from various types of rna
+structure probing assays including parallel analysis of rna structure (pars) (22) and
+shape (21). we also apply riprap to a specific dataset of snvs that regulate human
+catechol-o-methyltransferase (comt) haplotypes and verified that riprap can detect
+pathogenic ribosnitches. in addition, we present ribosnitchdb, a comprehensive datat
+for annotation and visualization of ribosnitches in human. two groups of ribosnitches
+with different confidence levels are deposited in ribosnitchdb that includes hundreds
+pars validated ribosnitches in human, and tens of thousands of predicted ribosnitche:
+applying riprap to the human eqtls. we further annotate the ribosnitches by checking
+whether they co-localize with rna binding protein (rbp) binding sites, mirna targetir
+sites, and n°-methyladenosine (m°a) modification sites, as well as whether they are
+associated with diseases in clinvar database (27).
+introduction
+issue section: standard article
+abstract
+
+rna conformational alteration has significant impacts on cellular processes and
+phenotypic variations. an emerging genetic factor of rna conformational alteration
+a new class of single nucleotide variant (snv) named ribosnitch. ribosnitches have
+been demonstrated to be involved in many genetic diseases. however, identifying
+ribosnitches is notably difficult as the signals of rna structural disruption are often
+subtle. here, we introduce a novel computational framework-ribosnitch predictor
+based on robust analysis of pairing probabilities (riprap). riprap identifies
+structurally disrupted regions around any given snvs based on robust analysis of loc
+structural configurations between wild-type and mutant rna sequences. compared |
+previous approaches, riprap shows higher accuracy when assessed on hundreds
+
+of known ribosnitches captured by various experimental rna structure probing,
+methods including the parallel analysis of rna structure (pars) and the selective 2'-
+hydroxyl acylation analyzed by primer extension (shape). further, riprap detects th
+experimentally validated ribosnitch that regulates human catechol-o-
+methyltransferase haplotypes and outputs structurally disrupted regions precisely at
+base resolution. riprap provides a new approach to interpreting disease-related
+genetic variants. in addition, we construct a database (ribosnitchdb) that includes t
+annotation and visualization of al presented ribosnitches in this study as well 5 24
+
+base resolution. riprap provides a new approach to interpreting disease-related
+genetic variants. in addition, we construct a database (ribosnitchdb) that includes t
+annotation and visualization of all presented ribosnitches in this study as well as 24
+629 predicted ribosnitches from human expression quantitative trait loci.
+abstract
+|a] pdf mm splitview 66 cite & permissions «@ share ¥
+journal article
+identification and analysis of rna structural
+disruptions induced by single nucleotide variants usir
+riprap and ribosnitchdb 3
+
+jianan lin, yang chen, yuping zhang, zhengqing ouyang =
+
+nar genomics and bioinformatics, volume 2, issue 3, september 2020, |qaa057,
+https://doi.org/10.1093/nargab/lqaa057
+published: 14 august 2020 article history v
+
+pdf m&m splitview 6¢ cite permissions «% share v
+
+ 
+ce)
+
+cie uae
+

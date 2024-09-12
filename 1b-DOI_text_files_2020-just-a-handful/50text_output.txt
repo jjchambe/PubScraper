@@ -1,0 +1,144 @@
+‘acl materials are copyright © 1963-2024 acl; other materials are copyrighted by their respective copyright holders. materials prior to 2016 here
+are licensed under the creative commons attribution-noncommercial-sharealike 3.0 international license. permission is granted to make copies
+
+{for the purposes of teaching and research. materials published in or after 2016 are licensed on a creative commons attribution 4.0 international
+license,
+
+ 
+
+‘the acl anthology is managed and built by the acl anthology team of volunteers.
+
+site last built on 20 june 2024 at 01:09 utc with commit fe44a85.
+anthology id:
+volume:
+month:
+year:
+address:
+editors:
+venue:
+sic:
+publisher:
+note:
+pages:
+language:
+url:
+
+doi:
+
+bibkey:
+cite (acl):
+
+cite (informal):
+
+ 
+
+do
+bibkey:
+cite (acl):
+
+cite (informal):
+
+copy citation:
+pdf:
+
+optional supplem...
+
+video:
+
+2020.findings-emnlp.336
+findings of the association for computational linguistics: emnlp 2020
+november
+
+2020
+
+online
+
+trevor cohn, yulan he, yang liu
+
+findings
+
+association for computational linguistics
+3764-3773
+
+https://aclanthology.org/2020.findings-emnlp.336
+10.18653/v1/2020.findings-emnip.336
+
+() yang-yu-2020-generating
+zhichao yang and hong yu. 2020. generating accurate electronic health
+assessment from medical graph. in findings of the association for computational
+linguistics: emnlp 2020, pages 3764-3773, online. association for computational
+linguistics.
+generating accurate electronic health assessment from medical graph (yang &
+yu, findings 2020)
+
+ 
+
+10.18653/v1/2020.findings-emnlp.336
+
+ 
+
+ 
+
+ yang-yu-2020-generating
+
+zhichao yang and hong yu. 2020. generating accurate electronic health
+assessment from medical graph. in findings of the association for computational
+linguistics: emnlp 2020, pages 3764-3773, online. association for computational
+linguistics.
+
+generating accurate electronic health assessment from medical graph (yang &
+yu, findings 2020)
+
+© bibtex () markdown [) modsxml [) endnote more options...
+
+ 
+anthology id: 2020.findings-emnip.336
+volume: findings of the association for computational linguistics: emnlp 2020
+month: november
+
+ 
+
+further, physicians’ evaluation showed that mcag could generate high-quality assessments.
+      
+   
+    
+  
+   
+    
+
+i
+foyer
+upplementat
+went)
+
+mt video
+
+sel
+went)
+
+mt video
+abstract
+
+one of the fundamental goals of artificial intelligence is to build computer-based expert systems.
+inferring clinical diagnoses to generate a clinical assessment during a patient encounter is a crucial
+step towards building a medical diagnostic system. previous works were mainly based on either
+medical domain-specific knowledge, or patients’ prior diagnoses and clinical encounters. in this paper,
+we propose a novel model for automated clinical assessment generation (mcag). mcag is built on an
+innovative graph neural network, where rich clinical knowledge is incorporated into an end-to-end
+corpus-learning system. our evaluation results against physician generated gold standard show that
+mcag significantly improves the bleu and rouge score compared with competitive baseline models.
+further, physicians’ evaluation showed that mcag could generate high-quality assessments.
+
+ 
+ 
+
+pdf
+
+g6 cite
+generating accurate electronic health assessment from medical
+graph
+
+zhichao yang, hong yu
+search...
+el acl anthology news faq corrections submissions © github
+

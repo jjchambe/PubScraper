@@ -1,0 +1,71 @@
+how to cite
+quantification of protein kinase a (pk!
+activity by an in vitro radioactive assa
+the mouse sperm derived enzyme
+
+cintia stival carolina baro graf pablo e. visconti dario krapf
+
+published: vol 10, iss 12, jun 20, 2020 doi: 10.21769/bioprotoc.3658
+
+    
+
+id paul valeria lulla anonymous reviewer(s
+
+ 
+
+itract
+
+der to acquire fertilizing potential, mammalian sperm must undergo a process known as
+tcitation, which relies on the early activation of protein kinase a (pka). frequently, pka
+ity is assessed in whole-cell experiments by analyzing the phosphorylation status of its
+
+in order to acquire fertilizing potential, mammalian sperm must undergo a process known as
+capacitation, which relies on the early activation of protein kinase a (pka). frequently, pka
+activity is assessed in whole-cell experiments by analyzing the phosphorylatig
+
+substrates in a western-blot. this technique faces two main disadvantages: it
+
+measure of the kinase activity and it is a time-consuming approach. however,
+
+be readily obtained from sperm extracts, in vitro assays such as the “radioact
+
+be performed using the native enzyme. unlike western-blot, the radioactive |
+straightforward technique to evaluate pka activity by quantification of incoy
+
+into a peptidic substrate. this approach easily allows the analysis of different
+
+antagonists of pka. since mouse sperm is a rich source of soluble pka, this 4
+
+simple fractionation that renders pka usable both for in vitro testing of drug
+
+activity and for following changes of pka activity during the onset of capacit
+
+keywords:
+
+background
+
+imalian sperm are not able to fertilize an oocyte immediately after ejacule
+quire fertilization competence, they must undergo a series of cellular changes
+
+ctively known as capacitation (stival et al,, 2016). this process takes place within the
+ile reproductive tract but can be emulated in the laboratory by incubating spermatozoa
+
+ 
+
+ered ent
+
+ 
+for authors ~
+articles and issues »
+home protocols ~
+abio-protocol r
+
+log sign
+
+about ~q. in uo
+ 
+
+improve research reproducibility
+
+bio-protocol sous
+

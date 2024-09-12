@@ -1,0 +1,111 @@
+‘acl materials are copyright © 1963-2024 acl; other materials are copyrighted by their respective copyright holders. materials prior to 2016 here
+are licensed under the creative commons attribution-noncommercial-sharealike 3.0 international license. permission is granted to make copies
+
+for the purposes of teaching and research. materials published in or after 2016 are licensed on a creative commons attribution 4.0 international
+license,
+
+ 
+
+‘the acl anthology is managed and built by the acl anthology team of volunteers.
+anthology id:
+volume:
+
+month:
+year:
+address:
+editors:
+venue:
+sig:
+publisher:
+
+bibkey:
+cite (acl):
+
+cite (informal):
+
+copy citation:
+pdf:
+
+video:
+
+data
+
+ 
+
+2020.acl-main.188
+
+proceedings of the 58th annual meeting of the association for computational
+linguistics
+
+july
+
+2020
+
+online
+
+dan jurafsky, joyce chai, natalie schluter, joel tetreault
+
+acl
+
+association for computational linguistics
+2078-2092
+
+https://aclanthology.org/2020.acl-main.188
+10.18653/v1/2020.acl-main.188
+
+o jagannatha-yu-2020-calibrating
+2078-2092
+
+https://aclanthology.org/2020.acl-main.188
+10.18653/v1/2020.acl-main.188
+
+() jagannatha-yu-2020-calibrating
+abhyuday jagannatha and hong yu. 2020. calibrating structured output predictors
+for natural language processing. in proceedings of the 58th annual meeting of the
+association for computational linguistics, pages 2078-2092, online. association
+for computational linguistics.
+calibrating structured output predictors for natural language processing
+(jagannatha & yu, acl 2020) 4)
+
+© bibtex () markdown [) modsxml [) endnote more options...
+
+https://aclanthology.org/2020.acl-main.188.pdf
+
+ 
+y search
+abstract
+
+we address the problem of calibrating prediction confidence for output entities of interest in natural
+language processing (nlp) applications. it is important that nlp applications such as named entity
+recognition and question answering produce calibrated confidence scores for their predictions,
+especially if the applications are to be deployed in a safety-critical domain such as healthcare.
+however the output space of such structured prediction models are often too large to directly adapt
+binary or multi-class calibration methods. in this study, we propose a general calibration scheme for
+output entities of interest in neural network based structured prediction models. our proposed method
+can be used with any binary class calibration scheme and a neural network model. additionally, we
+show that our calibration method can also be used as an uncertainty-aware, entity-specific decoding
+step to improve the performance of the underlying model at no additional training cost or data
+requirements. we show that our method outperforms current calibration techniques for named entity
+recognition, part-of-speech tagging and question answering systems. we also observe an
+improvement in model performance from our decoding step across several tasks and benchmark
+
+datasets. our method improves the calibration and model performance on out-of-domain test
+show that our calibration method can also be used as an uncertainty-aware, entity-specific decoding
+
+step to improve the performance of the underlying model at no additional training cost or data
+requirements. we show that our method outperforms current calibration techniques for named entity
+recognition, part-of-speech tagging and question answering systems. we also observe an
+improvement in model performance from our decoding step across several tasks and benchmark
+datasets. our method improves the calibration and model performance on out-of-domain test
+scenarios as well.
+ 
+
+pdf
+
+g6 cite
+calibrating structured output predictors for natural language
+processing
+abhyuday jagannatha, hong yu
+search...
+el acl anthology news faq corrections submissions © github
+
