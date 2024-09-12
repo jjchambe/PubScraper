@@ -1,8 +1,10 @@
-#this code takes in a search year from input (or other) and then finds all manuscripts on PubMed that
-#match the affiliation (for instance, University of Massachusetts).  It then attempts to "read" 
-#each manuscript and create a plain text file containing the contents for use in TheSearcher code.
+# This code is intended to run slowly, maybe via a cron job every month or so to grab new publications
+#
+# This code takes in a search year from input (or other) and then finds all manuscripts on PubMed that
+# match the affiliation (for instance, University of Massachusetts).  It then attempts to "read" 
+# each manuscript and create a plain text file containing the contents for use in TheSearcher code.
 # 
-#  outputs are a file with article number (internally generated), judgement of quality, and citation
+# Outputs are a file with article number (internally generated), judgement of quality, and citation
 #
 ##########
 ##  To do
