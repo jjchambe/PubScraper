@@ -1,4 +1,5 @@
-# this code is intended to be called from a webpage submission (maybe via php)
+# This code is intended to be called from a webpage submission (maybe via php)
+#
 # The webpage submission should capture desired search year, name, email, orcid, affiliation, search terms, etc that include things like this example:
 # 2023, James Chambers, jjchambe@umass.edu, 0000-0003-3883-8215, University of Massachusetts, Amherst, confocal, nikon, a1r, Nikon Center of Excellence, IALS, ga3, strom, MLSC, spinning disk, SCR_021148, jjchambe@umass.edu, James Chambers, University of Massachusetts, Amherst
 # 
